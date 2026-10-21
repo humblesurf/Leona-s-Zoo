@@ -1,0 +1,15 @@
+{
+  "version": "V4.7.1",
+  "background": "assets/bg/market-preferred-v4-7-1.webp",
+  "source": "assets/bg/market-preferred-v4-7-1.png",
+  "size": [
+    2172,
+    724
+  ],
+  "encoding": "lossless WebP",
+  "sha256": "3418b45ed59bf8228a2126c546f67bd21dafd5ffddc1a2854c8f3c31fb9a2395",
+  "reference": "User-selected eye-level wooden fruit stand, full wicker baskets, no people.",
+  "edit": "Only baskets six and seven changed to tomatoes and carrots to match the existing introductions.",
+  "layout": "One panorama at its natural 3:1 ratio, no mirrored or repeated baskets. Basket-aligned interaction; opening fruit appears only when activated.",
+  "unchanged": "V4.7 quadruped art, animation renderer, other scenes, all existing narration and audio."
+}

@@ -1,0 +1,2005 @@
+{
+  "version": "V4.10",
+  "removed": [
+    "weather",
+    "harbor"
+  ],
+  "order": [
+    "savanna",
+    "rainforest",
+    "ocean",
+    "beach",
+    "polar",
+    "market",
+    "supermarket",
+    "farm",
+    "hongkong",
+    "camp",
+    "music",
+    "space",
+    "planets"
+  ],
+  "scenes": {
+    "savanna": {
+      "id": "savanna",
+      "label": "草原",
+      "numScreens": 8,
+      "bgPanels": [
+        "assets/bg/reference/savanna-preferred-v4.png"
+      ],
+      "bgAspect": 3,
+      "bgMirror": true,
+      "ambience": "assets/audio/v4-2/savanna.mp3",
+      "animals": [
+        {
+          "id": "lion",
+          "feetY": 0.775,
+          "h": 0.225,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.04,
+          "instance": "savanna-lion-0",
+          "screen": 0,
+          "x": 0.32,
+          "facing": 1
+        },
+        {
+          "id": "lioness",
+          "u": 0.095,
+          "feetY": 0.7,
+          "h": 0.175,
+          "flip": false,
+          "rotate": 0,
+          "waterline": null,
+          "idle": "breathe",
+          "special": null,
+          "instance": "savanna-lioness-1",
+          "screen": 0,
+          "x": 0.76,
+          "facing": 0
+        },
+        {
+          "id": "lioncub",
+          "u": 0.07,
+          "feetY": 0.795,
+          "h": 0.105,
+          "flip": false,
+          "rotate": 0,
+          "waterline": null,
+          "idle": "breathe",
+          "special": null,
+          "instance": "savanna-lioncub-2",
+          "screen": 0,
+          "x": 0.56,
+          "facing": 1
+        },
+        {
+          "id": "zebra",
+          "feetY": 0.745,
+          "h": 0.19,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.154,
+          "instance": "savanna-zebra-3",
+          "screen": 1,
+          "x": 0.23199999999999998,
+          "facing": -1
+        },
+        {
+          "id": "zebra",
+          "feetY": 0.77,
+          "h": 0.125,
+          "flip": true,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.181,
+          "instance": "savanna-zebra-4",
+          "screen": 1,
+          "x": 0.44799999999999995,
+          "facing": 1
+        },
+        {
+          "id": "zebra",
+          "feetY": 0.685,
+          "h": 0.15,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.209,
+          "instance": "savanna-zebra-5",
+          "screen": 1,
+          "x": 0.6719999999999999,
+          "facing": -1
+        },
+        {
+          "id": "giraffe",
+          "feetY": 0.81,
+          "h": 0.48,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.3,
+          "instance": "savanna-giraffe-7",
+          "screen": 2,
+          "x": 0.3999999999999999,
+          "facing": -1,
+          "browseTree": true
+        },
+        {
+          "id": "giraffe",
+          "feetY": 0.855,
+          "h": 0.33,
+          "flip": true,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.338,
+          "instance": "savanna-giraffe-8",
+          "screen": 2,
+          "x": 0.7040000000000002,
+          "facing": 1,
+          "browseTree": true
+        },
+        {
+          "id": "warthog",
+          "feetY": 0.735,
+          "h": 0.17,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.38,
+          "instance": "savanna-warthog-9",
+          "screen": 3,
+          "x": 0.040000000000000036,
+          "facing": -1
+        },
+        {
+          "id": "warthog",
+          "feetY": 0.79,
+          "h": 0.115,
+          "flip": true,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.41,
+          "instance": "savanna-warthog-10",
+          "screen": 3,
+          "x": 0.2799999999999998,
+          "facing": 1
+        },
+        {
+          "id": "meerkat",
+          "feetY": 0.8,
+          "h": 0.125,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.445,
+          "instance": "savanna-meerkat-11",
+          "screen": 3,
+          "x": 0.56,
+          "facing": -1
+        },
+        {
+          "id": "meerkat",
+          "feetY": 0.845,
+          "h": 0.09,
+          "flip": true,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.46,
+          "instance": "savanna-meerkat-12",
+          "screen": 3,
+          "x": 0.6800000000000002,
+          "facing": 1
+        },
+        {
+          "id": "elephant",
+          "feetY": 0.8,
+          "h": 0.365,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.512,
+          "instance": "savanna-elephant-13",
+          "screen": 4,
+          "x": 0.09600000000000009,
+          "facing": -1
+        },
+        {
+          "id": "elephantcalf",
+          "u": 0.555,
+          "feetY": 0.855,
+          "h": 0.225,
+          "flip": true,
+          "rotate": 0,
+          "waterline": null,
+          "idle": "breathe",
+          "special": null,
+          "instance": "savanna-elephantcalf-14",
+          "screen": 4,
+          "x": 0.4400000000000004,
+          "facing": 1
+        },
+        {
+          "id": "cheetah",
+          "feetY": 0.88,
+          "h": 0.19,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.606,
+          "instance": "savanna-cheetah-15",
+          "screen": 4,
+          "x": 0.8479999999999999,
+          "facing": -1
+        },
+        {
+          "id": "hippo",
+          "feetY": 0.578,
+          "h": 0.18,
+          "flip": true,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.635,
+          "pondGroup": "hippo",
+          "shoreX": 0.65,
+          "instance": "savanna-hippo-16",
+          "screen": 5,
+          "x": 0.08000000000000007,
+          "facing": 1
+        },
+        {
+          "id": "flamingo",
+          "feetY": 0.564,
+          "h": 0.175,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.677,
+          "pondGroup": "birds",
+          "shoreX": 0.81,
+          "instance": "savanna-flamingo-17",
+          "screen": 5,
+          "x": 0.41600000000000037,
+          "facing": -1
+        },
+        {
+          "id": "flamingo",
+          "feetY": 0.571,
+          "h": 0.155,
+          "flip": true,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.692,
+          "pondGroup": "birds",
+          "shoreX": 0.88,
+          "instance": "savanna-flamingo-18",
+          "screen": 5,
+          "x": 0.5359999999999996,
+          "facing": 1
+        },
+        {
+          "id": "flamingo",
+          "feetY": 0.566,
+          "h": 0.145,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.708,
+          "pondGroup": "birds",
+          "shoreX": 0.95,
+          "instance": "savanna-flamingo-19",
+          "screen": 5,
+          "x": 0.6639999999999997,
+          "facing": -1
+        },
+        {
+          "id": "crocodile",
+          "feetY": 0.586,
+          "h": 0.165,
+          "flip": true,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.768,
+          "pondGroup": "crocodile",
+          "shoreX": 0.88,
+          "instance": "savanna-crocodile-20",
+          "screen": 6,
+          "x": 0.14400000000000013,
+          "facing": 1
+        },
+        {
+          "id": "rhino",
+          "feetY": 0.74,
+          "h": 0.19,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.802,
+          "instance": "savanna-rhino-21",
+          "screen": 6,
+          "x": 0.41600000000000037,
+          "facing": -1
+        },
+        {
+          "id": "buffalo",
+          "feetY": 0.76,
+          "h": 0.205,
+          "flip": true,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.85,
+          "instance": "savanna-buffalo-22",
+          "screen": 6,
+          "x": 0.7999999999999998,
+          "facing": 1
+        },
+        {
+          "id": "buffalo",
+          "feetY": 0.7,
+          "h": 0.135,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.883,
+          "instance": "savanna-buffalo-23",
+          "screen": 7,
+          "x": 0.06400000000000006,
+          "facing": -1
+        },
+        {
+          "id": "gazelle",
+          "feetY": 0.8,
+          "h": 0.2,
+          "flip": true,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.938,
+          "instance": "savanna-gazelle-24",
+          "screen": 7,
+          "x": 0.5039999999999996,
+          "facing": 1
+        },
+        {
+          "id": "gazelle",
+          "feetY": 0.855,
+          "h": 0.14,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.967,
+          "instance": "savanna-gazelle-25",
+          "screen": 7,
+          "x": 0.7359999999999998,
+          "facing": -1
+        },
+        {
+          "id": "zebra",
+          "u": 0.236,
+          "h": 0.125,
+          "feetY": 0.67,
+          "flip": true,
+          "idle": "breathe",
+          "instance": "v4-10-zebra-25",
+          "facing": 1
+        },
+        {
+          "id": "gazelle",
+          "u": 0.903,
+          "h": 0.12,
+          "feetY": 0.68,
+          "flip": false,
+          "idle": "breathe",
+          "instance": "v4-10-gazelle-26",
+          "facing": -1
+        },
+        {
+          "id": "buffalo",
+          "u": 0.867,
+          "h": 0.105,
+          "feetY": 0.665,
+          "flip": true,
+          "idle": "breathe",
+          "instance": "v4-10-buffalo-27",
+          "facing": 1
+        },
+        {
+          "id": "warthog",
+          "u": 0.424,
+          "h": 0.09,
+          "feetY": 0.67,
+          "flip": false,
+          "idle": "breathe",
+          "instance": "v4-10-warthog-28",
+          "facing": -1
+        },
+        {
+          "id": "meerkat",
+          "u": 0.478,
+          "h": 0.085,
+          "feetY": 0.77,
+          "flip": false,
+          "idle": "breathe",
+          "instance": "v4-10-meerkat-29",
+          "facing": -1
+        },
+        {
+          "id": "crocodile",
+          "u": 0.724,
+          "h": 0.13,
+          "feetY": 0.582,
+          "flip": false,
+          "idle": "breathe",
+          "instance": "v4-10-crocodile-30",
+          "facing": -1,
+          "pondGroup": "crocodile",
+          "shoreX": 0.57
+        },
+        {
+          "id": "crocodile",
+          "u": 0.794,
+          "h": 0.03,
+          "feetY": 0.55,
+          "flip": true,
+          "idle": "breathe",
+          "instance": "v4-10-crocodile-31",
+          "facing": 1,
+          "pondGroup": "crocodile",
+          "shoreX": 0.73,
+          "sprite": "assets/animation/v4-10/crocodile-eyes.webp",
+          "special": "water-eyes"
+        },
+        {
+          "id": "crocodile",
+          "u": 0.744,
+          "h": 0.026,
+          "feetY": 0.544,
+          "flip": false,
+          "idle": "breathe",
+          "instance": "v4-10-crocodile-32",
+          "facing": -1,
+          "pondGroup": "crocodile",
+          "shoreX": 0.66,
+          "sprite": "assets/animation/v4-10/crocodile-eyes.webp",
+          "special": "water-eyes"
+        }
+      ],
+      "decorations": "grasses",
+      "backgroundHerds": [
+        {
+          "id": "zebra",
+          "u": 0.118,
+          "h": 0.066,
+          "feetY": 0.592,
+          "flip": false
+        },
+        {
+          "id": "zebra",
+          "u": 0.126,
+          "h": 0.059,
+          "feetY": 0.595,
+          "flip": true
+        },
+        {
+          "id": "zebra",
+          "u": 0.133,
+          "h": 0.07,
+          "feetY": 0.6,
+          "flip": false
+        },
+        {
+          "id": "giraffe",
+          "u": 0.278,
+          "h": 0.115,
+          "feetY": 0.603,
+          "flip": true
+        },
+        {
+          "id": "giraffe",
+          "u": 0.287,
+          "h": 0.085,
+          "feetY": 0.61,
+          "flip": false
+        },
+        {
+          "id": "elephant",
+          "u": 0.488,
+          "h": 0.075,
+          "feetY": 0.616,
+          "flip": false
+        },
+        {
+          "id": "elephantcalf",
+          "u": 0.498,
+          "h": 0.042,
+          "feetY": 0.62,
+          "flip": true
+        },
+        {
+          "id": "buffalo",
+          "u": 0.838,
+          "h": 0.064,
+          "feetY": 0.61,
+          "flip": true
+        },
+        {
+          "id": "buffalo",
+          "u": 0.847,
+          "h": 0.06,
+          "feetY": 0.609,
+          "flip": false
+        },
+        {
+          "id": "gazelle",
+          "u": 0.925,
+          "h": 0.062,
+          "feetY": 0.625,
+          "flip": false
+        },
+        {
+          "id": "gazelle",
+          "u": 0.934,
+          "h": 0.055,
+          "feetY": 0.63,
+          "flip": true
+        }
+      ]
+    },
+    "ocean": {
+      "id": "ocean",
+      "label": "海底",
+      "numScreens": 7.5,
+      "bgPanels": [
+        "assets/bg/reference/ocean-preferred-v4.png"
+      ],
+      "bgAspect": 3,
+      "bgMirror": true,
+      "ambience": "assets/audio/v4-2/ocean.mp3",
+      "animals": [
+        {
+          "id": "clownfish",
+          "feetY": 0.5,
+          "h": 0.14,
+          "flip": false,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.057,
+          "instance": "ocean-clownfish-0",
+          "screen": 0,
+          "x": 0.4275,
+          "facing": 1
+        },
+        {
+          "id": "clownfish",
+          "feetY": 0.63,
+          "h": 0.105,
+          "flip": true,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.085,
+          "instance": "ocean-clownfish-1",
+          "screen": 0,
+          "x": 0.6375000000000001,
+          "facing": -1
+        },
+        {
+          "id": "clownfish",
+          "feetY": 0.43,
+          "h": 0.095,
+          "flip": false,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.11,
+          "instance": "ocean-clownfish-2",
+          "screen": 0,
+          "x": 0.825,
+          "facing": 1
+        },
+        {
+          "id": "coral",
+          "u": 0.148,
+          "feetY": 0.94,
+          "h": 0.2,
+          "flip": false,
+          "rotate": 0,
+          "waterline": null,
+          "idle": "none",
+          "special": null,
+          "kind": "discovery",
+          "instance": "ocean-coral-3",
+          "screen": 1,
+          "x": 0.10999999999999988,
+          "facing": 0
+        },
+        {
+          "id": "shell",
+          "u": 0.19,
+          "feetY": 0.95,
+          "h": 0.11,
+          "flip": false,
+          "rotate": 0,
+          "waterline": null,
+          "idle": "none",
+          "special": null,
+          "instance": "ocean-shell-4",
+          "screen": 1,
+          "x": 0.42500000000000004,
+          "facing": 0
+        },
+        {
+          "id": "seahorse",
+          "feetY": 0.71,
+          "h": 0.215,
+          "flip": true,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.235,
+          "instance": "ocean-seahorse-5",
+          "screen": 1,
+          "x": 0.7625,
+          "facing": -1
+        },
+        {
+          "id": "seahorse",
+          "feetY": 0.85,
+          "h": 0.155,
+          "flip": false,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.259,
+          "instance": "ocean-seahorse-6",
+          "screen": 1,
+          "x": 0.9425000000000001,
+          "facing": 1
+        },
+        {
+          "id": "starfish",
+          "feetY": 0.95,
+          "h": 0.11,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.295,
+          "instance": "ocean-starfish-7",
+          "screen": 2,
+          "x": 0.2124999999999999,
+          "facing": 0
+        },
+        {
+          "id": "starfish",
+          "feetY": 0.92,
+          "h": 0.075,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.61,
+          "instance": "ocean-starfish-8",
+          "screen": 4,
+          "x": 0.5750000000000002,
+          "facing": 0
+        },
+        {
+          "id": "turtle",
+          "feetY": 0.5,
+          "h": 0.225,
+          "flip": true,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.339,
+          "instance": "ocean-turtle-9",
+          "screen": 2,
+          "x": 0.5425,
+          "facing": -1
+        },
+        {
+          "id": "pufferfish",
+          "feetY": 0.75,
+          "h": 0.155,
+          "flip": false,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.39,
+          "instance": "ocean-pufferfish-10",
+          "screen": 2,
+          "x": 0.9250000000000003,
+          "facing": 1
+        },
+        {
+          "id": "crab",
+          "feetY": 0.94,
+          "h": 0.14,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.441,
+          "instance": "ocean-crab-11",
+          "screen": 3,
+          "x": 0.3075000000000001,
+          "facing": 0
+        },
+        {
+          "id": "jellyfish",
+          "feetY": 0.34,
+          "h": 0.2,
+          "flip": false,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.481,
+          "instance": "ocean-jellyfish-12",
+          "screen": 3,
+          "x": 0.6074999999999999,
+          "facing": 0
+        },
+        {
+          "id": "jellyfish",
+          "feetY": 0.64,
+          "h": 0.13,
+          "flip": false,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.509,
+          "instance": "ocean-jellyfish-13",
+          "screen": 3,
+          "x": 0.8174999999999999,
+          "facing": 0
+        },
+        {
+          "id": "whale",
+          "feetY": 0.65,
+          "h": 0.52,
+          "flip": true,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.575,
+          "instance": "ocean-whale-14",
+          "screen": 4,
+          "x": 0.3125,
+          "facing": 1,
+          "maxWidth": 1.35
+        },
+        {
+          "id": "coral",
+          "u": 0.629,
+          "feetY": 0.95,
+          "h": 0.23,
+          "flip": false,
+          "rotate": 0,
+          "waterline": null,
+          "idle": "none",
+          "special": null,
+          "kind": "discovery",
+          "instance": "ocean-coral-15",
+          "screen": 4,
+          "x": 0.7175000000000002,
+          "facing": 0
+        },
+        {
+          "id": "octopus",
+          "feetY": 0.92,
+          "h": 0.225,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.68,
+          "instance": "ocean-octopus-16",
+          "screen": 5,
+          "x": 0.10000000000000053,
+          "facing": 0
+        },
+        {
+          "id": "dolphin",
+          "feetY": 0.33,
+          "h": 0.19,
+          "flip": true,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.735,
+          "instance": "ocean-dolphin-17",
+          "screen": 5,
+          "x": 0.5125000000000002,
+          "facing": -1
+        },
+        {
+          "id": "dolphin",
+          "feetY": 0.59,
+          "h": 0.14,
+          "flip": false,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.769,
+          "instance": "ocean-dolphin-18",
+          "screen": 5,
+          "x": 0.7675000000000001,
+          "facing": 1
+        },
+        {
+          "id": "stingray",
+          "feetY": 0.86,
+          "h": 0.215,
+          "flip": false,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.832,
+          "instance": "ocean-stingray-19",
+          "screen": 6,
+          "x": 0.23999999999999932,
+          "facing": 0
+        },
+        {
+          "id": "shell",
+          "u": 0.863,
+          "feetY": 0.96,
+          "h": 0.09,
+          "flip": false,
+          "rotate": 0,
+          "waterline": null,
+          "idle": "none",
+          "special": null,
+          "instance": "ocean-shell-20",
+          "screen": 6,
+          "x": 0.47250000000000014,
+          "facing": 0
+        },
+        {
+          "id": "shark",
+          "feetY": 0.51,
+          "h": 0.215,
+          "flip": true,
+          "idle": "bob",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.908,
+          "instance": "ocean-shark-21",
+          "screen": 6,
+          "x": 0.8100000000000005,
+          "facing": -1
+        },
+        {
+          "id": "lobster",
+          "feetY": 0.95,
+          "h": 0.135,
+          "flip": false,
+          "idle": "breathe",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "u": 0.954,
+          "instance": "ocean-lobster-22",
+          "screen": 7,
+          "x": 0.15499999999999936,
+          "facing": 0
+        },
+        {
+          "id": "reeffish",
+          "u": 0.397,
+          "feetY": 0.32,
+          "h": 0.11,
+          "flip": true,
+          "rotate": 0,
+          "waterline": null,
+          "idle": "bob",
+          "special": null,
+          "instance": "ocean-reeffish-23",
+          "screen": 2,
+          "x": 0.9775,
+          "facing": -1
+        },
+        {
+          "id": "reeffish",
+          "u": 0.801,
+          "feetY": 0.29,
+          "h": 0.095,
+          "flip": false,
+          "rotate": 0,
+          "waterline": null,
+          "idle": "bob",
+          "special": null,
+          "instance": "ocean-reeffish-24",
+          "screen": 6,
+          "x": 0.007500000000000284,
+          "facing": 1
+        },
+        {
+          "id": "shark",
+          "u": 0.878,
+          "h": 0.155,
+          "feetY": 0.69,
+          "flip": false,
+          "idle": "float",
+          "instance": "v4-10-shark-2"
+        },
+        {
+          "id": "shark",
+          "u": 0.931,
+          "h": 0.125,
+          "feetY": 0.31,
+          "flip": true,
+          "idle": "float",
+          "instance": "v4-10-shark-3"
+        }
+      ],
+      "schools": [
+        {
+          "u": 0.18,
+          "y": 0.29,
+          "count": 7,
+          "scale": 0.046,
+          "direction": 1
+        },
+        {
+          "u": 0.46,
+          "y": 0.66,
+          "count": 6,
+          "scale": 0.038,
+          "direction": -1
+        },
+        {
+          "u": 0.76,
+          "y": 0.45,
+          "count": 8,
+          "scale": 0.039,
+          "direction": 1
+        }
+      ]
+    },
+    "beach": {
+      "id": "beach",
+      "label": "海边度假",
+      "numScreens": 5,
+      "bgAspect": 3,
+      "bgMirror": true,
+      "bgStrip": "assets/chapters-v4-10/beach/background.webp",
+      "ambience": "assets/audio/v4-9/beach.mp3",
+      "animals": [
+        {
+          "id": "beachumbrella",
+          "u": 0.055,
+          "feetY": 0.87,
+          "h": 0.42,
+          "flip": false,
+          "idle": "none",
+          "instance": "beachumbrella-main",
+          "kind": "discovery",
+          "facing": 1
+        },
+        {
+          "id": "beachbucket",
+          "u": 0.29,
+          "feetY": 0.85,
+          "h": 0.1848,
+          "flip": false,
+          "idle": "none",
+          "instance": "beachbucket-main",
+          "kind": "discovery",
+          "facing": 1
+        },
+        {
+          "id": "beachshovel",
+          "u": 0.41,
+          "feetY": 0.87,
+          "h": 0.168,
+          "flip": false,
+          "idle": "none",
+          "instance": "beachshovel-main",
+          "kind": "discovery",
+          "facing": 1
+        },
+        {
+          "id": "beachshell",
+          "u": 0.53,
+          "feetY": 0.88,
+          "h": 0.11760000000000001,
+          "flip": false,
+          "idle": "none",
+          "instance": "beachshell-main",
+          "kind": "discovery",
+          "facing": 1
+        },
+        {
+          "id": "beachcastle",
+          "u": 0.67,
+          "feetY": 0.88,
+          "h": 0.26039999999999996,
+          "flip": false,
+          "idle": "none",
+          "instance": "beachcastle-main",
+          "kind": "discovery",
+          "facing": 1
+        },
+        {
+          "id": "beachcrab",
+          "u": 0.82,
+          "feetY": 0.8300000000000001,
+          "h": 0.10079999999999999,
+          "flip": false,
+          "idle": "none",
+          "instance": "beachcrab-main",
+          "kind": "discovery",
+          "facing": 1
+        }
+      ]
+    },
+    "camp": {
+      "id": "camp",
+      "label": "山间露营",
+      "numScreens": 5,
+      "bgStrip": "assets/exploration-v4-8/camp/background.webp",
+      "bgAspect": 3,
+      "bgMirror": true,
+      "ambience": "assets/audio/v4-8/camp.mp3",
+      "streamBgAnchorX": 0.86,
+      "animals": [
+        {
+          "id": "camptent",
+          "u": 0.095,
+          "feetY": 0.87,
+          "h": 0.31,
+          "flip": false,
+          "idle": "none",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "kind": "discovery",
+          "instance": "camp-v4-8-camptent-0",
+          "facing": 1
+        },
+        {
+          "id": "campbackpack",
+          "u": 0.25,
+          "feetY": 0.92,
+          "h": 0.18,
+          "flip": false,
+          "idle": "none",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "kind": "discovery",
+          "instance": "camp-v4-8-campbackpack-1",
+          "facing": 1
+        },
+        {
+          "id": "camptree",
+          "u": 0.37,
+          "feetY": 0.85,
+          "h": 0.44,
+          "flip": false,
+          "idle": "none",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "kind": "discovery",
+          "instance": "camp-v4-8-camptree-2",
+          "facing": 1
+        },
+        {
+          "id": "campfireflies",
+          "u": 0.49,
+          "feetY": 0.61,
+          "h": 0.043,
+          "flip": false,
+          "idle": "none",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "kind": "discovery",
+          "instance": "camp-v4-8-campfireflies-3",
+          "group": "camp-lights",
+          "facing": 1
+        },
+        {
+          "id": "campfireflies",
+          "u": 0.515,
+          "feetY": 0.67,
+          "h": 0.033,
+          "flip": false,
+          "idle": "none",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "kind": "discovery",
+          "instance": "camp-v4-8-campfireflies-4",
+          "group": "camp-lights",
+          "facing": 1
+        },
+        {
+          "id": "campfireflies",
+          "u": 0.536,
+          "feetY": 0.58,
+          "h": 0.034,
+          "flip": false,
+          "idle": "none",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "kind": "discovery",
+          "instance": "camp-v4-8-campfireflies-5",
+          "group": "camp-lights",
+          "facing": 1
+        },
+        {
+          "id": "campstars",
+          "u": 0.66,
+          "feetY": 0.24,
+          "h": 0.12,
+          "flip": false,
+          "idle": "none",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "kind": "discovery",
+          "instance": "camp-v4-8-campstars-6",
+          "facing": 1
+        },
+        {
+          "id": "campstream",
+          "u": 0.85,
+          "feetY": 0.9,
+          "h": 0.135,
+          "flip": false,
+          "idle": "none",
+          "special": null,
+          "rotate": 0,
+          "waterline": null,
+          "kind": "discovery",
+          "instance": "camp-v4-8-campstream-7",
+          "bgAnchorX": 0.86,
+          "bgAnchorY": 0.8,
+          "facing": 1
+        },
+        {
+          "id": "camplantern",
+          "u": 0.204,
+          "h": 0.19,
+          "feetY": 0.87,
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "camplantern-v4-10"
+        },
+        {
+          "id": "campmap",
+          "u": 0.288,
+          "h": 0.15,
+          "feetY": 0.8,
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "campmap-v4-10"
+        },
+        {
+          "id": "campbinoculars",
+          "u": 0.603,
+          "h": 0.135,
+          "feetY": 0.87,
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "campbinoculars-v4-10"
+        }
+      ],
+      "decor": [
+        {
+          "sprite": "assets/chapters-v4-10/camp/family.webp",
+          "u": 0.144,
+          "feetY": 0.75,
+          "h": 0.24,
+          "depth": 8
+        }
+      ]
+    },
+    "hongkong": {
+      "id": "hongkong",
+      "label": "香港",
+      "numScreens": 6,
+      "bgAspect": 5.709944751381215,
+      "bgMirror": false,
+      "ambience": "assets/audio/v4-9/hongkong.mp3",
+      "bgStrip": "assets/chapters-v4-10/hongkong/background.webp",
+      "animals": [
+        {
+          "id": "hkferry",
+          "u": 0.17,
+          "h": 0.18,
+          "feetY": 0.8,
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "hkferry-v4-10"
+        },
+        {
+          "id": "hkclock",
+          "u": 0.5886124818577649,
+          "h": 0.294,
+          "feetY": 0.569,
+          "embedded": true,
+          "embeddedBounds": [
+            0.5807314949201742,
+            0.275,
+            0.015761973875181422,
+            0.294
+          ],
+          "hitWidthRatio": 0.30612244897959184,
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "hkclock-embedded-v4-10"
+        },
+        {
+          "id": "hkboc",
+          "u": 0.7732902757619738,
+          "h": 0.395,
+          "feetY": 0.42200000000000004,
+          "embedded": true,
+          "embeddedBounds": [
+            0.7630449927431059,
+            0.027,
+            0.020490566037735847,
+            0.395
+          ],
+          "hitWidthRatio": 0.2962025316455696,
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "hkboc-embedded-v4-10"
+        },
+        {
+          "id": "hktram",
+          "u": 0.767,
+          "h": 0.255,
+          "feetY": 0.878,
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "hktram-v4-10"
+        },
+        {
+          "id": "hkbus",
+          "u": 0.884,
+          "h": 0.217,
+          "feetY": 0.955,
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "hkbus-v4-10"
+        },
+        {
+          "id": "hkdim",
+          "u": 0.9634847605224964,
+          "h": 0.278,
+          "feetY": 0.7370000000000001,
+          "embedded": true,
+          "embeddedBounds": [
+            0.9295965166908564,
+            0.459,
+            0.06777648766328011,
+            0.278
+          ],
+          "hitWidthRatio": 1.3920863309352516,
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "hkdim-embedded-v4-10"
+        }
+      ],
+      "panorama": true
+    },
+    "supermarket": {
+      "id": "supermarket",
+      "label": "逛超市",
+      "numScreens": 3,
+      "bgStrip": "assets/chapters-v4-10/supermarket/background.webp",
+      "bgAspect": 3,
+      "bgMirror": false,
+      "ambience": "assets/audio/v4-9/supermarket.mp3",
+      "counterFeetY": 0.445,
+      "animals": [
+        {
+          "id": "shopmilk",
+          "u": 0.178,
+          "feetY": 0.625,
+          "h": 0.145,
+          "hitWidthRatio": 2.4000000000000004,
+          "embedded": true,
+          "embeddedBounds": [
+            0.12,
+            0.48,
+            0.116,
+            0.145
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "shopmilk-embedded-v4-10"
+        },
+        {
+          "id": "shopyogurt",
+          "u": 0.189,
+          "feetY": 0.447,
+          "h": 0.119,
+          "hitWidthRatio": 2.6218487394957983,
+          "embedded": true,
+          "embeddedBounds": [
+            0.137,
+            0.328,
+            0.104,
+            0.119
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "shopyogurt-embedded-v4-10"
+        },
+        {
+          "id": "shopbread",
+          "u": 0.4325,
+          "feetY": 0.454,
+          "h": 0.125,
+          "hitWidthRatio": 3.3839999999999995,
+          "embedded": true,
+          "embeddedBounds": [
+            0.362,
+            0.329,
+            0.141,
+            0.125
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "shopbread-embedded-v4-10"
+        },
+        {
+          "id": "shopeggs",
+          "u": 0.6095,
+          "feetY": 0.594,
+          "h": 0.089,
+          "hitWidthRatio": 3.876404494382023,
+          "embedded": true,
+          "embeddedBounds": [
+            0.552,
+            0.505,
+            0.115,
+            0.089
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "shopeggs-embedded-v4-10"
+        },
+        {
+          "id": "shoptissue",
+          "u": 0.7849999999999999,
+          "feetY": 0.485,
+          "h": 0.15,
+          "hitWidthRatio": 2.52,
+          "embedded": true,
+          "embeddedBounds": [
+            0.722,
+            0.335,
+            0.126,
+            0.15
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "shoptissue-embedded-v4-10"
+        },
+        {
+          "id": "shopcart",
+          "u": 0.8645,
+          "feetY": 0.938,
+          "h": 0.364,
+          "hitWidthRatio": 1.0631868131868132,
+          "embedded": true,
+          "embeddedBounds": [
+            0.8,
+            0.574,
+            0.129,
+            0.364
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "shopcart-embedded-v4-10"
+        },
+        {
+          "id": "shopbasket",
+          "u": 0.9660000000000001,
+          "feetY": 0.899,
+          "h": 0.231,
+          "hitWidthRatio": 0.8311688311688311,
+          "embedded": true,
+          "embeddedBounds": [
+            0.934,
+            0.668,
+            0.064,
+            0.231
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "shopbasket-embedded-v4-10"
+        }
+      ],
+      "panorama": true
+    },
+    "music": {
+      "id": "music",
+      "label": "音乐小屋",
+      "numScreens": 3,
+      "bgAspect": 3,
+      "bgMirror": false,
+      "bgStrip": "assets/chapters-v4-10/music/background.webp",
+      "ambience": "assets/audio/v4-9/music.mp3",
+      "animals": [
+        {
+          "id": "musicpiano",
+          "u": 0.1285,
+          "feetY": 0.7230000000000001,
+          "h": 0.458,
+          "hitWidthRatio": 1.4475982532751093,
+          "embedded": true,
+          "embeddedBounds": [
+            0.018,
+            0.265,
+            0.221,
+            0.458
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "musicpiano-embedded-v4-10"
+        },
+        {
+          "id": "musicdrum",
+          "u": 0.3575,
+          "feetY": 0.699,
+          "h": 0.288,
+          "hitWidthRatio": 1.0312500000000002,
+          "embedded": true,
+          "embeddedBounds": [
+            0.308,
+            0.411,
+            0.099,
+            0.288
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "musicdrum-embedded-v4-10"
+        },
+        {
+          "id": "musicxylophone",
+          "u": 0.5665,
+          "feetY": 0.7,
+          "h": 0.289,
+          "hitWidthRatio": 1.8996539792387541,
+          "embedded": true,
+          "embeddedBounds": [
+            0.475,
+            0.411,
+            0.183,
+            0.289
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "musicxylophone-embedded-v4-10"
+        },
+        {
+          "id": "musictambourine",
+          "u": 0.8045,
+          "feetY": 0.525,
+          "h": 0.219,
+          "hitWidthRatio": 1.0821917808219177,
+          "embedded": true,
+          "embeddedBounds": [
+            0.765,
+            0.306,
+            0.079,
+            0.219
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "musictambourine-embedded-v4-10"
+        },
+        {
+          "id": "musicmaracas",
+          "u": 0.934,
+          "feetY": 0.511,
+          "h": 0.192,
+          "hitWidthRatio": 1.1562499999999998,
+          "embedded": true,
+          "embeddedBounds": [
+            0.897,
+            0.319,
+            0.074,
+            0.192
+          ],
+          "flip": false,
+          "idle": "none",
+          "kind": "discovery",
+          "instance": "musicmaracas-embedded-v4-10"
+        }
+      ],
+      "panorama": true
+    }
+  },
+  "objects": {
+    "camplantern": {
+      "poster": "assets/chapters-v4-10/camp/lantern.webp",
+      "width": 729,
+      "height": 1367,
+      "motion": "camp-lantern",
+      "duration": 4400
+    },
+    "campmap": {
+      "poster": "assets/chapters-v4-10/camp/map.webp",
+      "width": 1440,
+      "height": 1041,
+      "motion": "camp-map",
+      "duration": 4400
+    },
+    "campbinoculars": {
+      "poster": "assets/chapters-v4-10/camp/binoculars.webp",
+      "width": 1488,
+      "height": 964,
+      "motion": "camp-binoculars",
+      "duration": 4400
+    },
+    "hkclock": {
+      "poster": "assets/chapters-v4-9/hongkong/hkclock.webp",
+      "width": 65,
+      "height": 213,
+      "motion": "clock",
+      "duration": 4300,
+      "clockFaces": [
+        {
+          "x": 0.30019616204690824,
+          "y": 0.4666018396846255,
+          "r": 0.11790191897654584
+        },
+        {
+          "x": 0.6844690831556502,
+          "y": 0.4736662286465177,
+          "r": 0.13100213219616205
+        }
+      ],
+      "clockCenter": [
+        0.5,
+        0.51
+      ],
+      "embedded": true
+    },
+    "hkboc": {
+      "poster": "assets/chapters-v4-9/hongkong/hkboc.webp",
+      "width": 85,
+      "height": 286,
+      "motion": "windows",
+      "duration": 4300,
+      "windows": [
+        [
+          0.18,
+          0.34,
+          0.16,
+          0.018
+        ],
+        [
+          0.48,
+          0.4,
+          0.15,
+          0.018
+        ],
+        [
+          0.2,
+          0.48,
+          0.16,
+          0.018
+        ],
+        [
+          0.53,
+          0.58,
+          0.14,
+          0.018
+        ],
+        [
+          0.28,
+          0.72,
+          0.13,
+          0.018
+        ],
+        [
+          0.62,
+          0.78,
+          0.14,
+          0.018
+        ]
+      ],
+      "embedded": true
+    },
+    "hkdim": {
+      "poster": "assets/chapters-v4-9/hongkong/hkdim.webp",
+      "width": 280,
+      "height": 201,
+      "motion": "steam",
+      "duration": 4300,
+      "steamAnchors": [
+        {
+          "x": 0.56,
+          "y": 0.71
+        },
+        {
+          "x": 0.76,
+          "y": 0.71
+        },
+        {
+          "x": 0.91,
+          "y": 0.72
+        }
+      ],
+      "embedded": true
+    },
+    "hktram": {
+      "poster": "assets/chapters-v4-9/hongkong/hktram.webp",
+      "width": 1251,
+      "height": 995,
+      "motion": "tram",
+      "duration": 7000,
+      "travel": 0.18,
+      "wheelHubs": [
+        {
+          "x": 0.191462829736211,
+          "y": 0.926375879396985,
+          "r": 0.020872901678657074
+        },
+        {
+          "x": 0.5444604316546764,
+          "y": 0.9325507537688442,
+          "r": 0.020872901678657074
+        }
+      ],
+      "poleTip": {
+        "x": 0.02877697841726619,
+        "y": 0.020727638190954772
+      },
+      "wheels": [
+        {
+          "x": 0.191462829736211,
+          "y": 0.926375879396985,
+          "r": 0.020872901678657074
+        },
+        {
+          "x": 0.5444604316546764,
+          "y": 0.9325507537688442,
+          "r": 0.020872901678657074
+        }
+      ],
+      "wireRange": [
+        0.68,
+        1
+      ],
+      "travelRange": [
+        0.705,
+        0.97
+      ]
+    },
+    "hkbus": {
+      "poster": "assets/chapters-v4-9/hongkong/hkbus.webp",
+      "width": 1713,
+      "height": 821,
+      "motion": "bus",
+      "duration": 7000,
+      "travel": 0.19,
+      "wheelHubs": [
+        {
+          "x": 0.11736018680677175,
+          "y": 0.8604579780755176,
+          "r": 0.03003269118505546
+        },
+        {
+          "x": 0.1960665499124343,
+          "y": 0.8615383678440925,
+          "r": 0.03003269118505546
+        },
+        {
+          "x": 0.6206666666666667,
+          "y": 0.8723422655298416,
+          "r": 0.03521074138937537
+        }
+      ],
+      "wheels": [
+        {
+          "x": 0.11736018680677175,
+          "y": 0.8604579780755176,
+          "r": 0.03003269118505546
+        },
+        {
+          "x": 0.1960665499124343,
+          "y": 0.8615383678440925,
+          "r": 0.03003269118505546
+        },
+        {
+          "x": 0.6206666666666667,
+          "y": 0.8723422655298416,
+          "r": 0.03521074138937537
+        }
+      ],
+      "travelRange": [
+        0.705,
+        0.97
+      ]
+    },
+    "hkferry": {
+      "poster": "assets/chapters-v4-9/hongkong/hkferry.webp",
+      "width": 1685,
+      "height": 846,
+      "motion": "boat",
+      "duration": 7000,
+      "travel": 0.15,
+      "travelRange": [
+        0.025,
+        0.645
+      ]
+    },
+    "shopmilk": {
+      "poster": "assets/chapters-v4-9/supermarket/shopmilk.webp",
+      "width": 252,
+      "height": 105,
+      "motion": "shop-product",
+      "duration": 4200,
+      "posterAspect": 0.7030981067125646,
+      "embedded": true
+    },
+    "shopyogurt": {
+      "poster": "assets/chapters-v4-9/supermarket/shopyogurt.webp",
+      "width": 226,
+      "height": 86,
+      "motion": "shop-product",
+      "duration": 4200,
+      "posterAspect": 1.0312825860271115,
+      "embedded": true
+    },
+    "shopbread": {
+      "poster": "assets/chapters-v4-9/supermarket/shopbread.webp",
+      "width": 306,
+      "height": 91,
+      "motion": "shop-product",
+      "duration": 4200,
+      "posterAspect": 1.5540106951871657,
+      "embedded": true
+    },
+    "shopeggs": {
+      "poster": "assets/chapters-v4-9/supermarket/shopeggs.webp",
+      "width": 250,
+      "height": 64,
+      "motion": "shop-product",
+      "duration": 4200,
+      "posterAspect": 1.0629787234042554,
+      "embedded": true
+    },
+    "shoptissue": {
+      "poster": "assets/chapters-v4-9/supermarket/shoptissue.webp",
+      "width": 274,
+      "height": 109,
+      "motion": "shop-product",
+      "duration": 4200,
+      "posterAspect": 1.211324570273003,
+      "embedded": true
+    },
+    "shopcart": {
+      "poster": "assets/chapters-v4-9/supermarket/shopcart.webp",
+      "width": 280,
+      "height": 264,
+      "motion": "shop-cart",
+      "duration": 6800,
+      "face": 1,
+      "wheelHubs": [
+        {
+          "x": 0.12539853300733494,
+          "y": 0.8011898305084746,
+          "r": 0.06094865525672372
+        },
+        {
+          "x": 0.34246128769356154,
+          "y": 0.7138050847457627,
+          "r": 0.04918663406682966
+        },
+        {
+          "x": 0.6899755501222494,
+          "y": 0.9129610169491527,
+          "r": 0.05881010594947025
+        },
+        {
+          "x": 0.9145232273838632,
+          "y": 0.8164313559322034,
+          "r": 0.05987938060309699
+        }
+      ],
+      "posterAspect": 1.0398305084745763,
+      "embedded": true,
+      "wheels": []
+    },
+    "shopbasket": {
+      "poster": "assets/chapters-v4-9/supermarket/shopbasket.webp",
+      "width": 139,
+      "height": 167,
+      "motion": "shop-basket",
+      "duration": 3200,
+      "posterAspect": 1.1839080459770115,
+      "embedded": true
+    },
+    "musicpiano": {
+      "poster": "assets/chapters-v4-9/music/musicpiano.webp",
+      "width": 480,
+      "height": 332,
+      "motion": "piano",
+      "duration": 4800,
+      "keys": [
+        [
+          0.15,
+          0.446,
+          0.145,
+          0.035
+        ],
+        [
+          0.33,
+          0.446,
+          0.145,
+          0.035
+        ],
+        [
+          0.51,
+          0.446,
+          0.145,
+          0.035
+        ],
+        [
+          0.69,
+          0.446,
+          0.145,
+          0.035
+        ]
+      ],
+      "posterAspect": 1.1300448430493273,
+      "embedded": true
+    },
+    "musicdrum": {
+      "poster": "assets/chapters-v4-9/music/musicdrum.webp",
+      "width": 215,
+      "height": 209,
+      "motion": "drum",
+      "duration": 4800,
+      "posterAspect": 1.2397820163487738,
+      "embedded": true,
+      "strikePoint": [
+        0.48,
+        0.105
+      ],
+      "strikeHeadRect": [
+        0.06,
+        0.01,
+        0.88,
+        0.12
+      ]
+    },
+    "musicxylophone": {
+      "poster": "assets/chapters-v4-9/music/musicxylophone.webp",
+      "width": 397,
+      "height": 209,
+      "motion": "xylophone",
+      "duration": 4800,
+      "posterAspect": 1.649064906490649,
+      "embedded": true,
+      "strikePoint": [
+        0.58,
+        0.115
+      ]
+    },
+    "musictambourine": {
+      "poster": "assets/chapters-v4-9/music/musictambourine.webp",
+      "width": 172,
+      "height": 159,
+      "motion": "tambourine",
+      "duration": 4800,
+      "posterAspect": 1.1865745310957552,
+      "embedded": true,
+      "beatPoint": [
+        0.52,
+        0.45
+      ]
+    },
+    "musicmaracas": {
+      "poster": "assets/chapters-v4-9/music/musicmaracas.webp",
+      "width": 161,
+      "height": 139,
+      "motion": "maracas",
+      "duration": 4800,
+      "posterAspect": 1.0934819897084047,
+      "embedded": true,
+      "beatPoint": [
+        0.5,
+        0.43
+      ]
+    }
+  }
+}

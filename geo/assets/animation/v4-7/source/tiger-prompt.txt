@@ -1,0 +1,27 @@
+Use case: illustration-story. Production character animation sprite atlas for a toddler wildlife game.
+Reference1 is exact TIGER identity/style: warmly coloured sculpted LOW-POLY 3D orange tiger, black angular stripes, cream underside, small natural eyes, robust four paws, striped tail. Same individual throughout, no photographic realism or flat clipart.
+Create one PORTRAIT1:2 PNG ideally1536x3072. EXACT TWO columns x FOUR rows, EIGHT equal square cells, row-major0–7. Fixed LEFT-facing side camera, same character scale/torso/head/markings/lighting. Pelvis at60%cellwidth, shoulder at40%; torso baseline constant except modest natural motion. Ground at88%cellheight. MAXIMUM COMPLETE SILHOUETTE width78%cell, counting tail/feet; at least10%empty margin on both sides of EVERY cell. No tails crossing central seam. Same cell pitch and no borders.
+Draw eight carefully consecutive key drawings of ONE POWERFUL MODERATE ROTARY GALLOP. Tiger heavier than cheetah: robust shoulders, modest back flexion, believable load.
+0: far forepaw lands first under front shoulder, near forepaw reaches ahead still raised; hindlegs trailing/recovering.
+1: near forepaw lands second ahead, far forepaw pushing behind then lifts; shoulders lower, hindlegs fold forward.
+2: forelegs finish push and tuck back; back rounds slightly, hindfeet swing forward beneath belly.
+3: gathered flight, all paws off ground, hindfeet tucked in front of folded forefeet; visibly four connected legs, near/far separated.
+4: near hindpaw lands first under pelvis, far hindpaw remains above ground; forelegs unfolding forward differently.
+5: far hindpaw lands second while near hindleg begins pushing backwards; body extends modestly.
+6: last hindpaw pushing at rear, near hindleg already airborne; one forepaw ahead and one behind, two distinct forelegs.
+7: extended flight, two forelegs reaching forward at DIFFERENT angles, one paw ahead by a paw length and lower, and two hindlegs trailing staggered; all four paws distinct, ready to repeat0.
+No pair of synchronised/fused forelegs; maintain exact leg identity from shoulders/hips. Do not just draw eight variations of standing. Clean crisp paw anatomy, same bold faceted style. Transparent alpha, no ground, shadow, haze, particles, motion trails, letters, grid lines, borders, props or scenery.
+
+TARGETED REPAIR:
+Fix only the framing/registration and four-leg clarity of this TIGER 8-pose rotary-gallop atlas, preserve every pose, exact tiger low-poly style, stripe identity and colours.
+One portrait1:2 PNG, EXACT TWO columns FOUR rows. EIGHT equal square cells, regular grid pitch. Uniformly reduce ALL eight full animals about20%so complete silhouette INCLUDING tails and paws fits within each cell with10%transparent padding left/right. No touching column seam/canvas edge; no clipped tails. Same size tiger in every cell, same horizontal pelvis anchor. Same ground baseline at88%of EACH cell; supporting paws land there, airborne poses naturally above it. Fixed torso scale, no independently shifting to silhouette bottom.
+Preserve chronological eight-pose rotary gallop: farforecontact0, nearforecontact1, forepush/gather2, gatheredflight3, nearhindcontact4, farhindcontact5, hindpush6, extendedflight7→0. Every tiger has four correctly connected legs. Make far foreleg and paw darker and distinctly visible behind near foreleg in all poses when physically visible. In extended flight7, show two front paws staggered by at least a paw length and DIFFERENT angles; don't merge them into a single front limb. Four limbs intact, shoulder/hind hip roots correct, no floaty detached paws.
+No changes to character identity or choreography, only production framing, registration and leg separation. True transparent alpha, no text, border, gridline, background, shadow or ground artwork.
+
+TARGETED REPAIR:
+Targeted contact/anatomy correction of TIGER atlas. Keep same portrait TWO columns FOUR rows EIGHT poses, exact low-poly orange tiger, stripes, camera, body size and layout. KEEP poses0,1,2,3,7 as invariant. Correct ONLY leg articulation of poses4,5,6 (third row both, bottom-left).
+This is a rotary-galloping tiger, so in hindlimb-support phases4–6 BOTH FRONT PAWS must be AIRBORNE. Existing atlas has front paws incorrectly standing on the ground while hindlegs support.
+Frame4 third-row LEFT: first near HIND paw contacts beneath pelvis, far hindpaw remains slightly ahead and raised. BOTH FORELEGS fold forward/up with bent wrists and front paws clearly lifted one paw-height ABOVE the ground. Four legs intact.
+Frame5 third-row RIGHT: far HIND paw contacts after first hindpaw, near hindpaw pushes behind. BOTH FOREPAWS reach forward at DIFFERENT angles but stay visibly off ground, at least one paw-height air gap under each. No forepaw supporting.
+Frame6 bottom-row LEFT: final hindpaw toes push off from behind pelvis while other hindleg already raised. BOTH forelegs stretch forward ready for flight but all front paws completely in air, one ahead of other and one slightly lower. Leg pairs stagger, never fused or perfectly parallel. 
+Keep all four correctly rooted anatomical limbs/paws and full tail. Preserve head/torso size/stripes and exact other five poses. No creature clipped at OUTER canvas edge. Transparent alpha, no text, borders, visible grid, ground artwork, shadows, background or haze.

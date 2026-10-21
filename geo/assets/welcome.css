@@ -1,0 +1,120 @@
+/* Fredoka font licence, included in the offline build.
+Copyright 2016 The Fredoka Project Authors (https://github.com/hafontia/Fredoka-One)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+*/
+@font-face{font-family:'Zoo Candy';src:url("fonts/fredoka.ttf") format('truetype');font-weight:300 700;font-stretch:75% 125%;font-display:swap}
+.topbar{justify-content:flex-end}#sceneTag{transition:opacity .5s}body.immersive #sceneTag{opacity:0}
+.intro{position:fixed;inset:0;z-index:55;pointer-events:none;color:#486b57;transition:opacity .5s,transform .5s}.intro[hidden]{display:none}.intro.leaving{opacity:0;transform:translateY(-14px)}.intro *{pointer-events:none}
+.intro-inner{position:absolute;top:12.5%;left:50%;transform:translateX(-50%);width:min(840px,calc(100% - 56px));display:grid;justify-items:center;gap:24px}
+.cloud-title{position:relative;isolation:isolate;width:max-content;max-width:100%;padding:6px 14px}
+#introTitle{display:flex;align-items:baseline;justify-content:center;gap:26px;margin:0;line-height:1.05;font-family:'Zoo Candy','Arial Rounded MT Bold','Comic Sans MS',sans-serif;font-weight:700;font-stretch:110%;letter-spacing:-2px;filter:drop-shadow(0 4px 0 #cdc3e180) drop-shadow(0 8px 10px #484a5218)}
+.candy-name,.candy-zoo{display:flex;align-items:baseline;white-space:nowrap;color:#f6abae;-webkit-text-stroke:11px #fffdfa;paint-order:stroke fill}
+.candy-name{font-size:104px;gap:1px}.candy-zoo{font-size:154px;gap:4px}
+.candy-name span:nth-child(7n+1){color:#f0a1b7;transform:rotate(-4deg)}.candy-name span:nth-child(7n+2){color:#f4bb87;transform:translateY(-3px) rotate(4deg)}.candy-name span:nth-child(7n+3){color:#ebcf77;transform:rotate(-3deg)}.candy-name span:nth-child(7n+4){color:#a4d5b5;transform:translateY(-4px) rotate(3deg)}.candy-name span:nth-child(7n+5){color:#9ecbe1;transform:rotate(-2deg)}.candy-name span:nth-child(7n+6){color:#bdb0dd;transform:translateY(-4px)}.candy-name span:nth-child(7n){color:#dcaeda;transform:rotate(4deg)}
+.candy-zoo span:first-child{color:#f2a8bc;transform:rotate(-5deg)}.candy-zoo span:nth-child(2){color:#a5d4bc;transform:translateY(-7px) rotate(3deg)}.candy-zoo span:nth-child(3){color:#bcb1e1;transform:rotate(-4deg)}
+.title-puff{position:absolute;z-index:-1;width:90px;height:32px;border-radius:50px;background:#fffdf4e6;filter:drop-shadow(0 4px 5px #c5d3de44)}.title-puff::before,.title-puff::after{content:'';position:absolute;bottom:5px;width:44px;height:47px;left:8px;border-radius:50%;background:inherit}.title-puff::after{width:46px;height:54px;left:35px}.puff-left{left:-32px;top:44%;transform:rotate(-10deg)}.puff-right{right:-29px;top:43%;transform:scale(.8) rotate(12deg)}
+.cloud-spark{position:absolute;font-size:28px;line-height:1;text-shadow:0 0 6px #fff8e1;filter:drop-shadow(0 2px 1px #fffaf4)}.spark-pink{left:31%;top:-16px;color:#edb3c3;transform:rotate(12deg)}.spark-gold{right:3%;top:-2px;font-size:23px;color:#f1d487;transform:rotate(-12deg)}
+.intro-guides{display:flex;justify-content:center;gap:14px;width:max-content;max-width:100%}
+.orientation-guide,.swipe-guide{display:flex;gap:10px;align-items:center;padding:0 18px 0 6px;background:#fffaf0df;border:2px solid #fffdf6;border-radius:28px;box-shadow:0 5px 15px #7e815910;max-width:100%}
+.orientation-copy,.swipe-copy{min-width:0;text-align:left}.orientation-copy strong,.swipe-copy strong{display:block;font-size:17px;font-weight:800;letter-spacing:1px;white-space:nowrap}.orientation-copy>span,.swipe-copy>span{display:block;font-size:12px;margin-top:5px;color:#708169;line-height:1.6;white-space:nowrap}
+.rotation-diagram{position:relative;width:100px;height:81px;flex:none;color:#d8ae6b}.rotate-phone{position:absolute;width:34px;height:58px;left:33px;top:12px;background:#62816e;border:3px solid #62816e;border-radius:9px;box-shadow:0 3px 0 #496551;transform-origin:center;animation:phone-turn 4.4s ease-in-out infinite}.phone-screen{position:absolute;inset:2px 1px 7px;border-radius:4px;overflow:hidden;background:#d9eee7}.phone-sun{position:absolute;right:4px;top:4px;width:7px;height:7px;background:#efd38d;border-radius:50%}.phone-hill{position:absolute;bottom:-5px;left:-6px;width:38px;height:20px;background:#b8cf9d;border-radius:50% 50% 0 0}.phone-friend{position:absolute;left:3px;bottom:2px;font-size:18px;line-height:1;animation:phone-friend-turn 4.4s ease-in-out infinite}.phone-dot{position:absolute;bottom:0;left:calc(50% - 1.5px);width:3px;height:3px;border-radius:50%;background:#e5ecd0}.phone-ghost{position:absolute;left:20px;top:25px;width:61px;height:35px;border:2px dashed #a4b19a;border-radius:9px;opacity:.6}.rotation-arrow{position:absolute;inset:0;width:100%;height:100%;animation:arrow-prompt 4.4s ease-in-out infinite}.orientation-check{position:absolute;right:1px;bottom:7px;display:grid;place-items:center;width:23px;height:23px;border-radius:50%;background:#7b9d7f;color:#fff9e8;font-size:15px;font-weight:800;opacity:0;transform:scale(.5);transition:opacity .3s,transform .3s}
+@keyframes phone-turn{0%,12%{transform:rotate(0)}45%,74%{transform:rotate(-90deg)}94%,100%{transform:rotate(0)}}@keyframes phone-friend-turn{0%,12%{transform:rotate(0)}45%,74%{transform:rotate(90deg)}94%,100%{transform:rotate(0)}}@keyframes arrow-prompt{0%,18%{opacity:1}50%,78%{opacity:.25}100%{opacity:1}}
+.orientation-guide.landscape .rotate-phone{animation:none;transform:rotate(-90deg)}.orientation-guide.landscape .phone-friend{animation:none;transform:rotate(90deg)}.orientation-guide.landscape .rotation-arrow{animation:none;opacity:0}.orientation-guide.landscape .phone-ghost{opacity:0}.orientation-guide.landscape .orientation-check{opacity:1;transform:scale(1)}
+.swipe-guide{padding-left:15px}.swipe-diagram{position:relative;width:95px;height:75px;flex:none}.swipe-track{position:absolute;top:40px;left:16px;right:16px;border-top:2px dashed #c8b7d6}.swipe-chevron{position:absolute;top:12px;font-family:'Zoo Candy',sans-serif;font-size:39px;color:#ad8fbc;font-weight:500}.swipe-left{left:0}.swipe-right{right:0}.swipe-finger{position:absolute;left:35px;top:24px;font-size:28px;line-height:1;animation:swipe-prompt 3.8s ease-in-out infinite;filter:drop-shadow(0 2px 1px #7e815922)}
+@keyframes swipe-prompt{0%,100%{transform:translateX(-20px) rotate(-7deg)}50%{transform:translateX(20px) rotate(7deg)}}
+@media(max-width:950px) and (orientation:landscape){.intro-inner{top:15%;gap:13px;width:calc(100% - 70px)}.candy-name{font-size:70px;-webkit-text-stroke-width:9px}.candy-zoo{font-size:103px;-webkit-text-stroke-width:9px}#introTitle{gap:18px}.intro-guides{gap:12px}.orientation-guide,.swipe-guide{border-radius:22px;padding-right:14px;gap:5px}.rotation-diagram{transform:scale(.85);width:91px;height:74px}.swipe-diagram{width:80px;height:71px}.swipe-finger{left:27px;top:25px;font-size:24px}.orientation-copy strong,.swipe-copy strong{font-size:15px}.orientation-copy>span,.swipe-copy>span{font-size:11px}.cloud-spark{font-size:21px}.spark-pink{top:-11px}}
+@media(orientation:portrait){.intro-inner{top:15%;width:calc(100% - 38px);gap:20px}.cloud-title{padding:0 10px}#introTitle{flex-direction:column;align-items:center;gap:0;line-height:1.1;letter-spacing:-1px}.candy-name{font-size:clamp(54px,16.5vw,91px);-webkit-text-stroke-width:9px;gap:0}.candy-zoo{font-size:clamp(105px,33vw,174px);-webkit-text-stroke-width:11px;gap:3px;margin-top:-1px}.intro-guides{flex-direction:column;gap:9px;align-items:center}.orientation-guide,.swipe-guide{width:272px;border-radius:23px;gap:9px;padding-right:14px;min-height:67px}.rotation-diagram{width:85px;height:67px;transform:scale(.82);transform-origin:center}.rotate-phone{left:27px;top:7px}.phone-ghost{left:14px;top:20px}.orientation-check{bottom:2px}.swipe-diagram{width:81px;height:65px}.swipe-finger{left:27px;top:22px;font-size:25px}.swipe-chevron{top:8px;font-size:35px}.swipe-track{top:36px}.orientation-copy strong,.swipe-copy strong{font-size:15px}.orientation-copy>span,.swipe-copy>span{font-size:11px;margin-top:3px}.swipe-guide{padding-left:10px}.puff-left{left:-24px;top:35%;transform:scale(.6) rotate(-10deg)}.puff-right{right:-23px;top:62%;transform:scale(.55) rotate(12deg)}.spark-pink{left:0;top:4px;font-size:21px}.spark-gold{right:-2px;top:12px;font-size:18px}}
+@media(max-height:620px) and (orientation:portrait){.intro-inner{top:18%;gap:15px}.candy-name{font-size:52px}.candy-zoo{font-size:104px}.intro-guides{gap:6px}.orientation-guide,.swipe-guide{min-height:55px;width:253px}.rotation-diagram{height:56px;transform:scale(.72)}.swipe-diagram{height:53px}.swipe-finger{top:16px}.swipe-track{top:30px}.swipe-chevron{top:3px}.orientation-copy strong,.swipe-copy strong{font-size:14px}}
+@media(max-height:450px) and (orientation:landscape){.intro-inner{top:16%;gap:10px}.candy-name{font-size:58px}.candy-zoo{font-size:85px}.cloud-title{padding:0 14px}.title-puff{transform:scale(.6)}.intro-guides{gap:12px}.orientation-guide,.swipe-guide{min-height:60px}.rotation-diagram{height:61px;transform:scale(.75)}.swipe-diagram{height:59px}.swipe-chevron{top:6px}.swipe-finger{top:19px}.swipe-track{top:35px}}
+@media(prefers-reduced-motion:reduce){.intro{transition:none}.intro.leaving{transform:none}.rotate-phone{animation:none;transform:rotate(-90deg)}.phone-friend{animation:none;transform:rotate(90deg)}.rotation-arrow{animation:none;opacity:.6}.swipe-finger{animation:none;transform:none}}

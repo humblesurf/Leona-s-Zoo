@@ -1,0 +1,13 @@
+{
+  "tool": "built-in image_gen",
+  "frame": 3,
+  "phase": 0.25,
+  "generatedSource": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11f8b-6c37-7a12-80e5-c214bd111c45\\exec-57916122-0bbd-4aac-8807-b5b92a96f85f.png",
+  "destination": "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\buffalo-pose-3.png",
+  "prompt": "Use case: precise-object-edit. Asset type: full buffalo animation key pose, frame 3 of four-beat left-facing slow walk. Re-render one WHOLE animal on true transparent alpha.\nImage1 is buffalo-pose-2-repair-a, a CORRECT near hind leg in air. Image2 is pose-guide3, planning only.\nMake a SINGLE precise phase change to image1: its ONE RAISED REAR HOOF, which belongs to the bright OUTER rear thigh, now LANDS lower and slightly farther LEFT on the ground. Follow the existing bent bright outer thigh from right-hand rump to its current raised hoof and EXTEND THIS SAME LOWER LEG down-left to the ground. Preserve the existing near thigh's forward-flexed pose, its light brown color and foreground overlap. The newly landed near rear hoof must be clearly LEFT of the other dark rear support hoof, farther under the belly. Near hind shin therefore slopes diagonally DOWN-LEFT in FRONT of the dark far hind, with the foot underneath rear belly.\nDo not turn that bright near thigh into a vertical rightmost support column. The existing dark FAR hind ground leg in image1 stays behind it and planted on the RIGHT. Keep its hip, leg and dark hoof, including its depth behind the nearer leg. Rear hoof order is LIGHT NEAR foot at LEFT/front, DARK FAR foot at RIGHT/back. Exactly two connected rear legs, two rear ground feet. No extra rear limb.\nBoth front legs from image1 remain grounded: bright near front mildly trailing/right, dark far front mildly forward/left. Exactly FOUR legs and FOUR fully separated hooves total, all ground touching.\nKeep entire buffalo's head, cream horns, eyes, muzzle, ears, hump, torso, belly, tail, camera, lighting and friendly polished brown faceted 3D material IDENTICAL to image1. Keep the full body's size, shoulder and hip heights, no bouncing/trot. Whole new complete-body original pose render, not cut parts or warp. Entire horns/tail/hooves uncropped with transparent margins. Genuine transparent background; no glow, ground, shadow, checkerboard, labels, text.",
+  "transparent_background": true,
+  "referenced_image_paths": [
+    "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\buffalo-pose-2-repair-a.png",
+    "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\pose-guide-3.png"
+  ]
+}

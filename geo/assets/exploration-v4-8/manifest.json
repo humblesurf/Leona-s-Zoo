@@ -1,0 +1,95 @@
+{
+  "version": "V4.8",
+  "chapters": [
+    "harbor",
+    "camp",
+    "space"
+  ],
+  "newObjects": 17,
+  "newPlacements": 20,
+  "newNarrations": 153,
+  "totalObjects": 89,
+  "sceneOrder": [
+    "savanna",
+    "rainforest",
+    "ocean",
+    "polar",
+    "market",
+    "farm",
+    "harbor",
+    "camp",
+    "space"
+  ],
+  "paintedQuadrupeds": 19,
+  "media": [
+    "assets/exploration-v4-8/harbor/harborferry.webp",
+    "assets/exploration-v4-8/harbor/harborsailboat.webp",
+    "assets/exploration-v4-8/harbor/sail.webp",
+    "assets/exploration-v4-8/harbor/harborfishingboat.webp",
+    "assets/exploration-v4-8/harbor/harborlighthouse.webp",
+    "assets/exploration-v4-8/harbor/harborbuoy.webp",
+    "assets/exploration-v4-8/harbor/harborpier.webp",
+    "assets/exploration-v4-8/camp/tent-closed.webp",
+    "assets/exploration-v4-8/camp/tent-open.webp",
+    "assets/exploration-v4-8/camp/backpack.webp",
+    "assets/exploration-v4-8/camp/stream.webp",
+    "assets/exploration-v4-8/camp/tree.webp",
+    "assets/exploration-v4-8/camp/fireflies.webp",
+    "assets/exploration-v4-8/camp/stars.webp",
+    "assets/exploration-v4-8/space/spacemoon.webp",
+    "assets/exploration-v4-8/space/spacecrater.webp",
+    "assets/exploration-v4-8/space/spacelunarrover.webp",
+    "assets/exploration-v4-8/space/spacemars.webp",
+    "assets/exploration-v4-8/space/spacemarsrover.webp"
+  ],
+  "ambience": [
+    {
+      "id": "harbor",
+      "path": "assets/audio/v4-8/harbor.mp3",
+      "title": "Gulls on the Harbor",
+      "author": "Joseph SARDIN",
+      "source": "https://bigsoundbank.com/gulls-on-the-harbor-s2573.html",
+      "download": "https://bigsoundbank.com/UPLOAD/mp3/2573.mp3?v=d",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "duration": 36,
+      "modifications": "36 second excerpt; gentle volume normalization and fades; original pitch",
+      "rms": 0.04463183239251746
+    },
+    {
+      "id": "camp",
+      "path": "assets/audio/v4-8/camp.mp3",
+      "title": "Forest and stream #2",
+      "author": "Pierre SIBANARCO",
+      "source": "https://bigsoundbank.com/forest-and-stream-2-s2714.html",
+      "download": "https://bigsoundbank.com/UPLOAD/mp3/2714.mp3?v=d",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "duration": 36,
+      "modifications": "36 second excerpt; gentle volume normalization and fades; original pitch",
+      "rms": 0.04405260814197668
+    },
+    {
+      "id": "space",
+      "path": "assets/audio/v4-8/space.mp3",
+      "title": "Original quiet exploration music",
+      "author": "Project-authored procedural musical score",
+      "license": "Project original",
+      "duration": 40,
+      "description": "Soft musical underscore; never presented as physical space ambience.",
+      "rms": 0.018654645769536498
+    },
+    {
+      "id": "campstream",
+      "path": "assets/calls/v4-8/campstream.mp3",
+      "duration": 2.5,
+      "title": "Forest stream excerpt",
+      "source": "https://bigsoundbank.com/forest-and-stream-2-s2714.html",
+      "author": "Pierre SIBANARCO",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "copyright": "Pierre SIBANARCO",
+      "modifications": "Short stream excerpt, volume normalization and fades; original pitch"
+    }
+  ]
+}

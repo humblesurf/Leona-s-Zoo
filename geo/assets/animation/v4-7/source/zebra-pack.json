@@ -1,0 +1,73 @@
+{
+  "columns": 2,
+  "rows": 2,
+  "poseFiles": [
+    "geo/assets/animation/v4-7/source/zebra-painted-0.png",
+    "geo/assets/animation/v4-7/source/zebra-painted-1.png",
+    "geo/assets/animation/v4-7/source/zebra-painted-2.png",
+    "geo/assets/animation/v4-7/source/zebra-painted-3.png"
+  ],
+  "cycle": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "holdsMs": [
+    145,
+    130,
+    145,
+    130
+  ],
+  "canvasWidth": 535,
+  "canvasHeight": 415,
+  "approved": true,
+  "readyForPackaging": true,
+  "motion": "walk",
+  "label": "轻快行走",
+  "approvalStage": "Four whole original drawings have near-hind, near-fore, far-hind, far-fore recovery. Three hooves support in each key; intentional four-beat walk, not diagonal trot. Final same-zoom runtime QA required.",
+  "limbQA": [
+    {
+      "frame": 0,
+      "recovery": "near-hind",
+      "supports": [
+        "near-fore",
+        "far-fore",
+        "far-hind"
+      ],
+      "depth": "Bright outer hip bends into airborne shin; grounded far-hind passes behind."
+    },
+    {
+      "frame": 1,
+      "recovery": "near-fore",
+      "supports": [
+        "far-fore",
+        "near-hind",
+        "far-hind"
+      ],
+      "depth": "Broad bright visible shoulder leg lifted; narrow darker foreleg grounded."
+    },
+    {
+      "frame": 2,
+      "recovery": "far-hind",
+      "supports": [
+        "near-fore",
+        "far-fore",
+        "near-hind"
+      ],
+      "depth": "Dark inner rear leg lifted through belly space; bright outer hip remains supporting."
+    },
+    {
+      "frame": 3,
+      "recovery": "far-fore",
+      "supports": [
+        "near-fore",
+        "near-hind",
+        "far-hind"
+      ],
+      "depth": "Dark inner foreleg lifted beneath neck; wide bright near foreleg grounded."
+    }
+  ],
+  "registrationQA": "Fixed whole-camera images preserve head, torso and stripes; resize whole canvas equally only. No bbox centering, per-character scaling or foot registration.",
+  "rejectedHistory": "Prior eight-pose atlas rejected for far-hind frozen support. New pose0 initially duplicated dark far-hind recovery and was targeted-repainted to near-hind recovery; old image retained only as rejected draft."
+}

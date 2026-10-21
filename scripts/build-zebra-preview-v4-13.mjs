@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import {loadRuntimeState} from './runtime-state.mjs';
+const old=loadRuntimeState('share/runtime-v4-12').state;
+const current=loadRuntimeState('v4-13').state;
+const scene=current.GAME_SCENES.savanna||Object.values(current.GAME_SCENES)[0];
+const section=scene.sections?.[0]||scene;
+const data={baseline:old.ANIMAL_ANIMATIONS.zebra,candidate:current.ANIMAL_ANIMATIONS.zebra,background:section.bgStrip||section.bgPanels?.[0],scope:'One zebra only. Awaiting user visual review before other quadrupeds.'};
+if(!data.candidate.cel?.contactAuthored||data.candidate.cel.poses!==16)throw Error('The reviewed zebra originals are not installed');
+fs.writeFileSync('v4-13/assets/preview-zebra-data.js','window.ZEBRA_PREVIEW='+JSON.stringify(data)+';window.ANIMAL_ANIMATIONS={zebra:window.ZEBRA_PREVIEW.candidate};\n');
+console.log({preview:'v4-13/preview-zebra.html',animal:'zebra',drawings:16,renderer:'Same AnimalAnims/CelMotion as the game',otherAnimalsChanged:false});

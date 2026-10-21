@@ -1,0 +1,2298 @@
+{
+  "voices": 369,
+  "files": [
+    {
+      "path": "assets/voice/v4-9/beachbucket-cmn-bright.mp3",
+      "duration": 5.52,
+      "rms": 0.0636,
+      "peak": 0.5171
+    },
+    {
+      "path": "assets/voice/v4-9/beachbucket-cmn-male.mp3",
+      "duration": 5.376,
+      "rms": 0.0624,
+      "peak": 0.6886
+    },
+    {
+      "path": "assets/voice/v4-9/beachbucket-cmn.mp3",
+      "duration": 5.016,
+      "rms": 0.0822,
+      "peak": 0.5927
+    },
+    {
+      "path": "assets/voice/v4-9/beachbucket-en-female.mp3",
+      "duration": 5.784,
+      "rms": 0.1249,
+      "peak": 0.6125
+    },
+    {
+      "path": "assets/voice/v4-9/beachbucket-en-male.mp3",
+      "duration": 5.16,
+      "rms": 0.0995,
+      "peak": 0.5816
+    },
+    {
+      "path": "assets/voice/v4-9/beachbucket-en.mp3",
+      "duration": 7.56,
+      "rms": 0.0777,
+      "peak": 0.5237
+    },
+    {
+      "path": "assets/voice/v4-9/beachbucket-yue-bright.mp3",
+      "duration": 6.696,
+      "rms": 0.0956,
+      "peak": 0.5532
+    },
+    {
+      "path": "assets/voice/v4-9/beachbucket-yue-male.mp3",
+      "duration": 5.688,
+      "rms": 0.0741,
+      "peak": 0.5311
+    },
+    {
+      "path": "assets/voice/v4-9/beachbucket-yue.mp3",
+      "duration": 5.688,
+      "rms": 0.0736,
+      "peak": 0.503
+    },
+    {
+      "path": "assets/voice/v4-9/beachcastle-cmn-bright.mp3",
+      "duration": 5.928,
+      "rms": 0.0566,
+      "peak": 0.505
+    },
+    {
+      "path": "assets/voice/v4-9/beachcastle-cmn-male.mp3",
+      "duration": 5.832,
+      "rms": 0.0515,
+      "peak": 0.5883
+    },
+    {
+      "path": "assets/voice/v4-9/beachcastle-cmn.mp3",
+      "duration": 5.664,
+      "rms": 0.0877,
+      "peak": 0.5858
+    },
+    {
+      "path": "assets/voice/v4-9/beachcastle-en-female.mp3",
+      "duration": 5.808,
+      "rms": 0.1138,
+      "peak": 0.6113
+    },
+    {
+      "path": "assets/voice/v4-9/beachcastle-en-male.mp3",
+      "duration": 5.352,
+      "rms": 0.0895,
+      "peak": 0.7052
+    },
+    {
+      "path": "assets/voice/v4-9/beachcastle-en.mp3",
+      "duration": 8.112,
+      "rms": 0.0709,
+      "peak": 0.589
+    },
+    {
+      "path": "assets/voice/v4-9/beachcastle-yue-bright.mp3",
+      "duration": 7.344,
+      "rms": 0.0905,
+      "peak": 0.5542
+    },
+    {
+      "path": "assets/voice/v4-9/beachcastle-yue-male.mp3",
+      "duration": 6.24,
+      "rms": 0.0661,
+      "peak": 0.499
+    },
+    {
+      "path": "assets/voice/v4-9/beachcastle-yue.mp3",
+      "duration": 6.48,
+      "rms": 0.0693,
+      "peak": 0.4815
+    },
+    {
+      "path": "assets/voice/v4-9/beachcrab-cmn-bright.mp3",
+      "duration": 4.92,
+      "rms": 0.0539,
+      "peak": 0.3369
+    },
+    {
+      "path": "assets/voice/v4-9/beachcrab-cmn-male.mp3",
+      "duration": 4.8,
+      "rms": 0.0485,
+      "peak": 0.6649
+    },
+    {
+      "path": "assets/voice/v4-9/beachcrab-cmn.mp3",
+      "duration": 4.512,
+      "rms": 0.0928,
+      "peak": 0.5782
+    },
+    {
+      "path": "assets/voice/v4-9/beachcrab-en-female.mp3",
+      "duration": 5.28,
+      "rms": 0.1211,
+      "peak": 0.517
+    },
+    {
+      "path": "assets/voice/v4-9/beachcrab-en-male.mp3",
+      "duration": 4.752,
+      "rms": 0.0962,
+      "peak": 0.6508
+    },
+    {
+      "path": "assets/voice/v4-9/beachcrab-en.mp3",
+      "duration": 7.032,
+      "rms": 0.0748,
+      "peak": 0.5419
+    },
+    {
+      "path": "assets/voice/v4-9/beachcrab-yue-bright.mp3",
+      "duration": 6.12,
+      "rms": 0.0892,
+      "peak": 0.5558
+    },
+    {
+      "path": "assets/voice/v4-9/beachcrab-yue-male.mp3",
+      "duration": 4.872,
+      "rms": 0.0735,
+      "peak": 0.4936
+    },
+    {
+      "path": "assets/voice/v4-9/beachcrab-yue.mp3",
+      "duration": 4.872,
+      "rms": 0.0738,
+      "peak": 0.4273
+    },
+    {
+      "path": "assets/voice/v4-9/beachshell-cmn-bright.mp3",
+      "duration": 6.84,
+      "rms": 0.0595,
+      "peak": 0.462
+    },
+    {
+      "path": "assets/voice/v4-9/beachshell-cmn-male.mp3",
+      "duration": 6.552,
+      "rms": 0.0532,
+      "peak": 0.6765
+    },
+    {
+      "path": "assets/voice/v4-9/beachshell-cmn.mp3",
+      "duration": 6.528,
+      "rms": 0.1024,
+      "peak": 0.7702
+    },
+    {
+      "path": "assets/voice/v4-9/beachshell-en-female.mp3",
+      "duration": 5.928,
+      "rms": 0.1263,
+      "peak": 0.5903
+    },
+    {
+      "path": "assets/voice/v4-9/beachshell-en-male.mp3",
+      "duration": 5.136,
+      "rms": 0.0945,
+      "peak": 0.5567
+    },
+    {
+      "path": "assets/voice/v4-9/beachshell-en.mp3",
+      "duration": 8.136,
+      "rms": 0.0745,
+      "peak": 0.5223
+    },
+    {
+      "path": "assets/voice/v4-9/beachshell-yue-bright.mp3",
+      "duration": 8.832,
+      "rms": 0.0831,
+      "peak": 0.5649
+    },
+    {
+      "path": "assets/voice/v4-9/beachshell-yue-male.mp3",
+      "duration": 7.296,
+      "rms": 0.0734,
+      "peak": 0.5553
+    },
+    {
+      "path": "assets/voice/v4-9/beachshell-yue.mp3",
+      "duration": 7.56,
+      "rms": 0.0675,
+      "peak": 0.4383
+    },
+    {
+      "path": "assets/voice/v4-9/beachshovel-cmn-bright.mp3",
+      "duration": 4.848,
+      "rms": 0.0517,
+      "peak": 0.4072
+    },
+    {
+      "path": "assets/voice/v4-9/beachshovel-cmn-male.mp3",
+      "duration": 4.632,
+      "rms": 0.0411,
+      "peak": 0.401
+    },
+    {
+      "path": "assets/voice/v4-9/beachshovel-cmn.mp3",
+      "duration": 4.176,
+      "rms": 0.0752,
+      "peak": 0.5354
+    },
+    {
+      "path": "assets/voice/v4-9/beachshovel-en-female.mp3",
+      "duration": 5.016,
+      "rms": 0.1113,
+      "peak": 0.5695
+    },
+    {
+      "path": "assets/voice/v4-9/beachshovel-en-male.mp3",
+      "duration": 4.536,
+      "rms": 0.0878,
+      "peak": 0.5816
+    },
+    {
+      "path": "assets/voice/v4-9/beachshovel-en.mp3",
+      "duration": 7.728,
+      "rms": 0.0669,
+      "peak": 0.4379
+    },
+    {
+      "path": "assets/voice/v4-9/beachshovel-yue-bright.mp3",
+      "duration": 5.88,
+      "rms": 0.0922,
+      "peak": 0.5602
+    },
+    {
+      "path": "assets/voice/v4-9/beachshovel-yue-male.mp3",
+      "duration": 5.04,
+      "rms": 0.0655,
+      "peak": 0.495
+    },
+    {
+      "path": "assets/voice/v4-9/beachshovel-yue.mp3",
+      "duration": 5.04,
+      "rms": 0.0728,
+      "peak": 0.4672
+    },
+    {
+      "path": "assets/voice/v4-9/beachumbrella-cmn-bright.mp3",
+      "duration": 5.208,
+      "rms": 0.0602,
+      "peak": 0.4222
+    },
+    {
+      "path": "assets/voice/v4-9/beachumbrella-cmn-male.mp3",
+      "duration": 4.872,
+      "rms": 0.0458,
+      "peak": 0.3993
+    },
+    {
+      "path": "assets/voice/v4-9/beachumbrella-cmn.mp3",
+      "duration": 5.016,
+      "rms": 0.0955,
+      "peak": 0.5257
+    },
+    {
+      "path": "assets/voice/v4-9/beachumbrella-en-female.mp3",
+      "duration": 4.68,
+      "rms": 0.1279,
+      "peak": 0.5903
+    },
+    {
+      "path": "assets/voice/v4-9/beachumbrella-en-male.mp3",
+      "duration": 4.32,
+      "rms": 0.0933,
+      "peak": 0.6112
+    },
+    {
+      "path": "assets/voice/v4-9/beachumbrella-en.mp3",
+      "duration": 6.504,
+      "rms": 0.0796,
+      "peak": 0.5297
+    },
+    {
+      "path": "assets/voice/v4-9/beachumbrella-yue-bright.mp3",
+      "duration": 6.48,
+      "rms": 0.0926,
+      "peak": 0.5492
+    },
+    {
+      "path": "assets/voice/v4-9/beachumbrella-yue-male.mp3",
+      "duration": 4.944,
+      "rms": 0.0678,
+      "peak": 0.5425
+    },
+    {
+      "path": "assets/voice/v4-9/beachumbrella-yue.mp3",
+      "duration": 5.16,
+      "rms": 0.0673,
+      "peak": 0.4719
+    },
+    {
+      "path": "assets/voice/v4-9/beachwave-cmn-bright.mp3",
+      "duration": 5.832,
+      "rms": 0.0637,
+      "peak": 0.5866
+    },
+    {
+      "path": "assets/voice/v4-9/beachwave-cmn-male.mp3",
+      "duration": 5.712,
+      "rms": 0.0433,
+      "peak": 0.4375
+    },
+    {
+      "path": "assets/voice/v4-9/beachwave-cmn.mp3",
+      "duration": 5.568,
+      "rms": 0.089,
+      "peak": 0.6013
+    },
+    {
+      "path": "assets/voice/v4-9/beachwave-en-female.mp3",
+      "duration": 6.12,
+      "rms": 0.1285,
+      "peak": 0.5563
+    },
+    {
+      "path": "assets/voice/v4-9/beachwave-en-male.mp3",
+      "duration": 5.496,
+      "rms": 0.1014,
+      "peak": 0.5678
+    },
+    {
+      "path": "assets/voice/v4-9/beachwave-en.mp3",
+      "duration": 8.016,
+      "rms": 0.077,
+      "peak": 0.4981
+    },
+    {
+      "path": "assets/voice/v4-9/beachwave-yue-bright.mp3",
+      "duration": 8.04,
+      "rms": 0.0921,
+      "peak": 0.5569
+    },
+    {
+      "path": "assets/voice/v4-9/beachwave-yue-male.mp3",
+      "duration": 6.696,
+      "rms": 0.0713,
+      "peak": 0.5513
+    },
+    {
+      "path": "assets/voice/v4-9/beachwave-yue.mp3",
+      "duration": 6.96,
+      "rms": 0.0736,
+      "peak": 0.4035
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosearth-cmn-bright.mp3",
+      "duration": 7.488,
+      "rms": 0.0659,
+      "peak": 0.5968
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosearth-cmn-male.mp3",
+      "duration": 7.152,
+      "rms": 0.0548,
+      "peak": 0.5917
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosearth-cmn.mp3",
+      "duration": 7.008,
+      "rms": 0.0982,
+      "peak": 0.5022
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosearth-en-female.mp3",
+      "duration": 5.376,
+      "rms": 0.1281,
+      "peak": 0.5545
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosearth-en-male.mp3",
+      "duration": 5.376,
+      "rms": 0.0975,
+      "peak": 0.5731
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosearth-en.mp3",
+      "duration": 7.968,
+      "rms": 0.0764,
+      "peak": 0.5276
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosearth-yue-bright.mp3",
+      "duration": 8.928,
+      "rms": 0.0842,
+      "peak": 0.5643
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosearth-yue-male.mp3",
+      "duration": 7.656,
+      "rms": 0.0784,
+      "peak": 0.5352
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosearth-yue.mp3",
+      "duration": 7.656,
+      "rms": 0.0705,
+      "peak": 0.4753
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosgalaxy-cmn-bright.mp3",
+      "duration": 7.824,
+      "rms": 0.062,
+      "peak": 0.536
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosgalaxy-cmn-male.mp3",
+      "duration": 6.768,
+      "rms": 0.0531,
+      "peak": 0.5429
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosgalaxy-cmn.mp3",
+      "duration": 6.984,
+      "rms": 0.0982,
+      "peak": 0.5171
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosgalaxy-en-female.mp3",
+      "duration": 5.76,
+      "rms": 0.1353,
+      "peak": 0.6034
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosgalaxy-en-male.mp3",
+      "duration": 5.76,
+      "rms": 0.1006,
+      "peak": 0.6367
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosgalaxy-en.mp3",
+      "duration": 8.304,
+      "rms": 0.0779,
+      "peak": 0.5309
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosgalaxy-yue-bright.mp3",
+      "duration": 9.744,
+      "rms": 0.0893,
+      "peak": 0.5606
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosgalaxy-yue-male.mp3",
+      "duration": 7.968,
+      "rms": 0.0733,
+      "peak": 0.5759
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosgalaxy-yue.mp3",
+      "duration": 8.208,
+      "rms": 0.0666,
+      "peak": 0.4036
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosjupiter-cmn-bright.mp3",
+      "duration": 7.152,
+      "rms": 0.0533,
+      "peak": 0.3772
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosjupiter-cmn-male.mp3",
+      "duration": 6.744,
+      "rms": 0.0515,
+      "peak": 0.5533
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosjupiter-cmn.mp3",
+      "duration": 6.48,
+      "rms": 0.0813,
+      "peak": 0.4491
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosjupiter-en-female.mp3",
+      "duration": 5.952,
+      "rms": 0.1178,
+      "peak": 0.6644
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosjupiter-en-male.mp3",
+      "duration": 5.352,
+      "rms": 0.0893,
+      "peak": 0.7042
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosjupiter-en.mp3",
+      "duration": 7.704,
+      "rms": 0.0714,
+      "peak": 0.5489
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosjupiter-yue-bright.mp3",
+      "duration": 9.216,
+      "rms": 0.0879,
+      "peak": 0.5637
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosjupiter-yue-male.mp3",
+      "duration": 7.92,
+      "rms": 0.0687,
+      "peak": 0.5548
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosjupiter-yue.mp3",
+      "duration": 7.752,
+      "rms": 0.0635,
+      "peak": 0.4265
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosmars-cmn-bright.mp3",
+      "duration": 5.688,
+      "rms": 0.06,
+      "peak": 0.4447
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosmars-cmn-male.mp3",
+      "duration": 5.256,
+      "rms": 0.0483,
+      "peak": 0.4723
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosmars-cmn.mp3",
+      "duration": 5.184,
+      "rms": 0.0962,
+      "peak": 0.5314
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosmars-en-female.mp3",
+      "duration": 4.152,
+      "rms": 0.1393,
+      "peak": 0.6261
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosmars-en-male.mp3",
+      "duration": 4.032,
+      "rms": 0.1032,
+      "peak": 0.6823
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosmars-en.mp3",
+      "duration": 6.24,
+      "rms": 0.0815,
+      "peak": 0.5607
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosmars-yue-bright.mp3",
+      "duration": 7.104,
+      "rms": 0.0847,
+      "peak": 0.5133
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosmars-yue-male.mp3",
+      "duration": 6.264,
+      "rms": 0.0723,
+      "peak": 0.5326
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosmars-yue.mp3",
+      "duration": 6.336,
+      "rms": 0.0641,
+      "peak": 0.3837
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossatellite-cmn-bright.mp3",
+      "duration": 7.56,
+      "rms": 0.0675,
+      "peak": 0.5652
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossatellite-cmn-male.mp3",
+      "duration": 7.296,
+      "rms": 0.059,
+      "peak": 0.5091
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossatellite-cmn.mp3",
+      "duration": 7.224,
+      "rms": 0.1004,
+      "peak": 0.5253
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossatellite-en-female.mp3",
+      "duration": 5.832,
+      "rms": 0.1254,
+      "peak": 0.6327
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossatellite-en-male.mp3",
+      "duration": 5.424,
+      "rms": 0.0974,
+      "peak": 0.6348
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossatellite-en.mp3",
+      "duration": 7.752,
+      "rms": 0.0793,
+      "peak": 0.5258
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossatellite-yue-bright.mp3",
+      "duration": 10.272,
+      "rms": 0.0917,
+      "peak": 0.5569
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossatellite-yue-male.mp3",
+      "duration": 8.664,
+      "rms": 0.0751,
+      "peak": 0.5204
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossatellite-yue.mp3",
+      "duration": 8.592,
+      "rms": 0.0672,
+      "peak": 0.4576
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossaturn-cmn-bright.mp3",
+      "duration": 6.96,
+      "rms": 0.0606,
+      "peak": 0.4937
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossaturn-cmn-male.mp3",
+      "duration": 6.936,
+      "rms": 0.0513,
+      "peak": 0.5836
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossaturn-cmn.mp3",
+      "duration": 6.528,
+      "rms": 0.0899,
+      "peak": 0.5724
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossaturn-en-female.mp3",
+      "duration": 5.424,
+      "rms": 0.1301,
+      "peak": 0.5644
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossaturn-en-male.mp3",
+      "duration": 5.4,
+      "rms": 0.0965,
+      "peak": 0.6437
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossaturn-en.mp3",
+      "duration": 7.296,
+      "rms": 0.0754,
+      "peak": 0.5905
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossaturn-yue-bright.mp3",
+      "duration": 9.12,
+      "rms": 0.0935,
+      "peak": 0.6046
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossaturn-yue-male.mp3",
+      "duration": 7.584,
+      "rms": 0.0723,
+      "peak": 0.5111
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossaturn-yue.mp3",
+      "duration": 7.8,
+      "rms": 0.068,
+      "peak": 0.4127
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosstars-cmn-bright.mp3",
+      "duration": 6.36,
+      "rms": 0.0648,
+      "peak": 0.4668
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosstars-cmn-male.mp3",
+      "duration": 5.904,
+      "rms": 0.0573,
+      "peak": 0.6216
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosstars-cmn.mp3",
+      "duration": 6.0,
+      "rms": 0.0972,
+      "peak": 0.5169
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosstars-en-female.mp3",
+      "duration": 4.272,
+      "rms": 0.1291,
+      "peak": 0.5828
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosstars-en-male.mp3",
+      "duration": 4.128,
+      "rms": 0.0973,
+      "peak": 0.5863
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosstars-en.mp3",
+      "duration": 6.36,
+      "rms": 0.0783,
+      "peak": 0.5222
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosstars-yue-bright.mp3",
+      "duration": 8.616,
+      "rms": 0.0959,
+      "peak": 0.5419
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosstars-yue-male.mp3",
+      "duration": 7.032,
+      "rms": 0.072,
+      "peak": 0.538
+    },
+    {
+      "path": "assets/voice/v4-9/cosmosstars-yue.mp3",
+      "duration": 7.296,
+      "rms": 0.0669,
+      "peak": 0.418
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossun-cmn-bright.mp3",
+      "duration": 6.864,
+      "rms": 0.0658,
+      "peak": 0.5116
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossun-cmn-male.mp3",
+      "duration": 6.504,
+      "rms": 0.0538,
+      "peak": 0.6193
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossun-cmn.mp3",
+      "duration": 6.216,
+      "rms": 0.1007,
+      "peak": 0.5035
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossun-en-female.mp3",
+      "duration": 4.296,
+      "rms": 0.1299,
+      "peak": 0.577
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossun-en-male.mp3",
+      "duration": 4.296,
+      "rms": 0.0864,
+      "peak": 0.6059
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossun-en.mp3",
+      "duration": 6.288,
+      "rms": 0.0793,
+      "peak": 0.543
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossun-yue-bright.mp3",
+      "duration": 8.232,
+      "rms": 0.095,
+      "peak": 0.5657
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossun-yue-male.mp3",
+      "duration": 6.72,
+      "rms": 0.0724,
+      "peak": 0.5204
+    },
+    {
+      "path": "assets/voice/v4-9/cosmossun-yue.mp3",
+      "duration": 7.104,
+      "rms": 0.0647,
+      "peak": 0.4325
+    },
+    {
+      "path": "assets/voice/v4-9/hkboc-cmn-bright.mp3",
+      "duration": 8.232,
+      "rms": 0.066,
+      "peak": 0.4828
+    },
+    {
+      "path": "assets/voice/v4-9/hkboc-cmn-male.mp3",
+      "duration": 7.776,
+      "rms": 0.0539,
+      "peak": 0.6543
+    },
+    {
+      "path": "assets/voice/v4-9/hkboc-cmn.mp3",
+      "duration": 7.896,
+      "rms": 0.084,
+      "peak": 0.5427
+    },
+    {
+      "path": "assets/voice/v4-9/hkboc-en-female.mp3",
+      "duration": 7.056,
+      "rms": 0.1226,
+      "peak": 0.5468
+    },
+    {
+      "path": "assets/voice/v4-9/hkboc-en-male.mp3",
+      "duration": 6.408,
+      "rms": 0.0937,
+      "peak": 0.6355
+    },
+    {
+      "path": "assets/voice/v4-9/hkboc-en.mp3",
+      "duration": 9.408,
+      "rms": 0.0803,
+      "peak": 0.5009
+    },
+    {
+      "path": "assets/voice/v4-9/hkboc-yue-bright.mp3",
+      "duration": 10.512,
+      "rms": 0.0964,
+      "peak": 0.5592
+    },
+    {
+      "path": "assets/voice/v4-9/hkboc-yue-male.mp3",
+      "duration": 8.928,
+      "rms": 0.0715,
+      "peak": 0.5909
+    },
+    {
+      "path": "assets/voice/v4-9/hkboc-yue.mp3",
+      "duration": 9.168,
+      "rms": 0.0711,
+      "peak": 0.4619
+    },
+    {
+      "path": "assets/voice/v4-9/hkbus-cmn-bright.mp3",
+      "duration": 6.96,
+      "rms": 0.0661,
+      "peak": 0.4945
+    },
+    {
+      "path": "assets/voice/v4-9/hkbus-cmn-male.mp3",
+      "duration": 6.888,
+      "rms": 0.058,
+      "peak": 0.5664
+    },
+    {
+      "path": "assets/voice/v4-9/hkbus-cmn.mp3",
+      "duration": 6.648,
+      "rms": 0.0913,
+      "peak": 0.5296
+    },
+    {
+      "path": "assets/voice/v4-9/hkbus-en-female.mp3",
+      "duration": 6.672,
+      "rms": 0.1219,
+      "peak": 0.6228
+    },
+    {
+      "path": "assets/voice/v4-9/hkbus-en-male.mp3",
+      "duration": 5.808,
+      "rms": 0.0942,
+      "peak": 0.5751
+    },
+    {
+      "path": "assets/voice/v4-9/hkbus-en.mp3",
+      "duration": 9.264,
+      "rms": 0.0711,
+      "peak": 0.4876
+    },
+    {
+      "path": "assets/voice/v4-9/hkbus-yue-bright.mp3",
+      "duration": 9.408,
+      "rms": 0.0893,
+      "peak": 0.5545
+    },
+    {
+      "path": "assets/voice/v4-9/hkbus-yue-male.mp3",
+      "duration": 8.16,
+      "rms": 0.0676,
+      "peak": 0.6222
+    },
+    {
+      "path": "assets/voice/v4-9/hkbus-yue.mp3",
+      "duration": 8.448,
+      "rms": 0.0736,
+      "peak": 0.4638
+    },
+    {
+      "path": "assets/voice/v4-9/hkclock-cmn-bright.mp3",
+      "duration": 8.184,
+      "rms": 0.0625,
+      "peak": 0.5551
+    },
+    {
+      "path": "assets/voice/v4-9/hkclock-cmn-male.mp3",
+      "duration": 7.704,
+      "rms": 0.0582,
+      "peak": 0.5433
+    },
+    {
+      "path": "assets/voice/v4-9/hkclock-cmn.mp3",
+      "duration": 7.776,
+      "rms": 0.097,
+      "peak": 0.5588
+    },
+    {
+      "path": "assets/voice/v4-9/hkclock-en-female.mp3",
+      "duration": 6.984,
+      "rms": 0.1317,
+      "peak": 0.5708
+    },
+    {
+      "path": "assets/voice/v4-9/hkclock-en-male.mp3",
+      "duration": 6.648,
+      "rms": 0.0954,
+      "peak": 0.6472
+    },
+    {
+      "path": "assets/voice/v4-9/hkclock-en.mp3",
+      "duration": 9.84,
+      "rms": 0.0813,
+      "peak": 0.5322
+    },
+    {
+      "path": "assets/voice/v4-9/hkclock-yue-bright.mp3",
+      "duration": 10.272,
+      "rms": 0.0889,
+      "peak": 0.5811
+    },
+    {
+      "path": "assets/voice/v4-9/hkclock-yue-male.mp3",
+      "duration": 8.832,
+      "rms": 0.0695,
+      "peak": 0.6047
+    },
+    {
+      "path": "assets/voice/v4-9/hkclock-yue.mp3",
+      "duration": 9.072,
+      "rms": 0.0654,
+      "peak": 0.4299
+    },
+    {
+      "path": "assets/voice/v4-9/hkdim-cmn-bright.mp3",
+      "duration": 8.928,
+      "rms": 0.065,
+      "peak": 0.5274
+    },
+    {
+      "path": "assets/voice/v4-9/hkdim-cmn-male.mp3",
+      "duration": 8.304,
+      "rms": 0.056,
+      "peak": 0.5648
+    },
+    {
+      "path": "assets/voice/v4-9/hkdim-cmn.mp3",
+      "duration": 8.328,
+      "rms": 0.0955,
+      "peak": 0.6954
+    },
+    {
+      "path": "assets/voice/v4-9/hkdim-en-female.mp3",
+      "duration": 7.656,
+      "rms": 0.1227,
+      "peak": 0.5683
+    },
+    {
+      "path": "assets/voice/v4-9/hkdim-en-male.mp3",
+      "duration": 7.392,
+      "rms": 0.0962,
+      "peak": 0.7008
+    },
+    {
+      "path": "assets/voice/v4-9/hkdim-en.mp3",
+      "duration": 10.68,
+      "rms": 0.0813,
+      "peak": 0.6082
+    },
+    {
+      "path": "assets/voice/v4-9/hkdim-yue-bright.mp3",
+      "duration": 10.824,
+      "rms": 0.0901,
+      "peak": 0.5483
+    },
+    {
+      "path": "assets/voice/v4-9/hkdim-yue-male.mp3",
+      "duration": 9.312,
+      "rms": 0.072,
+      "peak": 0.5083
+    },
+    {
+      "path": "assets/voice/v4-9/hkdim-yue.mp3",
+      "duration": 9.384,
+      "rms": 0.0576,
+      "peak": 0.4298
+    },
+    {
+      "path": "assets/voice/v4-9/hkferry-cmn-bright.mp3",
+      "duration": 7.728,
+      "rms": 0.0699,
+      "peak": 0.4878
+    },
+    {
+      "path": "assets/voice/v4-9/hkferry-cmn-male.mp3",
+      "duration": 6.984,
+      "rms": 0.0501,
+      "peak": 0.4049
+    },
+    {
+      "path": "assets/voice/v4-9/hkferry-cmn.mp3",
+      "duration": 7.392,
+      "rms": 0.0878,
+      "peak": 0.5029
+    },
+    {
+      "path": "assets/voice/v4-9/hkferry-en-female.mp3",
+      "duration": 5.736,
+      "rms": 0.1304,
+      "peak": 0.6077
+    },
+    {
+      "path": "assets/voice/v4-9/hkferry-en-male.mp3",
+      "duration": 5.592,
+      "rms": 0.0971,
+      "peak": 0.62
+    },
+    {
+      "path": "assets/voice/v4-9/hkferry-en.mp3",
+      "duration": 7.752,
+      "rms": 0.0771,
+      "peak": 0.5744
+    },
+    {
+      "path": "assets/voice/v4-9/hkferry-yue-bright.mp3",
+      "duration": 9.432,
+      "rms": 0.0941,
+      "peak": 0.5856
+    },
+    {
+      "path": "assets/voice/v4-9/hkferry-yue-male.mp3",
+      "duration": 8.016,
+      "rms": 0.0745,
+      "peak": 0.5698
+    },
+    {
+      "path": "assets/voice/v4-9/hkferry-yue.mp3",
+      "duration": 8.088,
+      "rms": 0.0715,
+      "peak": 0.4681
+    },
+    {
+      "path": "assets/voice/v4-9/hktram-cmn-bright.mp3",
+      "duration": 6.888,
+      "rms": 0.0672,
+      "peak": 0.5452
+    },
+    {
+      "path": "assets/voice/v4-9/hktram-cmn-male.mp3",
+      "duration": 7.224,
+      "rms": 0.0639,
+      "peak": 0.5282
+    },
+    {
+      "path": "assets/voice/v4-9/hktram-cmn.mp3",
+      "duration": 6.696,
+      "rms": 0.0911,
+      "peak": 0.6381
+    },
+    {
+      "path": "assets/voice/v4-9/hktram-en-female.mp3",
+      "duration": 5.664,
+      "rms": 0.1376,
+      "peak": 0.6235
+    },
+    {
+      "path": "assets/voice/v4-9/hktram-en-male.mp3",
+      "duration": 5.304,
+      "rms": 0.0931,
+      "peak": 0.6291
+    },
+    {
+      "path": "assets/voice/v4-9/hktram-en.mp3",
+      "duration": 8.664,
+      "rms": 0.0731,
+      "peak": 0.5513
+    },
+    {
+      "path": "assets/voice/v4-9/hktram-yue-bright.mp3",
+      "duration": 9.096,
+      "rms": 0.0886,
+      "peak": 0.5764
+    },
+    {
+      "path": "assets/voice/v4-9/hktram-yue-male.mp3",
+      "duration": 7.944,
+      "rms": 0.0716,
+      "peak": 0.5716
+    },
+    {
+      "path": "assets/voice/v4-9/hktram-yue.mp3",
+      "duration": 8.112,
+      "rms": 0.0639,
+      "peak": 0.4268
+    },
+    {
+      "path": "assets/voice/v4-9/musicdrum-cmn-bright.mp3",
+      "duration": 5.88,
+      "rms": 0.0672,
+      "peak": 0.5555
+    },
+    {
+      "path": "assets/voice/v4-9/musicdrum-cmn-male.mp3",
+      "duration": 5.616,
+      "rms": 0.0584,
+      "peak": 0.5593
+    },
+    {
+      "path": "assets/voice/v4-9/musicdrum-cmn.mp3",
+      "duration": 5.52,
+      "rms": 0.0917,
+      "peak": 0.6818
+    },
+    {
+      "path": "assets/voice/v4-9/musicdrum-en-female.mp3",
+      "duration": 5.376,
+      "rms": 0.128,
+      "peak": 0.5324
+    },
+    {
+      "path": "assets/voice/v4-9/musicdrum-en-male.mp3",
+      "duration": 5.232,
+      "rms": 0.0909,
+      "peak": 0.5526
+    },
+    {
+      "path": "assets/voice/v4-9/musicdrum-en.mp3",
+      "duration": 8.568,
+      "rms": 0.0736,
+      "peak": 0.6236
+    },
+    {
+      "path": "assets/voice/v4-9/musicdrum-yue-bright.mp3",
+      "duration": 7.08,
+      "rms": 0.0828,
+      "peak": 0.546
+    },
+    {
+      "path": "assets/voice/v4-9/musicdrum-yue-male.mp3",
+      "duration": 6.48,
+      "rms": 0.0705,
+      "peak": 0.5777
+    },
+    {
+      "path": "assets/voice/v4-9/musicdrum-yue.mp3",
+      "duration": 6.336,
+      "rms": 0.0598,
+      "peak": 0.4023
+    },
+    {
+      "path": "assets/voice/v4-9/musicmaracas-cmn-bright.mp3",
+      "duration": 6.792,
+      "rms": 0.0665,
+      "peak": 0.479
+    },
+    {
+      "path": "assets/voice/v4-9/musicmaracas-cmn-male.mp3",
+      "duration": 6.6,
+      "rms": 0.0501,
+      "peak": 0.5681
+    },
+    {
+      "path": "assets/voice/v4-9/musicmaracas-cmn.mp3",
+      "duration": 6.336,
+      "rms": 0.0903,
+      "peak": 0.6705
+    },
+    {
+      "path": "assets/voice/v4-9/musicmaracas-en-female.mp3",
+      "duration": 5.832,
+      "rms": 0.1158,
+      "peak": 0.6841
+    },
+    {
+      "path": "assets/voice/v4-9/musicmaracas-en-male.mp3",
+      "duration": 5.496,
+      "rms": 0.0908,
+      "peak": 0.6871
+    },
+    {
+      "path": "assets/voice/v4-9/musicmaracas-en.mp3",
+      "duration": 8.856,
+      "rms": 0.0744,
+      "peak": 0.5475
+    },
+    {
+      "path": "assets/voice/v4-9/musicmaracas-yue-bright.mp3",
+      "duration": 8.856,
+      "rms": 0.0961,
+      "peak": 0.6132
+    },
+    {
+      "path": "assets/voice/v4-9/musicmaracas-yue-male.mp3",
+      "duration": 7.848,
+      "rms": 0.0693,
+      "peak": 0.55
+    },
+    {
+      "path": "assets/voice/v4-9/musicmaracas-yue.mp3",
+      "duration": 7.656,
+      "rms": 0.0734,
+      "peak": 0.5164
+    },
+    {
+      "path": "assets/voice/v4-9/musicpiano-cmn-bright.mp3",
+      "duration": 6.768,
+      "rms": 0.0603,
+      "peak": 0.5007
+    },
+    {
+      "path": "assets/voice/v4-9/musicpiano-cmn-male.mp3",
+      "duration": 6.408,
+      "rms": 0.0504,
+      "peak": 0.499
+    },
+    {
+      "path": "assets/voice/v4-9/musicpiano-cmn.mp3",
+      "duration": 6.408,
+      "rms": 0.0911,
+      "peak": 0.5359
+    },
+    {
+      "path": "assets/voice/v4-9/musicpiano-en-female.mp3",
+      "duration": 5.616,
+      "rms": 0.1316,
+      "peak": 0.5685
+    },
+    {
+      "path": "assets/voice/v4-9/musicpiano-en-male.mp3",
+      "duration": 4.872,
+      "rms": 0.0956,
+      "peak": 0.6666
+    },
+    {
+      "path": "assets/voice/v4-9/musicpiano-en.mp3",
+      "duration": 7.968,
+      "rms": 0.0772,
+      "peak": 0.5688
+    },
+    {
+      "path": "assets/voice/v4-9/musicpiano-yue-bright.mp3",
+      "duration": 8.832,
+      "rms": 0.0936,
+      "peak": 0.5437
+    },
+    {
+      "path": "assets/voice/v4-9/musicpiano-yue-male.mp3",
+      "duration": 7.44,
+      "rms": 0.068,
+      "peak": 0.4836
+    },
+    {
+      "path": "assets/voice/v4-9/musicpiano-yue.mp3",
+      "duration": 7.584,
+      "rms": 0.0673,
+      "peak": 0.4908
+    },
+    {
+      "path": "assets/voice/v4-9/musictambourine-cmn-bright.mp3",
+      "duration": 4.632,
+      "rms": 0.0571,
+      "peak": 0.3992
+    },
+    {
+      "path": "assets/voice/v4-9/musictambourine-cmn-male.mp3",
+      "duration": 4.536,
+      "rms": 0.051,
+      "peak": 0.4924
+    },
+    {
+      "path": "assets/voice/v4-9/musictambourine-cmn.mp3",
+      "duration": 3.84,
+      "rms": 0.0831,
+      "peak": 0.5518
+    },
+    {
+      "path": "assets/voice/v4-9/musictambourine-en-female.mp3",
+      "duration": 4.896,
+      "rms": 0.1249,
+      "peak": 0.5939
+    },
+    {
+      "path": "assets/voice/v4-9/musictambourine-en-male.mp3",
+      "duration": 4.248,
+      "rms": 0.095,
+      "peak": 0.6249
+    },
+    {
+      "path": "assets/voice/v4-9/musictambourine-en.mp3",
+      "duration": 7.464,
+      "rms": 0.0748,
+      "peak": 0.5029
+    },
+    {
+      "path": "assets/voice/v4-9/musictambourine-yue-bright.mp3",
+      "duration": 5.52,
+      "rms": 0.0898,
+      "peak": 0.5829
+    },
+    {
+      "path": "assets/voice/v4-9/musictambourine-yue-male.mp3",
+      "duration": 4.56,
+      "rms": 0.0763,
+      "peak": 0.5124
+    },
+    {
+      "path": "assets/voice/v4-9/musictambourine-yue.mp3",
+      "duration": 4.656,
+      "rms": 0.0645,
+      "peak": 0.4441
+    },
+    {
+      "path": "assets/voice/v4-9/musicxylophone-cmn-bright.mp3",
+      "duration": 5.712,
+      "rms": 0.0605,
+      "peak": 0.4118
+    },
+    {
+      "path": "assets/voice/v4-9/musicxylophone-cmn-male.mp3",
+      "duration": 5.208,
+      "rms": 0.0492,
+      "peak": 0.3712
+    },
+    {
+      "path": "assets/voice/v4-9/musicxylophone-cmn.mp3",
+      "duration": 5.184,
+      "rms": 0.087,
+      "peak": 0.6011
+    },
+    {
+      "path": "assets/voice/v4-9/musicxylophone-en-female.mp3",
+      "duration": 5.232,
+      "rms": 0.1299,
+      "peak": 0.5221
+    },
+    {
+      "path": "assets/voice/v4-9/musicxylophone-en-male.mp3",
+      "duration": 4.896,
+      "rms": 0.1029,
+      "peak": 0.6533
+    },
+    {
+      "path": "assets/voice/v4-9/musicxylophone-en.mp3",
+      "duration": 6.96,
+      "rms": 0.0767,
+      "peak": 0.566
+    },
+    {
+      "path": "assets/voice/v4-9/musicxylophone-yue-bright.mp3",
+      "duration": 7.272,
+      "rms": 0.0909,
+      "peak": 0.5892
+    },
+    {
+      "path": "assets/voice/v4-9/musicxylophone-yue-male.mp3",
+      "duration": 5.688,
+      "rms": 0.071,
+      "peak": 0.5259
+    },
+    {
+      "path": "assets/voice/v4-9/musicxylophone-yue.mp3",
+      "duration": 5.736,
+      "rms": 0.0643,
+      "peak": 0.4123
+    },
+    {
+      "path": "assets/voice/v4-9/shopbasket-cmn-bright.mp3",
+      "duration": 5.52,
+      "rms": 0.063,
+      "peak": 0.5935
+    },
+    {
+      "path": "assets/voice/v4-9/shopbasket-cmn-male.mp3",
+      "duration": 4.992,
+      "rms": 0.0531,
+      "peak": 0.6169
+    },
+    {
+      "path": "assets/voice/v4-9/shopbasket-cmn.mp3",
+      "duration": 5.112,
+      "rms": 0.0954,
+      "peak": 0.6887
+    },
+    {
+      "path": "assets/voice/v4-9/shopbasket-en-female.mp3",
+      "duration": 5.16,
+      "rms": 0.1178,
+      "peak": 0.5931
+    },
+    {
+      "path": "assets/voice/v4-9/shopbasket-en-male.mp3",
+      "duration": 4.248,
+      "rms": 0.0871,
+      "peak": 0.5976
+    },
+    {
+      "path": "assets/voice/v4-9/shopbasket-en.mp3",
+      "duration": 7.296,
+      "rms": 0.0728,
+      "peak": 0.5797
+    },
+    {
+      "path": "assets/voice/v4-9/shopbasket-yue-bright.mp3",
+      "duration": 7.08,
+      "rms": 0.0833,
+      "peak": 0.5759
+    },
+    {
+      "path": "assets/voice/v4-9/shopbasket-yue-male.mp3",
+      "duration": 6.12,
+      "rms": 0.07,
+      "peak": 0.5104
+    },
+    {
+      "path": "assets/voice/v4-9/shopbasket-yue.mp3",
+      "duration": 6.288,
+      "rms": 0.071,
+      "peak": 0.474
+    },
+    {
+      "path": "assets/voice/v4-9/shopbread-cmn-bright.mp3",
+      "duration": 5.544,
+      "rms": 0.0694,
+      "peak": 0.6013
+    },
+    {
+      "path": "assets/voice/v4-9/shopbread-cmn-male.mp3",
+      "duration": 5.448,
+      "rms": 0.0593,
+      "peak": 0.6096
+    },
+    {
+      "path": "assets/voice/v4-9/shopbread-cmn.mp3",
+      "duration": 5.28,
+      "rms": 0.1038,
+      "peak": 0.6419
+    },
+    {
+      "path": "assets/voice/v4-9/shopbread-en-female.mp3",
+      "duration": 3.96,
+      "rms": 0.1319,
+      "peak": 0.6266
+    },
+    {
+      "path": "assets/voice/v4-9/shopbread-en-male.mp3",
+      "duration": 3.624,
+      "rms": 0.0918,
+      "peak": 0.5864
+    },
+    {
+      "path": "assets/voice/v4-9/shopbread-en.mp3",
+      "duration": 5.52,
+      "rms": 0.0708,
+      "peak": 0.4568
+    },
+    {
+      "path": "assets/voice/v4-9/shopbread-yue-bright.mp3",
+      "duration": 6.576,
+      "rms": 0.0892,
+      "peak": 0.5893
+    },
+    {
+      "path": "assets/voice/v4-9/shopbread-yue-male.mp3",
+      "duration": 6.072,
+      "rms": 0.0721,
+      "peak": 0.5015
+    },
+    {
+      "path": "assets/voice/v4-9/shopbread-yue.mp3",
+      "duration": 6.12,
+      "rms": 0.0672,
+      "peak": 0.4537
+    },
+    {
+      "path": "assets/voice/v4-9/shopcart-cmn-bright.mp3",
+      "duration": 5.496,
+      "rms": 0.0656,
+      "peak": 0.5473
+    },
+    {
+      "path": "assets/voice/v4-9/shopcart-cmn-male.mp3",
+      "duration": 5.304,
+      "rms": 0.0582,
+      "peak": 0.4764
+    },
+    {
+      "path": "assets/voice/v4-9/shopcart-cmn.mp3",
+      "duration": 5.136,
+      "rms": 0.0978,
+      "peak": 0.5844
+    },
+    {
+      "path": "assets/voice/v4-9/shopcart-en-female.mp3",
+      "duration": 4.176,
+      "rms": 0.1219,
+      "peak": 0.5553
+    },
+    {
+      "path": "assets/voice/v4-9/shopcart-en-male.mp3",
+      "duration": 4.032,
+      "rms": 0.0975,
+      "peak": 0.6484
+    },
+    {
+      "path": "assets/voice/v4-9/shopcart-en.mp3",
+      "duration": 5.856,
+      "rms": 0.0827,
+      "peak": 0.5659
+    },
+    {
+      "path": "assets/voice/v4-9/shopcart-yue-bright.mp3",
+      "duration": 7.296,
+      "rms": 0.0824,
+      "peak": 0.6045
+    },
+    {
+      "path": "assets/voice/v4-9/shopcart-yue-male.mp3",
+      "duration": 6.36,
+      "rms": 0.0709,
+      "peak": 0.5304
+    },
+    {
+      "path": "assets/voice/v4-9/shopcart-yue.mp3",
+      "duration": 6.144,
+      "rms": 0.0613,
+      "peak": 0.4049
+    },
+    {
+      "path": "assets/voice/v4-9/shopeggs-cmn-bright.mp3",
+      "duration": 5.76,
+      "rms": 0.0623,
+      "peak": 0.4683
+    },
+    {
+      "path": "assets/voice/v4-9/shopeggs-cmn-male.mp3",
+      "duration": 5.568,
+      "rms": 0.05,
+      "peak": 0.5396
+    },
+    {
+      "path": "assets/voice/v4-9/shopeggs-cmn.mp3",
+      "duration": 5.256,
+      "rms": 0.104,
+      "peak": 0.8422
+    },
+    {
+      "path": "assets/voice/v4-9/shopeggs-en-female.mp3",
+      "duration": 4.56,
+      "rms": 0.1112,
+      "peak": 0.6045
+    },
+    {
+      "path": "assets/voice/v4-9/shopeggs-en-male.mp3",
+      "duration": 4.032,
+      "rms": 0.096,
+      "peak": 0.6437
+    },
+    {
+      "path": "assets/voice/v4-9/shopeggs-en.mp3",
+      "duration": 6.816,
+      "rms": 0.0671,
+      "peak": 0.4947
+    },
+    {
+      "path": "assets/voice/v4-9/shopeggs-yue-bright.mp3",
+      "duration": 8.112,
+      "rms": 0.086,
+      "peak": 0.6072
+    },
+    {
+      "path": "assets/voice/v4-9/shopeggs-yue-male.mp3",
+      "duration": 6.624,
+      "rms": 0.067,
+      "peak": 0.5894
+    },
+    {
+      "path": "assets/voice/v4-9/shopeggs-yue.mp3",
+      "duration": 6.768,
+      "rms": 0.0672,
+      "peak": 0.435
+    },
+    {
+      "path": "assets/voice/v4-9/shopmilk-cmn-bright.mp3",
+      "duration": 5.256,
+      "rms": 0.0609,
+      "peak": 0.447
+    },
+    {
+      "path": "assets/voice/v4-9/shopmilk-cmn-male.mp3",
+      "duration": 4.92,
+      "rms": 0.0562,
+      "peak": 0.5205
+    },
+    {
+      "path": "assets/voice/v4-9/shopmilk-cmn.mp3",
+      "duration": 4.992,
+      "rms": 0.0959,
+      "peak": 0.5969
+    },
+    {
+      "path": "assets/voice/v4-9/shopmilk-en-female.mp3",
+      "duration": 4.008,
+      "rms": 0.1214,
+      "peak": 0.566
+    },
+    {
+      "path": "assets/voice/v4-9/shopmilk-en-male.mp3",
+      "duration": 3.504,
+      "rms": 0.0904,
+      "peak": 0.5267
+    },
+    {
+      "path": "assets/voice/v4-9/shopmilk-en.mp3",
+      "duration": 6.168,
+      "rms": 0.0712,
+      "peak": 0.5151
+    },
+    {
+      "path": "assets/voice/v4-9/shopmilk-yue-bright.mp3",
+      "duration": 6.48,
+      "rms": 0.0879,
+      "peak": 0.5762
+    },
+    {
+      "path": "assets/voice/v4-9/shopmilk-yue-male.mp3",
+      "duration": 5.64,
+      "rms": 0.0699,
+      "peak": 0.526
+    },
+    {
+      "path": "assets/voice/v4-9/shopmilk-yue.mp3",
+      "duration": 5.712,
+      "rms": 0.0694,
+      "peak": 0.4661
+    },
+    {
+      "path": "assets/voice/v4-9/shoptissue-cmn-bright.mp3",
+      "duration": 5.76,
+      "rms": 0.0574,
+      "peak": 0.4677
+    },
+    {
+      "path": "assets/voice/v4-9/shoptissue-cmn-male.mp3",
+      "duration": 5.376,
+      "rms": 0.0597,
+      "peak": 0.5515
+    },
+    {
+      "path": "assets/voice/v4-9/shoptissue-cmn.mp3",
+      "duration": 5.376,
+      "rms": 0.0854,
+      "peak": 0.5045
+    },
+    {
+      "path": "assets/voice/v4-9/shoptissue-en-female.mp3",
+      "duration": 4.512,
+      "rms": 0.1173,
+      "peak": 0.696
+    },
+    {
+      "path": "assets/voice/v4-9/shoptissue-en-male.mp3",
+      "duration": 4.344,
+      "rms": 0.0909,
+      "peak": 0.6356
+    },
+    {
+      "path": "assets/voice/v4-9/shoptissue-en.mp3",
+      "duration": 6.312,
+      "rms": 0.071,
+      "peak": 0.531
+    },
+    {
+      "path": "assets/voice/v4-9/shoptissue-yue-bright.mp3",
+      "duration": 7.368,
+      "rms": 0.095,
+      "peak": 0.562
+    },
+    {
+      "path": "assets/voice/v4-9/shoptissue-yue-male.mp3",
+      "duration": 6.168,
+      "rms": 0.0676,
+      "peak": 0.5361
+    },
+    {
+      "path": "assets/voice/v4-9/shoptissue-yue.mp3",
+      "duration": 6.312,
+      "rms": 0.0663,
+      "peak": 0.4681
+    },
+    {
+      "path": "assets/voice/v4-9/shopyogurt-cmn-bright.mp3",
+      "duration": 6.0,
+      "rms": 0.0588,
+      "peak": 0.5393
+    },
+    {
+      "path": "assets/voice/v4-9/shopyogurt-cmn-male.mp3",
+      "duration": 6.0,
+      "rms": 0.0508,
+      "peak": 0.4741
+    },
+    {
+      "path": "assets/voice/v4-9/shopyogurt-cmn.mp3",
+      "duration": 5.568,
+      "rms": 0.084,
+      "peak": 0.5986
+    },
+    {
+      "path": "assets/voice/v4-9/shopyogurt-en-female.mp3",
+      "duration": 4.464,
+      "rms": 0.1363,
+      "peak": 0.5618
+    },
+    {
+      "path": "assets/voice/v4-9/shopyogurt-en-male.mp3",
+      "duration": 3.888,
+      "rms": 0.0946,
+      "peak": 0.5592
+    },
+    {
+      "path": "assets/voice/v4-9/shopyogurt-en.mp3",
+      "duration": 6.792,
+      "rms": 0.0717,
+      "peak": 0.4656
+    },
+    {
+      "path": "assets/voice/v4-9/shopyogurt-yue-bright.mp3",
+      "duration": 7.272,
+      "rms": 0.0943,
+      "peak": 0.6059
+    },
+    {
+      "path": "assets/voice/v4-9/shopyogurt-yue-male.mp3",
+      "duration": 6.504,
+      "rms": 0.0751,
+      "peak": 0.6007
+    },
+    {
+      "path": "assets/voice/v4-9/shopyogurt-yue.mp3",
+      "duration": 6.456,
+      "rms": 0.0677,
+      "peak": 0.402
+    },
+    {
+      "path": "assets/voice/v4-9/wxcloud-cmn-bright.mp3",
+      "duration": 6.912,
+      "rms": 0.0589,
+      "peak": 0.4394
+    },
+    {
+      "path": "assets/voice/v4-9/wxcloud-cmn-male.mp3",
+      "duration": 6.504,
+      "rms": 0.0533,
+      "peak": 0.5497
+    },
+    {
+      "path": "assets/voice/v4-9/wxcloud-cmn.mp3",
+      "duration": 6.336,
+      "rms": 0.0975,
+      "peak": 0.5636
+    },
+    {
+      "path": "assets/voice/v4-9/wxcloud-en-female.mp3",
+      "duration": 5.4,
+      "rms": 0.1207,
+      "peak": 0.6131
+    },
+    {
+      "path": "assets/voice/v4-9/wxcloud-en-male.mp3",
+      "duration": 5.448,
+      "rms": 0.0917,
+      "peak": 0.6112
+    },
+    {
+      "path": "assets/voice/v4-9/wxcloud-en.mp3",
+      "duration": 7.368,
+      "rms": 0.0831,
+      "peak": 0.5556
+    },
+    {
+      "path": "assets/voice/v4-9/wxcloud-yue-bright.mp3",
+      "duration": 8.688,
+      "rms": 0.093,
+      "peak": 0.5505
+    },
+    {
+      "path": "assets/voice/v4-9/wxcloud-yue-male.mp3",
+      "duration": 7.032,
+      "rms": 0.072,
+      "peak": 0.5294
+    },
+    {
+      "path": "assets/voice/v4-9/wxcloud-yue.mp3",
+      "duration": 7.152,
+      "rms": 0.067,
+      "peak": 0.4315
+    },
+    {
+      "path": "assets/voice/v4-9/wxleaves-cmn-bright.mp3",
+      "duration": 7.512,
+      "rms": 0.0636,
+      "peak": 0.4084
+    },
+    {
+      "path": "assets/voice/v4-9/wxleaves-cmn-male.mp3",
+      "duration": 6.96,
+      "rms": 0.0536,
+      "peak": 0.4685
+    },
+    {
+      "path": "assets/voice/v4-9/wxleaves-cmn.mp3",
+      "duration": 6.984,
+      "rms": 0.0994,
+      "peak": 0.6749
+    },
+    {
+      "path": "assets/voice/v4-9/wxleaves-en-female.mp3",
+      "duration": 5.256,
+      "rms": 0.1244,
+      "peak": 0.5606
+    },
+    {
+      "path": "assets/voice/v4-9/wxleaves-en-male.mp3",
+      "duration": 5.208,
+      "rms": 0.0994,
+      "peak": 0.5729
+    },
+    {
+      "path": "assets/voice/v4-9/wxleaves-en.mp3",
+      "duration": 7.32,
+      "rms": 0.0776,
+      "peak": 0.4969
+    },
+    {
+      "path": "assets/voice/v4-9/wxleaves-yue-bright.mp3",
+      "duration": 9.024,
+      "rms": 0.0883,
+      "peak": 0.5598
+    },
+    {
+      "path": "assets/voice/v4-9/wxleaves-yue-male.mp3",
+      "duration": 7.416,
+      "rms": 0.0721,
+      "peak": 0.5763
+    },
+    {
+      "path": "assets/voice/v4-9/wxleaves-yue.mp3",
+      "duration": 7.752,
+      "rms": 0.0592,
+      "peak": 0.423
+    },
+    {
+      "path": "assets/voice/v4-9/wxrain-cmn-bright.mp3",
+      "duration": 6.216,
+      "rms": 0.0704,
+      "peak": 0.5018
+    },
+    {
+      "path": "assets/voice/v4-9/wxrain-cmn-male.mp3",
+      "duration": 5.928,
+      "rms": 0.0545,
+      "peak": 0.4235
+    },
+    {
+      "path": "assets/voice/v4-9/wxrain-cmn.mp3",
+      "duration": 5.88,
+      "rms": 0.0985,
+      "peak": 0.5674
+    },
+    {
+      "path": "assets/voice/v4-9/wxrain-en-female.mp3",
+      "duration": 4.728,
+      "rms": 0.1213,
+      "peak": 0.5869
+    },
+    {
+      "path": "assets/voice/v4-9/wxrain-en-male.mp3",
+      "duration": 4.272,
+      "rms": 0.0973,
+      "peak": 0.6787
+    },
+    {
+      "path": "assets/voice/v4-9/wxrain-en.mp3",
+      "duration": 6.528,
+      "rms": 0.0774,
+      "peak": 0.5721
+    },
+    {
+      "path": "assets/voice/v4-9/wxrain-yue-bright.mp3",
+      "duration": 8.304,
+      "rms": 0.0897,
+      "peak": 0.6148
+    },
+    {
+      "path": "assets/voice/v4-9/wxrain-yue-male.mp3",
+      "duration": 7.128,
+      "rms": 0.0706,
+      "peak": 0.5619
+    },
+    {
+      "path": "assets/voice/v4-9/wxrain-yue.mp3",
+      "duration": 6.96,
+      "rms": 0.0646,
+      "peak": 0.4473
+    },
+    {
+      "path": "assets/voice/v4-9/wxrainbow-cmn-bright.mp3",
+      "duration": 6.168,
+      "rms": 0.0621,
+      "peak": 0.5221
+    },
+    {
+      "path": "assets/voice/v4-9/wxrainbow-cmn-male.mp3",
+      "duration": 5.76,
+      "rms": 0.0465,
+      "peak": 0.4515
+    },
+    {
+      "path": "assets/voice/v4-9/wxrainbow-cmn.mp3",
+      "duration": 5.736,
+      "rms": 0.0955,
+      "peak": 0.5873
+    },
+    {
+      "path": "assets/voice/v4-9/wxrainbow-en-female.mp3",
+      "duration": 4.68,
+      "rms": 0.141,
+      "peak": 0.5631
+    },
+    {
+      "path": "assets/voice/v4-9/wxrainbow-en-male.mp3",
+      "duration": 4.536,
+      "rms": 0.1017,
+      "peak": 0.6834
+    },
+    {
+      "path": "assets/voice/v4-9/wxrainbow-en.mp3",
+      "duration": 6.504,
+      "rms": 0.0765,
+      "peak": 0.5748
+    },
+    {
+      "path": "assets/voice/v4-9/wxrainbow-yue-bright.mp3",
+      "duration": 7.896,
+      "rms": 0.0884,
+      "peak": 0.6129
+    },
+    {
+      "path": "assets/voice/v4-9/wxrainbow-yue-male.mp3",
+      "duration": 6.792,
+      "rms": 0.0725,
+      "peak": 0.6004
+    },
+    {
+      "path": "assets/voice/v4-9/wxrainbow-yue.mp3",
+      "duration": 6.792,
+      "rms": 0.066,
+      "peak": 0.4004
+    },
+    {
+      "path": "assets/voice/v4-9/wxsnow-cmn-bright.mp3",
+      "duration": 7.392,
+      "rms": 0.0619,
+      "peak": 0.6098
+    },
+    {
+      "path": "assets/voice/v4-9/wxsnow-cmn-male.mp3",
+      "duration": 7.104,
+      "rms": 0.0496,
+      "peak": 0.5087
+    },
+    {
+      "path": "assets/voice/v4-9/wxsnow-cmn.mp3",
+      "duration": 6.816,
+      "rms": 0.0961,
+      "peak": 0.5816
+    },
+    {
+      "path": "assets/voice/v4-9/wxsnow-en-female.mp3",
+      "duration": 5.76,
+      "rms": 0.1171,
+      "peak": 0.5742
+    },
+    {
+      "path": "assets/voice/v4-9/wxsnow-en-male.mp3",
+      "duration": 5.568,
+      "rms": 0.0947,
+      "peak": 0.6347
+    },
+    {
+      "path": "assets/voice/v4-9/wxsnow-en.mp3",
+      "duration": 8.016,
+      "rms": 0.0727,
+      "peak": 0.4687
+    },
+    {
+      "path": "assets/voice/v4-9/wxsnow-yue-bright.mp3",
+      "duration": 9.696,
+      "rms": 0.0901,
+      "peak": 0.5521
+    },
+    {
+      "path": "assets/voice/v4-9/wxsnow-yue-male.mp3",
+      "duration": 8.016,
+      "rms": 0.0754,
+      "peak": 0.5344
+    },
+    {
+      "path": "assets/voice/v4-9/wxsnow-yue.mp3",
+      "duration": 8.136,
+      "rms": 0.0664,
+      "peak": 0.4201
+    },
+    {
+      "path": "assets/voice/v4-9/wxsun-cmn-bright.mp3",
+      "duration": 6.432,
+      "rms": 0.068,
+      "peak": 0.6326
+    },
+    {
+      "path": "assets/voice/v4-9/wxsun-cmn-male.mp3",
+      "duration": 6.144,
+      "rms": 0.0518,
+      "peak": 0.5792
+    },
+    {
+      "path": "assets/voice/v4-9/wxsun-cmn.mp3",
+      "duration": 5.976,
+      "rms": 0.1026,
+      "peak": 0.6214
+    },
+    {
+      "path": "assets/voice/v4-9/wxsun-en-female.mp3",
+      "duration": 3.744,
+      "rms": 0.1407,
+      "peak": 0.623
+    },
+    {
+      "path": "assets/voice/v4-9/wxsun-en-male.mp3",
+      "duration": 3.456,
+      "rms": 0.0967,
+      "peak": 0.6017
+    },
+    {
+      "path": "assets/voice/v4-9/wxsun-en.mp3",
+      "duration": 5.616,
+      "rms": 0.0679,
+      "peak": 0.504
+    },
+    {
+      "path": "assets/voice/v4-9/wxsun-yue-bright.mp3",
+      "duration": 8.496,
+      "rms": 0.0987,
+      "peak": 0.5921
+    },
+    {
+      "path": "assets/voice/v4-9/wxsun-yue-male.mp3",
+      "duration": 7.176,
+      "rms": 0.074,
+      "peak": 0.5275
+    },
+    {
+      "path": "assets/voice/v4-9/wxsun-yue.mp3",
+      "duration": 7.224,
+      "rms": 0.0719,
+      "peak": 0.425
+    },
+    {
+      "path": "assets/voice/v4-9/wxumbrella-cmn-bright.mp3",
+      "duration": 5.424,
+      "rms": 0.0617,
+      "peak": 0.4845
+    },
+    {
+      "path": "assets/voice/v4-9/wxumbrella-cmn-male.mp3",
+      "duration": 5.256,
+      "rms": 0.0499,
+      "peak": 0.4975
+    },
+    {
+      "path": "assets/voice/v4-9/wxumbrella-cmn.mp3",
+      "duration": 5.064,
+      "rms": 0.0968,
+      "peak": 0.5595
+    },
+    {
+      "path": "assets/voice/v4-9/wxumbrella-en-female.mp3",
+      "duration": 4.152,
+      "rms": 0.1462,
+      "peak": 0.6015
+    },
+    {
+      "path": "assets/voice/v4-9/wxumbrella-en-male.mp3",
+      "duration": 3.6,
+      "rms": 0.1071,
+      "peak": 0.6836
+    },
+    {
+      "path": "assets/voice/v4-9/wxumbrella-en.mp3",
+      "duration": 5.76,
+      "rms": 0.08,
+      "peak": 0.5106
+    },
+    {
+      "path": "assets/voice/v4-9/wxumbrella-yue-bright.mp3",
+      "duration": 7.248,
+      "rms": 0.0898,
+      "peak": 0.5855
+    },
+    {
+      "path": "assets/voice/v4-9/wxumbrella-yue-male.mp3",
+      "duration": 6.216,
+      "rms": 0.0669,
+      "peak": 0.5548
+    },
+    {
+      "path": "assets/voice/v4-9/wxumbrella-yue.mp3",
+      "duration": 6.288,
+      "rms": 0.0725,
+      "peak": 0.4611
+    },
+    {
+      "path": "assets/voice/v4-9/wxwind-cmn-bright.mp3",
+      "duration": 6.504,
+      "rms": 0.0635,
+      "peak": 0.6053
+    },
+    {
+      "path": "assets/voice/v4-9/wxwind-cmn-male.mp3",
+      "duration": 6.264,
+      "rms": 0.0558,
+      "peak": 0.5179
+    },
+    {
+      "path": "assets/voice/v4-9/wxwind-cmn.mp3",
+      "duration": 5.736,
+      "rms": 0.0902,
+      "peak": 0.5486
+    },
+    {
+      "path": "assets/voice/v4-9/wxwind-en-female.mp3",
+      "duration": 4.416,
+      "rms": 0.1373,
+      "peak": 0.5615
+    },
+    {
+      "path": "assets/voice/v4-9/wxwind-en-male.mp3",
+      "duration": 4.224,
+      "rms": 0.1022,
+      "peak": 0.6127
+    },
+    {
+      "path": "assets/voice/v4-9/wxwind-en.mp3",
+      "duration": 6.384,
+      "rms": 0.075,
+      "peak": 0.5984
+    },
+    {
+      "path": "assets/voice/v4-9/wxwind-yue-bright.mp3",
+      "duration": 8.208,
+      "rms": 0.0876,
+      "peak": 0.5505
+    },
+    {
+      "path": "assets/voice/v4-9/wxwind-yue-male.mp3",
+      "duration": 7.248,
+      "rms": 0.0698,
+      "peak": 0.5239
+    },
+    {
+      "path": "assets/voice/v4-9/wxwind-yue.mp3",
+      "duration": 7.032,
+      "rms": 0.0631,
+      "peak": 0.4569
+    },
+    {
+      "path": "assets/audio/v4-9/beach.mp3",
+      "duration": 36.0,
+      "rms": 0.0352,
+      "peak": 0.3981
+    },
+    {
+      "path": "assets/audio/v4-9/hongkong.mp3",
+      "duration": 36.0,
+      "rms": 0.0254,
+      "peak": 0.3329
+    },
+    {
+      "path": "assets/audio/v4-9/music.mp3",
+      "duration": 36.0,
+      "rms": 0.0113,
+      "peak": 0.044
+    },
+    {
+      "path": "assets/audio/v4-9/planets.mp3",
+      "duration": 36.0,
+      "rms": 0.0236,
+      "peak": 0.0838
+    },
+    {
+      "path": "assets/audio/v4-9/supermarket.mp3",
+      "duration": 36.0,
+      "rms": 0.0142,
+      "peak": 0.0916
+    },
+    {
+      "path": "assets/audio/v4-9/weather.mp3",
+      "duration": 36.0,
+      "rms": 0.0522,
+      "peak": 0.3816
+    },
+    {
+      "path": "assets/calls/v4-9/beachwave.mp3",
+      "duration": 3.0,
+      "rms": 0.0878,
+      "peak": 0.4347
+    },
+    {
+      "path": "assets/calls/v4-9/hktram.mp3",
+      "duration": 1.25,
+      "rms": 0.076,
+      "peak": 0.384
+    },
+    {
+      "path": "assets/calls/v4-9/musicdrum.mp3",
+      "duration": 0.48,
+      "rms": 0.0518,
+      "peak": 0.5839
+    },
+    {
+      "path": "assets/calls/v4-9/musicmaracas.mp3",
+      "duration": 0.53,
+      "rms": 0.0276,
+      "peak": 0.5197
+    },
+    {
+      "path": "assets/calls/v4-9/musicpiano.mp3",
+      "duration": 0.7,
+      "rms": 0.0892,
+      "peak": 0.4938
+    },
+    {
+      "path": "assets/calls/v4-9/musictambourine.mp3",
+      "duration": 0.56,
+      "rms": 0.0289,
+      "peak": 0.3961
+    },
+    {
+      "path": "assets/calls/v4-9/musicxylophone.mp3",
+      "duration": 0.72,
+      "rms": 0.09,
+      "peak": 0.3698
+    }
+  ],
+  "errors": []
+}

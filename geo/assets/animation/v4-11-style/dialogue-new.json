@@ -1,0 +1,40 @@
+{
+  "lemur": {
+    "emoji": "🐾",
+    "name": {
+      "en": "Lemur",
+      "yue": "狐猴",
+      "cmn": "狐猴"
+    },
+    "fact": {
+      "en": "I climb trees and love to eat fruit.",
+      "yue": "我會爬樹，仲鍾意食水果。",
+      "cmn": "我会爬树，也爱吃水果。"
+    },
+    "intro": {
+      "en": "I'm a lemur. I climb trees and love to eat fruit. Look at my long tail!",
+      "yue": "我係狐猴。我會爬樹，仲鍾意食水果。睇吓我條長尾巴！",
+      "cmn": "我是狐猴。我会爬树，也爱吃水果。看看我的长尾巴！"
+    },
+    "greeting": false
+  },
+  "peacock": {
+    "emoji": "🦚",
+    "name": {
+      "en": "Peacock",
+      "yue": "孔雀",
+      "cmn": "孔雀"
+    },
+    "fact": {
+      "en": "My colourful feathers open like a big fan.",
+      "yue": "我啲靚靚尾羽可以打開，好似一把大扇咁。",
+      "cmn": "我漂亮的尾羽可以展开，像一把大扇子。"
+    },
+    "intro": {
+      "en": "I'm a peacock. Look at my colourful feathers. They open like a big fan!",
+      "yue": "我係孔雀。睇吓我啲靚靚尾羽，打開就好似一把大扇咁！",
+      "cmn": "我是孔雀。看看我漂亮的尾羽，展开就像一把大扇子！"
+    },
+    "greeting": false
+  }
+}

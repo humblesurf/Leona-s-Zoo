@@ -1,0 +1,86 @@
+[
+  {
+    "scene": "music",
+    "id": "background",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-83bedf1b-af2f-47ac-a54d-4515e735d0a3.png",
+    "prompt": "Use case: illustration-story. Asset type: panoramic background for an interactive toddler game. Create one very wide 3:1 horizontal children's music cottage interior, eye-level view, continuous single landscape across the full width. Warm honey-colored timber floor occupies lower 45 percent, cream walls, large sunlit windows looking onto a leafy garden, gently draped curtains, soft cushions only at far sides, a low wooden display shelf along the rear wall, spacious clear foreground for five separate clickable instruments. No musical instruments painted into background, no people, no animals, no words or signs, no logos, no UI. Style: richly textured storybook 3D illustration with subtly faceted forms, friendly proportion, natural soft sunlight, crisp details, matching illustrated zoo landscapes, NOT flat clip art, NOT photoreal. Clean continuous perspective, inviting warm atmosphere. Render wide panorama with max available clarity.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "music",
+    "id": "musicpiano",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-525ded29-5f96-4bd9-9ca4-a781d0e0b199.png",
+    "prompt": "Use case: stylized-concept. Asset type: transparent complete instrument sprite for toddler music game. One beautifully crafted small upright piano, warm walnut wood with honey edges, a single row of correct white and black piano keys (black keys in groups of two and three), front slightly three-quarter eye-level camera, keyboard clearly visible, lid closed, stable four-legged base, compact friendly proportions, realistic recognizable piano not toy button synthesizer. Rich storybook 3D illustration, subtle faceted forms and painted texture, natural warm left lighting. Whole piano fully in frame with 8% clear margin, isolated on genuine transparent background, no bench, no props, no words, no logos, no hands or people, no face. Crisp clear clean alpha outline. No cast background shadow.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "music",
+    "id": "musicdrum",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-18d750ea-8e5d-49f2-b9b3-3d93d31d1b62.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent musical instrument sprite for interactive toddler game. One small round wooden children's snare drum with a cream drumhead, red stained wood shell and brass tension lugs, two wooden drumsticks resting alongside, not covering head. Clearly visible oval top viewed slightly from above and front, complete solid cylindrical shell. Rich storybook 3D illustrated rendering, subtly faceted forms, high quality hand-painted texture, gentle warm light from left. Recognizable real instrument with friendly proportions, NOT photoreal, NOT flat vector clip art. Fully in frame with 8% clear margins. Genuine transparent background, no people, no faces, no text, no brands, no background, no cast background shadow. Crisp clear silhouette.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "music",
+    "id": "musicxylophone",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-cebaf22a-b25e-47e8-ab9a-8bdeb635f146.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent musical instrument sprite for interactive toddler game. One authentic small wooden xylophone, eight graduated honey brown WOODEN tone bars on a sturdy red brown wooden frame with short resonator tubes, two round felt-headed wooden mallets resting at sides. Bars are wood, not metallic rainbow glockenspiel. View front with slight elevation, all bars clearly visible, complete instrument. Rich storybook 3D illustrated rendering, subtly faceted forms, high quality hand-painted texture, gentle warm light from left. Recognizable real instrument with friendly proportions, NOT photoreal, NOT flat vector clip art. Fully in frame with 8% clear margins. Genuine transparent background, no people, no faces, no text, no brands, no background, no cast background shadow. Crisp clear silhouette.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "music",
+    "id": "musictambourine",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-eb5ad742-7f25-43a5-b5cb-f98b8e245337.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent musical instrument sprite for interactive toddler game. One circular natural wood tambourine with cream membrane and evenly spaced paired silver metal jingles in its rim, tilted slightly so both drum head and metal jingles are clearly visible. No extra stick or hands, fully complete circular frame. Rich storybook 3D illustrated rendering, subtly faceted forms, high quality hand-painted texture, gentle warm light from left. Recognizable real instrument with friendly proportions, NOT photoreal, NOT flat vector clip art. Fully in frame with 8% clear margins. Genuine transparent background, no people, no faces, no text, no brands, no background, no cast background shadow. Crisp clear silhouette.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "music",
+    "id": "musicmaracas",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-0f04afe6-226e-4963-8e9c-dc1f51b30d96.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent musical instrument sprite for interactive toddler game. One matched pair of brightly decorated orange and turquoise wooden maracas with elongated egg-shaped shaker heads and smooth natural wooden handles, separated slightly, complete handles, front three-quarter view. They are a single pair of musical shakers. Rich storybook 3D illustrated rendering, subtly faceted forms, high quality hand-painted texture, gentle warm light from left. Recognizable real instrument with friendly proportions, NOT photoreal, NOT flat vector clip art. Fully in frame with 8% clear margins. Genuine transparent background, no people, no faces, no text, no brands, no background, no cast background shadow. Crisp clear silhouette.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "beach",
+    "id": "background",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-e27dc894-1659-4e10-9369-1160f30fb815.png",
+    "prompt": "Use case: illustration-story. Asset type: very wide 3:1 continuous scenic background for toddler beach game. Eye-level beautiful calm seaside holiday, warm sandy beach occupies lower 48 percent, clear turquoise shallow sea middle 25 percent, gentle shoreline nearly horizontal across the composition at normalized height 0.53, blue sky with small soft clouds and distant peaceful headland, a little beach grass and smooth rocks only far edges. Completely empty sand foreground for separately drawn clickable beach toys. No people, no animals, no umbrellas, no buckets or sandcastles prepainted, no signs or words. Rich crisp 3D storybook landscape illustration with subtly faceted shapes and hand-painted texture, same friendly style as painted zoo backgrounds, NOT flat vector, NOT photorealistic. Natural summer sunlight, generous spatial depth. Seamless single wide panorama.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "beach",
+    "id": "beachumbrella",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-709e156f-ac4d-4854-9a76-99026177e577.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent beach prop sprite. One large friendly open beach umbrella with orange cream and turquoise fabric panels, central wooden straight pole firmly fixed in a small round patch of sand, simple three-quarter eye-level view. Rich storybook 3D rendering with subtly faceted forms, painted textures, gentle summer sunlight. Entire canopy and entire pole base in frame with clear 8% margins, no chairs or people, no faces, no labels, no cast background shadow. Genuine transparent background, clean complete alpha.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "beach",
+    "id": "beachbucket",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-c37c672b-bbb4-4770-88a2-32764f85b094.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent beach prop sprite. One cheerful turquoise plastic sand bucket with yellow swing handle, full of golden sand just below the rim, friendly real proportions, complete bucket and handle, three-quarter eye-level. Rich storybook 3D rendering, subtly faceted shapes, painted texture, natural soft sunlight. Isolated on genuine transparent background with 8% margins, no people, no words, no faces, no other props, no cast background shadow.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "beach",
+    "id": "beachshovel",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-b49b4ffe-ea05-4707-beb8-ce4e4d26ecb0.png",
+    "prompt": "Use case: stylized-concept. Asset type: transparent complete beach prop sprite for toddler game. One complete friendly small yellow plastic beach shovel with turquoise handle, a few grains of sand in its concave blade, three-quarter front view. Clearly recognizable shovel with complete shaft and grip, not buried. Rich storybook 3D illustration with subtle faceted forms and hand-painted texture, soft natural summer light from left. Friendly accurate proportions, NOT photoreal, NOT flat clip art. Entire subject inside canvas with clear 8% margins, genuine transparent background, no people, no other props, no text, no faces, no cast background shadow.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "beach",
+    "id": "beachcastle",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-2990f305-bd2e-4663-b61b-e8ffebf37e32.png",
+    "prompt": "Use case: stylized-concept. Asset type: transparent complete beach prop sprite for toddler game. One beautifully built golden sandcastle with two small cylindrical turrets either side and a square main tower, simple arched doorway, little sand steps, realistic crumbly grain texture and slightly soft damp-sand edges, small triangular orange flag. All turrets clearly joined to their sand foundations. Three-quarter eye-level view, complete circular sand mound below. Rich storybook 3D illustration with subtle faceted forms and hand-painted texture, soft natural summer light from left. Friendly accurate proportions, NOT photoreal, NOT flat clip art. Entire subject inside canvas with clear 8% margins, genuine transparent background, no people, no other props, no text, no faces, no cast background shadow.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "scene": "beach",
+    "id": "beachwave",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-1082fda8-b9b4-4791-b477-63b307a5b422.png",
+    "prompt": "Use case: stylized-concept. Asset type: transparent complete beach prop sprite for toddler game. One single gentle turquoise shallow ocean wave with a soft curving white foam lip, extended horizontal 3:1 silhouette, low rounded crest, watery translucent blue edges. Grounded beach-water wave not abstract cloud, not tsunami, no sand background, suitable overpaint onto shallow sea. Rich storybook 3D illustration with subtle faceted forms and hand-painted texture, soft natural summer light from left. Friendly accurate proportions, NOT photoreal, NOT flat clip art. Entire subject inside canvas with clear 8% margins, genuine transparent background, no people, no other props, no text, no faces, no cast background shadow.",
+    "tool": "built-in image_gen"
+  }
+]

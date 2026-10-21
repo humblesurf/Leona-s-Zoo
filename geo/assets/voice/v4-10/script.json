@@ -1,0 +1,17 @@
+{
+  "camplantern": {
+    "en": "I'm a camping lantern. Tap me and watch my warm light glow.",
+    "yue": "我係露營燈。點一點，睇吓我暖暖嘅燈光。",
+    "cmn": "我是露营灯。点一点，看看我暖暖的灯光。"
+  },
+  "campmap": {
+    "en": "I'm a trail map. Follow my little path past the trees and the stream.",
+    "yue": "我係行山地圖。沿住小路行，經過樹木同小溪。",
+    "cmn": "我是徒步地图。沿着小路走，经过树木和小溪。"
+  },
+  "campbinoculars": {
+    "en": "I'm a pair of binoculars. Look through me to see the faraway mountains.",
+    "yue": "我係望遠鏡。望入嚟，遠處嘅山都睇得清。",
+    "cmn": "我是望远镜。看进来，远处的山也能看清。"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "scene": {
+    "id": "music",
+    "label": "音乐小屋",
+    "numScreens": 5,
+    "bgAspect": 3,
+    "bgMirror": true,
+    "bgStrip": "assets/chapters-v4-9/music/background.webp",
+    "ambience": "assets/audio/v4-9/music.mp3",
+    "animals": [
+      {
+        "id": "musicpiano",
+        "u": 0.1,
+        "feetY": 0.88,
+        "h": 0.35,
+        "flip": false,
+        "idle": "none",
+        "instance": "musicpiano-main",
+        "kind": "discovery"
+      },
+      {
+        "id": "musicdrum",
+        "u": 0.3,
+        "feetY": 0.88,
+        "h": 0.27,
+        "flip": false,
+        "idle": "none",
+        "instance": "musicdrum-main",
+        "kind": "discovery"
+      },
+      {
+        "id": "musicxylophone",
+        "u": 0.5,
+        "feetY": 0.86,
+        "h": 0.22,
+        "flip": false,
+        "idle": "none",
+        "instance": "musicxylophone-main",
+        "kind": "discovery"
+      },
+      {
+        "id": "musictambourine",
+        "u": 0.7,
+        "feetY": 0.85,
+        "h": 0.24,
+        "flip": false,
+        "idle": "none",
+        "instance": "musictambourine-main",
+        "kind": "discovery"
+      },
+      {
+        "id": "musicmaracas",
+        "u": 0.9,
+        "feetY": 0.87,
+        "h": 0.27,
+        "flip": false,
+        "idle": "none",
+        "instance": "musicmaracas-main",
+        "kind": "discovery"
+      }
+    ]
+  },
+  "objects": {
+    "musicpiano": {
+      "poster": "assets/chapters-v4-9/music/musicpiano.webp",
+      "width": 1260,
+      "height": 1115,
+      "motion": "piano",
+      "duration": 4800,
+      "keys": [
+        [
+          0.3,
+          0.51
+        ],
+        [
+          0.4,
+          0.52
+        ],
+        [
+          0.5,
+          0.535
+        ],
+        [
+          0.6,
+          0.55
+        ]
+      ]
+    },
+    "musicdrum": {
+      "poster": "assets/chapters-v4-9/music/musicdrum.webp",
+      "width": 1365,
+      "height": 1101,
+      "motion": "drum",
+      "duration": 4800
+    },
+    "musicxylophone": {
+      "poster": "assets/chapters-v4-9/music/musicxylophone.webp",
+      "width": 1499,
+      "height": 909,
+      "motion": "xylophone",
+      "duration": 4800
+    },
+    "musictambourine": {
+      "poster": "assets/chapters-v4-9/music/musictambourine.webp",
+      "width": 1202,
+      "height": 1013,
+      "motion": "tambourine",
+      "duration": 4800
+    },
+    "musicmaracas": {
+      "poster": "assets/chapters-v4-9/music/musicmaracas.webp",
+      "width": 1275,
+      "height": 1166,
+      "motion": "maracas",
+      "duration": 4800
+    }
+  },
+  "dialogue": {
+    "musicpiano": {
+      "name": {
+        "en": "Piano",
+        "cmn": "钢琴",
+        "yue": "鋼琴"
+      },
+      "emoji": "🎹",
+      "intro": {
+        "en": "I'm a piano. My keys play high and low notes. Let's make a little tune!",
+        "cmn": "我是钢琴，琴键会弹出高高低低的声音。一起弹首小曲吧！",
+        "yue": "我係鋼琴，琴鍵會彈出高高低低嘅聲音。一齊彈首小曲啦！"
+      },
+      "kind": "discovery"
+    },
+    "musicdrum": {
+      "name": {
+        "en": "Little drum",
+        "cmn": "小鼓",
+        "yue": "小鼓"
+      },
+      "emoji": "🥁",
+      "intro": {
+        "en": "I'm a little drum. Tap me gently, then try a stronger beat. Boom, boom!",
+        "cmn": "我是小鼓，轻轻敲，再试试重一点。咚，咚！",
+        "yue": "我係小鼓，輕輕敲，再試吓重啲。咚，咚！"
+      },
+      "kind": "discovery"
+    },
+    "musicxylophone": {
+      "name": {
+        "en": "Xylophone",
+        "cmn": "木琴",
+        "yue": "木琴"
+      },
+      "emoji": "🎵",
+      "intro": {
+        "en": "I'm a xylophone. My wooden bars make bright notes when the mallets tap them.",
+        "cmn": "我是木琴，小槌敲敲木条，就会发出清脆的声音。",
+        "yue": "我係木琴，小槌敲吓木條，就會發出清脆嘅聲音。"
+      },
+      "kind": "discovery"
+    },
+    "musictambourine": {
+      "name": {
+        "en": "Tambourine",
+        "cmn": "铃鼓",
+        "yue": "鈴鼓"
+      },
+      "emoji": "🎶",
+      "intro": {
+        "en": "I'm a tambourine. Shake my little jingles. Jingle, jingle!",
+        "cmn": "我是铃鼓，摇一摇，小铃片叮当响！",
+        "yue": "我係鈴鼓，搖一搖，小鈴片叮噹響！"
+      },
+      "kind": "discovery"
+    },
+    "musicmaracas": {
+      "name": {
+        "en": "Maracas",
+        "cmn": "沙锤",
+        "yue": "沙鎚"
+      },
+      "emoji": "🎶",
+      "intro": {
+        "en": "We're maracas. Little seeds rattle inside us. Shake slowly, then quickly!",
+        "cmn": "我们是沙锤，小颗粒在里面沙沙响。慢慢摇，再快快摇！",
+        "yue": "我哋係沙鎚，小粒粒喺入面沙沙響。慢慢搖，再快快搖！"
+      },
+      "kind": "discovery"
+    }
+  }
+}

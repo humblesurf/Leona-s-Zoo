@@ -1,0 +1,154 @@
+{
+  "version": "4.11",
+  "tool": "built-in image_gen",
+  "records": [
+    {
+      "id": "lion",
+      "poses": 6,
+      "viewport": {
+        "w": 636,
+        "h": 399
+      },
+      "crop": {
+        "left": 108,
+        "top": 120,
+        "width": 636,
+        "height": 399
+      },
+      "source": "source/lion.png",
+      "wholePoseBounds": [
+        [
+          15,
+          59,
+          598,
+          393
+        ],
+        [
+          640,
+          48,
+          1226,
+          393
+        ],
+        [
+          1274,
+          40,
+          1860,
+          393
+        ],
+        [
+          15,
+          438,
+          611,
+          805
+        ],
+        [
+          643,
+          452,
+          1235,
+          805
+        ],
+        [
+          1279,
+          475,
+          1864,
+          805
+        ]
+      ],
+      "registration": "complete silhouettes, shared crop and ground baseline, no mesh",
+      "motion": "roar",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        2,
+        1,
+        0
+      ],
+      "holds": [
+        320,
+        180,
+        220,
+        1050,
+        220,
+        220,
+        390
+      ]
+    },
+    {
+      "id": "polarbear",
+      "poses": 6,
+      "viewport": {
+        "w": 621,
+        "h": 507
+      },
+      "crop": {
+        "left": 72,
+        "top": 76,
+        "width": 621,
+        "height": 507
+      },
+      "source": "source/polarbear.png",
+      "wholePoseBounds": [
+        [
+          33,
+          163,
+          555,
+          453
+        ],
+        [
+          575,
+          127,
+          975,
+          455
+        ],
+        [
+          1051,
+          33,
+          1476,
+          456
+        ],
+        [
+          168,
+          490,
+          436,
+          964
+        ],
+        [
+          566,
+          591,
+          952,
+          954
+        ],
+        [
+          1000,
+          668,
+          1518,
+          960
+        ]
+      ],
+      "registration": "complete silhouettes, shared crop and ground baseline, no mesh",
+      "motion": "stand",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        2,
+        4,
+        1,
+        0
+      ],
+      "holds": [
+        380,
+        340,
+        300,
+        1100,
+        300,
+        300,
+        340,
+        500
+      ]
+    }
+  ]
+}

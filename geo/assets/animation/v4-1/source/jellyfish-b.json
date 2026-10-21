@@ -1,0 +1,8 @@
+{
+  "id": "jellyfish",
+  "part": 1,
+  "source": "geo/assets/animation/v4-1/source/jellyfish-b.png",
+  "prompt": "Production animation atlas: continue the referenced SAME purple faceted low-poly jellyfish. SECOND half, frames 8 through 15 of its gentle bell pulse cycle. Start with the bell shape and tentacles from the reference's bottom-right pose, then gradually reopen the bell back to the reference's first top-left pose. Preserve the translucent violet facets, pink inner tissue, body proportions and lighting; entire connected tentacles in every pose. EXACTLY EIGHT poses, TWO columns and FOUR rows on 1024x1536 portrait canvas, 512x384 cells. Fixed bell centre in each cell; keep the anatomical animal's size consistent with the reference, never progressively scale down the whole jellyfish. Use smaller equal motion increments, bell widens gradually and tentacles settle. Fit all tentacles comfortably in every cell. Real transparent alpha, no haze, no cast shadows, no coloured background, no text, no grid lines. Do not use a six-pose layout.",
+  "originalSource": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-5bc4650d-6bb6-4fb3-8756-69ce7e9e5d49.png",
+  "repair": "Continuation of corrected eight-pose atlas A."
+}

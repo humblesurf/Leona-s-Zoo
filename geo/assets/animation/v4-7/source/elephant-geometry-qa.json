@@ -1,0 +1,97 @@
+{
+  "id": "elephant",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "components": [
+    {
+      "count": 48728,
+      "left": 95,
+      "right": 443,
+      "top": 138,
+      "bottom": 355,
+      "center": [
+        271.97,
+        247.77
+      ]
+    },
+    {
+      "count": 47995,
+      "left": 579,
+      "right": 930,
+      "top": 138,
+      "bottom": 355,
+      "center": [
+        760.1,
+        245.84
+      ]
+    },
+    {
+      "count": 48997,
+      "left": 96,
+      "right": 451,
+      "top": 485,
+      "bottom": 701,
+      "center": [
+        275.66,
+        593.95
+      ]
+    },
+    {
+      "count": 48734,
+      "left": 579,
+      "right": 930,
+      "top": 483,
+      "bottom": 702,
+      "center": [
+        755.88,
+        592.24
+      ]
+    },
+    {
+      "count": 48346,
+      "left": 95,
+      "right": 450,
+      "top": 844,
+      "bottom": 1058,
+      "center": [
+        275.7,
+        951.17
+      ]
+    },
+    {
+      "count": 48172,
+      "left": 576,
+      "right": 930,
+      "top": 844,
+      "bottom": 1058,
+      "center": [
+        760.45,
+        950.7
+      ]
+    },
+    {
+      "count": 48092,
+      "left": 96,
+      "right": 453,
+      "top": 1196,
+      "bottom": 1409,
+      "center": [
+        276.57,
+        1303.14
+      ]
+    },
+    {
+      "count": 48599,
+      "left": 576,
+      "right": 934,
+      "top": 1196,
+      "bottom": 1409,
+      "center": [
+        760.43,
+        1303.13
+      ]
+    }
+  ]
+}

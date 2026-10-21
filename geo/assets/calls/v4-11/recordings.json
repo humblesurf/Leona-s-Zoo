@@ -1,0 +1,19 @@
+[
+  {
+    "id": "gazelle",
+    "title": "Deer Meewing 01.wav",
+    "author": "msantoro11",
+    "source": "https://freesound.org/people/msantoro11/sounds/351113/",
+    "download": "https://cdn.freesound.org/previews/351/351113_4790684-hq.mp3",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "type": "recording",
+    "description": "The creator recorded the calls of a group of deer at a nature park. This replaces the historical gazelle recording for the character now named Deer.",
+    "path": "assets/calls/v4-11/deer.wav",
+    "extractStart": 5.4,
+    "duration": 2.6,
+    "rms": 0.044922083616256714,
+    "peak": 0.31566357612609863,
+    "modifications": "One complete 2.6-second call excerpt; mono, gentle amplitude adjustment and 25ms/65ms fades. Original pitch unchanged."
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "id": "jaguar",
+  "tool": "image_gen.imagegen",
+  "mode": "builtin",
+  "source": "geo/assets/animation/v4-7/source/jaguar-source.png",
+  "originalSource": "C:/Users/XTIA/.codex/generated_images/01a11715-903e-7560-8842-393e78ee66d1/exec-74bd95ee-b709-4a7e-bc5b-92137e787f46.png",
+  "reference": "geo/assets/animation/v4-1/jaguar-poster.webp",
+  "actualSize": [
+    887,
+    1774
+  ],
+  "columns": 2,
+  "rows": 4,
+  "componentExtraction": true,
+  "cellHeight": 410,
+  "rowOrigins": [
+    41,
+    455,
+    886,
+    1294
+  ],
+  "cycle": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "holdsMs": [
+    105,
+    105,
+    95,
+    120,
+    105,
+    105,
+    90,
+    120
+  ],
+  "motion": "rotary gallop, staggered paws",
+  "usableFrames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "anatomyQA": "Eight complete connected jaguars, robust softly sculpted reference style preserved. Front contacts alternate0/1; compact gathering2/3;4hind contact/frontfeet tucked;5/6frontfeet raised substantially in targeted contact repairs. Extendedflight7 is short and compact rather than cheetah stretch. Far hindleg may be largely occluded in4; no lost leg identity from torso. All eight main components isolated; no outer canvas edge cut.",
+  "majorConnectedComponents": 8,
+  "readyForPackaging": true,
+  "readyForRuntime": false,
+  "prompts": [
+    "Use case: illustration-story. Asset: transparent production animation atlas for a toddler wildlife game.\nReference image1 is EXACT JAGUAR identity/style, not scenery: preserve this rounded robust golden 3D sculpted jaguar, dark rosette markings with central dots, cream cheeks/belly, small natural eyes, thick tail. Cleanly isolated, no amber haze.\nDraw one PORTRAIT1:2 PNG ideally1536x3072 with EXACTLY TWO columns by FOUR rows, EIGHT equal square cells, row-major. Each complete same jaguar faces LEFT, side camera fixed. This is a short purposeful low-bodied RUN, less stretched and more muscular than a cheetah. Stable head size/torso length/rosette pattern/lighting.\nUniform complete-silhouette width only70%of cell, counting all paws and full tail. At least12%transparent margin on EVERY side, don't let left tail cross central column seam or right tail meet edge. Fixed pelvis at57%cellwidth. Fixed ground line at88%cellheight; supporting paws on it. Same row/column cell pitch. Airborne poses above line, modest natural body bob, never independent size normalization.\nEIGHT exact chronological connected full-body key drawings for ONE rotary gallop:\n0 far forepaw lands first under shoulder while near forepaw reaches farther ahead but is still lifted; rearlegs recover.\n1 near forepaw contacts second, far forepaw pushes behind and begins to lift; robust shoulders absorb load; hindlegs fold beneath belly.\n2 forelegs finish push and fold back, hindfeet gather forward under muscular abdomen, modest back flexion.\n3 compact gathered flight, four paws airborne, forefeet folded rearward/hindfeet gathered forward. Clearly four attached legs and distinct paws.\n4 near hindpaw lands first below pelvis, far hindpaw staggered above ground; forelegs unfold in different directions.\n5 far hindpaw lands second, near hindleg pushes behind; shoulders reach forward, short powerful stride.\n6 last hindpaw pushes off rear, other hindpaw already raised; near and far forepaws reaching staggered, one clearly farther ahead.\n7 modest extended flight, near/far forelegs at DIFFERENT angles and front paws at least one paw-length apart, near/far hindlegs trail staggered. Ready for next farforecontact0. Not extreme cheetah stretching.\nEvery pose has FOUR legs correctly attached from shoulders and hips. Farlegs shaded slightly darker, don't merge legs, no detached paws. Same sculpted softly shaded 3D art style, no flat clipart, no photorealistic camera shot.\nTrue transparent alpha with no ground, shadow, background, particles, haze, text, grid, lines, border or props.",
+    "Make targeted biomechanical correction to the provided JAGUAR 8-pose atlas. Keep exact same rounded sculpted golden jaguar and rosettes, all body/head sizes, camera and LEFT-facing view, portrait TWO columns FOUR rows EIGHT cells. Keep poses0,1,2,3,7 exactly; correct leg contact in4,5,6 only.\nRotary gallop has front-support, gathered flight, hind-support, extended flight. In HIND-support poses4–6 FRONT paws must not touch ground.\nPose4 third-row LEFT: first near HIND foot lands under pelvis, far hindfoot raised just ahead. Both FRONT wrists bent and front paws folded up, clearly at least one paw-height above ground, no front support.\nPose5 third-row RIGHT: far HIND foot lands second, near HIND pushes behind. Both FRONT legs reach forward at different stages/angles but BOTH front paws are suspended visibly above ground by one paw-height; don't leave one foreleg standing vertically.\nPose6 bottom-row LEFT: last HIND toes pushing off behind pelvis, other hindleg already raised. Both FRONT legs stretch forward in DIFFERENT angles, one paw leads the other, both entirely airborne, preparing extended flight7.\nKeep four complete anatomical legs connected from shoulders/hips, no missing or fused paws. Stagger both leg pairs, identity and shading consistent. Keep unchanged other5poses, same fixed layout/body anchors, no arbitrary resizing. Make all complete animals fit own cell without outer canvas cuts, transparent background, no text/grid/borders/ground/shadow/haze.",
+    "Targeted fix of only JAGUAR poses5 and6 in this exact 8-pose atlas. Same portrait2columns4rows, same individual/style/rosettes/size/view. Do not alter other6cells, camera or registration.\nIn pose5 (third-row RIGHT) and pose6 (bottom-row LEFT), BOTH FRONT PAWS are still too low and appear planted. They must be clearly AIRBORNE during hind-foot support, not a walking stance.\nPose5: raise BOTH front wrists/paws substantially: lowest front toe must be at least TWO FRONT PAW HEIGHTS HIGHER than the lowest supporting HIND toe. Bend fore elbows and curl wrists; one front paw reaching ahead, other behind, distinct at shoulder roots. Both rear paws support, near/far rear staggered.\nPose6: both front legs reaching toward LEFT but UPWARD toward chest/belly level, front toes at least TWO PAW HEIGHTS ABOVE final HIND toe pushing off. One forepaw farther ahead than other; different angles, no perfectly parallel limbs. Last hindtoe only ground contact, other hindpaw raised.\nThe supporting hindfoot ground line stays unchanged in5/6. Do not raise whole animal instead of correcting front limbs. Every jaguar still FOUR anatomically connected legs, farlegs darker and distinct. Keep other six cells0/1/2/3/4/7 exact. No missing/fused paws or tail, no outer canvas cut, true transparent alpha, no words, border, gridlines or scenery."
+  ]
+}

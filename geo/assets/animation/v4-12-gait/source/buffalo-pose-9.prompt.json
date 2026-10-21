@@ -1,0 +1,13 @@
+{
+  "tool": "built-in image_gen",
+  "frame": 9,
+  "phase": 0.875,
+  "generatedSource": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11f8b-6c37-7a12-80e5-c214bd111c45\\exec-d5fceeb8-e892-4677-b3c0-658ab8391d86.png",
+  "destination": "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\buffalo-pose-9.png",
+  "prompt": "Use case: precise-object-edit. ONE whole transparent buffalo walk pose FRAME9, FAR FRONT aerial recovery.\nImage1 buffalo-pose8-repair-a is the correct four-leg anatomical master. Image2 pose-guide9 is the timing plan, do not render its schematic appearance.\nMake ONE precise limb change to image1, redrawing the ENTIRE animal in the exact same friendly faceted brown 3D character style and composition:\nThe DARK INNER FAR FRONT LEG, the smaller foreleg tucked BEHIND the big bright outer shoulder and currently toe-off to the LEFT of the broad planted near front hoof, now lifts its small hoof clearly HIGH ABOVE ground and swings FORWARD/LEFT beneath front chest. Bend that dark inner leg at knee/elbow, its lower shin folds leftward, hoof hangs under front chest about a full hoof length ABOVE the ground. Trace it from inner chest behind the bright shoulder to bent dark foreleg and lifted hoof; one continuous leg. Replace its old low toe-off position entirely, no additional limb.\nThe BIG BRIGHT OUTER NEAR FRONT LEG attached to visible outer shoulder remains grounded and nearly vertical at its broad ground hoof. Do NOT lift this bright foreground leg. Exactly two forelegs, ONE inner dark far front hoof airborne, ONE bright near front hoof planted.\nKeep BOTH rear legs from image1 exactly unchanged: dark INNER FAR HIND is forward-landed under the rear belly, bright OUTER NEAR HIND attached to visible right rump is planted farther RIGHT/back. TWO rear ground feet, no raised rear hoof.\nExactly FOUR connected legs and FOUR complete separate hooves total, THREE grounded and ONE airborne FAR FRONT. The torso/head size and shoulder/hip heights stay identical, no bounce, no trot, no jump. Head, cream horns, eyes, ears, hump, belly, tail, brown faceted materials and lighting all preserved. Full original whole-body pose render, never disassembled parts or image warp. True transparent alpha, full animal uncropped with margins, no shadow/floor/glow/background/checkerboard/text/labels.",
+  "transparent_background": true,
+  "referenced_image_paths": [
+    "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\buffalo-pose-8-repair-a.png",
+    "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\pose-guide-9.png"
+  ]
+}

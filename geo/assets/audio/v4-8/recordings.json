@@ -1,0 +1,50 @@
+[
+  {
+    "id": "harbor",
+    "path": "assets/audio/v4-8/harbor.mp3",
+    "title": "Gulls on the Harbor",
+    "author": "Joseph SARDIN",
+    "source": "https://bigsoundbank.com/gulls-on-the-harbor-s2573.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/2573.mp3?v=d",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 36,
+    "modifications": "36 second excerpt; gentle volume normalization and fades; original pitch",
+    "rms": 0.04463183239251746
+  },
+  {
+    "id": "camp",
+    "path": "assets/audio/v4-8/camp.mp3",
+    "title": "Forest and stream #2",
+    "author": "Pierre SIBANARCO",
+    "source": "https://bigsoundbank.com/forest-and-stream-2-s2714.html",
+    "download": "https://bigsoundbank.com/UPLOAD/mp3/2714.mp3?v=d",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "duration": 36,
+    "modifications": "36 second excerpt; gentle volume normalization and fades; original pitch",
+    "rms": 0.04405260814197668
+  },
+  {
+    "id": "space",
+    "path": "assets/audio/v4-8/space.mp3",
+    "title": "Original quiet exploration music",
+    "author": "Project-authored procedural musical score",
+    "license": "Project original",
+    "duration": 40,
+    "description": "Soft musical underscore; never presented as physical space ambience.",
+    "rms": 0.018654645769536498
+  },
+  {
+    "id": "campstream",
+    "path": "assets/calls/v4-8/campstream.mp3",
+    "duration": 2.5,
+    "title": "Forest stream excerpt",
+    "source": "https://bigsoundbank.com/forest-and-stream-2-s2714.html",
+    "author": "Pierre SIBANARCO",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "copyright": "Pierre SIBANARCO",
+    "modifications": "Short stream excerpt, volume normalization and fades; original pitch"
+  }
+]

@@ -1,0 +1,35 @@
+# Local scratch and caches
+__pycache__/
+*.py[cod]
+.manus/
+.upgrade-backup/
+.upgrade-work/
+
+# Older packages, review captures, and distribution archives.
+# The shared working copy is the current site: geo/ and share/runtime-v7-1/.
+screenshots/
+reviews/
+v4-13/
+concepts/
+experiments/
+flat/
+flat-game.tgz
+geo.zip
+
+share/runtime-v2/
+share/runtime-v3/
+share/runtime-v4-12/
+share/runtime-v7/
+share/*.zip
+share/*.html
+share/animal-calls-preview.mp3
+share/build-share.mjs
+share/build-share-v2.mjs
+share/build-share-v3.mjs
+share/build-share-v4-12.mjs
+share/build-share-v4-13.mjs
+share/build-v2.json
+share/build-v3.json
+share/build-v4-12.json
+share/test-*.json
+share/zip-files-v4-12.json

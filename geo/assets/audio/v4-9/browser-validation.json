@@ -1,0 +1,203 @@
+{
+  "errors": [],
+  "checks": [
+    {
+      "id": "musicpiano",
+      "tempo": 0.32,
+      "weight": "soft",
+      "volume": 0.3,
+      "started": 364.39999997615814,
+      "beats": [
+        {
+          "index": 0,
+          "time": 0,
+          "volume": 0.3
+        },
+        {
+          "index": 1,
+          "time": 0.32439999997615815,
+          "volume": 0.3
+        },
+        {
+          "index": 2,
+          "time": 0.65,
+          "volume": 0.3
+        },
+        {
+          "index": 3,
+          "time": 0.9616000000238418,
+          "volume": 0.3
+        }
+      ],
+      "duration": 1.68,
+      "playing": false,
+      "activeMedia": 0,
+      "pendingTimers": 0
+    },
+    {
+      "id": "musicdrum",
+      "tempo": 0.32,
+      "weight": "soft",
+      "volume": 0.3,
+      "started": 2112.399999976158,
+      "beats": [
+        {
+          "index": 0,
+          "time": 0,
+          "volume": 0.3
+        },
+        {
+          "index": 1,
+          "time": 0.32089999997615815,
+          "volume": 0.3
+        },
+        {
+          "index": 2,
+          "time": 0.6415,
+          "volume": 0.3
+        },
+        {
+          "index": 3,
+          "time": 0.9606999999284744,
+          "volume": 0.3
+        }
+      ],
+      "duration": 1.46,
+      "playing": false,
+      "activeMedia": 0,
+      "pendingTimers": 0
+    },
+    {
+      "id": "musicxylophone",
+      "tempo": 0.32,
+      "weight": "soft",
+      "volume": 0.3,
+      "started": 3645.1999999284744,
+      "beats": [
+        {
+          "index": 0,
+          "time": 0.00010000002384185791,
+          "volume": 0.3
+        },
+        {
+          "index": 1,
+          "time": 0.321,
+          "volume": 0.3
+        },
+        {
+          "index": 2,
+          "time": 0.6463000000715255,
+          "volume": 0.3
+        },
+        {
+          "index": 3,
+          "time": 0.9693999999761581,
+          "volume": 0.3
+        }
+      ],
+      "duration": 1.7,
+      "playing": false,
+      "activeMedia": 0,
+      "pendingTimers": 0
+    },
+    {
+      "id": "musictambourine",
+      "tempo": 0.32,
+      "weight": "soft",
+      "volume": 0.3,
+      "started": 5427.799999952316,
+      "beats": [
+        {
+          "index": 0,
+          "time": 0,
+          "volume": 0.3
+        },
+        {
+          "index": 1,
+          "time": 0.321,
+          "volume": 0.3
+        },
+        {
+          "index": 2,
+          "time": 0.6407999999523163,
+          "volume": 0.3
+        },
+        {
+          "index": 3,
+          "time": 0.9602000000476837,
+          "volume": 0.3
+        }
+      ],
+      "duration": 1.54,
+      "playing": false,
+      "activeMedia": 0,
+      "pendingTimers": 0
+    },
+    {
+      "id": "musicmaracas",
+      "tempo": 0.32,
+      "weight": "soft",
+      "volume": 0.3,
+      "started": 7064.699999928474,
+      "beats": [
+        {
+          "index": 0,
+          "time": 0.00010000002384185791,
+          "volume": 0.3
+        },
+        {
+          "index": 1,
+          "time": 0.32089999997615815,
+          "volume": 0.3
+        },
+        {
+          "index": 2,
+          "time": 0.6465,
+          "volume": 0.3
+        },
+        {
+          "index": 3,
+          "time": 0.9728999999761582,
+          "volume": 0.3
+        }
+      ],
+      "duration": 1.51,
+      "playing": false,
+      "activeMedia": 0,
+      "pendingTimers": 0
+    },
+    {
+      "id": "musicdrum",
+      "tempo": 0.68,
+      "weight": "strong",
+      "volume": 0.65,
+      "started": 8667.5,
+      "beats": [
+        {
+          "index": 0,
+          "time": 0.00009999990463256836,
+          "volume": 0.65
+        },
+        {
+          "index": 1,
+          "time": 0.6816999999284744,
+          "volume": 0.65
+        },
+        {
+          "index": 2,
+          "time": 1.3607999999523164,
+          "volume": 0.65
+        },
+        {
+          "index": 3,
+          "time": 2.0432999999523163,
+          "volume": 0.65
+        }
+      ],
+      "duration": 2.72,
+      "playing": false,
+      "activeMedia": 0,
+      "pendingTimers": 0
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "lion": {
+    "name": "狮子",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Lion_raring-sound1TamilNadu178.ogg",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "zebra": {
+    "name": "斑马",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%A9vys_zebra_(Sound_Effects).ogg",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "ostrich": {
+    "name": "鸵鸟",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "hippo": {
+    "name": "河马",
+    "mode": "verified recording",
+    "source": "https://freesound.org/people/YleArkisto/sounds/253082/",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "crocodile": {
+    "name": "鳄鱼",
+    "mode": "verified recording",
+    "source": "https://sound-effects.bbcrewind.co.uk/search?q=NHU05098060",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "flamingo": {
+    "name": "火烈鸟",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_roseus_(Rosaflamingo_-_Greater_Flamingo)_%E2%80%94_Weltvogelpark_Walsrode_2013.ogg",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "giraffe": {
+    "name": "长颈鹿",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Giraffehum3.oga",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "meerkat": {
+    "name": "狐獴",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Erdmaennchen.ogg",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "cheetah": {
+    "name": "猎豹",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Acoustic-Structure-and-Contextual-Use-of-Calls-by-Captive-Male-and-Female-Cheetahs-(Acinonyx-pone.0158546.s001.oga",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "elephant": {
+    "name": "大象",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Elephant_voice_-_trumpeting.ogg",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "rhino": {
+    "name": "犀牛",
+    "mode": "verified recording",
+    "source": "https://sound-effects.bbcrewind.co.uk/search?q=NHU05102195",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "warthog": {
+    "name": "疣猪",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:20200322_warthog_screeching.ogg",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "gazelle": {
+    "name": "瞪羚",
+    "mode": "verified recording",
+    "source": "https://sound-effects.bbcrewind.co.uk/search?q=NHU05032015",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "buffalo": {
+    "name": "水牛",
+    "mode": "verified recording",
+    "source": "https://sound-effects.bbcrewind.co.uk/search?q=NHU05020149",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "leopard": {
+    "name": "豹",
+    "mode": "verified recording",
+    "source": "https://freesound.org/people/drobiumdesign/sounds/346402/",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "clownfish": {
+    "name": "小丑鱼",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "seahorse": {
+    "name": "海马",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "starfish": {
+    "name": "海星",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "turtle": {
+    "name": "海龟",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "pufferfish": {
+    "name": "河豚",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "crab": {
+    "name": "螃蟹",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "whale": {
+    "name": "鲸鱼",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Humpback-Whale-Song-and-Foraging-Behavior-on-an-Antarctic-Feeding-Ground-pone.0051214.s001.oga",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "dolphin": {
+    "name": "海豚",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:161691_felixblume_dolphin-screaming-underwater-in-caribbean-sea-mexico.wav",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "jellyfish": {
+    "name": "水母",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "otter": {
+    "name": "水獭",
+    "mode": "verified recording",
+    "source": "https://freesound.org/people/Motion_S/sounds/221761/",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "octopus": {
+    "name": "章鱼",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "stingray": {
+    "name": "鳐鱼",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "shark": {
+    "name": "鲨鱼",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "seal": {
+    "name": "海豹",
+    "mode": "verified recording",
+    "source": "https://freesound.org/people/stormpetrel/sounds/179586/",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "lobster": {
+    "name": "龙虾",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "toucan": {
+    "name": "巨嘴鸟",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Toco_Toucan_call_(Ramphastos_toco).ogg",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "sloth": {
+    "name": "树懒",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "monkey": {
+    "name": "猴子",
+    "mode": "verified recording",
+    "source": "https://freesound.org/people/iwilhelm13/sounds/639903/",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "frog": {
+    "name": "树蛙",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Rotaugenlaubfrosch_Paarungsruf.ogg",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "hummingbird": {
+    "name": "蜂鸟",
+    "mode": "verified recording",
+    "source": "https://freesound.org/people/andrew1280/sounds/43153/",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "butterfly": {
+    "name": "蝴蝶",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "capybara": {
+    "name": "水豚",
+    "mode": "verified recording",
+    "source": "https://sound-effects.bbcrewind.co.uk/search?q=NHU05049021",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "tapir": {
+    "name": "貘",
+    "mode": "verified recording",
+    "source": "https://sound-effects.bbcrewind.co.uk/search?q=NHU9719393",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "macaw": {
+    "name": "金刚鹦鹉",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Scarlet_macaw_01.wav",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "jaguar": {
+    "name": "美洲豹",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Jaguar_saw.flac",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "boa": {
+    "name": "蟒蛇",
+    "mode": "verified recording",
+    "source": "https://freesound.org/people/Kjell%20Persson/sounds/33458/",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "chameleon": {
+    "name": "变色龙",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "gorilla": {
+    "name": "大猩猩",
+    "mode": "verified recording",
+    "source": "https://freesound.org/people/museuciencies/sounds/505991/",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "tiger": {
+    "name": "老虎",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:439280_schots_angry-tiger.wav",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "orangutan": {
+    "name": "红毛猩猩",
+    "mode": "verified recording",
+    "source": "https://commons.wikimedia.org/wiki/File:Speech-Like-Rhythm-in-a-Voiced-and-Voiceless-Orangutan-Call-pone.0116136.s001.oga",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "polarbear": {
+    "name": "北极熊",
+    "mode": "verified recording",
+    "source": "https://sound-effects.bbcrewind.co.uk/search?q=NHU05088052",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "penguin": {
+    "name": "帝企鹅",
+    "mode": "verified recording",
+    "source": "https://freesound.org/people/stormpetrel/sounds/179589/",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "arcticfox": {
+    "name": "北极狐",
+    "mode": "verified recording",
+    "source": "https://sound-effects.bbcrewind.co.uk/search?q=NHU05098054",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "walrus": {
+    "name": "海象",
+    "mode": "verified recording",
+    "source": "https://freesound.org/people/jeo/sounds/103115/",
+    "reason": "Recording identified as this species; short clip, original pitch."
+  },
+  "inuit": {
+    "name": "因纽特小朋友",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  },
+  "igloo": {
+    "name": "雪屋",
+    "mode": "quiet interface cue + narration",
+    "source": null,
+    "reason": "No verified species recording bundled. A soft musical tap cue is used, without presenting it as an animal call."
+  }
+}

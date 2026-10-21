@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "frames": [
+    5,
+    6
+  ],
+  "phases": [
+    0.5,
+    0.585
+  ],
+  "generatedSource": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11f8b-6c37-7a12-80e5-c214bd111c45\\exec-152030c1-e838-45e8-af95-21f6a8bd1b1c.png",
+  "destination": "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\buffalo-pair-56.png",
+  "prompt": "Use case: stylized-concept. Asset type: two complete full-body original buffalo walk poses frame5 and frame6 on one transparent sheet.\nInput1 buffalo-pose-7 is master character AND FAR HIND leg identity: its dark INNER rear leg behind the big brightest OUTER thigh is far hind; its broad light visible OUTER rump/thigh is near hind. Input2 is the same buffalo small identity reference. Inputs3/4 pose-guide5/6 show leg timing only, NEVER copy guide shapes/colors/text.\nSingle WIDE transparent canvas with TWO isolated WHOLE buffaloes side-by-side, equal head/body size and shoulder/hip height; LEFT is frame5, RIGHT frame6. All face LEFT, friendly brown polished faceted 3D style, same horns, eyes, ears, hump, belly and tail as input1. Exactly FOUR continuous anatomical legs and FOUR separated, uncropped hooves in each; body weight stays calmly supported.\nBOTH poses: big BRIGHT FOREGROUND NEAR HIND outer thigh on visible RIGHT rump remains PLANTED, a nearly vertical weight-bearing column into a large ground hoof directly under hip. Never bend/lift this big near hind thigh. A separate DARK FAR HIND upperleg emerges from BEHIND and is partly occluded by this big outer thigh, continues to its own smaller dark hoof. Foreground near hind appears in front of far hind; keep the dark far foot clear beyond/right of near hoof so identity can be traced.\nLEFT frame5 FAR HIND TOE OFF: dark far hind leg extends backward/RIGHT behind near hind, toe at ground at the farthest trailing rear position, heel beginning to lift. Near hind stands under rump. BRIGHT NEAR FRONT has just landed stretched forward/LEFT, clear ground hoof ahead of visible outer shoulder, and its big bright shoulder-to-hoof connection obvious. DARK FAR FRONT planted underneath chest with hoof a little behind/right of near front hoof. ALL four feet touch ground (far hind on toe).\nRIGHT frame6 FAR HIND EARLY AIR: lift ONLY the dark INNER FAR HIND hoof, behind/right of the hip and clearly ABOVE ground, hock flexed, hoof hangs to the RIGHT of planted big light near hind shin. Trace this dark rear leg from inner hip BEHIND the nearest bright outer thigh to lifted dark hoof. The big light outer rear thigh and near hind hoof stay firmly straight planted. BRIGHT NEAR FRONT still planted forward/LEFT, but slightly less stretched than left pose. DARK FAR FRONT grounded near underside of chest. Thus exactly one AIRBORNE dark far rear hoof, three supporting feet.\nDo not copy input1's late-air dark hoof forward under belly; in frame6 the dark lifted far hoof is still trailing behind/right at early recovery. No trot/jump, no swapping near/far legs. Each buffalo is an entirely rendered full-body pose, not parts, not image warping. Identical torso/head outline and size, only specified limb articulation changes. Generous transparent margin between animals and around hooves/horns/tails, true transparent alpha, no ground/floor/shadow/background glow, no checkerboard drawing, no labels, no text.",
+  "transparent_background": true,
+  "referenced_image_paths": [
+    "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\buffalo-pose-7.png",
+    "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\buffalo-reference-small.png",
+    "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\pose-guide-5.png",
+    "C:\\Users\\XTIA\\OneDrive - AEDAS LTD\\AI Project_Aedas\\toddler-animals\\geo\\assets\\animation\\v4-12-gait\\source\\pose-guide-6.png"
+  ]
+}

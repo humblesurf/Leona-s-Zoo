@@ -1,0 +1,47 @@
+import fs from 'node:fs';import vm from 'node:vm';
+const root='geo/assets/chapters-v4-11',state={window:{}};
+for(const f of ['game-data','animation-data','authored-motion-data','exploration-data','chapters-data','revisions-data','animal-fixes-v4-10'])vm.runInNewContext(fs.readFileSync(`geo/assets/${f}.js`,'utf8'),state);
+const S=structuredClone(state.window.GAME_SCENES),D=state.window.GAME_DIALOGUE,objects={},dialogue={},art=JSON.parse(fs.readFileSync(root+'/root-art.json','utf8'));
+const add=(scene,id,u,h,feetY,flip=false,extra={})=>S[scene].animals.push({id,u,h,feetY,flip,idle:'breathe',instance:`v4-11-${scene}-${id}-${S[scene].animals.length}`,facing:flip?1:-1,...extra});
+const all=(scene,id)=>S[scene].animals.filter(a=>a.id===id);
+// Families live at different depths; distant silhouettes stay non-interactive.
+const sav=S.savanna;let seen=0;sav.animals=sav.animals.filter(a=>a.id!=='zebra'||++seen<=2);seen=0;sav.animals=sav.animals.filter(a=>a.id!=='buffalo'||++seen<=2);
+all('savanna','zebra').forEach((a,i)=>Object.assign(a,{u:[.16,.202][i],h:[.18,.135][i],feetY:[.755,.70][i],flip:!!i}));
+all('savanna','warthog').forEach((a,i)=>Object.assign(a,{u:[.401,.429,.414][i],h:[.16,.105,.085][i],feetY:[.76,.81,.66][i]}));
+all('savanna','meerkat').forEach((a,i)=>Object.assign(a,{u:[.463,.481,.452][i],feetY:[.82,.86,.70][i]}));
+Object.assign(all('savanna','elephant')[0],{u:.528,h:.35,feetY:.795});Object.assign(all('savanna','elephantcalf')[0],{u:.569,h:.195,feetY:.856});
+all('savanna','cheetah')[0].u=.616;add('savanna','cheetah',.588,.137,.72,true);add('savanna','cheetah',.646,.125,.815,false);
+Object.assign(all('savanna','hippo')[0],{h:.20,feetY:.744,shoreX:.68,dryShore:true});add('savanna','hippo',.651,.16,.629,false,{pondGroup:'hippo',shoreX:.57,waterDepth:.46});add('savanna','hippo',.658,.12,.615,true,{pondGroup:'hippo',shoreX:.86,waterDepth:.49});
+all('savanna','buffalo').forEach((a,i)=>Object.assign(a,{u:[.856,.889][i],h:[.19,.13][i],feetY:[.76,.69][i]}));
+sav.backgroundHerds=[['gazelle',.025,.043,.585,1],['zebra',.078,.05,.59,0],['giraffe',.106,.077,.604,1],['buffalo',.19,.057,.608,0],['gazelle',.237,.05,.606,1],['zebra',.27,.05,.591,0],['elephant',.353,.058,.61,1],['gazelle',.388,.046,.607,0],['buffalo',.445,.05,.598,1],['elephant',.508,.063,.606,0],['elephantcalf',.548,.037,.615,1],['giraffe',.605,.086,.606,1],['zebra',.645,.046,.61,0],['gazelle',.692,.045,.605,1],['flamingo',.732,.064,.57,0],['warthog',.825,.04,.605,1],['gazelle',.875,.044,.60,0],['zebra',.962,.055,.60,1]].map(([id,u,h,feetY,flip])=>({id,u,h,feetY,flip:!!flip}));
+sav.decor=[...(sav.decor||[]),{sprite:'assets/chapters-v4-11/ocean/nest.webp',u:.40,bgAnchorX:.082,h:.058,feetY:.24,depth:4}];
+for(const a of sav.animals.filter(a=>a.special==='water-eyes'))a.sprite='assets/animation/v4-11-style/crocodile-eyes.webp';
+const rain=S.rainforest;add('rainforest','monkey',.167,.15,.535,true,{support:'vine'});add('rainforest','monkey',.259,.12,.43,true,{support:'vine'});
+Object.assign(all('rainforest','otter')[0],{u:.48,h:.108,feetY:.665,bgAnchorX:.47,waterDepth:.10});add('rainforest','otter',.506,.077,.665,true,{bgAnchorX:.58,waterDepth:.10});add('rainforest','otter',.459,.072,.65,false,{bgAnchorX:.35,waterDepth:.10});
+Object.assign(all('rainforest','butterfly')[0],{u:.335,h:.105,feetY:.713,idle:'none'});Object.assign(all('rainforest','butterfly')[1],{u:.398,h:.068,feetY:.805,idle:'none',support:'leaf'});
+rain.decor=[...(rain.decor||[]),{sprite:'assets/chapters-v4-11/ocean/flower.webp',u:.335,h:.19,feetY:.878,depth:5}];
+add('rainforest','lemur',.364,.18,.79,false);add('rainforest','peacock',.545,.18,.79,true);
+rain.backgroundHerds=[['monkey',.073,.058,.455,1],['toucan',.139,.046,.378,0],['jaguar',.257,.057,.709,1],['otter',.408,.04,.611,0],['lemur',.558,.05,.755,1],['toucan',.668,.038,.398,1],['peacock',.753,.069,.718,0],['monkey',.841,.05,.413,0],['jaguar',.920,.052,.70,1]].map(([id,u,h,feetY,flip])=>({id,u,h,feetY,flip:!!flip}));
+for(const a of all('rainforest','macaw'))a.gripY=.814;
+S.ocean.schools=[...(S.ocean.schools||[]),{u:.024,y:.27,count:7,scale:.024,direction:1,ids:['reeffish','clownfish']},{u:.073,y:.49,count:6,scale:.019,direction:-1,ids:['reeffish']},{u:.13,y:.34,count:9,scale:.026,direction:1,ids:['clownfish','reeffish']},{u:.235,y:.20,count:5,scale:.022,direction:-1,ids:['reeffish']},{u:.61,y:.22,count:7,scale:.021,direction:1,ids:['reeffish']}];
+S.polar.sectionBlend=.32;Object.assign(all('polar','polarbear')[0],{h:.46,feetY:.885});
+const farm=S.farm;add('farm','cow',.18,.17,.747,true);add('farm','sheep',.226,.145,.75,true);add('farm','lamb',.326,.102,.79,true);add('farm','piglet',.427,.09,.77,false);add('farm','hen',.606,.10,.794,true);add('farm','chick',.632,.052,.843,true);add('farm','chick',.596,.056,.848,false);
+for(const a of farm.animals.filter(a=>['duck','duckling'].includes(a.id))){a.waterDepth=.28;a.feetY+=.009+a.h*.08;if(a.id==='duckling')a.shoreX=.865;}
+add('farm','duck',.767,.085,.5838,true,{pondGroup:'ducks',shoreX:.705,waterDepth:.28});add('farm','duckling',.784,.061,.57788,false,{pondGroup:'ducks',shoreX:.735,waterDepth:.28});add('farm','farmgoose',.721,.11,.561,true,{pondGroup:'ducks',shoreX:.935,waterDepth:.035});
+farm.backgroundHerds=[{id:'cow',u:.10,h:.07,feetY:.605,flip:true},{id:'sheep',u:.304,h:.054,feetY:.628},{id:'sheep',u:.32,h:.043,feetY:.627,flip:true},{id:'hen',u:.478,h:.042,feetY:.69}];
+Object.assign(S.market,{bgStrip:art.market.path,bgAspect:art.market.aspect});
+const music=JSON.parse(fs.readFileSync(root+'/music/scene.json','utf8'));Object.assign(S.music,music.scene);Object.assign(objects,music.objects);Object.assign(dialogue,music.dialogue);
+Object.assign(objects,art.objects);
+add('space','spacealien',.21,.20,.868,false,{region:'moon',kind:'discovery'});add('space','spacealien',.655,.185,.832,true,{region:'mars',kind:'discovery'});
+add('space','spaceastronaut',.373,.195,.86,true,{region:'moon',kind:'discovery'});add('space','spaceastronaut',.87,.185,.848,false,{region:'mars',kind:'discovery'});
+add('space','spacedish',.462,.205,.85,false,{region:'moon',kind:'discovery'});add('space','spacedish',.966,.185,.86,true,{region:'mars',kind:'discovery'});
+dialogue.spacealien={name:{en:'Imaginary alien',cmn:'想象中的外星朋友',yue:'想像中嘅外星朋友'},emoji:'👽',kind:'discovery',intro:{en:"I'm an imaginary alien friend. Wave hello! We can imagine a space adventure together.",cmn:'我是想象中的外星朋友。挥挥手吧！一起想象一场太空冒险。',yue:'我係想像中嘅外星朋友。揮揮手啦！一齊想像一場太空冒險。'}};
+dialogue.spaceastronaut={name:{en:'Astronaut',cmn:'宇航员',yue:'太空人'},emoji:'👩‍🚀',kind:'discovery',intro:{en:"I'm an astronaut. My spacesuit helps me explore. Look at this little space rock!",cmn:'我是宇航员，穿着宇航服来探索。看看这块小小的太空石头！',yue:'我係太空人，着住太空衣嚟探索。睇吓呢粒細細嘅太空石仔！'}};
+dialogue.spacedish={name:{en:'Radio dish',cmn:'通信天线',yue:'通訊天線'},emoji:'📡',kind:'discovery',intro:{en:"I'm a radio dish. I send messages across space. Hello, Earth!",cmn:'我是通信天线，可以把消息送往太空远方。地球，你好呀！',yue:'我係通訊天線，可以將訊息送去太空遠方。地球，你好呀！'}};
+dialogue.gazelle={...structuredClone(D.gazelle),name:{en:'Deer',cmn:'小鹿',yue:'鹿仔'},intro:{en:"I'm a little deer. I nibble leaves and make a light, bouncy jump. Watch me hop!",cmn:'我是小鹿，喜欢吃嫩叶，还能轻轻跳起来。看看我的小跳跃！',yue:'我係鹿仔，鍾意食嫩葉，仲可以輕輕跳起。睇吓我跳啦！'}};
+for(const file of ['geo/assets/animation/v4-11-style/dialogue-new.json','geo/assets/animation/v4-11-motion/goose/dialogue.json'])if(fs.existsSync(file))Object.assign(dialogue,JSON.parse(fs.readFileSync(file,'utf8')));
+const changedVoice=new Set(['gazelle','spacealien','spaceastronaut','spacedish','musicguitar','musicharp','lemur','peacock','farmgoose']);
+for(const[id,d]of Object.entries(dialogue)){if(D[id]&&!changedVoice.has(id)){d.voiceVariants=D[id].voiceVariants;d.voice=D[id].voice;}else{d.voiceVariants=Object.fromEntries(['en','yue','cmn'].map(l=>[l,[{key:l==='en'?'child':'female',path:`assets/voice/v4-11/${id}-${l}.mp3`},{key:'male',path:`assets/voice/v4-11/${id}-${l}-male.mp3`},{key:l==='en'?'female':'bright',path:`assets/voice/v4-11/${id}-${l}-${l==='en'?'female':'bright'}.mp3`}]]));d.voice=Object.fromEntries(['en','yue','cmn'].map(l=>[l,d.voiceVariants[l][0].path]));}}
+const removed=['beach','supermarket','hongkong','camp'];for(const id of removed)delete S[id];const order=state.window.GAME_SCENE_ORDER.filter(id=>!removed.includes(id));
+fs.writeFileSync('geo/assets/revisions-v4-11.js',`/* V4.11: family spacing, quiet distant wildlife, nine retained chapters. */\n(function(g){Object.assign(g.GAME_SCENES,${JSON.stringify(S)});for(const id of ${JSON.stringify(removed)})delete g.GAME_SCENES[id];g.GAME_SCENE_ORDER=${JSON.stringify(order)};Object.assign(g.GAME_DIALOGUE,${JSON.stringify(dialogue)});Object.assign(g.ANIMAL_ANIMATIONS,${JSON.stringify(art.animations)});const objects=${JSON.stringify(objects)};for(const[id,d]of Object.entries(objects)){g.CHAPTER_OBJECTS[id]={...(g.CHAPTER_OBJECTS[id]||{}),...d};g.ANIMAL_ANIMATIONS[id]={poster:d.poster||g.ANIMAL_ANIMATIONS[id]?.poster,chapter:true};}g.SCENE_REVISION='4.11';})(window);\n`);
+fs.writeFileSync(root+'/dialogue-root.json',JSON.stringify(Object.fromEntries(Object.entries(dialogue).filter(([id])=>changedVoice.has(id))),null,2));fs.writeFileSync(root+'/manifest.json',JSON.stringify({version:'V4.11',removed,order,scenes:S,objects},null,2));console.log({chapters:order.length,placements:Object.values(S).reduce((n,s)=>n+s.animals.length,0),newNarrators:[...changedVoice]});

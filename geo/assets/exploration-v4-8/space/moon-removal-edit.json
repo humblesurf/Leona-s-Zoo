@@ -1,0 +1,9 @@
+{
+  "method": "Built-in image_gen precise-object-edit",
+  "prompt": "Use case: precise-object-edit. Edit target: the supplied 3:1 lunar panorama. Change ONLY the small blue Earth disk near the upper right of the starry sky. Remove that Earth disk entirely, filling just its small former location with the same deep navy-black sky and a natural continuation of the tiny sparse white stars. All other pixels, terrain, moon crater bowls, rocks, hills, faceted low-poly material, camera perspective, horizon, foreground ground, lighting, shadows, gray/lavender colors, and star field must stay exactly the same. Do not redraw or recompose the scene. Keep exact 3:1 very wide aspect ratio and original 2172x724 dimensions if possible. No replacement planet, no moon disc in sky, no text, no extra objects. Preserve the existing sharpness and style. Precise removal of one small circular sky object only.",
+  "input": "source/moon-landscape-with-earth-original.png",
+  "selected": "source/moon-landscape.png",
+  "export": "moon-landscape.webp",
+  "reason": "Earth disk would repeat during mirrored panorama rendering; removing it avoids implying multiple Earths.",
+  "generatedFile": "C:/Users/XTIA/.codex/generated_images/01a11a3c-82fc-71d0-8c01-956e381bb2cc/exec-8bf72749-9b2f-40b9-ac8d-aafe32c87ed5.png"
+}

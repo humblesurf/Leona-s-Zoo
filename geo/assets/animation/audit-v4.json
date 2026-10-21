@@ -1,0 +1,956 @@
+[
+  {
+    "id": "zebra",
+    "viewport": [
+      288,
+      223
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      21902,
+      21403,
+      21087,
+      22550,
+      22586,
+      22090
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "rhino",
+    "viewport": [
+      331,
+      204
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      35329,
+      34463,
+      33962,
+      35864,
+      33588,
+      34473
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "buffalo",
+    "viewport": [
+      325,
+      208
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      33883,
+      32464,
+      32282,
+      33488,
+      32489,
+      32112
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "cheetah",
+    "viewport": [
+      342,
+      180
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      23424,
+      21861,
+      21525,
+      21791,
+      20350,
+      23001
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "tapir",
+    "viewport": [
+      340,
+      191
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      34240,
+      31531,
+      33349,
+      33353,
+      33349,
+      32327
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "arcticfox",
+    "viewport": [
+      335,
+      185
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      25494,
+      25617,
+      27204,
+      26777,
+      27145,
+      26268
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "gazelle",
+    "viewport": [
+      338,
+      270
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      18764,
+      17835,
+      18833,
+      19276,
+      19363,
+      19374
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "warthog",
+    "viewport": [
+      331,
+      199
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      28202,
+      28116,
+      28583,
+      28172,
+      28225,
+      28778
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "polarbear",
+    "viewport": [
+      337,
+      189
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      35493,
+      35961,
+      34762,
+      35924,
+      35626,
+      35321
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "lion",
+    "viewport": [
+      330,
+      211
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      28704,
+      30818,
+      31727,
+      33749,
+      31572,
+      29775
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "giraffe",
+    "viewport": [
+      293,
+      304
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      17571,
+      18873,
+      20401,
+      18620,
+      19254,
+      18959
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "elephant",
+    "viewport": [
+      325,
+      246
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      39278,
+      37925,
+      38454,
+      39822,
+      37504,
+      38896
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "meerkat",
+    "viewport": [
+      155,
+      305
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      22278,
+      22388,
+      23607,
+      22752,
+      22930,
+      22732
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "ostrich",
+    "viewport": [
+      180,
+      377
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      21770,
+      20007,
+      20136,
+      18844,
+      20119,
+      18932
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "flamingo",
+    "viewport": [
+      188,
+      441
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      20932,
+      20441,
+      24948,
+      22743,
+      22315,
+      19148
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "hippo",
+    "viewport": [
+      325,
+      229
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      38235,
+      38627,
+      43237,
+      38984,
+      38099,
+      38337
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "crocodile",
+    "viewport": [
+      331,
+      185
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      22716,
+      23387,
+      25580,
+      23129,
+      22382,
+      22713
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "capybara",
+    "viewport": [
+      301,
+      211
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      35204,
+      34311,
+      33923,
+      35716,
+      36052,
+      35389
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "jaguar",
+    "viewport": [
+      191,
+      136
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      10880,
+      10428,
+      10865,
+      10570,
+      10646,
+      9977
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "leopard",
+    "viewport": [
+      175,
+      180
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      12469,
+      11857,
+      11629,
+      11793,
+      11678,
+      11606
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "gorilla",
+    "viewport": [
+      156,
+      218
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      21660,
+      22253,
+      21663,
+      21493,
+      21185,
+      22182
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "sloth",
+    "viewport": [
+      239,
+      245
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      22339,
+      22304,
+      22637,
+      23132,
+      20580,
+      22658
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "monkey",
+    "viewport": [
+      219,
+      273
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      11708,
+      10806,
+      11691,
+      13029,
+      12209,
+      13394
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "orangutan",
+    "viewport": [
+      316,
+      267
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      22639,
+      22608,
+      22433,
+      24531,
+      23471,
+      25894
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "boa",
+    "viewport": [
+      269,
+      263
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      31944,
+      32558,
+      35067,
+      38406,
+      36197,
+      31663
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "chameleon",
+    "viewport": [
+      376,
+      181
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      25893,
+      24546,
+      25349,
+      24926,
+      23888,
+      24180
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "frog",
+    "viewport": [
+      336,
+      211
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      17333,
+      17839,
+      15004,
+      19137,
+      19715,
+      18078
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "toucan",
+    "viewport": [
+      336,
+      237
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      18539,
+      26103,
+      37769,
+      28679,
+      18584,
+      18872
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "macaw",
+    "viewport": [
+      333,
+      276
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      19227,
+      29620,
+      40795,
+      30026,
+      19642,
+      18297
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "hummingbird",
+    "viewport": [
+      321,
+      253
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      22562,
+      19504,
+      18471,
+      18750,
+      20426,
+      16049
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "turtle",
+    "viewport": [
+      314,
+      225
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      26238,
+      23950,
+      24618,
+      25827,
+      25175,
+      22974
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "clownfish",
+    "viewport": [
+      287,
+      167
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      23384,
+      22685,
+      23998,
+      22723,
+      22714,
+      23560
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "seahorse",
+    "viewport": [
+      166,
+      251
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      14648,
+      15028,
+      15409,
+      15689,
+      14796,
+      14432
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "whale",
+    "viewport": [
+      378,
+      243
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      29534,
+      25943,
+      23877,
+      25029,
+      23748,
+      25298
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "dolphin",
+    "viewport": [
+      344,
+      182
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      25300,
+      22125,
+      21199,
+      23479,
+      22016,
+      21329
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "shark",
+    "viewport": [
+      337,
+      179
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      23187,
+      22322,
+      21672,
+      21821,
+      22424,
+      21954
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "pufferfish",
+    "viewport": [
+      157,
+      148
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      9959,
+      10824,
+      12852,
+      12554,
+      10842,
+      10102
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "stingray",
+    "viewport": [
+      187,
+      210
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      10140,
+      10500,
+      10231,
+      10774,
+      9212,
+      9781
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "jellyfish",
+    "viewport": [
+      155,
+      245
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      18063,
+      16346,
+      13003,
+      15452,
+      19638,
+      18988
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "octopus",
+    "viewport": [
+      327,
+      251
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      34026,
+      35623,
+      35040,
+      33265,
+      33549,
+      33028
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "crab",
+    "viewport": [
+      308,
+      208
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      27783,
+      26965,
+      26089,
+      28459,
+      23120,
+      26894
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "lobster",
+    "viewport": [
+      289,
+      258
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      27904,
+      27357,
+      27725,
+      27358,
+      30392,
+      27026
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "seal",
+    "viewport": [
+      201,
+      120
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      8929,
+      8450,
+      8314,
+      8116,
+      8289,
+      8873
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "walrus",
+    "viewport": [
+      197,
+      167
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      16010,
+      15112,
+      15352,
+      13860,
+      14698,
+      15125
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "penguin",
+    "viewport": [
+      170,
+      216
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      16931,
+      18038,
+      16617,
+      17389,
+      16900,
+      16473
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "butterfly",
+    "viewport": [
+      208,
+      173
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      19076,
+      10915,
+      5967,
+      11823,
+      18781,
+      9242
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "starfish",
+    "viewport": [
+      184,
+      171
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      12021,
+      10096,
+      9415,
+      10656,
+      11828,
+      9335
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "inuit",
+    "viewport": [
+      170,
+      254
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      24910,
+      24674,
+      25280,
+      24834,
+      25276,
+      24192
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "lioness",
+    "viewport": [
+      191,
+      155
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      11795,
+      11162,
+      11209,
+      11518,
+      11455,
+      10878
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "lioncub",
+    "viewport": [
+      182,
+      167
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      11381,
+      12484,
+      12707,
+      12083,
+      12577,
+      10559
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "elephantcalf",
+    "viewport": [
+      198,
+      189
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      18566,
+      17072,
+      16771,
+      18875,
+      17540,
+      14978
+    ],
+    "sourceColumns": 6,
+    "sourcePosesPerAnimal": 12
+  },
+  {
+    "id": "tiger",
+    "viewport": [
+      509,
+      238
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      60718,
+      57894,
+      58558,
+      60334,
+      59127,
+      57671
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  },
+  {
+    "id": "otter",
+    "viewport": [
+      503,
+      217
+    ],
+    "distinctPoses": 6,
+    "areas": [
+      40575,
+      38730,
+      39715,
+      39096,
+      36984,
+      39337
+    ],
+    "sourceColumns": 3,
+    "sourcePosesPerAnimal": 6
+  }
+]

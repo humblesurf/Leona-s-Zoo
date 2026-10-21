@@ -1,0 +1,5 @@
+import fs from'node:fs';
+let html=fs.readFileSync('geo/index.html','utf8');if(!html.includes('assets/learning-v4-12.js'))html=html.replace('<script src="assets/game.js"></script>','<script src="assets/savanna-v4-12.js"></script><script src="assets/learning-v4-12.js"></script><script src="assets/game.js"></script>');if(fs.existsSync('geo/assets/hoof-motion-v4-12.js')&&!html.includes('assets/hoof-motion-v4-12.js'))html=html.replace('<script src="assets/motion-v4-11.js"></script>','<script src="assets/motion-v4-11.js"></script><script src="assets/hoof-motion-v4-12.js"></script>');
+html=html.replace('每种语言随机轮换三种音色：','动物按角色匹配男声、女声和幼崽音色；首次点击播放叫声和名称，再次点击自我介绍。可用音色：');fs.writeFileSync('geo/index.html',html);
+let game=fs.readFileSync('geo/assets/game.js','utf8');if(!game.includes('learningStatus(){'))game=game.replace('get language(){return selectedLanguage;}',"learningStatus(){return {...lastLearning,recognized:recognizedAnimals.size,completedInstances:[...recognizedAnimals]};},get language(){return selectedLanguage;}");fs.writeFileSync('geo/assets/game.js',game);
+console.log('V4.12 runtime layers installed');

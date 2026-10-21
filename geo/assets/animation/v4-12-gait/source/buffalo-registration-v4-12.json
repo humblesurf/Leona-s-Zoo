@@ -1,0 +1,505 @@
+{
+  "version": "v4.12",
+  "animal": "buffalo",
+  "referenceSource": "buffalo-pose-7.png",
+  "referenceCanvasSize": [
+    1628,
+    966
+  ],
+  "coordinateSpace": "Actual original source pixels; frame0 coordinates are also original pair coordinates because its panel starts at x0,y0.",
+  "transformFormula": "masterX = sourceX * uniformScaleToMaster + translationToMaster[0]; masterY = sourceY * uniformScaleToMaster + translationToMaster[1]. Apply to the complete body, then use one shared output scale and offset for every frame.",
+  "method": "Four stable anatomical landmarks; NCC local correspondences with manual reference point definitions. All singles use scale1. Frame0 uniform scale is fitted from weighted landmark pairs. Translation is fitted from body landmarks only. No foot, ground, bounding-box, per-axis scale, rotation or nonlinear adjustment.",
+  "referenceLandmarks": {
+    "nearEyeCenter": [
+      338.0,
+      294.0
+    ],
+    "foreheadCrestBetweenHorns": [
+      402.0,
+      43.0
+    ],
+    "backHumpCrest": [
+      649.0,
+      27.0
+    ],
+    "tailRootDorsalAttachment": [
+      1305.0,
+      215.0
+    ]
+  },
+  "landmarkDefinitions": {
+    "nearEyeCenter": "Center of the nearest visible eye/pupil.",
+    "foreheadCrestBetweenHorns": "Dorsal crest of the cream forehead horn boss between the horns.",
+    "backHumpCrest": "Highest dorsal apex of the brown back/shoulder hump.",
+    "tailRootDorsalAttachment": "Dorsal attachment of the tail shaft at the visible rear rump outline."
+  },
+  "landmarkWeights": {
+    "nearEyeCenter": 4.0,
+    "foreheadCrestBetweenHorns": 2.0,
+    "backHumpCrest": 2.0,
+    "tailRootDorsalAttachment": 3.0
+  },
+  "frames": [
+    {
+      "frame": 0,
+      "phase": 0,
+      "source": "buffalo-pair-01.png",
+      "panel": [
+        0,
+        0,
+        1100,
+        736
+      ],
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          270.498,
+          213.498
+        ],
+        "foreheadCrestBetweenHorns": [
+          318.27,
+          44.544
+        ],
+        "backHumpCrest": [
+          483.664,
+          34.681
+        ],
+        "tailRootDorsalAttachment": [
+          900.27,
+          157.362
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.93942,
+        "foreheadCrestBetweenHorns": 0.9013,
+        "backHumpCrest": 0.99195,
+        "tailRootDorsalAttachment": 0.93869
+      },
+      "uniformScaleToMaster": 1.53650836,
+      "translationToMaster": [
+        -82.51486,
+        -29.08997
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.53650836,
+      "scalePolicy": "Landmark-fitted complete-body scale for smaller pair panel",
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          -4.8924,
+          4.9515
+        ],
+        "foreheadCrestBetweenHorns": [
+          4.5097,
+          -3.6477
+        ],
+        "backHumpCrest": [
+          11.6389,
+          -2.8023
+        ],
+        "tailRootDorsalAttachment": [
+          -4.2425,
+          -2.3019
+        ]
+      },
+      "weightedRmsMasterPixels": 7.4932,
+      "maximumLandmarkResidualMasterPixels": 11.9715
+    },
+    {
+      "frame": 2,
+      "phase": 0.17,
+      "source": "buffalo-pose-2-repair-a.png",
+      "panel": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          339.0,
+          294.0
+        ],
+        "foreheadCrestBetweenHorns": [
+          406.0,
+          47.0
+        ],
+        "backHumpCrest": [
+          657.0,
+          30.0
+        ],
+        "tailRootDorsalAttachment": [
+          1313.0,
+          212.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.98396,
+        "foreheadCrestBetweenHorns": 0.98404,
+        "backHumpCrest": 0.99761,
+        "tailRootDorsalAttachment": 0.9853
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        -4.72727,
+        -0.45455
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 0.99523866,
+      "scalePolicy": "Locked at 1: same master camera/size",
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          -3.7273,
+          -0.4545
+        ],
+        "foreheadCrestBetweenHorns": [
+          -0.7273,
+          3.5455
+        ],
+        "backHumpCrest": [
+          3.2727,
+          2.5455
+        ],
+        "tailRootDorsalAttachment": [
+          3.2727,
+          -3.4545
+        ]
+      },
+      "weightedRmsMasterPixels": 4.1,
+      "maximumLandmarkResidualMasterPixels": 4.7586
+    },
+    {
+      "frame": 3,
+      "phase": 0.25,
+      "source": "buffalo-pose-3.png",
+      "panel": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          339.0,
+          294.0
+        ],
+        "foreheadCrestBetweenHorns": [
+          407.0,
+          45.0
+        ],
+        "backHumpCrest": [
+          657.0,
+          28.0
+        ],
+        "tailRootDorsalAttachment": [
+          1308.0,
+          210.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.98072,
+        "foreheadCrestBetweenHorns": 0.94312,
+        "backHumpCrest": 0.99455,
+        "tailRootDorsalAttachment": 0.99372
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        -3.54545,
+        0.81818
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 0.99993367,
+      "scalePolicy": "Locked at 1: same master camera/size",
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          -2.5455,
+          0.8182
+        ],
+        "foreheadCrestBetweenHorns": [
+          1.4545,
+          2.8182
+        ],
+        "backHumpCrest": [
+          4.4545,
+          1.8182
+        ],
+        "tailRootDorsalAttachment": [
+          -0.5455,
+          -4.1818
+        ]
+      },
+      "weightedRmsMasterPixels": 3.6725,
+      "maximumLandmarkResidualMasterPixels": 4.8113
+    },
+    {
+      "frame": 4,
+      "phase": 0.375,
+      "source": "buffalo-pose-4.png",
+      "panel": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          339.0,
+          294.0
+        ],
+        "foreheadCrestBetweenHorns": [
+          406.0,
+          43.0
+        ],
+        "backHumpCrest": [
+          657.0,
+          27.0
+        ],
+        "tailRootDorsalAttachment": [
+          1307.0,
+          212.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.95845,
+        "foreheadCrestBetweenHorns": 0.88609,
+        "backHumpCrest": 0.99229,
+        "tailRootDorsalAttachment": 0.99107
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        -3.09091,
+        0.81818
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.00012143,
+      "scalePolicy": "Locked at 1: same master camera/size",
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          -2.0909,
+          0.8182
+        ],
+        "foreheadCrestBetweenHorns": [
+          0.9091,
+          0.8182
+        ],
+        "backHumpCrest": [
+          4.9091,
+          0.8182
+        ],
+        "tailRootDorsalAttachment": [
+          -1.0909,
+          -2.1818
+        ]
+      },
+      "weightedRmsMasterPixels": 2.869,
+      "maximumLandmarkResidualMasterPixels": 4.9768
+    },
+    {
+      "frame": 5,
+      "phase": 0.5,
+      "source": "buffalo-pose-5.png",
+      "panel": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          339.0,
+          294.0
+        ],
+        "foreheadCrestBetweenHorns": [
+          406.0,
+          40.0
+        ],
+        "backHumpCrest": [
+          656.0,
+          26.0
+        ],
+        "tailRootDorsalAttachment": [
+          1306.0,
+          211.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.93235,
+        "foreheadCrestBetweenHorns": 0.86783,
+        "backHumpCrest": 0.99343,
+        "tailRootDorsalAttachment": 0.99055
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        -2.63636,
+        1.81818
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.00056536,
+      "scalePolicy": "Locked at 1: same master camera/size",
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          -1.6364,
+          1.8182
+        ],
+        "foreheadCrestBetweenHorns": [
+          1.3636,
+          -1.1818
+        ],
+        "backHumpCrest": [
+          4.3636,
+          0.8182
+        ],
+        "tailRootDorsalAttachment": [
+          -1.6364,
+          -2.1818
+        ]
+      },
+      "weightedRmsMasterPixels": 2.8949,
+      "maximumLandmarkResidualMasterPixels": 4.4397
+    },
+    {
+      "frame": 7,
+      "phase": 0.67,
+      "source": "buffalo-pose-7.png",
+      "panel": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          338.0,
+          294.0
+        ],
+        "foreheadCrestBetweenHorns": [
+          402.0,
+          43.0
+        ],
+        "backHumpCrest": [
+          649.0,
+          27.0
+        ],
+        "tailRootDorsalAttachment": [
+          1305.0,
+          215.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 1.0,
+        "foreheadCrestBetweenHorns": 1.0,
+        "backHumpCrest": 1.0,
+        "tailRootDorsalAttachment": 1.0
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        0.0,
+        0.0
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.0,
+      "scalePolicy": "Locked at 1: same master camera/size",
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          0.0,
+          0.0
+        ],
+        "foreheadCrestBetweenHorns": [
+          0.0,
+          0.0
+        ],
+        "backHumpCrest": [
+          0.0,
+          0.0
+        ],
+        "tailRootDorsalAttachment": [
+          0.0,
+          0.0
+        ]
+      },
+      "weightedRmsMasterPixels": 0.0,
+      "maximumLandmarkResidualMasterPixels": 0.0
+    },
+    {
+      "frame": 8,
+      "phase": 0.75,
+      "source": "buffalo-pose-8-repair-a.png",
+      "panel": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          338.0,
+          294.0
+        ],
+        "foreheadCrestBetweenHorns": [
+          404.0,
+          40.0
+        ],
+        "backHumpCrest": [
+          649.0,
+          24.0
+        ],
+        "tailRootDorsalAttachment": [
+          1309.0,
+          215.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.96139,
+        "foreheadCrestBetweenHorns": 0.92809,
+        "backHumpCrest": 0.99536,
+        "tailRootDorsalAttachment": 0.98229
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        -1.45455,
+        1.09091
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 0.99573476,
+      "scalePolicy": "Locked at 1: same master camera/size",
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          -1.4545,
+          1.0909
+        ],
+        "foreheadCrestBetweenHorns": [
+          0.5455,
+          -1.9091
+        ],
+        "backHumpCrest": [
+          -1.4545,
+          -1.9091
+        ],
+        "tailRootDorsalAttachment": [
+          2.5455,
+          1.0909
+        ]
+      },
+      "weightedRmsMasterPixels": 2.249,
+      "maximumLandmarkResidualMasterPixels": 2.7694
+    },
+    {
+      "frame": 9,
+      "phase": 0.875,
+      "source": "buffalo-pose-9.png",
+      "panel": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          338.0,
+          294.0
+        ],
+        "foreheadCrestBetweenHorns": [
+          403.0,
+          39.0
+        ],
+        "backHumpCrest": [
+          647.0,
+          25.0
+        ],
+        "tailRootDorsalAttachment": [
+          1309.0,
+          217.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.95306,
+        "foreheadCrestBetweenHorns": 0.90718,
+        "backHumpCrest": 0.99328,
+        "tailRootDorsalAttachment": 0.97528
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        -0.90909,
+        0.54545
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 0.99530332,
+      "scalePolicy": "Locked at 1: same master camera/size",
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          -0.9091,
+          0.5455
+        ],
+        "foreheadCrestBetweenHorns": [
+          0.0909,
+          -3.4545
+        ],
+        "backHumpCrest": [
+          -2.9091,
+          -1.4545
+        ],
+        "tailRootDorsalAttachment": [
+          3.0909,
+          2.5455
+        ]
+      },
+      "weightedRmsMasterPixels": 2.9793,
+      "maximumLandmarkResidualMasterPixels": 4.0041
+    }
+  ]
+}

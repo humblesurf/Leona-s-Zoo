@@ -1,0 +1,150 @@
+{
+  "generatedWith": "built-in image_gen",
+  "operations": "Whole-object crop with transparent padding; original alpha preserved; lossless WebP encoding. No joints, mesh deformation, sprite splitting, or fake resolution increase.",
+  "assets": [
+    {
+      "id": "background",
+      "sourceWidth": 2172,
+      "sourceHeight": 724,
+      "width": 2172,
+      "height": 724,
+      "hasAlpha": false,
+      "transparentRatio": 0,
+      "semiRatio": 0,
+      "edgeAlphaPixels": 5788,
+      "crop": {
+        "left": 0,
+        "top": 0,
+        "width": 2172,
+        "height": 724
+      },
+      "sha256": "2ea541d758b1a189ff77751d527a0fba31ff919044b4cdaaefb986498e7dff4a"
+    },
+    {
+      "id": "shopmilk",
+      "sourceWidth": 1292,
+      "sourceHeight": 1218,
+      "width": 817,
+      "height": 1162,
+      "hasAlpha": true,
+      "transparentRatio": 0.5006634232640425,
+      "semiRatio": 0.49869094643301964,
+      "edgeAlphaPixels": 0,
+      "crop": {
+        "left": 243,
+        "top": 30,
+        "width": 817,
+        "height": 1162
+      },
+      "sha256": "ccdff1db88f4be451cbcf1b1a7dc2918d38d8ed5826f734715d309648c7ca72d"
+    },
+    {
+      "id": "shopbread",
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "width": 1453,
+      "height": 935,
+      "hasAlpha": true,
+      "transparentRatio": 0.4062112172444661,
+      "semiRatio": 0.5937887827555338,
+      "edgeAlphaPixels": 0,
+      "crop": {
+        "left": 44,
+        "top": 47,
+        "width": 1453,
+        "height": 935
+      },
+      "sha256": "3b588bf3112cb5a81493ca8baf9af704947a4cc984573c617b88da6783006e1e"
+    },
+    {
+      "id": "shopeggs",
+      "sourceWidth": 1312,
+      "sourceHeight": 1199,
+      "width": 1249,
+      "height": 1175,
+      "hasAlpha": true,
+      "transparentRatio": 0.3394705191317968,
+      "semiRatio": 0.6604601904025712,
+      "edgeAlphaPixels": 0,
+      "crop": {
+        "left": 49,
+        "top": 7,
+        "width": 1249,
+        "height": 1175
+      },
+      "sha256": "5f4d7e387af4d2042b5c5d0ef3674efcf4fe72297fcaeacdf4384a1d5d493a1a"
+    },
+    {
+      "id": "shopyogurt",
+      "sourceWidth": 1402,
+      "sourceHeight": 1122,
+      "width": 989,
+      "height": 959,
+      "hasAlpha": true,
+      "transparentRatio": 0.6057465652581873,
+      "semiRatio": 0.39370990258378025,
+      "edgeAlphaPixels": 0,
+      "crop": {
+        "left": 233,
+        "top": 79,
+        "width": 989,
+        "height": 959
+      },
+      "sha256": "2a1b5b23e70006771d82422fadcf42f3ec5b049f9791663c5a2708df3862e883"
+    },
+    {
+      "id": "shoptissue",
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "width": 1198,
+      "height": 989,
+      "hasAlpha": true,
+      "transparentRatio": 0.5155410766601562,
+      "semiRatio": 0.48445892333984375,
+      "edgeAlphaPixels": 0,
+      "crop": {
+        "left": 173,
+        "top": 27,
+        "width": 1198,
+        "height": 989
+      },
+      "sha256": "322a73e29b36927aa74acf326dd7c0d050c9c577b6e294936c304eed35572a47"
+    },
+    {
+      "id": "shopcart",
+      "sourceWidth": 1312,
+      "sourceHeight": 1199,
+      "width": 1227,
+      "height": 1180,
+      "hasAlpha": true,
+      "transparentRatio": 0.5294738755873797,
+      "semiRatio": 0.4700773256168759,
+      "edgeAlphaPixels": 0,
+      "crop": {
+        "left": 39,
+        "top": 9,
+        "width": 1227,
+        "height": 1180
+      },
+      "sha256": "6e91cf0e30c9396ee8d581dcba6b5e607a0fc3c05f884bd71fac44da70c2649f"
+    },
+    {
+      "id": "shopbasket",
+      "sourceWidth": 1356,
+      "sourceHeight": 1160,
+      "width": 1236,
+      "height": 1044,
+      "hasAlpha": true,
+      "transparentRatio": 0.4955993795137829,
+      "semiRatio": 0.5036904943545926,
+      "edgeAlphaPixels": 0,
+      "crop": {
+        "left": 73,
+        "top": 70,
+        "width": 1236,
+        "height": 1044
+      },
+      "sha256": "b0bf775426960c3bff02b8641b5bb6601290d7bf1a7f043a6cf3891e73610499"
+    }
+  ]
+}

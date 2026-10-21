@@ -1,0 +1,16 @@
+{
+  "chapter": "planets",
+  "background": {
+    "width": 2172,
+    "height": 724,
+    "aspect": 3
+  },
+  "review": {
+    "completeSilhouettes": true,
+    "noCharactersOrFaces": true,
+    "transparentObjectBorders": true,
+    "noMeshOrSliceArt": true,
+    "scienceSources": "science-sources.json",
+    "details": "Earth Africa-centered globe; Saturn continuous planar rings with front/rear occlusion; satellite solidly attached paired solar panels; galaxy is broad starry spiral, distinct from a planet. Approximate sizes/distances stated in diagram note."
+  }
+}

@@ -1,0 +1,21 @@
+import fs from 'node:fs';
+function edit(file,pairs){let t=fs.readFileSync(file,'utf8');for(const[a,b]of pairs){if(t.includes(b))continue;if(!t.includes(a))throw Error(file+' missing insertion '+a.slice(0,70));t=t.replaceAll(a,b);}fs.writeFileSync(file,t);}
+edit('geo/index.html',[
+ ['<link rel="stylesheet" href="assets/revisions.css">','<link rel="stylesheet" href="assets/revisions.css"><link rel="stylesheet" href="assets/revisions-v4-11.css">'],
+ ['<script src="assets/animal-fixes-v4-10.js"></script>','<script src="assets/animal-fixes-v4-10.js"></script><script src="assets/revisions-v4-11.js"></script><script src="assets/animal-styles-v4-11.js"></script><script src="assets/ocean-styles-v4-11.js"></script><script src="assets/farm-goose-v4-11.js"></script><script src="assets/motion-v4-11.js"></script>'],
+ ['<script src="assets/exploration-calls.js"></script>','<script src="assets/exploration-calls.js"></script><script src="assets/calls-v4-11.js"></script>']
+]);
+const music="['piano','drum','xylophone','tambourine','maracas']",seven="['piano','drum','xylophone','tambourine','maracas','guitar','harp']";
+edit('geo/assets/chapter-motion.js',[
+ [music,seven],
+ [' if(r.keys)r.keys.forEach',` if(r.strings)r.strings.forEach((path,i)=>{const q=d.stringLines[i],phase=t/r.beat%1,decay=Math.exp(-phase*5),bend=Math.sin(t*72+i)*1.2*decay*envelope;path.setAttribute('d',\`M\${q[0]*100} \${q[1]*100}Q\${(q[0]+q[2])*50+bend} \${(q[1]+q[3])*50} \${q[2]*100} \${q[3]*100}\`);path.style.opacity=String(envelope*(.25+decay*.65));});if(r.radio)r.radio.querySelectorAll('i').forEach((ring,i)=>{const f=(t*.58-i*.22+2)%1;ring.style.transform=\`scale(\${.3+f*.8})\`;ring.style.opacity=String((1-f)*envelope*.7);});\n if(r.keys)r.keys.forEach`],
+ [" if(motion==='piano'){r.keys=[];",` if(motion==='guitar'||motion==='harp'){const ns='http://www.w3.org/2000/svg',svg=document.createElementNS(ns,'svg');svg.setAttribute('viewBox','0 0 100 100');svg.setAttribute('preserveAspectRatio','none');svg.classList.add('music-string-animation');r.visual.append(svg);r.strings=(d.stringLines||[]).map(()=>{const path=document.createElementNS(ns,'path');svg.append(path);return path;});}if(motion==='radio'){r.radio=effect(r,'radio-waves');for(let i=0;i<3;i++)node('i','',r.radio);}\n if(motion==='piano'){r.keys=[];`]
+]);
+edit('geo/assets/chapter-sounds.js',[
+ ['global.CALL_RECORDINGS=global.CALL_RECORDINGS||{};', 'Object.assign(global.CHAPTER_CALL_RECORDINGS,global.REVISION_CALL_RECORDINGS||{});\nglobal.CALL_RECORDINGS=global.CALL_RECORDINGS||{};'],
+ ["new Set(['musicpiano','musicdrum','musicxylophone','musictambourine','musicmaracas'])","new Set(['musicpiano','musicdrum','musicxylophone','musictambourine','musicmaracas','musicguitar','musicharp'])"]
+]);
+const records=JSON.parse(fs.readFileSync('geo/assets/chapters-v4-11/music/audio-recordings.json','utf8'));for(const file of ['geo/assets/animation/v4-11-motion/goose/call-recording.json','geo/assets/calls/v4-11/recordings.json'])if(fs.existsSync(file)){const rec=JSON.parse(fs.readFileSync(file,'utf8'));records.push(...(Array.isArray(rec)?rec:[rec]));}
+fs.writeFileSync('geo/assets/calls-v4-11.js',`/* New recordings retain source and licensing metadata. */\n(function(g){g.REVISION_CALL_RECORDINGS=${JSON.stringify(Object.fromEntries(records.map(d=>[d.id,d])))};g.CALL_RECORDINGS=g.CALL_RECORDINGS||{};Object.assign(g.CALL_RECORDINGS,g.REVISION_CALL_RECORDINGS);})(window);\n`);
+console.log('V4.11 runtime layers installed');
+const credit='geo/CREDITS.md';if(!fs.readFileSync(credit,'utf8').includes('## V4.11 动物与篇章修订'))fs.appendFileSync(credit,'\n## V4.11 动物与篇章修订\n\n新增完整角色原画、鸟巢与花簇、插画水果摊及音乐房编辑均使用内置 image_gen。完整原始图、最终提示词、素材路径与检查见 UPGRADE-V4-11.md、assets/animation/v4-11-style、assets/animation/v4-11-motion、assets/chapters-v4-11。当前保留9篇章、98类互动、882段介绍；其中81段新介绍沿用上述Microsoft Edge三语言各三音色。外星朋友明确为想象角色。\n\n真实吉他/竖琴：FreePats/Roberto、Versilian Studios/K. Smith，CC0；授权与精确来源见 assets/chapters-v4-11/music/audio-recordings.json；https://freepats.zenvoid.org/Guitar/acoustic-guitar.html 和 https://freepats.zenvoid.org/OrchestralStrings/harp.html。录音摘取、淡入淡出、温和响度处理；四拍重采样产生不同音符。\n\n真实鹅叫：antique98，A squeaking goose，CC0 1.0；https://freesound.org/people/antique98/sounds/160686/。保持原音高，柔和响度与边缘淡入淡出，元数据 assets/animation/v4-11-motion/goose/call-recording.json。\n');

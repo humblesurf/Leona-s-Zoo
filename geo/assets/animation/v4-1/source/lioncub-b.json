@@ -1,0 +1,9 @@
+{
+  "id": "lioncub",
+  "part": 1,
+  "source": "geo/assets/animation/v4-1/source/lioncub-b.png",
+  "prompt": "Children's wildlife game animation atlas. The reference is the first eight poses of this SAME animal; continue its identical design. Use the same softly shaded golden low-poly sculpture style, natural small eyes and three-dimensional faceted volumes.\nSubject: a small young tawny LION ANIMAL, full furry body on four paws, facing RIGHT. This is a four-legged wild animal, with its entire body covered by tawny fur and a long tufted tail.\nAction: a playful front-paw lift and gentle paw pat while the other three paws remain planted. Next eight chronological phases, 8–15; end in the same resting/contact configuration as the first pose of the reference.\nEXACTLY EIGHT complete animal poses, TWO columns and FOUR rows, portrait 1024x1536. All four paws, head and tail inside each 512x384 cell. Equal character scale, fixed torso centre and ground line; only small consecutive changes in the actual paws/body gesture. Keep all limbs naturally joined. No whole-character wiggling or scaling. Crisp clean silhouettes, consistent camera side view and lighting.\nFully transparent alpha around each complete animal. No ground, shadows, haze, scenery, text, grid lines or extra characters.",
+  "originalSource": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-d1bcd0ae-b822-41e0-b30c-7f8270bbe9b9.png",
+  "styleReference": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/source/lioncub-a.png",
+  "repair": "Regenerated ordinary lion animal after a tool output rejection."
+}

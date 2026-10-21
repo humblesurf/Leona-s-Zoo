@@ -1,0 +1,207 @@
+{
+  "musicpiano": {
+    "en": "I'm a piano. My keys play high and low notes. Let's make a little tune!",
+    "cmn": "我是钢琴，琴键会弹出高高低低的声音。一起弹首小曲吧！",
+    "yue": "我係鋼琴，琴鍵會彈出高高低低嘅聲音。一齊彈首小曲啦！"
+  },
+  "musicdrum": {
+    "en": "I'm a little drum. Tap me gently, then try a stronger beat. Boom, boom!",
+    "cmn": "我是小鼓，轻轻敲，再试试重一点。咚，咚！",
+    "yue": "我係小鼓，輕輕敲，再試吓重啲。咚，咚！"
+  },
+  "musicxylophone": {
+    "en": "I'm a xylophone. My wooden bars make bright notes when the mallets tap them.",
+    "cmn": "我是木琴，小槌敲敲木条，就会发出清脆的声音。",
+    "yue": "我係木琴，小槌敲吓木條，就會發出清脆嘅聲音。"
+  },
+  "musictambourine": {
+    "en": "I'm a tambourine. Shake my little jingles. Jingle, jingle!",
+    "cmn": "我是铃鼓，摇一摇，小铃片叮当响！",
+    "yue": "我係鈴鼓，搖一搖，小鈴片叮噹響！"
+  },
+  "musicmaracas": {
+    "en": "We're maracas. Little seeds rattle inside us. Shake slowly, then quickly!",
+    "cmn": "我们是沙锤，小颗粒在里面沙沙响。慢慢摇，再快快摇！",
+    "yue": "我哋係沙鎚，小粒粒喺入面沙沙響。慢慢搖，再快快搖！"
+  },
+  "hkferry": {
+    "en": "I'm the Star Ferry! My green and white boat carries people across Victoria Harbour.",
+    "cmn": "我是天星小轮！我穿着绿白相间的外衣，载着大家穿过维多利亚港。",
+    "yue": "我係天星小輪！我着住綠色同白色嘅外衣，載大家過維多利亞港。"
+  },
+  "hktram": {
+    "en": "I'm a Ding Ding tram! I have two decks and travel along rails. Ding, ding!",
+    "cmn": "我是叮叮车！我有上下两层，沿着铁轨慢慢走。叮叮！",
+    "yue": "我係叮叮車！我有上下兩層，沿住路軌慢慢行。叮叮！"
+  },
+  "hkbus": {
+    "en": "I'm a double-decker bus! I have seats downstairs and upstairs. Let's explore Hong Kong!",
+    "cmn": "我是双层巴士！楼下和楼上都有座位。一起看看香港吧！",
+    "yue": "我係雙層巴士！樓下同樓上都有座位。一齊睇吓香港啦！"
+  },
+  "hkboc": {
+    "en": "I'm the Bank of China Tower! Look at my tall shape and big triangles. My windows can shine!",
+    "cmn": "我是中银大厦！看看我高高的身体和大大的三角形。我的窗户会亮起来！",
+    "yue": "我係中銀大廈！睇吓我高高嘅身同大大嘅三角形。我嘅窗會發光！"
+  },
+  "hkclock": {
+    "en": "I'm the Clock Tower in Tsim Sha Tsui! I'm made of red bricks and pale stone. Look up at my clock!",
+    "cmn": "我是尖沙咀钟楼！我由红砖和浅色石头建成。抬头看看我的时钟吧！",
+    "yue": "我係尖沙咀鐘樓！我用紅磚同淺色石頭砌成。抬頭睇吓我個鐘啦！"
+  },
+  "hkdim": {
+    "en": "Welcome to the dim sum shop! Little bamboo baskets hold buns and dumplings. Warm steam rises softly.",
+    "cmn": "欢迎来到点心铺！小竹蒸笼里有包子和饺子。温暖的蒸汽轻轻飘起来。",
+    "yue": "歡迎嚟到點心舖！小竹蒸籠入面有包同餃子。暖暖嘅蒸氣輕輕升起。"
+  },
+  "beachumbrella": {
+    "en": "I'm a beach umbrella. My shade makes a cool little spot on the sand.",
+    "cmn": "我是遮阳伞，在沙滩上撑起一片凉凉的阴影。",
+    "yue": "我係太陽傘，喺沙灘撐起一片涼涼嘅陰影。"
+  },
+  "beachbucket": {
+    "en": "I'm a sand bucket. Fill me with sand, then tip me over to make a little tower.",
+    "cmn": "我是沙桶，装满沙子，倒过来，就变成小塔啦！",
+    "yue": "我係沙桶，裝滿沙，再倒轉，就變成小塔喇！"
+  },
+  "beachshovel": {
+    "en": "I'm a shovel. Scoop, scoop! Let's dig a small hole in the sand.",
+    "cmn": "我是铲子，铲呀铲，一起挖个小沙坑！",
+    "yue": "我係鏟仔，鏟呀鏟，一齊挖個小沙坑！"
+  },
+  "beachshell": {
+    "en": "I'm a seashell. Look at my ridges. A little sea animal once lived inside.",
+    "cmn": "我是贝壳，身上有一条条纹路。小海洋动物曾经住在里面。",
+    "yue": "我係貝殼，身上有一條條紋路。小海洋動物曾經住喺入面。"
+  },
+  "beachcastle": {
+    "en": "I'm a sandcastle. Stack the sandy towers and pat them gently. Ta-da!",
+    "cmn": "我是沙堡，堆起小沙塔，轻轻拍一拍。完成啦！",
+    "yue": "我係沙堡，堆起小沙塔，輕輕拍一拍。完成喇！"
+  },
+  "beachcrab": {
+    "en": "I'm a little crab. My little legs help me scuttle sideways across the sand.",
+    "cmn": "我是小螃蟹，小脚带着我横着走过沙滩。",
+    "yue": "我係小蟹，小腳帶住我橫住行過沙灘。"
+  },
+  "beachwave": {
+    "en": "I'm a wave. I roll onto the shore, then slide back into the sea. Whoosh!",
+    "cmn": "我是海浪，轻轻冲上岸，再退回海里。哗啦啦！",
+    "yue": "我係海浪，輕輕湧上岸，再退返海入面。嘩啦啦！"
+  },
+  "cosmossun": {
+    "en": "I'm the Sun, our bright star. My light helps warm the Earth.",
+    "cmn": "我是太阳，是一颗明亮的恒星。我的阳光让地球暖暖的。",
+    "yue": "我係太陽，係一粒明亮嘅恆星。我嘅陽光令地球暖笠笠。"
+  },
+  "cosmosearth": {
+    "en": "I'm Earth, our home. I have blue oceans and land, and I travel around the Sun.",
+    "cmn": "我是地球，是我们的家。我的表面有海洋和陆地，我会绕着太阳转。",
+    "yue": "我係地球，係我哋嘅家。我有海洋同陸地，會繞住太陽轉。"
+  },
+  "cosmosmars": {
+    "en": "I'm Mars, the red planet. I travel around the Sun too.",
+    "cmn": "我是火星，红红的星球。我也会绕着太阳转。",
+    "yue": "我係火星，紅紅嘅星球。我都會繞住太陽轉。"
+  },
+  "cosmosjupiter": {
+    "en": "I'm Jupiter, the biggest planet in our solar system. Look at my cloudy stripes!",
+    "cmn": "我是木星，是太阳系里最大的行星。看，我的云层一条一条的！",
+    "yue": "我係木星，係太陽系最大嘅行星。睇，我嘅雲層一條一條㗎！"
+  },
+  "cosmossaturn": {
+    "en": "I'm Saturn. My beautiful rings are made of many little pieces of ice and rock.",
+    "cmn": "我是土星。我的漂亮光环，是许多小小的冰块和石头组成的。",
+    "yue": "我係土星。我嘅靚靚光環，係好多細細嘅冰塊同石頭組成㗎。"
+  },
+  "cosmosstars": {
+    "en": "We're stars, shining far away. The Sun is a star too.",
+    "cmn": "我们是星星，在遥远的地方发光。太阳也是一颗恒星哦。",
+    "yue": "我哋係星星，喺好遠嘅地方發光。太陽都係一粒恆星呀。"
+  },
+  "cosmosgalaxy": {
+    "en": "I'm the Milky Way, a huge galaxy with so many stars. Our Sun belongs here too.",
+    "cmn": "我是银河，有好多好多恒星。我们的太阳，也是银河里的一颗恒星。",
+    "yue": "我係銀河，有好多好多恆星。我哋嘅太陽，都係銀河入面一粒恆星。"
+  },
+  "cosmossatellite": {
+    "en": "I'm a satellite made by people. I travel around Earth and help us learn about our home.",
+    "cmn": "我是人造卫星，是人们做出来的。我绕着地球转，帮大家认识我们的家。",
+    "yue": "我係人造衛星，係人哋做出嚟嘅。我繞住地球轉，幫大家認識我哋嘅家。"
+  },
+  "wxsun": {
+    "en": "I'm sunshine. Let's enjoy a bright, sunny day.",
+    "cmn": "我是阳光。今天晴朗又明亮，一起感受暖暖的太阳吧。",
+    "yue": "我係陽光。今日晴朗又光猛，一齊感受暖笠笠嘅太陽啦。"
+  },
+  "wxcloud": {
+    "en": "I'm a cloud. Lots of tiny water drops or ice crystals make me look fluffy.",
+    "cmn": "我是云朵。好多小小的水滴或冰晶，让我看起来软绵绵的。",
+    "yue": "我係雲朵。好多細細嘅水滴或者冰晶，令我睇落軟綿綿。"
+  },
+  "wxrain": {
+    "en": "We're raindrops, falling from a cloud. Pitter-patter on the ground!",
+    "cmn": "我们是雨滴，从云里落下来。滴答滴答，落到地上啦！",
+    "yue": "我哋係雨滴，喺雲入面跌落嚟。滴答滴答，落到地下啦！"
+  },
+  "wxwind": {
+    "en": "I'm wind, moving air. See the leaves drifting along with me!",
+    "cmn": "我是风，是流动的空气。看，树叶跟着我飘起来啦！",
+    "yue": "我係風，係流動嘅空氣。睇，樹葉跟住我飄起嚟啦！"
+  },
+  "wxrainbow": {
+    "en": "I'm a rainbow. Sunlight and raindrops make my beautiful colors.",
+    "cmn": "我是彩虹。阳光遇到雨滴，就能出现我漂亮的颜色。",
+    "yue": "我係彩虹。陽光遇到雨滴，就可以出現我靚靚嘅顏色。"
+  },
+  "wxumbrella": {
+    "en": "I'm an umbrella. Open me up to help keep the rain off you.",
+    "cmn": "我是雨伞。把我打开，就能帮你挡住雨滴啦。",
+    "yue": "我係雨傘。打開我，就可以幫你擋住雨滴啦。"
+  },
+  "wxleaves": {
+    "en": "We're autumn leaves. Some trees turn red or golden before their leaves fall.",
+    "cmn": "我们是秋天的树叶。有些树叶会变红、变黄，再轻轻飘落下来。",
+    "yue": "我哋係秋天嘅樹葉。有啲樹葉會變紅、變黃，再輕輕飄落嚟。"
+  },
+  "wxsnow": {
+    "en": "We're snowflakes, made of tiny ice crystals. We fall gently when it's cold enough.",
+    "cmn": "我们是雪花，是小小的冰晶。天气足够冷时，我们会轻轻飘下来。",
+    "yue": "我哋係雪花，係細細嘅冰晶。天氣夠凍嗰陣，我哋會輕輕飄落嚟。"
+  },
+  "shopmilk": {
+    "en": "I'm milk. Pour me into a cup. A little sip!",
+    "cmn": "我是牛奶。把我倒进杯子里，小口喝一喝！",
+    "yue": "我係牛奶。倒我入杯仔度，飲一小啖啦！"
+  },
+  "shopbread": {
+    "en": "I'm bread. I have a golden crust and a soft middle.",
+    "cmn": "我是面包。我的外皮金黄金黄，里面软软的。",
+    "yue": "我係麵包。我嘅外皮金黃色，入面軟綿綿。"
+  },
+  "shopeggs": {
+    "en": "We're eggs. Our shells are delicate. Carry us gently!",
+    "cmn": "我们是鸡蛋。蛋壳容易碰破，轻轻地拿着我们吧！",
+    "yue": "我哋係雞蛋。蛋殼好容易撞爛，輕輕拎住我哋啦！"
+  },
+  "shopyogurt": {
+    "en": "I'm yogurt. I'm cool and creamy. Use a little spoon!",
+    "cmn": "我是酸奶。我凉凉的、滑滑的，用小勺子吃吧！",
+    "yue": "我係乳酪。我涼涼哋、滑滑哋，用小匙羹食啦！"
+  },
+  "shoptissue": {
+    "en": "I'm a tissue box. Take one soft tissue to wipe your hands.",
+    "cmn": "我是纸巾盒。抽一张软软的纸巾，擦擦小手。",
+    "yue": "我係紙巾盒。抽一張軟熟嘅紙巾，抹下小手啦。"
+  },
+  "shopcart": {
+    "en": "I'm a shopping cart. My wheels roll as we shop together!",
+    "cmn": "我是购物车。轮子转呀转，我们一起逛超市！",
+    "yue": "我係購物車。轆仔轉呀轉，我哋一齊行超市！"
+  },
+  "shopbasket": {
+    "en": "I'm a shopping basket. Put our groceries inside. Let's count!",
+    "cmn": "我是购物篮。把买的东西放进来，一起数一数！",
+    "yue": "我係購物籃。將買嘅嘢放入嚟，一齊數下啦！"
+  }
+}

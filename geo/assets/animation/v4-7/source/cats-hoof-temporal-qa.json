@@ -1,0 +1,877 @@
+{
+  "reviewer": "cel_gait_review",
+  "updatedAt": "2026-10-08T04:16:51.104Z",
+  "scope": "Whole-drawing limb identity, phase, grounded contact, fixed camera, selected runtime sheet and real wall-clock cadence. Browser direction/crop/repeat/reduced-motion final gates remain parent responsibility.",
+  "finalAcceptedIds": [
+    "cheetah",
+    "tiger",
+    "jaguar",
+    "lioncub",
+    "buffalo",
+    "rhino",
+    "warthog",
+    "elephantcalf",
+    "lioness",
+    "zebra",
+    "elephant"
+  ],
+  "pendingIds": [],
+  "records": [
+    {
+      "id": "cheetah",
+      "accepted": true,
+      "gait": "rotary gallop",
+      "evidence": "Eight ordered whole drawings show staggered forecontacts 0/1, gathered recovery 2/3, alternating hind contacts 4/5, hind push 6, extended recovery 7. Forepaws in 4–6 correctly airborne after targeted repair. Four anatomical limb identities remain readable; torso registration stable.",
+      "style": "Sculpted child-friendly 3D matching original poster.",
+      "packHash": "fde78c75f2fb7624db77c8fd7f8c659e449125ad68fb318b36d5ff3d0d7419ec",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/cheetah-source.png": "68658c071e903a74e3ffd2a2d49fa08d18b2768f7d36011b8c3e5e6c4c147091"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/cheetah-source.png": {
+          "width": 887,
+          "height": 1774
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/cheetah-source.png",
+      "sourceHash": "68658c071e903a74e3ffd2a2d49fa08d18b2768f7d36011b8c3e5e6c4c147091",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/cheetah.png",
+      "runtimeContactSheetHash": "b9ab9d7fe934254227c8c641945d7619a4a45b6ba7ef938782e34cee16a603af",
+      "cycle": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "holdsMs": [
+        85,
+        75,
+        65,
+        95,
+        85,
+        75,
+        65,
+        115
+      ]
+    },
+    {
+      "id": "tiger",
+      "accepted": true,
+      "gait": "compact gallop",
+      "evidence": "Eight ordered drawings separate forecontacts, gather/recover, hindcontacts with airborne front wrists, then extend. Fixed canvas source pose2 repaired low hind toe; latest runtime frame no below-ground hind toe. Head/torso stable except deliberate small bounce.",
+      "style": "Low-poly sculpted volumes and painted stripes wrap anatomy; no photoreal fur or flat cut-paper third style.",
+      "packHash": "a36d14c93ff291dadf535b640b28c12517fd0dd8fc6443a80b696914cb7677ba",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/tiger-source.png": "b53a184c28adbc25742cbc1b8cf9553d7bc93ec680056d470ae09033cbfda2da"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/tiger-source.png": {
+          "width": 887,
+          "height": 1774
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/tiger-source.png",
+      "sourceHash": "b53a184c28adbc25742cbc1b8cf9553d7bc93ec680056d470ae09033cbfda2da",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/tiger.png",
+      "runtimeContactSheetHash": "486a6406c324c29e89407e485d108adb52e264e0447623c525ec70296f3193ed",
+      "cycle": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "holdsMs": [
+        100,
+        105,
+        80,
+        120,
+        100,
+        105,
+        80,
+        130
+      ]
+    },
+    {
+      "id": "jaguar",
+      "accepted": true,
+      "gait": "short compact bound",
+      "evidence": "Forecontact roles alternate; front paws folded/suspended during rear support in 4–6. Near/far hind identity visible across cycle despite natural occlusion in one rear contact pose. Compact gathering and reach differ from cheetah extension; stable original world registration.",
+      "style": "Soft sculpted 3D consistent with original rainforest animals.",
+      "packHash": "0d9ab79b02e176e94df2da6092cbb2aa62551a28923781a0fa016fc63b7d2f8c",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/jaguar-source.png": "3b59f6a786d0da9ed1658214e01b3db4778f74602547536caad783dfd352436b"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/jaguar-source.png": {
+          "width": 887,
+          "height": 1774
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/jaguar-source.png",
+      "sourceHash": "3b59f6a786d0da9ed1658214e01b3db4778f74602547536caad783dfd352436b",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/jaguar.png",
+      "runtimeContactSheetHash": "ee930b632e79b90e6537adf560a1e6c1b61a3a24877e5ae6a94b84b177443630",
+      "cycle": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "holdsMs": [
+        105,
+        105,
+        95,
+        120,
+        105,
+        105,
+        90,
+        120
+      ]
+    },
+    {
+      "id": "lioncub",
+      "accepted": true,
+      "gait": "light diagonal trot",
+      "evidence": "Near-front lead in 0 versus far-front lead in 4; corresponding diagonal rear limbs change. Gather/pass drawings and short flight have all four connected limbs. No fixed rear struts; fixed original canvas registration.",
+      "style": "Low-poly stylized sculpted cub.",
+      "packHash": "e9b96f10d2b134292a019bd9ee341f745a1b81a8f7a1e382c24f4acd0f523f6b",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/lioncub-source.png": "59ec9a7a6d488ac45451494dbb04f919fa6741f0124396bbb98b677f1b721268"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/lioncub-source.png": {
+          "width": 887,
+          "height": 1774
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/lioncub-source.png",
+      "sourceHash": "59ec9a7a6d488ac45451494dbb04f919fa6741f0124396bbb98b677f1b721268",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/lioncub.png",
+      "runtimeContactSheetHash": "9770394eeaf1a1ad6feae114088f4e60e5d672767dfd8693ce3fb632c4cbaa39",
+      "cycle": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "holdsMs": [
+        100,
+        75,
+        95,
+        80,
+        100,
+        75,
+        95,
+        80
+      ]
+    },
+    {
+      "id": "buffalo",
+      "accepted": true,
+      "gait": "four-beat walk",
+      "evidence": "Selected four new whole drawings: 0 near-hind recovery, 1 near-fore recovery, 2 far-hind recovery, 3 far-fore recovery. Other three limbs support; whole hoof clearance visible in all recovery poses. Near-fore identity repair prevents duplicate far-fore recovery. Latest same-zoom actual runtime contact sheet checked; stable head/shoulder/torso full camera.",
+      "rejected": "Old eight-pose atlas and proposed reorder rejected because no readable hind recovery.",
+      "packHash": "f8a0fbc68017705348670685df22d5e6a011c10c132d14bd075cff1bad606c2a",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/buffalo-painted-0.png": "e713e7b2c21997a2956f3aae0dd05f78b157839abd707e95cef827b499088f52",
+        "geo/assets/animation/v4-7/source/buffalo-painted-1.png": "53d086bee87695668ebc7e3fc5b257a950a717b5c6eb4e48e8abd764231646dd",
+        "geo/assets/animation/v4-7/source/buffalo-painted-2.png": "effa5cf00f555b2a28538ce47536c7df82e561075ab170f30aa83138a52d3dbe",
+        "geo/assets/animation/v4-7/source/buffalo-painted-3.png": "c080ae0dc7fdce90c3fbec23c636607a12ca326fc3171e71d43abed77e830185"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/buffalo-painted-0.png": {
+          "width": 1602,
+          "height": 982
+        },
+        "geo/assets/animation/v4-7/source/buffalo-painted-1.png": {
+          "width": 1601,
+          "height": 982
+        },
+        "geo/assets/animation/v4-7/source/buffalo-painted-2.png": {
+          "width": 1601,
+          "height": 982
+        },
+        "geo/assets/animation/v4-7/source/buffalo-painted-3.png": {
+          "width": 1601,
+          "height": 982
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/buffalo-painted-poses.png",
+      "sourceHash": "ce1b68cfabd26dd0973640e858bfb049b867a44b0cc54bbb6e7f9b2f1c4418b6",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/buffalo.png",
+      "runtimeContactSheetHash": "a7f4098a07209895152898075fc59127458e9a24bf634977eb9a3faa7890ffb4",
+      "cycle": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "holdsMs": [
+        160,
+        145,
+        160,
+        145
+      ]
+    },
+    {
+      "id": "rhino",
+      "accepted": true,
+      "gait": "four-beat walk",
+      "evidence": "Four whole drawings show near-hind, near-fore, far-hind, far-fore independent recovery. Same-zoom actual runtime and original source camera inspected. Pose4 head/upper torso rise is weight transfer with common planted soles and comparable horizontal torso/face proportions, not whole-bounding-box scale normalization. Small authored drawing variation accepted.",
+      "packHash": "270883d8cd22d030bfcb94acf35e6005ae2f9ebf6c87b95a342ce8ee4ddbec80",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/rhino-pose-0.png": "0fbb987caba605b14c7a8bd47d204f88323282476406217402bd6771b0175918",
+        "geo/assets/animation/v4-7/source/rhino-pose-2.png": "b23f163061c81ab12a1d0b295994cf8ec74deefaaab0af372fd2d1cb6e93093a",
+        "geo/assets/animation/v4-7/source/rhino-pose-4.png": "bd5d8fff46946c544bcd564a41d2d3d547b95307e09450360dea53ee79b29f84",
+        "geo/assets/animation/v4-7/source/rhino-pose-6.png": "3c63e8835c04dc0b2ebc156c8b502d9b6e29972eea88242b0846f26d18c813a3"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/rhino-pose-0.png": {
+          "width": 1536,
+          "height": 1024
+        },
+        "geo/assets/animation/v4-7/source/rhino-pose-2.png": {
+          "width": 1536,
+          "height": 1024
+        },
+        "geo/assets/animation/v4-7/source/rhino-pose-4.png": {
+          "width": 1536,
+          "height": 1024
+        },
+        "geo/assets/animation/v4-7/source/rhino-pose-6.png": {
+          "width": 1536,
+          "height": 1024
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/rhino-painted-poses.png",
+      "sourceHash": "fdac1f0079f3f0561bcac4b6d7c9185daf11a6e89377a24130ac872830f585de",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/rhino.png",
+      "runtimeContactSheetHash": "f98af1125ad5143735ec40739f7b06b795d6bfd2a38dc7891e48b986bba9e2bc",
+      "cycle": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "holdsMs": [
+        170,
+        135,
+        170,
+        135
+      ]
+    },
+    {
+      "id": "warthog",
+      "accepted": true,
+      "gait": "brisk short-step walk",
+      "evidence": "Actual ordered runtime drawings show near/far fore recovery distinguished by shoulder depth and limb width, and both hind limbs raised in different phases (rear outer in 2/5, inner in 3/6). Torso/head stable. Accept as brisk walk rhythm rather than claiming mechanically exact diagonal trot.",
+      "packHash": "122ed7eff42ddcccf0a523a0124fc7512d06b9329ccb94d8a9f0f783155ba4e9",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/warthog-source.png": "fa657d2e981a95425a624f6d7843e996a8442702938274971cc422333a9855f4"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/warthog-source.png": {
+          "width": 887,
+          "height": 1774
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/warthog-source.png",
+      "sourceHash": "fa657d2e981a95425a624f6d7843e996a8442702938274971cc422333a9855f4",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/warthog.png",
+      "runtimeContactSheetHash": "564d74e42273f7ad9ae0069c523b6160cb7b4de0fe7cc13d13750d5148da733f",
+      "cycle": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "holdsMs": [
+        95,
+        65,
+        90,
+        70,
+        95,
+        65,
+        90,
+        70
+      ]
+    },
+    {
+      "id": "elephantcalf",
+      "accepted": true,
+      "gait": "grounded four-beat stepping",
+      "evidence": "Actual ordered runtime: both foreleg recovery roles switch; rear outer visibly lifts in 2/6 and inner lifts in 3/7. Bright near and dark far feet change airborne/stance roles. No whole-body flight or fixed hindlegs; body/head stable.",
+      "packHash": "ec75230326a0a87e0e5dcd7616ea6f169797a94ba351e90046e825ba3bef01d5",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/elephantcalf-source.png": "494681a4d2e653acd3ba4c0c7fc6bb1ad5a4374581a10767464aa440d85642ed"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/elephantcalf-source.png": {
+          "width": 1114,
+          "height": 1411
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/elephantcalf-source.png",
+      "sourceHash": "494681a4d2e653acd3ba4c0c7fc6bb1ad5a4374581a10767464aa440d85642ed",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/elephantcalf.png",
+      "runtimeContactSheetHash": "131358c27c4fc76f55e8c21fdbc444e80fd4b66abe0c936d79a7fc61894610f8",
+      "cycle": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "holdsMs": [
+        140,
+        105,
+        150,
+        110,
+        140,
+        105,
+        150,
+        110
+      ]
+    },
+    {
+      "id": "lioness",
+      "accepted": true,
+      "gait": "four-beat walk",
+      "evidence": "Final replacement four whole drawings and same-zoom actual runtime inspected: bright near-fore recovery, dark far-hind recovery, dark far-fore recovery, bright near-hind recovery. Each has other three paws supporting. Complete four-leg root anatomy and correct near/far phase identities, stable head/torso framing, slight deliberate weight transfer. Configuration correctly labels walk.",
+      "rejected": "Old eight-pose atlas had foreleg swapping but frozen hind supports; fully withdrawn, not counted as final acceptance.",
+      "packHash": "64b5f92585a1b224ab8cb1eef6edc7da9db4e59f1b8126bcf03c3d4196779662",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/lioness-pose-0.png": "23692944115042f4d69d6c4ec12869b1e33590ed60943e2d2c145c9504c8beba",
+        "geo/assets/animation/v4-7/source/lioness-pose-2.png": "628059607e038eff6b72e4c8f5e97a4d0bd67be0fe36b028cae4b48ad199ddbf",
+        "geo/assets/animation/v4-7/source/lioness-pose-4.png": "ea9d0f068d7905fa06b1622075ef9541400964cc8ef563b907563bf0cf1c182c",
+        "geo/assets/animation/v4-7/source/lioness-pose-6.png": "921bef9157f7b9c986f0929778b7faf28cbf6dc5f6385b25f41a4427c7889662"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/lioness-pose-0.png": {
+          "width": 1640,
+          "height": 959
+        },
+        "geo/assets/animation/v4-7/source/lioness-pose-2.png": {
+          "width": 1641,
+          "height": 959
+        },
+        "geo/assets/animation/v4-7/source/lioness-pose-4.png": {
+          "width": 1641,
+          "height": 959
+        },
+        "geo/assets/animation/v4-7/source/lioness-pose-6.png": {
+          "width": 1642,
+          "height": 958
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/lioness-painted-poses.png",
+      "sourceHash": "1b81a6c822901b9c106070e3032a2d943cfe576c7ab16a16eb1e1c4d61892f02",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/lioness.png",
+      "runtimeContactSheetHash": "6549037c05488f1db368e5667d4f8ea4c12467b9d20f35e117aa70042e332131",
+      "cycle": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "holdsMs": [
+        150,
+        130,
+        150,
+        130
+      ]
+    },
+    {
+      "id": "zebra",
+      "accepted": true,
+      "gait": "brisk four-beat walk",
+      "evidence": "Final four whole drawings and same-zoom actual runtime checked: 0 bright outer near-hind recovery, 1 broad bright near-fore recovery, 2 dark inner far-hind recovery, 3 dark inner far-fore recovery. Three supporting soles and one full hoof-height recovery clearance in each key. Head, stripes, shoulder and torso full-camera registration stable. Explicit walk configuration; not labelled diagonal trot.",
+      "rejected": "Old eight-pose atlas withdrawn for missing far-hind recovery. New initial pose0 duplicate far-hind role withdrawn and repaired to near-hind; final source no fixed hindleg.",
+      "packHash": "713fd68c8642da86ae18f1c0e56b5aa6473af4e1958d425b71f6d5b78e24a576",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/zebra-painted-0.png": "656e1996ba98ff0aabd6b1bce2c5ed3e98e52c11249a89279b1a7ba3bdb57491",
+        "geo/assets/animation/v4-7/source/zebra-painted-1.png": "8ae761ff69c08c713d163c0440d83a31f7f2b3ebf1b2341642f96345211dba9d",
+        "geo/assets/animation/v4-7/source/zebra-painted-2.png": "ed9afe9a2bd06597dbd677bd6e6b514f899401e2c03539ee7786bd6eebd90a80",
+        "geo/assets/animation/v4-7/source/zebra-painted-3.png": "b4b5d195ef37ce2112db774baa52ad017c7d6a2db1eed1f7f9d96be6e55270b0"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/zebra-painted-0.png": {
+          "width": 1424,
+          "height": 1104
+        },
+        "geo/assets/animation/v4-7/source/zebra-painted-1.png": {
+          "width": 1422,
+          "height": 1106
+        },
+        "geo/assets/animation/v4-7/source/zebra-painted-2.png": {
+          "width": 1421,
+          "height": 1107
+        },
+        "geo/assets/animation/v4-7/source/zebra-painted-3.png": {
+          "width": 1423,
+          "height": 1105
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/zebra-painted-poses.png",
+      "sourceHash": "99ae8422763ef3710185d8de9435bcccbffa46bbb16f4e586ad432daf024ef24",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/zebra.png",
+      "runtimeContactSheetHash": "b156150148c0a5d3eb834ac6d6a5c2599ed23a58d06603f7f706705b1d26e44a",
+      "cycle": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "holdsMs": [
+        145,
+        130,
+        145,
+        130
+      ]
+    },
+    {
+      "id": "elephant",
+      "accepted": true,
+      "gait": "grounded deliberate walk",
+      "evidence": "Final same-zoom runtime cycle inspected after replacement raw4 dark far-hind recovery. Both forelegs and bright near-hind retain distinct recovery in other original drawings. New far-hind raised under abdomen with three supporting feet, no whole-body flight. Exact whole-view camera and torso are compatible with other seven originals; no bbox or forced ground alignment.",
+      "rejected": "Original raw4 and atlas sequence lacked clear far-hind recovery; replacement whole drawing supplies missing phase instead of hiding defect by reordering.",
+      "packHash": "ec593903f3b0ce100d78b548819d054d4546ac40c96f4b80870e572e9292dd43",
+      "sourceHashes": {
+        "geo/assets/animation/v4-7/source/elephant-painted-0.png": "39b71f8a1b432dfdf7264c57ebff8a6c6a09c2f1f69bfc0ea55e9feb57dba9df",
+        "geo/assets/animation/v4-7/source/elephant-painted-1.png": "5934e76560bcc2fe78850e7814ec58994173132b8ad7eb88bd327bb1731eea07",
+        "geo/assets/animation/v4-7/source/elephant-painted-2.png": "eba2aca3542f3d0fa53b0d60e832675ce6547d059b8865992ec728baded1cf58",
+        "geo/assets/animation/v4-7/source/elephant-painted-3.png": "aecdb0a97fea73616736c7d25e51950811c552379d27315cf7ca7f7d71994690",
+        "geo/assets/animation/v4-7/source/elephant-farhind-recovery.png": "36fe2d4341a947461c1d48f113873ff8de627d12eeb71e5ca79f3e9e776cacbd",
+        "geo/assets/animation/v4-7/source/elephant-painted-5.png": "9a19e4d6c9109803d426f57b95fc72f53e01041bb930c2b5029b8087de97d318",
+        "geo/assets/animation/v4-7/source/elephant-painted-6.png": "c4c56b04d94c35c125bbcf74bb858179f3a361190b4ec03b64f4d974a167d6e5",
+        "geo/assets/animation/v4-7/source/elephant-painted-7.png": "a4afc2b145719ee46f08eb049510575bafa42d0b89164787e6c4229a19dcb363"
+      },
+      "sourceImageSizes": {
+        "geo/assets/animation/v4-7/source/elephant-painted-0.png": {
+          "width": 377,
+          "height": 235
+        },
+        "geo/assets/animation/v4-7/source/elephant-painted-1.png": {
+          "width": 377,
+          "height": 235
+        },
+        "geo/assets/animation/v4-7/source/elephant-painted-2.png": {
+          "width": 377,
+          "height": 235
+        },
+        "geo/assets/animation/v4-7/source/elephant-painted-3.png": {
+          "width": 377,
+          "height": 235
+        },
+        "geo/assets/animation/v4-7/source/elephant-farhind-recovery.png": {
+          "width": 1588,
+          "height": 991
+        },
+        "geo/assets/animation/v4-7/source/elephant-painted-5.png": {
+          "width": 377,
+          "height": 235
+        },
+        "geo/assets/animation/v4-7/source/elephant-painted-6.png": {
+          "width": 377,
+          "height": 235
+        },
+        "geo/assets/animation/v4-7/source/elephant-painted-7.png": {
+          "width": 377,
+          "height": 235
+        }
+      },
+      "activePackagingSource": "geo/assets/animation/v4-7/source/elephant-painted-poses.png",
+      "sourceHash": "1c592c2cf14978f7b21df8789a363abdf69ce8e160364111b358dec9864eb9f2",
+      "runtimeContactSheet": "screenshots/v4-7/runtime-poses/elephant.png",
+      "runtimeContactSheetHash": "357a97a78b7248914b53bf959fbaf9f8c72b26cb50ed4f7b51dda4b383871d3c",
+      "cycle": [
+        0,
+        7,
+        3,
+        4,
+        5,
+        1,
+        2,
+        6
+      ],
+      "holdsMs": [
+        175,
+        125,
+        175,
+        155,
+        120,
+        120,
+        175,
+        145
+      ]
+    }
+  ],
+  "cadence": [
+    {
+      "path": "screenshots/v4-7/cats-actual-cadence.json",
+      "sha256": "985510074fa47bdd53ab993bb0d2f3d57aae95f6412e5d51499d5538a0fffd62",
+      "errors": [],
+      "results": [
+        {
+          "id": "cheetah",
+          "speed": 1,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 1740,
+          "observedDuration": 1761.0999999046326,
+          "rafP95": 18.09999999999991,
+          "rafMax": 18.399999999999977
+        },
+        {
+          "id": "cheetah",
+          "speed": 0.5,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 3480,
+          "observedDuration": 3484.600000023842,
+          "rafP95": 18.09999999999991,
+          "rafMax": 18.300000000000182
+        },
+        {
+          "id": "tiger",
+          "speed": 1,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 2060,
+          "observedDuration": 2078.5,
+          "rafP95": 18.199999999999818,
+          "rafMax": 18.5
+        },
+        {
+          "id": "tiger",
+          "speed": 0.5,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 4120,
+          "observedDuration": 4123.5,
+          "rafP95": 18,
+          "rafMax": 18.400000000000546
+        },
+        {
+          "id": "jaguar",
+          "speed": 1,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 2110,
+          "observedDuration": 2146.1999999284744,
+          "rafP95": 18,
+          "rafMax": 18.200000000000728
+        },
+        {
+          "id": "jaguar",
+          "speed": 0.5,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 4220,
+          "observedDuration": 4224.600000023842,
+          "rafP95": 18.099999999998545,
+          "rafMax": 19.100000000002183
+        },
+        {
+          "id": "lioness",
+          "speed": 1,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "expectedDuration": 1660,
+          "observedDuration": 1693.3000000715256,
+          "rafP95": 18.099999999998545,
+          "rafMax": 18.599999999998545
+        },
+        {
+          "id": "lioness",
+          "speed": 0.5,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "expectedDuration": 3320,
+          "observedDuration": 3326.100000023842,
+          "rafP95": 18.099999999998545,
+          "rafMax": 18.600000000002183
+        },
+        {
+          "id": "lioncub",
+          "speed": 1,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 1940,
+          "observedDuration": 1973.7000000476837,
+          "rafP95": 18,
+          "rafMax": 18.200000000000728
+        },
+        {
+          "id": "lioncub",
+          "speed": 0.5,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 3880,
+          "observedDuration": 3881.7000000476837,
+          "rafP95": 18,
+          "rafMax": 18.299999999999272
+        }
+      ]
+    },
+    {
+      "path": "screenshots/v4-7/hoof-actual-cadence.json",
+      "sha256": "0e8d0da30200c23613089a48a717b2e0441631dd97d79c22f3627049b4a7ccc3",
+      "errors": [],
+      "results": [
+        {
+          "id": "zebra",
+          "speed": 1,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "expectedDuration": 1640,
+          "observedDuration": 1669,
+          "rafP95": 18.09999999999991,
+          "rafMax": 18.40000000000009
+        },
+        {
+          "id": "zebra",
+          "speed": 0.5,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "expectedDuration": 3280,
+          "observedDuration": 3285.7000000476837,
+          "rafP95": 18.09999999999991,
+          "rafMax": 18.600000000000136
+        },
+        {
+          "id": "buffalo",
+          "speed": 1,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "expectedDuration": 1760,
+          "observedDuration": 1789.2000000476837,
+          "rafP95": 18.099999999999454,
+          "rafMax": 18.600000000000364
+        },
+        {
+          "id": "buffalo",
+          "speed": 0.5,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "expectedDuration": 3520,
+          "observedDuration": 3529.100000023842,
+          "rafP95": 18.200000000000728,
+          "rafMax": 18.800000000000182
+        },
+        {
+          "id": "warthog",
+          "speed": 1,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 1820,
+          "observedDuration": 1846.8999999761581,
+          "rafP95": 18.100000000000364,
+          "rafMax": 18.5
+        },
+        {
+          "id": "warthog",
+          "speed": 0.5,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 3640,
+          "observedDuration": 3647.1999999284744,
+          "rafP95": 18.100000000000364,
+          "rafMax": 18.599999999998545
+        },
+        {
+          "id": "elephantcalf",
+          "speed": 1,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 2560,
+          "observedDuration": 2583.399999976158,
+          "rafP95": 18.19999999999709,
+          "rafMax": 18.5
+        },
+        {
+          "id": "elephantcalf",
+          "speed": 0.5,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "expectedDuration": 5120,
+          "observedDuration": 5126,
+          "rafP95": 18.099999999998545,
+          "rafMax": 18.400000000001455
+        },
+        {
+          "id": "rhino",
+          "speed": 1,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "expectedDuration": 1760,
+          "observedDuration": 1780,
+          "rafP95": 18.100000000002183,
+          "rafMax": 18.5
+        },
+        {
+          "id": "rhino",
+          "speed": 0.5,
+          "framesSeen": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "expectedDuration": 3520,
+          "observedDuration": 3525.899999976158,
+          "rafP95": 18.100000000002183,
+          "rafMax": 18.600000000002183
+        }
+      ]
+    }
+  ],
+  "method": "Near/far fore/hind each must visibly lift, recover forwards and return to stance over the cycle; four visible feet in one drawing alone is insufficient. Frames may naturally occlude one far foot. Exact authored body pixels are not required, but no bbox-normalized scale/ground fixes. Limited rhythmic key drawings accepted; no procedural rig final images."
+}

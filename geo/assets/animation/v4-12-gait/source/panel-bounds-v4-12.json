@@ -1,0 +1,74 @@
+{
+  "zebra-pair-01.png": {
+    "canvas": [
+      2172,
+      724
+    ],
+    "alphaEmptyGap": [
+      1009,
+      1204
+    ],
+    "cut": 1106,
+    "leftPanel": [
+      0,
+      0,
+      1106,
+      724
+    ],
+    "alphaEdgeNoise": {
+      "saturatedRed": 1322,
+      "redAlpha": {
+        "1": 1312,
+        "2": 10
+      }
+    }
+  },
+  "zebra-pair-56.png": {
+    "canvas": [
+      1937,
+      812
+    ],
+    "alphaEmptyGap": [
+      974,
+      1005
+    ],
+    "cut": 989,
+    "leftPanel": [
+      0,
+      0,
+      989,
+      812
+    ],
+    "alphaEdgeNoise": {
+      "saturatedRed": 1327,
+      "redAlpha": {
+        "1": 1312,
+        "2": 15
+      }
+    }
+  },
+  "rhino-pair-01.png": {
+    "canvas": [
+      2086,
+      754
+    ],
+    "alphaEmptyGap": [
+      1012,
+      1074
+    ],
+    "cut": 1043,
+    "leftPanel": [
+      0,
+      0,
+      1043,
+      754
+    ],
+    "alphaEdgeNoise": {
+      "saturatedRed": 1374,
+      "redAlpha": {
+        "1": 1334,
+        "2": 40
+      }
+    }
+  }
+}

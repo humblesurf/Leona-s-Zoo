@@ -1,0 +1,100 @@
+{
+  "id": "arcticfox",
+  "approvedArt": true,
+  "movingPreviewApproved": false,
+  "mode": "builtin-imagegen independent complete character paintings",
+  "poses": [
+    {
+      "phase": 0,
+      "file": "arcticfox-pose-0.png",
+      "actualDimensions": [
+        1579,
+        996
+      ],
+      "reference": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/arcticfox-pose-guide-0.png",
+      "identity": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/arcticfox-poster.webp",
+      "prompt": "Create ONE SINGLE complete transparent animation original drawing of the ARCTIC FOX in image2, in the exact limb POSE of image1. Not a sprite atlas.\nImage1 is only a static animator pose sketch: preserve torso/face/tail camera and position plus all four paw positions, tracing each paw to its correct near/far shoulder or hip. Image2 is only the original appearance/identity: same beautiful ivory white angular low-poly fox, dark grey subtle far legs, orange eyes, bushy flowing tail and pointed ears. Do not duplicate image2's stationary foreleg stretch.\nFully redraw the animal in pose 0, removing every cutout seam and dislocated elbow/hock from the pose sketch. Four natural connected fox legs, natural bends and correct paw shapes. Maintain near forepaw versus far forepaw identities and exact phase-specific forepaw x position relative to the visible shoulder from image1. The two front legs may overlap partly, but no missing limb, no merged legs and no synchronized movement. All four paws complete.\nSame quiet body/head/camera and low-poly sculpted materials/proportions/colors as original; slight natural limb muscles, natural soft shading but no photorealism. Perfect alpha transparency; preserve generous fixed-canvas margins and pose sketch framing, no auto-centering each changed silhouette. Landscape matching image1 aspect ratio, complete tail/ear/nose/paws inside canvas. No colored guide lines, labels, noise, shadows, floor, ground, scenery, props, text or borders. This is a full character painted anew in the pose, not pasted leg fragments.",
+      "repairPrompt": null,
+      "additionalRepairPrompt": null,
+      "selectedGeneratedFile": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-6045b11c-ee8d-4c64-98a8-a71a7c223290.png",
+      "artQA": {
+        "style": "Same original ivory faceted low-poly character, no third art style.",
+        "anatomy": "Four limb attachments maintained; complete rounded front paws and connected hind legs. Far paw can be strongly occluded, particularly bear pose6; do not claim four completely visible paws in every drawing.",
+        "registration": "Full-canvas normalization only. Camera/head/body stability must be checked in actual playback; no per-frame bbox fitting.",
+        "repair": "Whole-pose painting checked against identity and pose sketch."
+      }
+    },
+    {
+      "phase": 2,
+      "file": "arcticfox-pose-2.png",
+      "actualDimensions": [
+        1578,
+        996
+      ],
+      "reference": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/arcticfox-pose-guide-2.png",
+      "identity": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/arcticfox-poster.webp",
+      "prompt": "Create ONE SINGLE complete transparent animation original drawing of the ARCTIC FOX in image2, in the exact limb POSE of image1. Not a sprite atlas.\nImage1 is only a static animator pose sketch: preserve torso/face/tail camera and position plus all four paw positions, tracing each paw to its correct near/far shoulder or hip. Image2 is only the original appearance/identity: same beautiful ivory white angular low-poly fox, dark grey subtle far legs, orange eyes, bushy flowing tail and pointed ears. Do not duplicate image2's stationary foreleg stretch.\nFully redraw the animal in pose 2, removing every cutout seam and dislocated elbow/hock from the pose sketch. Four natural connected fox legs, natural bends and correct paw shapes. Maintain near forepaw versus far forepaw identities and exact phase-specific forepaw x position relative to the visible shoulder from image1. The two front legs may overlap partly, but no missing limb, no merged legs and no synchronized movement. All four paws complete.\nSame quiet body/head/camera and low-poly sculpted materials/proportions/colors as original; slight natural limb muscles, natural soft shading but no photorealism. Perfect alpha transparency; preserve generous fixed-canvas margins and pose sketch framing, no auto-centering each changed silhouette. Landscape matching image1 aspect ratio, complete tail/ear/nose/paws inside canvas. No colored guide lines, labels, noise, shadows, floor, ground, scenery, props, text or borders. This is a full character painted anew in the pose, not pasted leg fragments.",
+      "repairPrompt": "Edit reference image1, a single arctic fox walking/trotting pose. Keep exact character, head/ear/face/tail shape, body center, camera, image dimensions, all four paw contact-center coordinates and transparency.\nFix ONLY the FRONT PAW SHAPES: the grey lower/front paws include accidental flat, sharply rectangular cut-off ends and a pasted-looking small rightward toe block. Redraw both near and far front paws as complete anatomically connected gently rounded fox paws, each with natural curved toes, integrated seamlessly with the wrists. Remove every cutout seam or rectangular leftover at the paw edge, but preserve each limb's original foot center and bend/lift state. Keep existing grey/light material of each limb; do not add any limb or change phase. Preserve both hind legs and hind paws exactly. Four complete connected legs. This is one seamless low-poly original animal drawing, not cutout pieces.\nReference image2 is anatomy/identity only, not its standing pose. Keep image1's action. Clean transparent antialias edges, no shadows, floor, backdrop, colored lines, text or labels.",
+      "additionalRepairPrompt": "Repair ONLY front paw edge anatomy in image1 (arctic fox trot pose). Keep FOUR LEGS AND FOUR PAWS.\nIMPORTANT: do NOT delete the second front paw. Image1 has TWO separate front limbs which end in two grey paws at approx x31% and x35% of the canvas width. Keep BOTH of those front paws, each clearly visible, rounded and complete, attached to its own front wrist. Keep their exact spatial positions and their separate lift/contact heights. Only round off the unnatural vertical square rightmost cut edge and little flat toe block. Image2 shows the same pose geometry; maintain both forepaws and both hindpaws exactly from that sketch. Do NOT merge the two front paws into one blob and do NOT remove a foreleg. Far limbs should be subtly darker. Draw toes naturally and connect every shoulder/wrist/hock/paw seamlessly.\nPreserve original face/body/tail, full-canvas camera/scale/anchors, palette and low-poly facet pattern of image1 exactly, retain original four-limb phase. One complete animal cutout on truly transparent background, no shadow/floor/scenery/text/noise/guide colors.",
+      "selectedGeneratedFile": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-9cffdbd6-e116-45f0-8bc6-e63be0f51e10.png",
+      "artQA": {
+        "style": "Same original ivory faceted low-poly character, no third art style.",
+        "anatomy": "Four limb attachments maintained; complete rounded front paws and connected hind legs. Far paw can be strongly occluded, particularly bear pose6; do not claim four completely visible paws in every drawing.",
+        "registration": "Full-canvas normalization only. Camera/head/body stability must be checked in actual playback; no per-frame bbox fitting.",
+        "repair": "Flat/rectangular paw remnants targeted where needed; rounded complete paws checked."
+      }
+    },
+    {
+      "phase": 4,
+      "file": "arcticfox-pose-4.png",
+      "actualDimensions": [
+        1579,
+        996
+      ],
+      "reference": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/arcticfox-pose-guide-4.png",
+      "identity": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/arcticfox-poster.webp",
+      "prompt": "Create ONE SINGLE complete transparent animation original drawing of the ARCTIC FOX in image2, in the exact limb POSE of image1. Not a sprite atlas.\nImage1 is only a static animator pose sketch: preserve torso/face/tail camera and position plus all four paw positions, tracing each paw to its correct near/far shoulder or hip. Image2 is only the original appearance/identity: same beautiful ivory white angular low-poly fox, dark grey subtle far legs, orange eyes, bushy flowing tail and pointed ears. Do not duplicate image2's stationary foreleg stretch.\nFully redraw the animal in pose 4, removing every cutout seam and dislocated elbow/hock from the pose sketch. Four natural connected fox legs, natural bends and correct paw shapes. Maintain near forepaw versus far forepaw identities and exact phase-specific forepaw x position relative to the visible shoulder from image1. The two front legs may overlap partly, but no missing limb, no merged legs and no synchronized movement. All four paws complete.\nSame quiet body/head/camera and low-poly sculpted materials/proportions/colors as original; slight natural limb muscles, natural soft shading but no photorealism. Perfect alpha transparency; preserve generous fixed-canvas margins and pose sketch framing, no auto-centering each changed silhouette. Landscape matching image1 aspect ratio, complete tail/ear/nose/paws inside canvas. No colored guide lines, labels, noise, shadows, floor, ground, scenery, props, text or borders. This is a full character painted anew in the pose, not pasted leg fragments.",
+      "repairPrompt": null,
+      "additionalRepairPrompt": null,
+      "selectedGeneratedFile": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-ea12fdb0-dc48-4ca7-8718-10b599b70445.png",
+      "artQA": {
+        "style": "Same original ivory faceted low-poly character, no third art style.",
+        "anatomy": "Four limb attachments maintained; complete rounded front paws and connected hind legs. Far paw can be strongly occluded, particularly bear pose6; do not claim four completely visible paws in every drawing.",
+        "registration": "Full-canvas normalization only. Camera/head/body stability must be checked in actual playback; no per-frame bbox fitting.",
+        "repair": "Whole-pose painting checked against identity and pose sketch."
+      }
+    },
+    {
+      "phase": 6,
+      "file": "arcticfox-pose-6.png",
+      "actualDimensions": [
+        1579,
+        996
+      ],
+      "reference": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/arcticfox-pose-guide-6.png",
+      "identity": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/arcticfox-poster.webp",
+      "prompt": "Create ONE SINGLE complete transparent animation original drawing of the ARCTIC FOX in image2, in the exact limb POSE of image1. Not a sprite atlas.\nImage1 is only a static animator pose sketch: preserve torso/face/tail camera and position plus all four paw positions, tracing each paw to its correct near/far shoulder or hip. Image2 is only the original appearance/identity: same beautiful ivory white angular low-poly fox, dark grey subtle far legs, orange eyes, bushy flowing tail and pointed ears. Do not duplicate image2's stationary foreleg stretch.\nFully redraw the animal in pose 6, removing every cutout seam and dislocated elbow/hock from the pose sketch. Four natural connected fox legs, natural bends and correct paw shapes. Maintain near forepaw versus far forepaw identities and exact phase-specific forepaw x position relative to the visible shoulder from image1. The two front legs may overlap partly, but no missing limb, no merged legs and no synchronized movement. All four paws complete.\nSame quiet body/head/camera and low-poly sculpted materials/proportions/colors as original; slight natural limb muscles, natural soft shading but no photorealism. Perfect alpha transparency; preserve generous fixed-canvas margins and pose sketch framing, no auto-centering each changed silhouette. Landscape matching image1 aspect ratio, complete tail/ear/nose/paws inside canvas. No colored guide lines, labels, noise, shadows, floor, ground, scenery, props, text or borders. This is a full character painted anew in the pose, not pasted leg fragments.",
+      "repairPrompt": null,
+      "additionalRepairPrompt": null,
+      "selectedGeneratedFile": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-78c1e342-3e28-4c7e-845e-5c4c7e2d7f81.png",
+      "artQA": {
+        "style": "Same original ivory faceted low-poly character, no third art style.",
+        "anatomy": "Four limb attachments maintained; complete rounded front paws and connected hind legs. Far paw can be strongly occluded, particularly bear pose6; do not claim four completely visible paws in every drawing.",
+        "registration": "Full-canvas normalization only. Camera/head/body stability must be checked in actual playback; no per-frame bbox fitting.",
+        "repair": "Flat/rectangular paw remnants targeted where needed; rounded complete paws checked."
+      }
+    }
+  ],
+  "canvas": {
+    "width": 550,
+    "height": 347,
+    "source": "reference/arcticfox-pose-guide.json"
+  },
+  "suggestedHoldsMs": [
+    120,
+    100,
+    120,
+    100
+  ],
+  "limitations": "Only four full independently drawn key poses. Add recovery poses if actual cadence or contact sequence feels abrupt. Art QA is not a full moving gait approval."
+}

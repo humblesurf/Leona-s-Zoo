@@ -1,0 +1,112 @@
+{
+  "mode": "built-in imagegen",
+  "originalResolution": true,
+  "records": [
+    {
+      "name": "background",
+      "width": 2172,
+      "height": 724,
+      "alpha": false
+    },
+    {
+      "name": "tent",
+      "sourceWidth": 1774,
+      "sourceHeight": 887,
+      "width": 887,
+      "height": 626,
+      "cells": 2,
+      "commonCrop": {
+        "l": 0,
+        "t": 125,
+        "r": 886,
+        "b": 750
+      },
+      "bounds": [
+        {
+          "l": 19,
+          "t": 145,
+          "r": 867,
+          "b": 730,
+          "transparentFraction": 0.6228384697414362
+        },
+        {
+          "l": 20,
+          "t": 145,
+          "r": 867,
+          "b": 730,
+          "transparentFraction": 0.6229871792101621
+        }
+      ]
+    },
+    {
+      "name": "backpack",
+      "sourceWidth": 1312,
+      "sourceHeight": 1199,
+      "width": 1178,
+      "height": 1175,
+      "bounds": {
+        "l": 98,
+        "t": 29,
+        "r": 1235,
+        "b": 1163,
+        "transparentFraction": 0.439440133037694
+      }
+    },
+    {
+      "name": "tree",
+      "sourceWidth": 1024,
+      "sourceHeight": 1536,
+      "width": 1004,
+      "height": 1536,
+      "bounds": {
+        "l": 40,
+        "t": 11,
+        "r": 1004,
+        "b": 1523,
+        "transparentFraction": 0.5607833862304688
+      }
+    },
+    {
+      "name": "fireflies",
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "width": 1020,
+      "height": 686,
+      "bounds": {
+        "l": 287,
+        "t": 154,
+        "r": 1266,
+        "b": 799,
+        "transparentFraction": 0.8419647216796875
+      }
+    },
+    {
+      "name": "stars",
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "width": 894,
+      "height": 589,
+      "bounds": {
+        "l": 361,
+        "t": 225,
+        "r": 1214,
+        "b": 773,
+        "transparentFraction": 0.9638004302978516
+      }
+    },
+    {
+      "name": "stream",
+      "sourceWidth": 1774,
+      "sourceHeight": 887,
+      "width": 1774,
+      "height": 667,
+      "bounds": {
+        "l": 12,
+        "t": 169,
+        "r": 1767,
+        "b": 795,
+        "transparentFraction": 0.5114156760116375
+      }
+    }
+  ]
+}

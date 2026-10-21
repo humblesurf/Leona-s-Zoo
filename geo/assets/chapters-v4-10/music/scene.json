@@ -1,0 +1,303 @@
+{
+  "scene": {
+    "id": "music",
+    "label": "音乐小屋",
+    "numScreens": 3,
+    "bgAspect": 3,
+    "bgMirror": false,
+    "bgStrip": "assets/chapters-v4-10/music/background.webp",
+    "ambience": "assets/audio/v4-9/music.mp3",
+    "animals": [
+      {
+        "id": "musicpiano",
+        "u": 0.1285,
+        "feetY": 0.7230000000000001,
+        "h": 0.458,
+        "hitWidthRatio": 1.4475982532751093,
+        "embedded": true,
+        "embeddedBounds": [
+          0.018,
+          0.265,
+          0.221,
+          0.458
+        ],
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "musicpiano-embedded-v4-10"
+      },
+      {
+        "id": "musicdrum",
+        "u": 0.3575,
+        "feetY": 0.699,
+        "h": 0.288,
+        "hitWidthRatio": 1.0312500000000002,
+        "embedded": true,
+        "embeddedBounds": [
+          0.308,
+          0.411,
+          0.099,
+          0.288
+        ],
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "musicdrum-embedded-v4-10"
+      },
+      {
+        "id": "musicxylophone",
+        "u": 0.5665,
+        "feetY": 0.7,
+        "h": 0.289,
+        "hitWidthRatio": 1.8996539792387541,
+        "embedded": true,
+        "embeddedBounds": [
+          0.475,
+          0.411,
+          0.183,
+          0.289
+        ],
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "musicxylophone-embedded-v4-10"
+      },
+      {
+        "id": "musictambourine",
+        "u": 0.8045,
+        "feetY": 0.525,
+        "h": 0.219,
+        "hitWidthRatio": 1.0821917808219177,
+        "embedded": true,
+        "embeddedBounds": [
+          0.765,
+          0.306,
+          0.079,
+          0.219
+        ],
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "musictambourine-embedded-v4-10"
+      },
+      {
+        "id": "musicmaracas",
+        "u": 0.934,
+        "feetY": 0.511,
+        "h": 0.192,
+        "hitWidthRatio": 1.1562499999999998,
+        "embedded": true,
+        "embeddedBounds": [
+          0.897,
+          0.319,
+          0.074,
+          0.192
+        ],
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "musicmaracas-embedded-v4-10"
+      }
+    ],
+    "panorama": true
+  },
+  "objects": {
+    "musicpiano": {
+      "poster": "assets/chapters-v4-9/music/musicpiano.webp",
+      "width": 480,
+      "height": 332,
+      "motion": "piano",
+      "duration": 4800,
+      "keys": [
+        [
+          0.15,
+          0.446,
+          0.145,
+          0.035
+        ],
+        [
+          0.33,
+          0.446,
+          0.145,
+          0.035
+        ],
+        [
+          0.51,
+          0.446,
+          0.145,
+          0.035
+        ],
+        [
+          0.69,
+          0.446,
+          0.145,
+          0.035
+        ]
+      ],
+      "posterAspect": 1.1300448430493273,
+      "embedded": true
+    },
+    "musicdrum": {
+      "poster": "assets/chapters-v4-9/music/musicdrum.webp",
+      "width": 215,
+      "height": 209,
+      "motion": "drum",
+      "duration": 4800,
+      "posterAspect": 1.2397820163487738,
+      "embedded": true,
+      "strikePoint": [
+        0.48,
+        0.105
+      ],
+      "strikeHeadRect": [
+        0.06,
+        0.01,
+        0.88,
+        0.12
+      ]
+    },
+    "musicxylophone": {
+      "poster": "assets/chapters-v4-9/music/musicxylophone.webp",
+      "width": 397,
+      "height": 209,
+      "motion": "xylophone",
+      "duration": 4800,
+      "posterAspect": 1.649064906490649,
+      "embedded": true,
+      "strikePoint": [
+        0.58,
+        0.115
+      ]
+    },
+    "musictambourine": {
+      "poster": "assets/chapters-v4-9/music/musictambourine.webp",
+      "width": 172,
+      "height": 159,
+      "motion": "tambourine",
+      "duration": 4800,
+      "posterAspect": 1.1865745310957552,
+      "embedded": true,
+      "beatPoint": [
+        0.52,
+        0.45
+      ]
+    },
+    "musicmaracas": {
+      "poster": "assets/chapters-v4-9/music/musicmaracas.webp",
+      "width": 161,
+      "height": 139,
+      "motion": "maracas",
+      "duration": 4800,
+      "posterAspect": 1.0934819897084047,
+      "embedded": true,
+      "beatPoint": [
+        0.5,
+        0.43
+      ]
+    }
+  },
+  "dialogue": {
+    "musicpiano": {
+      "name": {
+        "en": "Piano",
+        "cmn": "钢琴",
+        "yue": "鋼琴"
+      },
+      "emoji": "🎹",
+      "intro": {
+        "en": "I'm a piano. My keys play high and low notes. Let's make a little tune!",
+        "cmn": "我是钢琴，琴键会弹出高高低低的声音。一起弹首小曲吧！",
+        "yue": "我係鋼琴，琴鍵會彈出高高低低嘅聲音。一齊彈首小曲啦！"
+      },
+      "kind": "discovery"
+    },
+    "musicdrum": {
+      "name": {
+        "en": "Little drum",
+        "cmn": "小鼓",
+        "yue": "小鼓"
+      },
+      "emoji": "🥁",
+      "intro": {
+        "en": "I'm a little drum. Tap me gently, then try a stronger beat. Boom, boom!",
+        "cmn": "我是小鼓，轻轻敲，再试试重一点。咚，咚！",
+        "yue": "我係小鼓，輕輕敲，再試吓重啲。咚，咚！"
+      },
+      "kind": "discovery"
+    },
+    "musicxylophone": {
+      "name": {
+        "en": "Xylophone",
+        "cmn": "木琴",
+        "yue": "木琴"
+      },
+      "emoji": "🎵",
+      "intro": {
+        "en": "I'm a xylophone. My wooden bars make bright notes when the mallets tap them.",
+        "cmn": "我是木琴，小槌敲敲木条，就会发出清脆的声音。",
+        "yue": "我係木琴，小槌敲吓木條，就會發出清脆嘅聲音。"
+      },
+      "kind": "discovery"
+    },
+    "musictambourine": {
+      "name": {
+        "en": "Tambourine",
+        "cmn": "铃鼓",
+        "yue": "鈴鼓"
+      },
+      "emoji": "🎶",
+      "intro": {
+        "en": "I'm a tambourine. Shake my little jingles. Jingle, jingle!",
+        "cmn": "我是铃鼓，摇一摇，小铃片叮当响！",
+        "yue": "我係鈴鼓，搖一搖，小鈴片叮噹響！"
+      },
+      "kind": "discovery"
+    },
+    "musicmaracas": {
+      "name": {
+        "en": "Maracas",
+        "cmn": "沙锤",
+        "yue": "沙鎚"
+      },
+      "emoji": "🎶",
+      "intro": {
+        "en": "We're maracas. Little seeds rattle inside us. Shake slowly, then quickly!",
+        "cmn": "我们是沙锤，小颗粒在里面沙沙响。慢慢摇，再快快摇！",
+        "yue": "我哋係沙鎚，小粒粒喺入面沙沙響。慢慢搖，再快快搖！"
+      },
+      "kind": "discovery"
+    }
+  },
+  "embeddedBounds": {
+    "musicpiano": [
+      0.018,
+      0.265,
+      0.221,
+      0.458
+    ],
+    "musicdrum": [
+      0.308,
+      0.411,
+      0.099,
+      0.288
+    ],
+    "musicxylophone": [
+      0.475,
+      0.411,
+      0.183,
+      0.289
+    ],
+    "musictambourine": [
+      0.765,
+      0.306,
+      0.079,
+      0.219
+    ],
+    "musicmaracas": [
+      0.897,
+      0.319,
+      0.074,
+      0.192
+    ]
+  }
+}

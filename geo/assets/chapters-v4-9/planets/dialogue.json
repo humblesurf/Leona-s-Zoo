@@ -1,0 +1,114 @@
+{
+  "cosmossun": {
+    "name": {
+      "en": "Sun",
+      "cmn": "太阳",
+      "yue": "太陽"
+    },
+    "intro": {
+      "en": "I'm the Sun, our bright star. My light helps warm the Earth.",
+      "cmn": "我是太阳，是一颗明亮的恒星。我的阳光让地球暖暖的。",
+      "yue": "我係太陽，係一粒明亮嘅恆星。我嘅陽光令地球暖笠笠。"
+    },
+    "emoji": "☀️",
+    "kind": "discovery"
+  },
+  "cosmosearth": {
+    "name": {
+      "en": "Earth",
+      "cmn": "地球",
+      "yue": "地球"
+    },
+    "intro": {
+      "en": "I'm Earth, our home. I have blue oceans and land, and I travel around the Sun.",
+      "cmn": "我是地球，是我们的家。我的表面有海洋和陆地，我会绕着太阳转。",
+      "yue": "我係地球，係我哋嘅家。我有海洋同陸地，會繞住太陽轉。"
+    },
+    "emoji": "🌍",
+    "kind": "discovery"
+  },
+  "cosmosmars": {
+    "name": {
+      "en": "Mars",
+      "cmn": "火星",
+      "yue": "火星"
+    },
+    "intro": {
+      "en": "I'm Mars, the red planet. I travel around the Sun too.",
+      "cmn": "我是火星，红红的星球。我也会绕着太阳转。",
+      "yue": "我係火星，紅紅嘅星球。我都會繞住太陽轉。"
+    },
+    "emoji": "🔴",
+    "kind": "discovery"
+  },
+  "cosmosjupiter": {
+    "name": {
+      "en": "Jupiter",
+      "cmn": "木星",
+      "yue": "木星"
+    },
+    "intro": {
+      "en": "I'm Jupiter, the biggest planet in our solar system. Look at my cloudy stripes!",
+      "cmn": "我是木星，是太阳系里最大的行星。看，我的云层一条一条的！",
+      "yue": "我係木星，係太陽系最大嘅行星。睇，我嘅雲層一條一條㗎！"
+    },
+    "emoji": "🟠",
+    "kind": "discovery"
+  },
+  "cosmossaturn": {
+    "name": {
+      "en": "Saturn",
+      "cmn": "土星",
+      "yue": "土星"
+    },
+    "intro": {
+      "en": "I'm Saturn. My beautiful rings are made of many little pieces of ice and rock.",
+      "cmn": "我是土星。我的漂亮光环，是许多小小的冰块和石头组成的。",
+      "yue": "我係土星。我嘅靚靚光環，係好多細細嘅冰塊同石頭組成㗎。"
+    },
+    "emoji": "🪐",
+    "kind": "discovery"
+  },
+  "cosmosstars": {
+    "name": {
+      "en": "Stars",
+      "cmn": "星星",
+      "yue": "星星"
+    },
+    "intro": {
+      "en": "We're stars, shining far away. The Sun is a star too.",
+      "cmn": "我们是星星，在遥远的地方发光。太阳也是一颗恒星哦。",
+      "yue": "我哋係星星，喺好遠嘅地方發光。太陽都係一粒恆星呀。"
+    },
+    "emoji": "✨",
+    "kind": "discovery"
+  },
+  "cosmosgalaxy": {
+    "name": {
+      "en": "Milky Way",
+      "cmn": "银河",
+      "yue": "銀河"
+    },
+    "intro": {
+      "en": "I'm the Milky Way, a huge galaxy with so many stars. Our Sun belongs here too.",
+      "cmn": "我是银河，有好多好多恒星。我们的太阳，也是银河里的一颗恒星。",
+      "yue": "我係銀河，有好多好多恆星。我哋嘅太陽，都係銀河入面一粒恆星。"
+    },
+    "emoji": "🌌",
+    "kind": "discovery"
+  },
+  "cosmossatellite": {
+    "name": {
+      "en": "Satellite",
+      "cmn": "人造卫星",
+      "yue": "人造衛星"
+    },
+    "intro": {
+      "en": "I'm a satellite made by people. I travel around Earth and help us learn about our home.",
+      "cmn": "我是人造卫星，是人们做出来的。我绕着地球转，帮大家认识我们的家。",
+      "yue": "我係人造衛星，係人哋做出嚟嘅。我繞住地球轉，幫大家認識我哋嘅家。"
+    },
+    "emoji": "🛰️",
+    "kind": "discovery"
+  }
+}

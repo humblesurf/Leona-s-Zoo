@@ -1,0 +1,10 @@
+{
+  "reviewed":"2026-10-08",
+  "sources":[
+    {"url":"https://www.nasa.gov/earth/what-are-clouds-grades-5-8/","supports":"Clouds consist of water droplets or ice crystals; rain falls from clouds; frozen crystals form snow."},
+    {"url":"https://www.weather.gov.hk/en/education/earth-science/optical-phenomena/00365-what-causes-a-rainbow.html","supports":"Sunlight interacting with atmospheric water droplets produces a rainbow; red outside, violet inside."},
+    {"url":"https://scijinks.gov/about/k-12-education/optical-phenomena/what-causes-rainbow","supports":"Rainbow is an optical phenomenon involving sunlight, water droplets and observer angle, not a solid object."}
+  ],
+  "diagramNote":"Weather symbols are enlarged learning hotspots, not objects physically suspended in the park. Stylized drop silhouettes and wind streamlines are symbols; natural falling raindrops are not teardrop-shaped. Some deciduous leaves change color in autumn, and snow requires sufficiently cold conditions; the dialogue deliberately does not state that all trees or every winter behaves the same way. Sixfold ice-crystal geometry used for the snow symbol.",
+  "art":"Builtin ImageGen painted park panorama and cloud, umbrella, autumn-leaf cutouts. Daylight Sun reuses the solar illustration. Rain, wind, rainbow and snow teaching symbols are original authored vector phenomena geometry rendered as lossless transparent WebP, with correct rainbow color order and sixfold snow symmetry."
+}

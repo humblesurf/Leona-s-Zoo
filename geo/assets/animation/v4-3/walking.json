@@ -1,0 +1,1986 @@
+{
+  "version": "V4.3",
+  "base": "V4.2 (Version 4 branch)",
+  "method": "Fixed painted cutout bones; continuous two-bone inverse kinematics; four-beat gait with planted stance feet; no mesh deformation",
+  "profiles": {
+    "zebra": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.305,
+            0.655
+          ],
+          "knee": [
+            0.225,
+            0.754
+          ],
+          "foot": [
+            0.208,
+            0.857
+          ],
+          "radii": [
+            0.055,
+            0.035,
+            0.045
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.632,
+            0.635
+          ],
+          "knee": [
+            0.693,
+            0.782
+          ],
+          "foot": [
+            0.566,
+            0.906
+          ],
+          "radii": [
+            0.06,
+            0.035,
+            0.054
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.384,
+            0.64
+          ],
+          "knee": [
+            0.401,
+            0.786
+          ],
+          "foot": [
+            0.403,
+            0.912
+          ],
+          "radii": [
+            0.053,
+            0.031,
+            0.05
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.727,
+            0.6
+          ],
+          "knee": [
+            0.796,
+            0.759
+          ],
+          "foot": [
+            0.838,
+            0.915
+          ],
+          "radii": [
+            0.062,
+            0.041,
+            0.052
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.115,
+      "lift": 0.055,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.45,
+      "duration": 6200
+    },
+    "buffalo": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.342,
+            0.636
+          ],
+          "knee": [
+            0.318,
+            0.76
+          ],
+          "foot": [
+            0.247,
+            0.902
+          ],
+          "radii": [
+            0.048,
+            0.042,
+            0.055
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.726,
+            0.627
+          ],
+          "knee": [
+            0.759,
+            0.765
+          ],
+          "foot": [
+            0.666,
+            0.902
+          ],
+          "radii": [
+            0.057,
+            0.044,
+            0.058
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.49,
+            0.634
+          ],
+          "knee": [
+            0.516,
+            0.772
+          ],
+          "foot": [
+            0.532,
+            0.911
+          ],
+          "radii": [
+            0.06,
+            0.04,
+            0.06
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.821,
+            0.602
+          ],
+          "knee": [
+            0.883,
+            0.756
+          ],
+          "foot": [
+            0.891,
+            0.91
+          ],
+          "radii": [
+            0.062,
+            0.043,
+            0.056
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.115,
+      "lift": 0.046,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.38,
+      "duration": 6800
+    },
+    "warthog": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.445,
+            0.682
+          ],
+          "knee": [
+            0.475,
+            0.807
+          ],
+          "foot": [
+            0.469,
+            0.918
+          ],
+          "radii": [
+            0.037,
+            0.03,
+            0.041
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.674,
+            0.681
+          ],
+          "knee": [
+            0.731,
+            0.806
+          ],
+          "foot": [
+            0.647,
+            0.919
+          ],
+          "radii": [
+            0.04,
+            0.035,
+            0.047
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.395,
+            0.667
+          ],
+          "knee": [
+            0.319,
+            0.79
+          ],
+          "foot": [
+            0.297,
+            0.918
+          ],
+          "radii": [
+            0.057,
+            0.033,
+            0.046
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.816,
+            0.656
+          ],
+          "knee": [
+            0.866,
+            0.788
+          ],
+          "foot": [
+            0.883,
+            0.918
+          ],
+          "radii": [
+            0.043,
+            0.035,
+            0.046
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.095,
+      "lift": 0.057,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.47,
+      "duration": 5400
+    },
+    "rhino": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.358,
+            0.697
+          ],
+          "knee": [
+            0.344,
+            0.808
+          ],
+          "foot": [
+            0.317,
+            0.918
+          ],
+          "radii": [
+            0.05,
+            0.043,
+            0.06
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.744,
+            0.68
+          ],
+          "knee": [
+            0.751,
+            0.796
+          ],
+          "foot": [
+            0.75,
+            0.918
+          ],
+          "radii": [
+            0.05,
+            0.04,
+            0.057
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.442,
+            0.684
+          ],
+          "knee": [
+            0.475,
+            0.809
+          ],
+          "foot": [
+            0.48,
+            0.918
+          ],
+          "radii": [
+            0.056,
+            0.046,
+            0.068
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.846,
+            0.658
+          ],
+          "knee": [
+            0.895,
+            0.789
+          ],
+          "foot": [
+            0.911,
+            0.916
+          ],
+          "radii": [
+            0.066,
+            0.05,
+            0.063
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.1,
+      "lift": 0.04,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.34,
+      "duration": 6900
+    },
+    "elephant": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.373,
+            0.687
+          ],
+          "knee": [
+            0.37,
+            0.813
+          ],
+          "foot": [
+            0.355,
+            0.924
+          ],
+          "radii": [
+            0.043,
+            0.044,
+            0.057
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.708,
+            0.708
+          ],
+          "knee": [
+            0.717,
+            0.828
+          ],
+          "foot": [
+            0.716,
+            0.927
+          ],
+          "radii": [
+            0.05,
+            0.043,
+            0.057
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.504,
+            0.659
+          ],
+          "knee": [
+            0.522,
+            0.812
+          ],
+          "foot": [
+            0.517,
+            0.933
+          ],
+          "radii": [
+            0.065,
+            0.052,
+            0.064
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.832,
+            0.651
+          ],
+          "knee": [
+            0.86,
+            0.808
+          ],
+          "foot": [
+            0.875,
+            0.933
+          ],
+          "radii": [
+            0.061,
+            0.052,
+            0.065
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.1,
+      "lift": 0.04,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.35,
+      "duration": 7200
+    },
+    "elephantcalf": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.346,
+            0.637
+          ],
+          "knee": [
+            0.344,
+            0.805
+          ],
+          "foot": [
+            0.336,
+            0.916
+          ],
+          "radii": [
+            0.052,
+            0.043,
+            0.055
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.692,
+            0.686
+          ],
+          "knee": [
+            0.718,
+            0.807
+          ],
+          "foot": [
+            0.694,
+            0.913
+          ],
+          "radii": [
+            0.05,
+            0.044,
+            0.055
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.487,
+            0.636
+          ],
+          "knee": [
+            0.485,
+            0.801
+          ],
+          "foot": [
+            0.467,
+            0.921
+          ],
+          "radii": [
+            0.072,
+            0.056,
+            0.079
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.811,
+            0.653
+          ],
+          "knee": [
+            0.85,
+            0.801
+          ],
+          "foot": [
+            0.862,
+            0.919
+          ],
+          "radii": [
+            0.076,
+            0.065,
+            0.078
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.11,
+      "lift": 0.05,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.4,
+      "duration": 6000
+    },
+    "lioness": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.285,
+            0.637
+          ],
+          "knee": [
+            0.224,
+            0.783
+          ],
+          "foot": [
+            0.122,
+            0.899
+          ],
+          "radii": [
+            0.04,
+            0.043,
+            0.063
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.601,
+            0.61
+          ],
+          "knee": [
+            0.653,
+            0.776
+          ],
+          "foot": [
+            0.551,
+            0.899
+          ],
+          "radii": [
+            0.058,
+            0.04,
+            0.067
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.385,
+            0.62
+          ],
+          "knee": [
+            0.401,
+            0.782
+          ],
+          "foot": [
+            0.388,
+            0.91
+          ],
+          "radii": [
+            0.045,
+            0.037,
+            0.06
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.715,
+            0.591
+          ],
+          "knee": [
+            0.8,
+            0.751
+          ],
+          "foot": [
+            0.831,
+            0.903
+          ],
+          "radii": [
+            0.066,
+            0.044,
+            0.054
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.115,
+      "lift": 0.065,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.47,
+      "duration": 5800
+    },
+    "tiger": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.266,
+            0.587
+          ],
+          "knee": [
+            0.218,
+            0.76
+          ],
+          "foot": [
+            0.118,
+            0.897
+          ],
+          "radii": [
+            0.045,
+            0.042,
+            0.06
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.599,
+            0.605
+          ],
+          "knee": [
+            0.629,
+            0.767
+          ],
+          "foot": [
+            0.561,
+            0.899
+          ],
+          "radii": [
+            0.044,
+            0.039,
+            0.058
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.388,
+            0.585
+          ],
+          "knee": [
+            0.409,
+            0.759
+          ],
+          "foot": [
+            0.383,
+            0.91
+          ],
+          "radii": [
+            0.052,
+            0.046,
+            0.065
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.711,
+            0.588
+          ],
+          "knee": [
+            0.77,
+            0.749
+          ],
+          "foot": [
+            0.805,
+            0.907
+          ],
+          "radii": [
+            0.057,
+            0.04,
+            0.06
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.115,
+      "lift": 0.065,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.5,
+      "duration": 5600
+    },
+    "jaguar": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.268,
+            0.599
+          ],
+          "knee": [
+            0.2,
+            0.764
+          ],
+          "foot": [
+            0.109,
+            0.91
+          ],
+          "radii": [
+            0.045,
+            0.041,
+            0.055
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.597,
+            0.597
+          ],
+          "knee": [
+            0.647,
+            0.765
+          ],
+          "foot": [
+            0.562,
+            0.91
+          ],
+          "radii": [
+            0.05,
+            0.045,
+            0.059
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.357,
+            0.6
+          ],
+          "knee": [
+            0.361,
+            0.779
+          ],
+          "foot": [
+            0.34,
+            0.917
+          ],
+          "radii": [
+            0.05,
+            0.039,
+            0.058
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.708,
+            0.578
+          ],
+          "knee": [
+            0.75,
+            0.751
+          ],
+          "foot": [
+            0.77,
+            0.916
+          ],
+          "radii": [
+            0.062,
+            0.038,
+            0.06
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.115,
+      "lift": 0.062,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.46,
+      "duration": 5900
+    },
+    "cheetah": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.365,
+            0.6
+          ],
+          "knee": [
+            0.399,
+            0.783
+          ],
+          "foot": [
+            0.375,
+            0.908
+          ],
+          "radii": [
+            0.024,
+            0.028,
+            0.034
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.571,
+            0.561
+          ],
+          "knee": [
+            0.614,
+            0.746
+          ],
+          "foot": [
+            0.525,
+            0.886
+          ],
+          "radii": [
+            0.036,
+            0.031,
+            0.046
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.263,
+            0.611
+          ],
+          "knee": [
+            0.198,
+            0.767
+          ],
+          "foot": [
+            0.076,
+            0.908
+          ],
+          "radii": [
+            0.035,
+            0.033,
+            0.055
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.685,
+            0.53
+          ],
+          "knee": [
+            0.757,
+            0.718
+          ],
+          "foot": [
+            0.827,
+            0.901
+          ],
+          "radii": [
+            0.04,
+            0.028,
+            0.034
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.14,
+      "lift": 0.077,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.55,
+      "duration": 4700
+    },
+    "polarbear": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.363,
+            0.539
+          ],
+          "knee": [
+            0.35,
+            0.758
+          ],
+          "foot": [
+            0.254,
+            0.903
+          ],
+          "radii": [
+            0.056,
+            0.049,
+            0.066
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.846,
+            0.689
+          ],
+          "knee": [
+            0.907,
+            0.791
+          ],
+          "foot": [
+            0.921,
+            0.847
+          ],
+          "radii": [
+            0.039,
+            0.034,
+            0.034
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.48,
+            0.55
+          ],
+          "knee": [
+            0.511,
+            0.754
+          ],
+          "foot": [
+            0.527,
+            0.903
+          ],
+          "radii": [
+            0.063,
+            0.066,
+            0.084
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.796,
+            0.621
+          ],
+          "knee": [
+            0.832,
+            0.772
+          ],
+          "foot": [
+            0.835,
+            0.904
+          ],
+          "radii": [
+            0.071,
+            0.064,
+            0.097
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.105,
+      "lift": 0.043,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.37,
+      "duration": 6800
+    },
+    "arcticfox": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.344,
+            0.692
+          ],
+          "knee": [
+            0.372,
+            0.792
+          ],
+          "foot": [
+            0.394,
+            0.92
+          ],
+          "radii": [
+            0.031,
+            0.029,
+            0.041
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.47,
+            0.621
+          ],
+          "knee": [
+            0.529,
+            0.785
+          ],
+          "foot": [
+            0.453,
+            0.918
+          ],
+          "radii": [
+            0.037,
+            0.033,
+            0.041
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.29,
+            0.689
+          ],
+          "knee": [
+            0.186,
+            0.795
+          ],
+          "foot": [
+            0.158,
+            0.889
+          ],
+          "radii": [
+            0.033,
+            0.031,
+            0.043
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.581,
+            0.591
+          ],
+          "knee": [
+            0.67,
+            0.775
+          ],
+          "foot": [
+            0.71,
+            0.875
+          ],
+          "radii": [
+            0.04,
+            0.028,
+            0.022
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.13,
+      "lift": 0.065,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.5,
+      "duration": 5000
+    },
+    "cow": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.335,
+            0.709
+          ],
+          "knee": [
+            0.328,
+            0.827
+          ],
+          "foot": [
+            0.309,
+            0.926
+          ],
+          "radii": [
+            0.035,
+            0.033,
+            0.052
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.737,
+            0.747
+          ],
+          "knee": [
+            0.733,
+            0.843
+          ],
+          "foot": [
+            0.707,
+            0.928
+          ],
+          "radii": [
+            0.034,
+            0.034,
+            0.045
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.421,
+            0.713
+          ],
+          "knee": [
+            0.421,
+            0.845
+          ],
+          "foot": [
+            0.409,
+            0.934
+          ],
+          "radii": [
+            0.041,
+            0.036,
+            0.052
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.85,
+            0.712
+          ],
+          "knee": [
+            0.872,
+            0.841
+          ],
+          "foot": [
+            0.86,
+            0.93
+          ],
+          "radii": [
+            0.046,
+            0.039,
+            0.053
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.1,
+      "lift": 0.045,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.38,
+      "duration": 6700
+    },
+    "sheep": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.34,
+            0.758
+          ],
+          "knee": [
+            0.337,
+            0.848
+          ],
+          "foot": [
+            0.322,
+            0.92
+          ],
+          "radii": [
+            0.032,
+            0.03,
+            0.045
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.769,
+            0.763
+          ],
+          "knee": [
+            0.753,
+            0.857
+          ],
+          "foot": [
+            0.747,
+            0.92
+          ],
+          "radii": [
+            0.033,
+            0.031,
+            0.042
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.43,
+            0.75
+          ],
+          "knee": [
+            0.431,
+            0.853
+          ],
+          "foot": [
+            0.427,
+            0.925
+          ],
+          "radii": [
+            0.041,
+            0.037,
+            0.053
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.882,
+            0.759
+          ],
+          "knee": [
+            0.877,
+            0.856
+          ],
+          "foot": [
+            0.875,
+            0.925
+          ],
+          "radii": [
+            0.038,
+            0.035,
+            0.045
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.087,
+      "lift": 0.047,
+      "drop": 0.02,
+      "duty": 0.68,
+      "travel": 0.44,
+      "duration": 5600
+    },
+    "pig": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.325,
+            0.708
+          ],
+          "knee": [
+            0.321,
+            0.831
+          ],
+          "foot": [
+            0.298,
+            0.927
+          ],
+          "radii": [
+            0.035,
+            0.03,
+            0.044
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.763,
+            0.7
+          ],
+          "knee": [
+            0.749,
+            0.829
+          ],
+          "foot": [
+            0.73,
+            0.926
+          ],
+          "radii": [
+            0.036,
+            0.036,
+            0.046
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.431,
+            0.688
+          ],
+          "knee": [
+            0.432,
+            0.833
+          ],
+          "foot": [
+            0.423,
+            0.937
+          ],
+          "radii": [
+            0.048,
+            0.039,
+            0.054
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.867,
+            0.68
+          ],
+          "knee": [
+            0.916,
+            0.818
+          ],
+          "foot": [
+            0.914,
+            0.934
+          ],
+          "radii": [
+            0.051,
+            0.04,
+            0.057
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.09,
+      "lift": 0.05,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.43,
+      "duration": 5700
+    },
+    "calf": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.411,
+            0.707
+          ],
+          "knee": [
+            0.375,
+            0.827
+          ],
+          "foot": [
+            0.366,
+            0.916
+          ],
+          "radii": [
+            0.05,
+            0.037,
+            0.06
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.725,
+            0.695
+          ],
+          "knee": [
+            0.724,
+            0.814
+          ],
+          "foot": [
+            0.689,
+            0.909
+          ],
+          "radii": [
+            0.045,
+            0.038,
+            0.061
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.54,
+            0.701
+          ],
+          "knee": [
+            0.55,
+            0.825
+          ],
+          "foot": [
+            0.531,
+            0.934
+          ],
+          "radii": [
+            0.053,
+            0.048,
+            0.065
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.854,
+            0.689
+          ],
+          "knee": [
+            0.871,
+            0.819
+          ],
+          "foot": [
+            0.877,
+            0.927
+          ],
+          "radii": [
+            0.052,
+            0.041,
+            0.059
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.1,
+      "lift": 0.06,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.43,
+      "duration": 5400
+    },
+    "lamb": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.389,
+            0.717
+          ],
+          "knee": [
+            0.379,
+            0.83
+          ],
+          "foot": [
+            0.36,
+            0.912
+          ],
+          "radii": [
+            0.047,
+            0.039,
+            0.064
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.731,
+            0.709
+          ],
+          "knee": [
+            0.726,
+            0.815
+          ],
+          "foot": [
+            0.716,
+            0.91
+          ],
+          "radii": [
+            0.047,
+            0.04,
+            0.062
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.527,
+            0.718
+          ],
+          "knee": [
+            0.524,
+            0.829
+          ],
+          "foot": [
+            0.511,
+            0.927
+          ],
+          "radii": [
+            0.064,
+            0.055,
+            0.068
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.866,
+            0.714
+          ],
+          "knee": [
+            0.889,
+            0.829
+          ],
+          "foot": [
+            0.89,
+            0.925
+          ],
+          "radii": [
+            0.059,
+            0.047,
+            0.066
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.1,
+      "lift": 0.058,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.44,
+      "duration": 5500
+    },
+    "piglet": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.369,
+            0.759
+          ],
+          "knee": [
+            0.352,
+            0.842
+          ],
+          "foot": [
+            0.333,
+            0.914
+          ],
+          "radii": [
+            0.044,
+            0.035,
+            0.062
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.734,
+            0.768
+          ],
+          "knee": [
+            0.73,
+            0.84
+          ],
+          "foot": [
+            0.714,
+            0.913
+          ],
+          "radii": [
+            0.044,
+            0.034,
+            0.059
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.516,
+            0.737
+          ],
+          "knee": [
+            0.509,
+            0.838
+          ],
+          "foot": [
+            0.5,
+            0.933
+          ],
+          "radii": [
+            0.063,
+            0.046,
+            0.069
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.852,
+            0.736
+          ],
+          "knee": [
+            0.876,
+            0.84
+          ],
+          "foot": [
+            0.875,
+            0.925
+          ],
+          "radii": [
+            0.048,
+            0.04,
+            0.062
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": -1,
+      "stride": 0.092,
+      "lift": 0.052,
+      "drop": 0.022,
+      "duty": 0.68,
+      "travel": 0.46,
+      "duration": 5000
+    },
+    "lioncub": {
+      "legs": [
+        {
+          "name": "far-front",
+          "hip": [
+            0.701,
+            0.7
+          ],
+          "knee": [
+            0.717,
+            0.826
+          ],
+          "foot": [
+            0.731,
+            0.917
+          ],
+          "radii": [
+            0.035,
+            0.037,
+            0.045
+          ],
+          "phase": 0,
+          "far": true,
+          "bend": -1
+        },
+        {
+          "name": "far-hind",
+          "hip": [
+            0.315,
+            0.688
+          ],
+          "knee": [
+            0.292,
+            0.796
+          ],
+          "foot": [
+            0.331,
+            0.912
+          ],
+          "radii": [
+            0.041,
+            0.038,
+            0.05
+          ],
+          "phase": 0.75,
+          "far": true,
+          "bend": 1
+        },
+        {
+          "name": "near-front",
+          "hip": [
+            0.606,
+            0.698
+          ],
+          "knee": [
+            0.616,
+            0.832
+          ],
+          "foot": [
+            0.638,
+            0.925
+          ],
+          "radii": [
+            0.047,
+            0.041,
+            0.06
+          ],
+          "phase": 0.5,
+          "far": false,
+          "bend": -1
+        },
+        {
+          "name": "near-hind",
+          "hip": [
+            0.231,
+            0.679
+          ],
+          "knee": [
+            0.195,
+            0.797
+          ],
+          "foot": [
+            0.204,
+            0.924
+          ],
+          "radii": [
+            0.05,
+            0.04,
+            0.054
+          ],
+          "phase": 0.25,
+          "far": false,
+          "bend": 1
+        }
+      ],
+      "face": 1,
+      "stride": 0.1,
+      "lift": 0.055,
+      "drop": 0.024,
+      "duty": 0.68,
+      "travel": 0.42,
+      "duration": 5700
+    }
+  },
+  "sourcePosters": {
+    "zebra": "assets/animation/v4-1/zebra-poster.webp",
+    "buffalo": "assets/animation/v4-1/buffalo-poster.webp",
+    "warthog": "assets/animation/v4-1/warthog-poster.webp",
+    "rhino": "assets/animation/v4-1/rhino-poster.webp",
+    "elephant": "assets/animation/v4-1/elephant-poster.webp",
+    "elephantcalf": "assets/animation/v4-1/elephantcalf-poster.webp",
+    "lioness": "assets/animation/v4-1/lioness-poster.webp",
+    "tiger": "assets/animation/v4-2/tiger-poster.webp",
+    "jaguar": "assets/animation/v4-1/jaguar-poster.webp",
+    "cheetah": "assets/animation/v4-1/cheetah-poster.webp",
+    "polarbear": "assets/animation/v4-1/polarbear-poster.webp",
+    "arcticfox": "assets/animation/v4-1/arcticfox-poster.webp",
+    "cow": "assets/animation/v4-2/cow-poster.webp",
+    "sheep": "assets/animation/v4-2/sheep-poster.webp",
+    "pig": "assets/animation/v4-2/pig-poster.webp",
+    "calf": "assets/animation/v4-2/calf-poster.webp",
+    "lamb": "assets/animation/v4-2/lamb-poster.webp",
+    "piglet": "assets/animation/v4-2/piglet-poster.webp",
+    "lioncub": "assets/animation/v4-1/lioncub-poster.webp"
+  },
+  "marketCandidates": "Preview only, not integrated; concepts/market-review-v4-3/index.html"
+}

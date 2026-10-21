@@ -1,0 +1,106 @@
+{
+  "id": "sheep",
+  "method": "Built-in imagegen independent complete painted cels; static legacy sketches are reference only, not final frames.",
+  "referencePurpose": "First reference constrains four hoof spatial positions and whole-camera canvas; original poster supplies low-poly art identity.",
+  "frames": [
+    {
+      "phase": 0,
+      "width": 1379,
+      "height": 1141,
+      "mode": "RGBA",
+      "file": "geo/assets/animation/v4-7/source/sheep-pose-0.png",
+      "generatedPath": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-3cf5a95b-39c7-47b3-9320-84016e251fc2.png",
+      "fullPrompt": "Create ONE SINGLE full-body original animation drawing of the exact adult fluffy sheep from reference image2, in the complete four-leg POSE of reference image1. This is not a sprite atlas or video.\nImage1 is ONLY the animator's static pose sketch: match its exact camera/view, body/head anchor, overall proportions and all FOUR hoof-tip positions. Preserve each limb's near/far identity by tracing its shoulder/hip to its hoof. Near foreleg attaches to the visible outer shoulder, far foreleg behind it. Their foot x offsets from the shoulder MUST follow this particular pose 0, not the standing pose in image2. All four hooves are complete; far hooves may naturally overlap but cannot disappear from anatomy.\nImage2 is only original IDENTITY and ART STYLE: same friendly face, eye/ear shape, body proportions, natural colors/markings, low-poly faceted sculpted dimensional shading. For babies preserve large cute eyes, oversized head and short leg proportions. Do not add any new style or photorealism.\nCompletely REDRAW all anatomy in pose1, with naturally bending elbows/wrists, knees/hocks and seamless continuous skin/wool. REMOVE the horizontal cutout seams, jagged joint fragments and rectangular hoof/leg remnants from the pose sketch. Do not paste its legs or let hooves become rectangular flippers. Natural compact cloven hooves attached properly. Keep the four hoof CONTACT CENTER LOCATIONS from image1, but restore smooth anatomically valid silhouette. The whole torso/head and camera stay same registration, no centering each silhouette anew.\nLandscape/portrait canvas ratio MATCHES image1 exactly, preferably high resolution, same generous margins. Transparent RGBA with clean antialiasing, no background specks/noise/fringes. No floor, grass, cast shadows, scenery, props, text, colored skeletal/guide lines, borders or labels. Entire character faces LEFT and fits inside canvas. One fully redrawn connected animal, precise limb phase, consistent original low-poly style.",
+      "references": [
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/sheep-pose-guide-0.png",
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-2/sheep-poster.webp"
+      ]
+    },
+    {
+      "phase": 2,
+      "width": 1379,
+      "height": 1141,
+      "mode": "RGBA",
+      "file": "geo/assets/animation/v4-7/source/sheep-pose-2.png",
+      "generatedPath": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-16611efb-7ad6-49b0-96b6-c66fd1495882.png",
+      "fullPrompt": "Create ONE SINGLE full-body original animation drawing of the exact adult fluffy sheep from reference image2, in the complete four-leg POSE of reference image1. This is not a sprite atlas or video.\nImage1 is ONLY the animator's static pose sketch: match its exact camera/view, body/head anchor, overall proportions and all FOUR hoof-tip positions. Preserve each limb's near/far identity by tracing its shoulder/hip to its hoof. Near foreleg attaches to the visible outer shoulder, far foreleg behind it. Their foot x offsets from the shoulder MUST follow this particular pose 2, not the standing pose in image2. All four hooves are complete; far hooves may naturally overlap but cannot disappear from anatomy.\nImage2 is only original IDENTITY and ART STYLE: same friendly face, eye/ear shape, body proportions, natural colors/markings, low-poly faceted sculpted dimensional shading. For babies preserve large cute eyes, oversized head and short leg proportions. Do not add any new style or photorealism.\nCompletely REDRAW all anatomy in pose1, with naturally bending elbows/wrists, knees/hocks and seamless continuous skin/wool. REMOVE the horizontal cutout seams, jagged joint fragments and rectangular hoof/leg remnants from the pose sketch. Do not paste its legs or let hooves become rectangular flippers. Natural compact cloven hooves attached properly. Keep the four hoof CONTACT CENTER LOCATIONS from image1, but restore smooth anatomically valid silhouette. The whole torso/head and camera stay same registration, no centering each silhouette anew.\nLandscape/portrait canvas ratio MATCHES image1 exactly, preferably high resolution, same generous margins. Transparent RGBA with clean antialiasing, no background specks/noise/fringes. No floor, grass, cast shadows, scenery, props, text, colored skeletal/guide lines, borders or labels. Entire character faces LEFT and fits inside canvas. One fully redrawn connected animal, precise limb phase, consistent original low-poly style.",
+      "references": [
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/sheep-pose-guide-2.png",
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-2/sheep-poster.webp"
+      ]
+    },
+    {
+      "phase": 4,
+      "width": 1379,
+      "height": 1141,
+      "mode": "RGBA",
+      "file": "geo/assets/animation/v4-7/source/sheep-pose-4.png",
+      "generatedPath": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-736fdee1-bfc2-4620-b96e-77543a411723.png",
+      "fullPrompt": "Create ONE SINGLE full-body original animation drawing of the exact adult fluffy sheep from reference image2, in the complete four-leg POSE of reference image1. This is not a sprite atlas or video.\nImage1 is ONLY the animator's static pose sketch: match its exact camera/view, body/head anchor, overall proportions and all FOUR hoof-tip positions. Preserve each limb's near/far identity by tracing its shoulder/hip to its hoof. Near foreleg attaches to the visible outer shoulder, far foreleg behind it. Their foot x offsets from the shoulder MUST follow this particular pose 4, not the standing pose in image2. All four hooves are complete; far hooves may naturally overlap but cannot disappear from anatomy.\nImage2 is only original IDENTITY and ART STYLE: same friendly face, eye/ear shape, body proportions, natural colors/markings, low-poly faceted sculpted dimensional shading. For babies preserve large cute eyes, oversized head and short leg proportions. Do not add any new style or photorealism.\nCompletely REDRAW all anatomy in pose1, with naturally bending elbows/wrists, knees/hocks and seamless continuous skin/wool. REMOVE the horizontal cutout seams, jagged joint fragments and rectangular hoof/leg remnants from the pose sketch. Do not paste its legs or let hooves become rectangular flippers. Natural compact cloven hooves attached properly. Keep the four hoof CONTACT CENTER LOCATIONS from image1, but restore smooth anatomically valid silhouette. The whole torso/head and camera stay same registration, no centering each silhouette anew.\nLandscape/portrait canvas ratio MATCHES image1 exactly, preferably high resolution, same generous margins. Transparent RGBA with clean antialiasing, no background specks/noise/fringes. No floor, grass, cast shadows, scenery, props, text, colored skeletal/guide lines, borders or labels. Entire character faces LEFT and fits inside canvas. One fully redrawn connected animal, precise limb phase, consistent original low-poly style.",
+      "references": [
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/sheep-pose-guide-4.png",
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-2/sheep-poster.webp"
+      ]
+    },
+    {
+      "phase": 6,
+      "width": 1379,
+      "height": 1141,
+      "mode": "RGBA",
+      "file": "geo/assets/animation/v4-7/source/sheep-pose-6.png",
+      "generatedPath": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-281d1de6-fb5e-478c-85af-3bf68fdbebde.png",
+      "fullPrompt": "Create ONE SINGLE full-body original animation drawing of the exact adult fluffy sheep from reference image2, in the complete four-leg POSE of reference image1. This is not a sprite atlas or video.\nImage1 is ONLY the animator's static pose sketch: match its exact camera/view, body/head anchor, overall proportions and all FOUR hoof-tip positions. Preserve each limb's near/far identity by tracing its shoulder/hip to its hoof. Near foreleg attaches to the visible outer shoulder, far foreleg behind it. Their foot x offsets from the shoulder MUST follow this particular pose 6, not the standing pose in image2. All four hooves are complete; far hooves may naturally overlap but cannot disappear from anatomy.\nImage2 is only original IDENTITY and ART STYLE: same friendly face, eye/ear shape, body proportions, natural colors/markings, low-poly faceted sculpted dimensional shading. For babies preserve large cute eyes, oversized head and short leg proportions. Do not add any new style or photorealism.\nCompletely REDRAW all anatomy in pose1, with naturally bending elbows/wrists, knees/hocks and seamless continuous skin/wool. REMOVE the horizontal cutout seams, jagged joint fragments and rectangular hoof/leg remnants from the pose sketch. Do not paste its legs or let hooves become rectangular flippers. Natural compact cloven hooves attached properly. Keep the four hoof CONTACT CENTER LOCATIONS from image1, but restore smooth anatomically valid silhouette. The whole torso/head and camera stay same registration, no centering each silhouette anew.\nLandscape/portrait canvas ratio MATCHES image1 exactly, preferably high resolution, same generous margins. Transparent RGBA with clean antialiasing, no background specks/noise/fringes. No floor, grass, cast shadows, scenery, props, text, colored skeletal/guide lines, borders or labels. Entire character faces LEFT and fits inside canvas. One fully redrawn connected animal, precise limb phase, consistent original low-poly style.",
+      "references": [
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/sheep-pose-guide-6.png",
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-2/sheep-poster.webp"
+      ]
+    }
+  ],
+  "checks": {
+    "inspectedPhases": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "fourConnectedLegs": "Four complete connected sheep legs and compact split hooves visible in all four drawings.",
+    "forelegExchange": "Far forehoof takes the forward-most position in phase 6; near forehoof changes toe position and knee angle through all four key poses. Gentle short step rather than broad trot.",
+    "style": "Warm dimensional cream faceted wool, consistent eyes/ears/face; no new flat 2D style.",
+    "camera": "All outputs 1379 x 1141; normalize full canvases to 574 x 475 together. No per-frame bbox scaling/feet alignment.",
+    "limitations": "Four contact keys only. Hoof recovery lift is modest; needs runtime review at the intended gentle walk rhythm. Minor independently painted wool facet/head differences remain."
+  },
+  "footQA": {
+    "coordinateSpace": "Approximate manually inspected source pixel coordinates; identification is visual, not automated.",
+    "nearForeToeX": [
+      625,
+      565,
+      578,
+      607
+    ],
+    "farForeToeX": [
+      430,
+      492,
+      520,
+      384
+    ],
+    "nearShoulderX": [
+      610,
+      610,
+      610,
+      610
+    ],
+    "confidence": "Medium; wool partly obscures upper-leg attachment, toes are clear."
+  },
+  "approved": true,
+  "approvedScope": "Connected-limb art QA only; root runtime QA pending",
+  "holdsMs": [
+    155,
+    135,
+    155,
+    135
+  ],
+  "currentFinalMetadata": "sheep-recovery-qa.json",
+  "originalContactApproved": false,
+  "finalAccepted": true,
+  "originalContactRejection": "Old quarter-contact keys lacked explicit airborne fore/hind recovery; current final art is four single-foot swing drawings."
+}

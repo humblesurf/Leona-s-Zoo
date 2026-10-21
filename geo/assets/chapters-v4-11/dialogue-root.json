@@ -1,0 +1,584 @@
+{
+  "musicharp": {
+    "name": {
+      "en": "Harp",
+      "cmn": "竖琴",
+      "yue": "豎琴"
+    },
+    "emoji": "🎵",
+    "intro": {
+      "en": "I'm a harp. My long strings make gentle, sparkling notes. Listen to my little tune!",
+      "cmn": "我是竖琴，长长的琴弦弹出轻柔、明亮的声音。听听我的小曲吧！",
+      "yue": "我係豎琴，長長嘅琴弦彈出輕柔、明亮嘅聲音。聽吓我嘅小曲啦！"
+    },
+    "kind": "discovery",
+    "voiceVariants": {
+      "en": [
+        {
+          "key": "child",
+          "path": "assets/voice/v4-11/musicharp-en.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/musicharp-en-male.mp3"
+        },
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/musicharp-en-female.mp3"
+        }
+      ],
+      "yue": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/musicharp-yue.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/musicharp-yue-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/musicharp-yue-bright.mp3"
+        }
+      ],
+      "cmn": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/musicharp-cmn.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/musicharp-cmn-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/musicharp-cmn-bright.mp3"
+        }
+      ]
+    },
+    "voice": {
+      "en": "assets/voice/v4-11/musicharp-en.mp3",
+      "yue": "assets/voice/v4-11/musicharp-yue.mp3",
+      "cmn": "assets/voice/v4-11/musicharp-cmn.mp3"
+    }
+  },
+  "musicguitar": {
+    "name": {
+      "en": "Guitar",
+      "cmn": "吉他",
+      "yue": "結他"
+    },
+    "emoji": "🎸",
+    "intro": {
+      "en": "I'm a guitar. I have six strings. A little strum makes them ring together!",
+      "cmn": "我是吉他，我有六根琴弦。轻轻拨一下，就能听到好听的声音！",
+      "yue": "我係結他，我有六條琴弦。輕輕撥一下，就聽到好聽嘅聲音！"
+    },
+    "kind": "discovery",
+    "voiceVariants": {
+      "en": [
+        {
+          "key": "child",
+          "path": "assets/voice/v4-11/musicguitar-en.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/musicguitar-en-male.mp3"
+        },
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/musicguitar-en-female.mp3"
+        }
+      ],
+      "yue": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/musicguitar-yue.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/musicguitar-yue-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/musicguitar-yue-bright.mp3"
+        }
+      ],
+      "cmn": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/musicguitar-cmn.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/musicguitar-cmn-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/musicguitar-cmn-bright.mp3"
+        }
+      ]
+    },
+    "voice": {
+      "en": "assets/voice/v4-11/musicguitar-en.mp3",
+      "yue": "assets/voice/v4-11/musicguitar-yue.mp3",
+      "cmn": "assets/voice/v4-11/musicguitar-cmn.mp3"
+    }
+  },
+  "spacealien": {
+    "name": {
+      "en": "Imaginary alien",
+      "cmn": "想象中的外星朋友",
+      "yue": "想像中嘅外星朋友"
+    },
+    "emoji": "👽",
+    "kind": "discovery",
+    "intro": {
+      "en": "I'm an imaginary alien friend. Wave hello! We can imagine a space adventure together.",
+      "cmn": "我是想象中的外星朋友。挥挥手吧！一起想象一场太空冒险。",
+      "yue": "我係想像中嘅外星朋友。揮揮手啦！一齊想像一場太空冒險。"
+    },
+    "voiceVariants": {
+      "en": [
+        {
+          "key": "child",
+          "path": "assets/voice/v4-11/spacealien-en.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/spacealien-en-male.mp3"
+        },
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/spacealien-en-female.mp3"
+        }
+      ],
+      "yue": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/spacealien-yue.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/spacealien-yue-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/spacealien-yue-bright.mp3"
+        }
+      ],
+      "cmn": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/spacealien-cmn.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/spacealien-cmn-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/spacealien-cmn-bright.mp3"
+        }
+      ]
+    },
+    "voice": {
+      "en": "assets/voice/v4-11/spacealien-en.mp3",
+      "yue": "assets/voice/v4-11/spacealien-yue.mp3",
+      "cmn": "assets/voice/v4-11/spacealien-cmn.mp3"
+    }
+  },
+  "spaceastronaut": {
+    "name": {
+      "en": "Astronaut",
+      "cmn": "宇航员",
+      "yue": "太空人"
+    },
+    "emoji": "👩‍🚀",
+    "kind": "discovery",
+    "intro": {
+      "en": "I'm an astronaut. My spacesuit helps me explore. Look at this little space rock!",
+      "cmn": "我是宇航员，穿着宇航服来探索。看看这块小小的太空石头！",
+      "yue": "我係太空人，着住太空衣嚟探索。睇吓呢粒細細嘅太空石仔！"
+    },
+    "voiceVariants": {
+      "en": [
+        {
+          "key": "child",
+          "path": "assets/voice/v4-11/spaceastronaut-en.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/spaceastronaut-en-male.mp3"
+        },
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/spaceastronaut-en-female.mp3"
+        }
+      ],
+      "yue": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/spaceastronaut-yue.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/spaceastronaut-yue-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/spaceastronaut-yue-bright.mp3"
+        }
+      ],
+      "cmn": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/spaceastronaut-cmn.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/spaceastronaut-cmn-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/spaceastronaut-cmn-bright.mp3"
+        }
+      ]
+    },
+    "voice": {
+      "en": "assets/voice/v4-11/spaceastronaut-en.mp3",
+      "yue": "assets/voice/v4-11/spaceastronaut-yue.mp3",
+      "cmn": "assets/voice/v4-11/spaceastronaut-cmn.mp3"
+    }
+  },
+  "spacedish": {
+    "name": {
+      "en": "Radio dish",
+      "cmn": "通信天线",
+      "yue": "通訊天線"
+    },
+    "emoji": "📡",
+    "kind": "discovery",
+    "intro": {
+      "en": "I'm a radio dish. I send messages across space. Hello, Earth!",
+      "cmn": "我是通信天线，可以把消息送往太空远方。地球，你好呀！",
+      "yue": "我係通訊天線，可以將訊息送去太空遠方。地球，你好呀！"
+    },
+    "voiceVariants": {
+      "en": [
+        {
+          "key": "child",
+          "path": "assets/voice/v4-11/spacedish-en.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/spacedish-en-male.mp3"
+        },
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/spacedish-en-female.mp3"
+        }
+      ],
+      "yue": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/spacedish-yue.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/spacedish-yue-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/spacedish-yue-bright.mp3"
+        }
+      ],
+      "cmn": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/spacedish-cmn.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/spacedish-cmn-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/spacedish-cmn-bright.mp3"
+        }
+      ]
+    },
+    "voice": {
+      "en": "assets/voice/v4-11/spacedish-en.mp3",
+      "yue": "assets/voice/v4-11/spacedish-yue.mp3",
+      "cmn": "assets/voice/v4-11/spacedish-cmn.mp3"
+    }
+  },
+  "gazelle": {
+    "emoji": "🦌",
+    "name": {
+      "en": "Deer",
+      "cmn": "小鹿",
+      "yue": "鹿仔"
+    },
+    "fact": {
+      "en": "I hop and skip across the grass.",
+      "yue": "我會喺草上面跳嚟跳去。",
+      "cmn": "我会在草地上跳来跳去。"
+    },
+    "intro": {
+      "en": "I'm a little deer. I nibble leaves and make a light, bouncy jump. Watch me hop!",
+      "cmn": "我是小鹿，喜欢吃嫩叶，还能轻轻跳起来。看看我的小跳跃！",
+      "yue": "我係鹿仔，鍾意食嫩葉，仲可以輕輕跳起。睇吓我跳啦！"
+    },
+    "voice": {
+      "en": "assets/voice/v4-11/gazelle-en.mp3",
+      "yue": "assets/voice/v4-11/gazelle-yue.mp3",
+      "cmn": "assets/voice/v4-11/gazelle-cmn.mp3"
+    },
+    "voiceVariants": {
+      "en": [
+        {
+          "key": "child",
+          "path": "assets/voice/v4-11/gazelle-en.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/gazelle-en-male.mp3"
+        },
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/gazelle-en-female.mp3"
+        }
+      ],
+      "yue": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/gazelle-yue.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/gazelle-yue-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/gazelle-yue-bright.mp3"
+        }
+      ],
+      "cmn": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/gazelle-cmn.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/gazelle-cmn-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/gazelle-cmn-bright.mp3"
+        }
+      ]
+    },
+    "greeting": true
+  },
+  "lemur": {
+    "emoji": "🐾",
+    "name": {
+      "en": "Lemur",
+      "yue": "狐猴",
+      "cmn": "狐猴"
+    },
+    "fact": {
+      "en": "I climb trees and love to eat fruit.",
+      "yue": "我會爬樹，仲鍾意食水果。",
+      "cmn": "我会爬树，也爱吃水果。"
+    },
+    "intro": {
+      "en": "I'm a lemur. I climb trees and love to eat fruit. Look at my long tail!",
+      "yue": "我係狐猴。我會爬樹，仲鍾意食水果。睇吓我條長尾巴！",
+      "cmn": "我是狐猴。我会爬树，也爱吃水果。看看我的长尾巴！"
+    },
+    "greeting": false,
+    "voiceVariants": {
+      "en": [
+        {
+          "key": "child",
+          "path": "assets/voice/v4-11/lemur-en.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/lemur-en-male.mp3"
+        },
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/lemur-en-female.mp3"
+        }
+      ],
+      "yue": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/lemur-yue.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/lemur-yue-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/lemur-yue-bright.mp3"
+        }
+      ],
+      "cmn": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/lemur-cmn.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/lemur-cmn-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/lemur-cmn-bright.mp3"
+        }
+      ]
+    },
+    "voice": {
+      "en": "assets/voice/v4-11/lemur-en.mp3",
+      "yue": "assets/voice/v4-11/lemur-yue.mp3",
+      "cmn": "assets/voice/v4-11/lemur-cmn.mp3"
+    }
+  },
+  "peacock": {
+    "emoji": "🦚",
+    "name": {
+      "en": "Peacock",
+      "yue": "孔雀",
+      "cmn": "孔雀"
+    },
+    "fact": {
+      "en": "My colourful feathers open like a big fan.",
+      "yue": "我啲靚靚尾羽可以打開，好似一把大扇咁。",
+      "cmn": "我漂亮的尾羽可以展开，像一把大扇子。"
+    },
+    "intro": {
+      "en": "I'm a peacock. Look at my colourful feathers. They open like a big fan!",
+      "yue": "我係孔雀。睇吓我啲靚靚尾羽，打開就好似一把大扇咁！",
+      "cmn": "我是孔雀。看看我漂亮的尾羽，展开就像一把大扇子！"
+    },
+    "greeting": false,
+    "voiceVariants": {
+      "en": [
+        {
+          "key": "child",
+          "path": "assets/voice/v4-11/peacock-en.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/peacock-en-male.mp3"
+        },
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/peacock-en-female.mp3"
+        }
+      ],
+      "yue": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/peacock-yue.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/peacock-yue-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/peacock-yue-bright.mp3"
+        }
+      ],
+      "cmn": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/peacock-cmn.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/peacock-cmn-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/peacock-cmn-bright.mp3"
+        }
+      ]
+    },
+    "voice": {
+      "en": "assets/voice/v4-11/peacock-en.mp3",
+      "yue": "assets/voice/v4-11/peacock-yue.mp3",
+      "cmn": "assets/voice/v4-11/peacock-cmn.mp3"
+    }
+  },
+  "farmgoose": {
+    "name": {
+      "en": "Goose",
+      "cmn": "鹅",
+      "yue": "鵝"
+    },
+    "emoji": "🪿",
+    "intro": {
+      "en": "I'm a goose. I have a long neck. My feet paddle under the water. Honk, honk!",
+      "cmn": "我是鹅。我有长长的脖子，小脚在水下面划呀划。嘎嘎，嘎嘎！",
+      "yue": "我係鵝。我有長長嘅頸，小腳喺水下面划呀划。嘎嘎，嘎嘎！"
+    },
+    "kind": "animal",
+    "voiceVariants": {
+      "en": [
+        {
+          "key": "child",
+          "path": "assets/voice/v4-11/farmgoose-en.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/farmgoose-en-male.mp3"
+        },
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/farmgoose-en-female.mp3"
+        }
+      ],
+      "yue": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/farmgoose-yue.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/farmgoose-yue-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/farmgoose-yue-bright.mp3"
+        }
+      ],
+      "cmn": [
+        {
+          "key": "female",
+          "path": "assets/voice/v4-11/farmgoose-cmn.mp3"
+        },
+        {
+          "key": "male",
+          "path": "assets/voice/v4-11/farmgoose-cmn-male.mp3"
+        },
+        {
+          "key": "bright",
+          "path": "assets/voice/v4-11/farmgoose-cmn-bright.mp3"
+        }
+      ]
+    },
+    "voice": {
+      "en": "assets/voice/v4-11/farmgoose-en.mp3",
+      "yue": "assets/voice/v4-11/farmgoose-yue.mp3",
+      "cmn": "assets/voice/v4-11/farmgoose-cmn.mp3"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "rhino",
+  "tool": "built-in image_gen",
+  "method": "Four individually authored full-body drawings from private guide poses; posterior reference style only. No sliced procedural game frames.",
+  "phaseNumbers": [
+    0,
+    2,
+    4,
+    6
+  ],
+  "nativeCanvas": [
+    1536,
+    1024
+  ],
+  "outputCanvas": "Uniform full-canvas resize704x470; no bbox centering or foot alignment.",
+  "prompts": [
+    {
+      "phase": 0,
+      "initialPrompt": "Use case: stylized-concept, single full-body authored animation key drawing. Produce ONE rhinoceros, not a sprite sheet.\nImage1 is the main POSE and CAMERA reference, a private rough layout. Use its entire-body coordinates, side camera, animal size within full canvas, head and torso anchor. Correct the rough cutout joints; it must be a fully painted new complete drawing, no visible seams, copied blocks or stretched mesh.\nImage2 is CHARACTER IDENTITY AND STYLE ONLY: same friendly gray rhinoceros with two pale horns, dark shiny eye, softly faceted low-poly 3D shading, proportions. Preserve exact gray palette, horn/ear shapes, head, shoulder and hip anatomy.\nDraw the single full rhino facing LEFT on genuinely transparent alpha background. Desired canvas landscape 1536x1024, about3:2 ratio, 10% transparent margin around full animal. Same fixed character framing in all pose variants: silhouette nose-to-tail horizontal extent around80% of canvas, center at50%width, shoulder at49%, hip at75%, ground line at87% canvas height. Maintain torso height and dimensions, do not recenter by changing foot position. Camera horizontal at animal's torso, same side view and lighting. All four legs fully attached, far legs slightly darker but recognizable, proper hooves, knees and elbows; tail/horns/feet fully inside canvas.\nREQUIRED SPECIFIC POSE: Four-beat walk contact pose: DARK far/background FRONT leg reaches LEFT ahead of shoulder and is grounded; BRIGHT near/foreground FRONT leg angles RIGHT behind shoulder and is grounded. Near hind hoof is ahead/LEFT of hip, far hind hoof behind/RIGHT of hip. All four planted support, near and far front feet visibly separated. This is far-front leading contact.\nPaint a real coherent weight-bearing rhino, heavy restrained walk, never floating or rubber joint stretching. Pose reference is rough; the four leg roles above are authoritative. No other animals, background, ground art, cast shadow, words, grid, numbers, skeletal overlays or colored guides.",
+      "hindRepairPrompt": "Single rhino EDIT, not a sprite sheet. Image1 is the edit target. Preserve the EXACT face, horns, ears, torso, shoulder, hip planes, near/far FRONT legs, tail, palette, LEFT direction and1536x1024 transparent canvas. Change ONLY the TWO REAR/HIND leg articulations, replacing their old shapes cleanly. There must be exactly TWO front legs and exactly TWO hind legs, FOUR total, never add a third hind leg. Remove the old hind foot silhouette where the replacement leg no longer covers it (make vacated pixels transparent), no ghost limb, no pasted extra leg. Forelegs remain unchanged. Bright big visible-side hind leg=NEAR HIND; darker behind-body hind leg=FAR HIND.The existing BRIGHT NEAR HIND leg currently stands at the far RIGHT of the animal. Replace this near hind leg with a natural lifted passing step: flex the hip and hock, bend the lower leg forward toward LEFT under the hip; its hoof is visibly OFF THE GROUND by about8% of full image height, ahead/left of hip, attached intact to the same bright near hip root. The darker FAR HIND must remain a grounded supporting leg extending behind/RIGHT of hip. Only one rear hoof grounded. Preserve both unchanged front hooves grounded. Heavy rhino walk, three ground contacts and one lifted near hind foot. Do not retain the old bright rear-right hoof as an extra foot. No background/cast shadow."
+    },
+    {
+      "phase": 2,
+      "initialPrompt": "Use case: stylized-concept, single full-body authored animation key drawing. Produce ONE rhinoceros, not a sprite sheet.\nImage1 is the main POSE and CAMERA reference, a private rough layout. Use its entire-body coordinates, side camera, animal size within full canvas, head and torso anchor. Correct the rough cutout joints; it must be a fully painted new complete drawing, no visible seams, copied blocks or stretched mesh.\nImage2 is CHARACTER IDENTITY AND STYLE ONLY: same friendly gray rhinoceros with two pale horns, dark shiny eye, softly faceted low-poly 3D shading, proportions. Preserve exact gray palette, horn/ear shapes, head, shoulder and hip anatomy.\nDraw the single full rhino facing LEFT on genuinely transparent alpha background. Desired canvas landscape 1536x1024, about3:2 ratio, 10% transparent margin around full animal. Same fixed character framing in all pose variants: silhouette nose-to-tail horizontal extent around80% of canvas, center at50%width, shoulder at49%, hip at75%, ground line at87% canvas height. Maintain torso height and dimensions, do not recenter by changing foot position. Camera horizontal at animal's torso, same side view and lighting. All four legs fully attached, far legs slightly darker but recognizable, proper hooves, knees and elbows; tail/horns/feet fully inside canvas.\nREQUIRED SPECIFIC POSE: Next walk swing: BRIGHT NEAR FRONT knee lifts and bends, its hoof passes forward under chest towards LEFT, visibly above ground. DARK FAR FRONT remains planted under shoulder and supports weight. Both hind feet grounded, far hind slightly further left and near hind further right. Three planted feet, one raised forefoot. Complete lifted hoof with real natural wrist/knee, no missing leg.\nPaint a real coherent weight-bearing rhino, heavy restrained walk, never floating or rubber joint stretching. Pose reference is rough; the four leg roles above are authoritative. No other animals, background, ground art, cast shadow, words, grid, numbers, skeletal overlays or colored guides.",
+      "hindRepairPrompt": "Single rhino EDIT, not a sprite sheet. Image1 is the edit target. Preserve the EXACT face, horns, ears, torso, shoulder, hip planes, near/far FRONT legs, tail, palette, LEFT direction and1536x1024 transparent canvas. Change ONLY the TWO REAR/HIND leg articulations, replacing their old shapes cleanly. There must be exactly TWO front legs and exactly TWO hind legs, FOUR total, never add a third hind leg. Remove the old hind foot silhouette where the replacement leg no longer covers it (make vacated pixels transparent), no ghost limb, no pasted extra leg. Forelegs remain unchanged. Bright big visible-side hind leg=NEAR HIND; darker behind-body hind leg=FAR HIND.Keep the current BRIGHT NEAR FRONT forefoot raised, no change in front legs. REPLACE both grounded hind leg stances: the BRIGHT NEAR HIND now extends diagonally toward LEFT ahead of hip and its hoof is firmly grounded; the DARK FAR HIND angles toward RIGHT behind hip and its hoof is firmly grounded. Near hind hoof is clearly to the LEFT of the dark far hind hoof, opposite their old leading/trailing role. These are TWO replacement rear legs, do not keep the previous right-near/left-far hoof shapes as extra legs. Body/face position remains exact. Three ground contacts and one lifted near forefoot. No background/cast shadow."
+    },
+    {
+      "phase": 4,
+      "initialPrompt": "Use case: stylized-concept, single full-body authored animation key drawing. Produce ONE rhinoceros, not a sprite sheet.\nImage1 is the main POSE and CAMERA reference, a private rough layout. Use its entire-body coordinates, side camera, animal size within full canvas, head and torso anchor. Correct the rough cutout joints; it must be a fully painted new complete drawing, no visible seams, copied blocks or stretched mesh.\nImage2 is CHARACTER IDENTITY AND STYLE ONLY: same friendly gray rhinoceros with two pale horns, dark shiny eye, softly faceted low-poly 3D shading, proportions. Preserve exact gray palette, horn/ear shapes, head, shoulder and hip anatomy.\nDraw the single full rhino facing LEFT on genuinely transparent alpha background. Desired canvas landscape 1536x1024, about3:2 ratio, 10% transparent margin around full animal. Same fixed character framing in all pose variants: silhouette nose-to-tail horizontal extent around80% of canvas, center at50%width, shoulder at49%, hip at75%, ground line at87% canvas height. Maintain torso height and dimensions, do not recenter by changing foot position. Camera horizontal at animal's torso, same side view and lighting. All four legs fully attached, far legs slightly darker but recognizable, proper hooves, knees and elbows; tail/horns/feet fully inside canvas.\nREQUIRED SPECIFIC POSE: Opposite walk contact: BRIGHT near/foreground FRONT leg extends diagonally LEFT ahead of shoulder and plants its whole hoof. DARK far/background FRONT leg angles RIGHT and supports behind shoulder. Near hind foot stands to RIGHT behind hip, far hind stands to LEFT ahead of hip. All four planted support. The BRIGHT near front hoof must be further LEFT than the dark far front hoof. This is explicitly opposite of pose0, not duplicate.\nPaint a real coherent weight-bearing rhino, heavy restrained walk, never floating or rubber joint stretching. Pose reference is rough; the four leg roles above are authoritative. No other animals, background, ground art, cast shadow, words, grid, numbers, skeletal overlays or colored guides.",
+      "hindRepairPrompt": "Edit Image1, the four-legged single rhino with BRIGHT NEAR FORELEG leading LEFT. Preserve these TWO FRONT legs exactly, same left-facing character, four total limbs. Image2 is only the body/camera reference: match its head/body size and position; its FRONT legs are wrong for this phase and must NOT be copied. Image1's body is about5% too small and the head roughly50pixels too far right; redraw the whole head/torso slightly larger and to left/up to match Image2, preserving Image1's foreground-front-left contact. DO NOT ADD A FIFTH LEG; exactly two forelegs, two hindlegs.\nThen change only the DARK FAR HIND leg, the darker rear leg coming from behind the belly and currently planting left of the hip: bend its knee/hock naturally and lift its hoof about8% image height OFF THE GROUND, passing forward towards LEFT under the hip. The BRIGHT NEAR HIND remains grounded behind/RIGHT of hip as heavy support. Delete the previous grounded far hind hoof shape where the new lifted leg leaves empty space. Whole four-leg rhino, three planted feet and one raised DARK far hind, not levitating. Genuine transparent1536x1024 canvas, no ground shadow/brown haze/text."
+    },
+    {
+      "phase": 6,
+      "initialPrompt": "Use case: stylized-concept, single full-body authored animation key drawing. Produce ONE rhinoceros, not a sprite sheet.\nImage1 is the main POSE and CAMERA reference, a private rough layout. Use its entire-body coordinates, side camera, animal size within full canvas, head and torso anchor. Correct the rough cutout joints; it must be a fully painted new complete drawing, no visible seams, copied blocks or stretched mesh.\nImage2 is CHARACTER IDENTITY AND STYLE ONLY: same friendly gray rhinoceros with two pale horns, dark shiny eye, softly faceted low-poly 3D shading, proportions. Preserve exact gray palette, horn/ear shapes, head, shoulder and hip anatomy.\nDraw the single full rhino facing LEFT on genuinely transparent alpha background. Desired canvas landscape 1536x1024, about3:2 ratio, 10% transparent margin around full animal. Same fixed character framing in all pose variants: silhouette nose-to-tail horizontal extent around80% of canvas, center at50%width, shoulder at49%, hip at75%, ground line at87% canvas height. Maintain torso height and dimensions, do not recenter by changing foot position. Camera horizontal at animal's torso, same side view and lighting. All four legs fully attached, far legs slightly darker but recognizable, proper hooves, knees and elbows; tail/horns/feet fully inside canvas.\nREQUIRED SPECIFIC POSE: Next opposite swing: DARK FAR FRONT knee lifts and bends, its hoof passes forward under chest towards LEFT and is clearly above ground. BRIGHT NEAR FRONT remains planted under shoulder supporting weight. Both hind feet grounded, near hind slightly further left and far hind further right. Three planted feet and ONE raised DARK far forefoot. Complete hoof/leg attached, no leg disappearance.\nPaint a real coherent weight-bearing rhino, heavy restrained walk, never floating or rubber joint stretching. Pose reference is rough; the four leg roles above are authoritative. No other animals, background, ground art, cast shadow, words, grid, numbers, skeletal overlays or colored guides.",
+      "hindRepairPrompt": null
+    }
+  ],
+  "limbQA": [
+    {
+      "filePhase": 0,
+      "lifted": "near-hind",
+      "support": [
+        "near-front",
+        "far-front",
+        "far-hind"
+      ]
+    },
+    {
+      "filePhase": 2,
+      "lifted": "near-front",
+      "support": [
+        "far-front",
+        "near-hind",
+        "far-hind"
+      ]
+    },
+    {
+      "filePhase": 4,
+      "lifted": "far-hind",
+      "support": [
+        "near-front",
+        "far-front",
+        "near-hind"
+      ]
+    },
+    {
+      "filePhase": 6,
+      "lifted": "far-front",
+      "support": [
+        "near-front",
+        "near-hind",
+        "far-hind"
+      ]
+    }
+  ],
+  "identityCameraQA": "Same low-poly gray rhino throughout. Phase4 redrawn after initial small/right camera drift; restrained authored head coordinate variation remains, requires runtime review.",
+  "adoptAfterStaticQA": true,
+  "requires": "Parent normal/half speed runtime camera and cadence check."
+}

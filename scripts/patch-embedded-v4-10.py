@@ -1,0 +1,22 @@
+from pathlib import Path
+p=Path('geo/assets/game.js');s=p.read_text(encoding='utf8')
+s=s.replace("width=Math.min(height*aspect,vw*.9)","width=Math.min(height*aspect,vw*(a.maxWidth||.9))")
+s=s.replace("const fit=()=>{if(img.naturalWidth){", "const fit=()=>{if(a.embedded){const box=a.embeddedBounds||[a.u-a.h*(a.hitWidthRatio||1)*vh/w/2,a.feetY-a.h,a.h*(a.hitWidthRatio||1)*vh/w,a.h];const width=box[2]*w,hh=box[3]*vh;el.style.cssText+=`;left:${box[0]*w}px;top:${box[1]*vh}px;width:${Math.max(44,width)}px;height:${Math.max(44,hh)}px`;orientation.style.cssText+=`;width:${width}px;height:${hh}px;left:0;top:0`;return;}if(img.naturalWidth){")
+p.write_text(s,encoding='utf8')
+p=Path('geo/assets/chapter-motion.js');s=p.read_text(encoding='utf8')
+s=s.replace("let min=0,max=panel.offsetWidth;", "let min=0,max=panel.offsetWidth;")
+# Keep embedded target effects registered to the painted background throughout playback.
+s=s.replace("if(!r.reduced){", "if(!r.reduced&&!r.embedded){")
+s=s.replace("r.zoom=r.reduced?1:", "r.zoom=r.reduced||r.embedded?1:")
+s=s.replace("if(['boat','tram','bus','shop-cart','beach-crab'].includes(motion)&&!reduced)","if(['boat','tram','bus','shop-cart','beach-crab'].includes(motion)&&!reduced&&el.dataset.embedded!=='true')")
+s=s.replace("const r={el,id,def:d,", "const r={embedded:el.dataset.embedded==='true',el,id,def:d,")
+s=s.replace("r.mallet.style.top=(motion==='drum'?26:31)+'%';", "r.mallet.style.top=(motion==='drum'?26:31)+'%';if(d.strikePoint){r.mallet.style.left=d.strikePoint[0]*100+'%';r.mallet.style.top=d.strikePoint[1]*100+'%';r.mallet.classList.add('embedded-mallet');}")
+s=s.replace("if(motion==='drum')r.head=effect(r,'drum-head');", "if(motion==='drum'){r.head=effect(r,'drum-head');if(d.strikeHeadRect){const q=d.strikeHeadRect;r.head.style.cssText=`left:${q[0]*100}%;top:${q[1]*100}%;width:${q[2]*100}%;height:${q[3]*100}%`;}}")
+s=s.replace("r.keys.push(key);", "if(d.keys?.[i]?.length===4){key.style.width=d.keys[i][2]*100+'%';key.style.height=d.keys[i][3]*100+'%';}r.keys.push(key);")
+s=s.replace("r.fly.style.width=rect.width*flightScale+'px';r.fly.style.height=rect.height*flightScale+'px';", "const fh=Math.min(120,rect.height),fw=fh*(d.posterAspect||rect.width/rect.height);r.fly.style.width=fw+'px';r.fly.style.height=fh+'px';")
+s=s.replace("if(r.glow)r.glow.style.opacity=String(envelope*.55);", "if(r.glow)r.glow.style.opacity=String(envelope*.55);if(r.beatPulse){const phase=t/r.beat%1;r.beatPulse.style.opacity=String(envelope*(.25+.6*(1-phase)));r.beatPulse.style.transform=`scale(${.85+phase*.4})`; }if(r.lantern)r.lantern.style.opacity=String(envelope*.75);if(r.route){r.route.style.opacity=String(envelope);r.route.style.strokeDashoffset=String(48-p*144);}if(r.peek)r.peek.style.opacity=String(envelope);")
+s=s.replace("orientation.style.transform=`scaleX(${face})`;r.idle.style.visibility='hidden';", "if(r.embedded&&['tambourine','maracas','shop-cart'].includes(motion)){r.beatPulse=effect(r,'music-beat-pulse');r.beatPulse.textContent=motion==='shop-cart'?'':'♪';}if(motion==='camp-lantern')r.lantern=effect(r,'camp-lantern-glow');if(motion==='camp-map'){const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.classList.add('camp-route');svg.setAttribute('viewBox','0 0 100 100');svg.innerHTML='<path d=\"M23 45Q34 21 47 35T68 34T76 22\" fill=\"none\" stroke=\"#ffe49a\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/>';r.visual.append(svg);r.route=svg.querySelector('path');}if(motion==='camp-binoculars'){r.peek=node('div','camp-peek',el.closest('.panel'));r.peek.style.left=(el.offsetLeft+width*.5-height*.45)+'px';r.peek.style.top=Math.max(innerHeight*.19,el.offsetTop-height*.92)+'px';r.peek.style.width=height*1.5+'px';r.peek.style.height=height*1.1+'px';r.peek.style.backgroundImage=`url(\"${asset(g.GAME_SCENES.camp.bgStrip)}\")`;}orientation.style.transform=`scaleX(${face})`;r.idle.style.visibility='hidden';")
+s=s.replace("r.fly?.remove();", "r.fly?.remove();r.peek?.remove();")
+# The contact wire belongs only above Hong Kong's street portion, not across water.
+s=s.replace("const left=0,right=panel.offsetWidth", "const left=(d.wireRange?.[0]||0)*panel.offsetWidth,right=(d.wireRange?.[1]||1)*panel.offsetWidth")
+p.write_text(s,encoding='utf8')

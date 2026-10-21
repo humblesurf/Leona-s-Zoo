@@ -1,0 +1,38 @@
+{
+  "generatedWith": "built-in image_gen",
+  "generatedAt": "2026-10-08",
+  "mappings": [
+    {
+      "id": "background",
+      "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046\\exec-85470820-2011-44da-8d84-66aa65bce022.png"
+    },
+    {
+      "id": "shopmilk",
+      "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046\\exec-8f30c8e8-0ca8-45ab-88ec-8267a0d83283.png"
+    },
+    {
+      "id": "shopbread",
+      "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046\\exec-1a22c044-18f2-42ed-9560-d177f25ea650.png"
+    },
+    {
+      "id": "shopeggs",
+      "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046\\exec-656050ca-241c-40fe-ba1a-c1e815b8a05b.png"
+    },
+    {
+      "id": "shopyogurt",
+      "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046\\exec-9b288e7d-27d5-4b4a-b1aa-e79f32f006b7.png"
+    },
+    {
+      "id": "shoptissue",
+      "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046\\exec-66c2cecf-b06b-492f-8ef0-0df1bbd7056a.png"
+    },
+    {
+      "id": "shopcart",
+      "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046\\exec-fd2b2faa-c606-4f9f-a67d-563ad672454d.png"
+    },
+    {
+      "id": "shopbasket",
+      "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046\\exec-4598a982-4aed-43bd-ac3e-bbe908b20245.png"
+    }
+  ]
+}

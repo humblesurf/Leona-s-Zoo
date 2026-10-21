@@ -1,0 +1,72 @@
+{
+  "musicpiano": {
+    "name": {
+      "en": "Piano",
+      "cmn": "钢琴",
+      "yue": "鋼琴"
+    },
+    "emoji": "🎹",
+    "intro": {
+      "en": "I'm a piano. My keys play high and low notes. Let's make a little tune!",
+      "cmn": "我是钢琴，琴键会弹出高高低低的声音。一起弹首小曲吧！",
+      "yue": "我係鋼琴，琴鍵會彈出高高低低嘅聲音。一齊彈首小曲啦！"
+    },
+    "kind": "discovery"
+  },
+  "musicdrum": {
+    "name": {
+      "en": "Little drum",
+      "cmn": "小鼓",
+      "yue": "小鼓"
+    },
+    "emoji": "🥁",
+    "intro": {
+      "en": "I'm a little drum. Tap me gently, then try a stronger beat. Boom, boom!",
+      "cmn": "我是小鼓，轻轻敲，再试试重一点。咚，咚！",
+      "yue": "我係小鼓，輕輕敲，再試吓重啲。咚，咚！"
+    },
+    "kind": "discovery"
+  },
+  "musicxylophone": {
+    "name": {
+      "en": "Xylophone",
+      "cmn": "木琴",
+      "yue": "木琴"
+    },
+    "emoji": "🎵",
+    "intro": {
+      "en": "I'm a xylophone. My wooden bars make bright notes when the mallets tap them.",
+      "cmn": "我是木琴，小槌敲敲木条，就会发出清脆的声音。",
+      "yue": "我係木琴，小槌敲吓木條，就會發出清脆嘅聲音。"
+    },
+    "kind": "discovery"
+  },
+  "musictambourine": {
+    "name": {
+      "en": "Tambourine",
+      "cmn": "铃鼓",
+      "yue": "鈴鼓"
+    },
+    "emoji": "🎶",
+    "intro": {
+      "en": "I'm a tambourine. Shake my little jingles. Jingle, jingle!",
+      "cmn": "我是铃鼓，摇一摇，小铃片叮当响！",
+      "yue": "我係鈴鼓，搖一搖，小鈴片叮噹響！"
+    },
+    "kind": "discovery"
+  },
+  "musicmaracas": {
+    "name": {
+      "en": "Maracas",
+      "cmn": "沙锤",
+      "yue": "沙鎚"
+    },
+    "emoji": "🎶",
+    "intro": {
+      "en": "We're maracas. Little seeds rattle inside us. Shake slowly, then quickly!",
+      "cmn": "我们是沙锤，小颗粒在里面沙沙响。慢慢摇，再快快摇！",
+      "yue": "我哋係沙鎚，小粒粒喺入面沙沙響。慢慢搖，再快快搖！"
+    },
+    "kind": "discovery"
+  }
+}

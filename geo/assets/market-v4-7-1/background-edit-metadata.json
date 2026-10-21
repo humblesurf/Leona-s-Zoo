@@ -1,0 +1,29 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "mode": "precise-object-edit",
+  "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-ab0e3a46-6e7d-4529-a398-54079fe97a70.png",
+  "generatedOriginal": "C:/Users/XTIA/.codex/generated_images/01a119db-7560-77d1-8836-1af11151e215/exec-9b42d46f-0794-47d3-b108-d2fbce955773.png",
+  "adoptedAsset": "geo\\assets\\bg\\market-preferred-v4-7-1.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "aspect": 3.0,
+  "opaque": true,
+  "sourceSha256": "b5c4cf9fd56c261386aa40dac72cab44d63e638e8ed10aac9affd8aafb35942f",
+  "assetSha256": "150d54a7c1b2850655dedcd59c931f757f1d35453020f93d63207d9dd72f63af",
+  "left70PercentMeanAbsoluteRgbDifference": [
+    9.424168544635068,
+    9.281606208200058,
+    7.449781913346903
+  ],
+  "promptFile": "background-edit-prompt.txt",
+  "visualReview": {
+    "approved": true,
+    "firstFiveBaskets": "Same order, basket shapes, placement, produce piles and warm dimensional style as the selected reference. Near-identical camera, awning and wooden scene.",
+    "sixthBasket": "Full red tomatoes with natural green star calyxes; no peaches.",
+    "seventhBasket": "Full orange carrots with green leafy tops; no grapes.",
+    "noPeopleTextExtraBaskets": true,
+    "notes": "Only rightmost produce contents intentionally replaced. Native generated image retains original 2172x724 dimensions."
+  }
+}

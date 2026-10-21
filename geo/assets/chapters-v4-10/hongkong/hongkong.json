@@ -1,0 +1,294 @@
+{
+  "scene": {
+    "id": "hongkong",
+    "label": "香港",
+    "numScreens": 6,
+    "panorama": true,
+    "bgStrip": "assets/chapters-v4-10/hongkong/background.webp",
+    "bgAspect": 5.709944751381215,
+    "bgMirror": false,
+    "ambience": "assets/audio/v4-9/hongkong.mp3",
+    "animals": [
+      {
+        "id": "hkferry",
+        "u": 0.17,
+        "h": 0.18,
+        "feetY": 0.8,
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "hkferry-v4-10"
+      },
+      {
+        "id": "hkclock",
+        "u": 0.5886124818577649,
+        "h": 0.294,
+        "feetY": 0.569,
+        "embedded": true,
+        "embeddedBounds": [
+          0.5807314949201742,
+          0.275,
+          0.015761973875181422,
+          0.294
+        ],
+        "hitWidthRatio": 0.30612244897959184,
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "hkclock-embedded-v4-10"
+      },
+      {
+        "id": "hkboc",
+        "u": 0.7732902757619738,
+        "h": 0.395,
+        "feetY": 0.42200000000000004,
+        "embedded": true,
+        "embeddedBounds": [
+          0.7630449927431059,
+          0.027,
+          0.020490566037735847,
+          0.395
+        ],
+        "hitWidthRatio": 0.2962025316455696,
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "hkboc-embedded-v4-10"
+      },
+      {
+        "id": "hktram",
+        "u": 0.767,
+        "h": 0.255,
+        "feetY": 0.878,
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "hktram-v4-10"
+      },
+      {
+        "id": "hkbus",
+        "u": 0.884,
+        "h": 0.217,
+        "feetY": 0.955,
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "hkbus-v4-10"
+      },
+      {
+        "id": "hkdim",
+        "u": 0.9634847605224964,
+        "h": 0.278,
+        "feetY": 0.7370000000000001,
+        "embedded": true,
+        "embeddedBounds": [
+          0.9295965166908564,
+          0.459,
+          0.06777648766328011,
+          0.278
+        ],
+        "hitWidthRatio": 1.3920863309352516,
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "hkdim-embedded-v4-10"
+      }
+    ]
+  },
+  "objects": {
+    "hkclock": {
+      "poster": "assets/chapters-v4-9/hongkong/hkclock.webp",
+      "width": 65,
+      "height": 213,
+      "motion": "clock",
+      "duration": 4300,
+      "clockFaces": [
+        {
+          "x": 0.30019616204690824,
+          "y": 0.4666018396846255,
+          "r": 0.11790191897654584
+        },
+        {
+          "x": 0.6844690831556502,
+          "y": 0.4736662286465177,
+          "r": 0.13100213219616205
+        }
+      ],
+      "clockCenter": [
+        0.5,
+        0.51
+      ],
+      "embedded": true
+    },
+    "hkboc": {
+      "poster": "assets/chapters-v4-9/hongkong/hkboc.webp",
+      "width": 85,
+      "height": 286,
+      "motion": "windows",
+      "duration": 4300,
+      "windows": [
+        [
+          0.18,
+          0.34,
+          0.16,
+          0.018
+        ],
+        [
+          0.48,
+          0.4,
+          0.15,
+          0.018
+        ],
+        [
+          0.2,
+          0.48,
+          0.16,
+          0.018
+        ],
+        [
+          0.53,
+          0.58,
+          0.14,
+          0.018
+        ],
+        [
+          0.28,
+          0.72,
+          0.13,
+          0.018
+        ],
+        [
+          0.62,
+          0.78,
+          0.14,
+          0.018
+        ]
+      ],
+      "embedded": true
+    },
+    "hkdim": {
+      "poster": "assets/chapters-v4-9/hongkong/hkdim.webp",
+      "width": 280,
+      "height": 201,
+      "motion": "steam",
+      "duration": 4300,
+      "steamAnchors": [
+        {
+          "x": 0.56,
+          "y": 0.71
+        },
+        {
+          "x": 0.76,
+          "y": 0.71
+        },
+        {
+          "x": 0.91,
+          "y": 0.72
+        }
+      ],
+      "embedded": true
+    },
+    "hktram": {
+      "poster": "assets/chapters-v4-9/hongkong/hktram.webp",
+      "width": 1251,
+      "height": 995,
+      "motion": "tram",
+      "duration": 7000,
+      "travel": 0.18,
+      "wheelHubs": [
+        {
+          "x": 0.191462829736211,
+          "y": 0.926375879396985,
+          "r": 0.020872901678657074
+        },
+        {
+          "x": 0.5444604316546764,
+          "y": 0.9325507537688442,
+          "r": 0.020872901678657074
+        }
+      ],
+      "poleTip": {
+        "x": 0.02877697841726619,
+        "y": 0.020727638190954772
+      },
+      "wheels": [
+        {
+          "x": 0.191462829736211,
+          "y": 0.926375879396985,
+          "r": 0.020872901678657074
+        },
+        {
+          "x": 0.5444604316546764,
+          "y": 0.9325507537688442,
+          "r": 0.020872901678657074
+        }
+      ],
+      "wireRange": [
+        0.68,
+        1
+      ],
+      "travelRange": [
+        0.705,
+        0.97
+      ]
+    },
+    "hkbus": {
+      "poster": "assets/chapters-v4-9/hongkong/hkbus.webp",
+      "width": 1713,
+      "height": 821,
+      "motion": "bus",
+      "duration": 7000,
+      "travel": 0.19,
+      "wheelHubs": [
+        {
+          "x": 0.11736018680677175,
+          "y": 0.8604579780755176,
+          "r": 0.03003269118505546
+        },
+        {
+          "x": 0.1960665499124343,
+          "y": 0.8615383678440925,
+          "r": 0.03003269118505546
+        },
+        {
+          "x": 0.6206666666666667,
+          "y": 0.8723422655298416,
+          "r": 0.03521074138937537
+        }
+      ],
+      "wheels": [
+        {
+          "x": 0.11736018680677175,
+          "y": 0.8604579780755176,
+          "r": 0.03003269118505546
+        },
+        {
+          "x": 0.1960665499124343,
+          "y": 0.8615383678440925,
+          "r": 0.03003269118505546
+        },
+        {
+          "x": 0.6206666666666667,
+          "y": 0.8723422655298416,
+          "r": 0.03521074138937537
+        }
+      ],
+      "travelRange": [
+        0.705,
+        0.97
+      ]
+    },
+    "hkferry": {
+      "poster": "assets/chapters-v4-9/hongkong/hkferry.webp",
+      "width": 1685,
+      "height": 846,
+      "motion": "boat",
+      "duration": 7000,
+      "travel": 0.15,
+      "travelRange": [
+        0.025,
+        0.645
+      ]
+    }
+  }
+}

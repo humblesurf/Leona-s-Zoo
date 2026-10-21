@@ -1,0 +1,80 @@
+[
+  {
+    "scene": "beach",
+    "id": "background",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-e27dc894-1659-4e10-9369-1160f30fb815.png",
+    "prompt": "Use case: illustration-story. Asset type: very wide 3:1 continuous scenic background for toddler beach game. Eye-level beautiful calm seaside holiday, warm sandy beach occupies lower 48 percent, clear turquoise shallow sea middle 25 percent, gentle shoreline nearly horizontal across the composition at normalized height 0.53, blue sky with small soft clouds and distant peaceful headland, a little beach grass and smooth rocks only far edges. Completely empty sand foreground for separately drawn clickable beach toys. No people, no animals, no umbrellas, no buckets or sandcastles prepainted, no signs or words. Rich crisp 3D storybook landscape illustration with subtly faceted shapes and hand-painted texture, same friendly style as painted zoo backgrounds, NOT flat vector, NOT photorealistic. Natural summer sunlight, generous spatial depth. Seamless single wide panorama.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/beach/background.webp",
+    "width": 2172,
+    "height": 724,
+    "transparentRatio": 0,
+    "edgeAlpha": 5788,
+    "sha256": "b8b9f023162cc48c919ae021a242e27ea6b07fe4bfef9e7159ebe9231edf02d2"
+  },
+  {
+    "scene": "beach",
+    "id": "beachumbrella",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-709e156f-ac4d-4854-9a76-99026177e577.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent beach prop sprite. One large friendly open beach umbrella with orange cream and turquoise fabric panels, central wooden straight pole firmly fixed in a small round patch of sand, simple three-quarter eye-level view. Rich storybook 3D rendering with subtly faceted forms, painted textures, gentle summer sunlight. Entire canopy and entire pole base in frame with clear 8% margins, no chairs or people, no faces, no labels, no cast background shadow. Genuine transparent background, clean complete alpha.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/beach/beachumbrella.webp",
+    "width": 1245,
+    "height": 1296,
+    "transparentRatio": 0.656137484743694,
+    "edgeAlpha": 1,
+    "sha256": "d06aab8dd5cbae506584ab6eca8332dc1f8413d19f0bcf5ada002619d8c6e880"
+  },
+  {
+    "scene": "beach",
+    "id": "beachbucket",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-c37c672b-bbb4-4770-88a2-32764f85b094.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent beach prop sprite. One cheerful turquoise plastic sand bucket with yellow swing handle, full of golden sand just below the rim, friendly real proportions, complete bucket and handle, three-quarter eye-level. Rich storybook 3D rendering, subtly faceted shapes, painted texture, natural soft sunlight. Isolated on genuine transparent background with 8% margins, no people, no words, no faces, no other props, no cast background shadow.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/beach/beachbucket.webp",
+    "width": 1140,
+    "height": 1074,
+    "transparentRatio": 0.4483061341768547,
+    "edgeAlpha": 0,
+    "sha256": "5a8bd07c8cfc5e8a745c0d39bd4ee9174e9f2153c4a826e3e959ed177fd38996"
+  },
+  {
+    "scene": "beach",
+    "id": "beachshovel",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-b49b4ffe-ea05-4707-beb8-ce4e4d26ecb0.png",
+    "prompt": "Use case: stylized-concept. Asset type: transparent complete beach prop sprite for toddler game. One complete friendly small yellow plastic beach shovel with turquoise handle, a few grains of sand in its concave blade, three-quarter front view. Clearly recognizable shovel with complete shaft and grip, not buried. Rich storybook 3D illustration with subtle faceted forms and hand-painted texture, soft natural summer light from left. Friendly accurate proportions, NOT photoreal, NOT flat clip art. Entire subject inside canvas with clear 8% margins, genuine transparent background, no people, no other props, no text, no faces, no cast background shadow.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/beach/beachshovel.webp",
+    "width": 1032,
+    "height": 1041,
+    "transparentRatio": 0.7939767230474883,
+    "edgeAlpha": 0,
+    "sha256": "3a0fc4c38e09330d1873a0d942bff7e67516de2478eb8d06b5984d990f983826"
+  },
+  {
+    "scene": "beach",
+    "id": "beachcastle",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-2990f305-bd2e-4663-b61b-e8ffebf37e32.png",
+    "prompt": "Use case: stylized-concept. Asset type: transparent complete beach prop sprite for toddler game. One beautifully built golden sandcastle with two small cylindrical turrets either side and a square main tower, simple arched doorway, little sand steps, realistic crumbly grain texture and slightly soft damp-sand edges, small triangular orange flag. All turrets clearly joined to their sand foundations. Three-quarter eye-level view, complete circular sand mound below. Rich storybook 3D illustration with subtle faceted forms and hand-painted texture, soft natural summer light from left. Friendly accurate proportions, NOT photoreal, NOT flat clip art. Entire subject inside canvas with clear 8% margins, genuine transparent background, no people, no other props, no text, no faces, no cast background shadow.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/beach/beachcastle.webp",
+    "width": 1273,
+    "height": 1126,
+    "transparentRatio": 0.4726830285400435,
+    "edgeAlpha": 0,
+    "sha256": "f545eb30a7a14b4c64e53cfef6a9608413a70ee265f8d1765a1046b06cc356bb"
+  },
+  {
+    "scene": "beach",
+    "id": "beachwave",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-1082fda8-b9b4-4791-b477-63b307a5b422.png",
+    "prompt": "Use case: stylized-concept. Asset type: transparent complete beach prop sprite for toddler game. One single gentle turquoise shallow ocean wave with a soft curving white foam lip, extended horizontal 3:1 silhouette, low rounded crest, watery translucent blue edges. Grounded beach-water wave not abstract cloud, not tsunami, no sand background, suitable overpaint onto shallow sea. Rich storybook 3D illustration with subtle faceted forms and hand-painted texture, soft natural summer light from left. Friendly accurate proportions, NOT photoreal, NOT flat clip art. Entire subject inside canvas with clear 8% margins, genuine transparent background, no people, no other props, no text, no faces, no cast background shadow.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/beach/beachwave.webp",
+    "width": 2155,
+    "height": 499,
+    "transparentRatio": 0.6633528941932989,
+    "edgeAlpha": 0,
+    "sha256": "a7cae8d1590566e87d524857d988c5fae6a06c2a21c4e31381602fef7a70878a"
+  }
+]

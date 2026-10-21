@@ -1,0 +1,80 @@
+[
+  {
+    "scene": "music",
+    "id": "background",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-83bedf1b-af2f-47ac-a54d-4515e735d0a3.png",
+    "prompt": "Use case: illustration-story. Asset type: panoramic background for an interactive toddler game. Create one very wide 3:1 horizontal children's music cottage interior, eye-level view, continuous single landscape across the full width. Warm honey-colored timber floor occupies lower 45 percent, cream walls, large sunlit windows looking onto a leafy garden, gently draped curtains, soft cushions only at far sides, a low wooden display shelf along the rear wall, spacious clear foreground for five separate clickable instruments. No musical instruments painted into background, no people, no animals, no words or signs, no logos, no UI. Style: richly textured storybook 3D illustration with subtly faceted forms, friendly proportion, natural soft sunlight, crisp details, matching illustrated zoo landscapes, NOT flat clip art, NOT photoreal. Clean continuous perspective, inviting warm atmosphere. Render wide panorama with max available clarity.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/music/background.webp",
+    "width": 2172,
+    "height": 724,
+    "transparentRatio": 0,
+    "edgeAlpha": 5788,
+    "sha256": "b3657a51062ad3f9a8cc33540a7558052a18393857efb13b37b10dd2b0c480e9"
+  },
+  {
+    "scene": "music",
+    "id": "musicpiano",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-525ded29-5f96-4bd9-9ca4-a781d0e0b199.png",
+    "prompt": "Use case: stylized-concept. Asset type: transparent complete instrument sprite for toddler music game. One beautifully crafted small upright piano, warm walnut wood with honey edges, a single row of correct white and black piano keys (black keys in groups of two and three), front slightly three-quarter eye-level camera, keyboard clearly visible, lid closed, stable four-legged base, compact friendly proportions, realistic recognizable piano not toy button synthesizer. Rich storybook 3D illustration, subtle faceted forms and painted texture, natural warm left lighting. Whole piano fully in frame with 8% clear margin, isolated on genuine transparent background, no bench, no props, no words, no logos, no hands or people, no face. Crisp clear clean alpha outline. No cast background shadow.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/music/musicpiano.webp",
+    "width": 1260,
+    "height": 1115,
+    "transparentRatio": 0.38028006061962205,
+    "edgeAlpha": 0,
+    "sha256": "111b659cf4b23ab69d24ca9ca4fca1148290083293cd614a42623417eba3fd8e"
+  },
+  {
+    "scene": "music",
+    "id": "musicdrum",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-18d750ea-8e5d-49f2-b9b3-3d93d31d1b62.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent musical instrument sprite for interactive toddler game. One small round wooden children's snare drum with a cream drumhead, red stained wood shell and brass tension lugs, two wooden drumsticks resting alongside, not covering head. Clearly visible oval top viewed slightly from above and front, complete solid cylindrical shell. Rich storybook 3D illustrated rendering, subtly faceted forms, high quality hand-painted texture, gentle warm light from left. Recognizable real instrument with friendly proportions, NOT photoreal, NOT flat vector clip art. Fully in frame with 8% clear margins. Genuine transparent background, no people, no faces, no text, no brands, no background, no cast background shadow. Crisp clear silhouette.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/music/musicdrum.webp",
+    "width": 1365,
+    "height": 1101,
+    "transparentRatio": 0.4905271320785899,
+    "edgeAlpha": 0,
+    "sha256": "d55fd6ac49abe84726596b9ee5e1bff530b815010a65f27ec3a1d129328add43"
+  },
+  {
+    "scene": "music",
+    "id": "musicxylophone",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-cebaf22a-b25e-47e8-ab9a-8bdeb635f146.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent musical instrument sprite for interactive toddler game. One authentic small wooden xylophone, eight graduated honey brown WOODEN tone bars on a sturdy red brown wooden frame with short resonator tubes, two round felt-headed wooden mallets resting at sides. Bars are wood, not metallic rainbow glockenspiel. View front with slight elevation, all bars clearly visible, complete instrument. Rich storybook 3D illustrated rendering, subtly faceted forms, high quality hand-painted texture, gentle warm light from left. Recognizable real instrument with friendly proportions, NOT photoreal, NOT flat vector clip art. Fully in frame with 8% clear margins. Genuine transparent background, no people, no faces, no text, no brands, no background, no cast background shadow. Crisp clear silhouette.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/music/musicxylophone.webp",
+    "width": 1499,
+    "height": 909,
+    "transparentRatio": 0.4904225667317708,
+    "edgeAlpha": 0,
+    "sha256": "641fd4fd9ced86a050c32ba8fdbc57055b56b7c8c3b25cf9711d5880d90494af"
+  },
+  {
+    "scene": "music",
+    "id": "musictambourine",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-eb5ad742-7f25-43a5-b5cb-f98b8e245337.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent musical instrument sprite for interactive toddler game. One circular natural wood tambourine with cream membrane and evenly spaced paired silver metal jingles in its rim, tilted slightly so both drum head and metal jingles are clearly visible. No extra stick or hands, fully complete circular frame. Rich storybook 3D illustrated rendering, subtly faceted forms, high quality hand-painted texture, gentle warm light from left. Recognizable real instrument with friendly proportions, NOT photoreal, NOT flat vector clip art. Fully in frame with 8% clear margins. Genuine transparent background, no people, no faces, no text, no brands, no background, no cast background shadow. Crisp clear silhouette.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/music/musictambourine.webp",
+    "width": 1202,
+    "height": 1013,
+    "transparentRatio": 0.4737985520971709,
+    "edgeAlpha": 0,
+    "sha256": "15085e80778f3a6a58206287b866ae3029f3651318c5769a3e43c750da1947ba"
+  },
+  {
+    "scene": "music",
+    "id": "musicmaracas",
+    "source": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-0f04afe6-226e-4963-8e9c-dc1f51b30d96.png",
+    "prompt": "Use case: stylized-concept. Asset type: complete transparent musical instrument sprite for interactive toddler game. One matched pair of brightly decorated orange and turquoise wooden maracas with elongated egg-shaped shaker heads and smooth natural wooden handles, separated slightly, complete handles, front three-quarter view. They are a single pair of musical shakers. Rich storybook 3D illustrated rendering, subtly faceted forms, high quality hand-painted texture, gentle warm light from left. Recognizable real instrument with friendly proportions, NOT photoreal, NOT flat vector clip art. Fully in frame with 8% clear margins. Genuine transparent background, no people, no faces, no text, no brands, no background, no cast background shadow. Crisp clear silhouette.",
+    "tool": "built-in image_gen",
+    "poster": "assets/chapters-v4-9/music/musicmaracas.webp",
+    "width": 1275,
+    "height": 1166,
+    "transparentRatio": 0.6050615095913261,
+    "edgeAlpha": 0,
+    "sha256": "1c9374e65a2dbdd4bdefdc9ff3d3ae76f02900ce72184d8038a700c530922f43"
+  }
+]

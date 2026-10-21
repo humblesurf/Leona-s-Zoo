@@ -1,0 +1,104 @@
+{
+  "id": "polarbear",
+  "approvedArt": true,
+  "movingPreviewApproved": false,
+  "mode": "builtin-imagegen independent complete character paintings",
+  "poses": [
+    {
+      "phase": 0,
+      "file": "polarbear-pose-0.png",
+      "actualDimensions": [
+        1576,
+        998
+      ],
+      "reference": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/polarbear-pose-guide-0.png",
+      "identity": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/polarbear-poster.webp",
+      "prompt": "Create ONE SINGLE full-body animation drawing of the exact creamy low-poly POLAR BEAR from image2, matching the POSE of image1. Transparent RGBA, landscape same framing ratio as image1. This is not a sprite sheet.\nImage1 is only an animator's static walking pose sketch, with exact hoof/paw placements and current near/far limb identity. Preserve that spatial geometry: four paw tips, hip/shoulder locations, torso center, face direction LEFT, camera/perspective. Image2 gives original identity and low-poly faceted sculpted style, friendly face, ears, cream-colored body and black claw tips; do not copy image2's standing legs.\nRepaint the COMPLETE animal as one naturally connected body in pose 0. Remove sketch cutout seams and artificial segment cuts around elbows and hocks. Four thick natural bear legs stay attached at proper shoulders/hips. Keep NEAR foreleg connected to the visible outer shoulder, FAR foreleg behind it, preserving each paw's exact x location relative to that shoulder in image1. Both forepaws must remain staggered as in image1, not merged or synchronized. All FOUR complete paws must be drawn even when partially occluded.\nKeep same character proportions, silhouette, body size and grounded gentle weight. Quiet head, exact cream low-poly shading/material and consistent facial expression. Natural smooth outline and seamless joins, no rubber stretching. Exact sketch registration rather than auto-centering silhouette: whole head/body and all feet keep image1's normalized coordinates. Clean transparent margins, absolutely no floor, grass, cast shadows, noise, text, colors from guides, borders or scenery.",
+      "repairPrompt": null,
+      "additionalRepairPrompt": null,
+      "selectedGeneratedFile": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-b4e97549-eb13-40d7-816d-41d58118f89a.png",
+      "artQA": {
+        "style": "Same original ivory faceted low-poly character, no third art style.",
+        "anatomy": "Four limb attachments maintained; complete rounded front paws and connected hind legs. Far paw can be strongly occluded, particularly bear pose6; do not claim four completely visible paws in every drawing.",
+        "registration": "Full-canvas normalization only. Camera/head/body stability must be checked in actual playback; no per-frame bbox fitting.",
+        "repair": "Whole-pose painting checked against identity and pose sketch."
+      }
+    },
+    {
+      "phase": 2,
+      "file": "polarbear-pose-2.png",
+      "actualDimensions": [
+        1575,
+        998
+      ],
+      "reference": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/polarbear-pose-guide-2.png",
+      "identity": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/polarbear-poster.webp",
+      "prompt": "Create ONE SINGLE full-body animation drawing of the exact creamy low-poly POLAR BEAR from image2, matching the POSE of image1. Transparent RGBA, landscape same framing ratio as image1. This is not a sprite sheet.\nImage1 is only an animator's static walking pose sketch, with exact hoof/paw placements and current near/far limb identity. Preserve that spatial geometry: four paw tips, hip/shoulder locations, torso center, face direction LEFT, camera/perspective. Image2 gives original identity and low-poly faceted sculpted style, friendly face, ears, cream-colored body and black claw tips; do not copy image2's standing legs.\nRepaint the COMPLETE animal as one naturally connected body in pose 2. Remove sketch cutout seams and artificial segment cuts around elbows and hocks. Four thick natural bear legs stay attached at proper shoulders/hips. Keep NEAR foreleg connected to the visible outer shoulder, FAR foreleg behind it, preserving each paw's exact x location relative to that shoulder in image1. Both forepaws must remain staggered as in image1, not merged or synchronized. All FOUR complete paws must be drawn even when partially occluded.\nKeep same character proportions, silhouette, body size and grounded gentle weight. Quiet head, exact cream low-poly shading/material and consistent facial expression. Natural smooth outline and seamless joins, no rubber stretching. Exact sketch registration rather than auto-centering silhouette: whole head/body and all feet keep image1's normalized coordinates. Clean transparent margins, absolutely no floor, grass, cast shadows, noise, text, colors from guides, borders or scenery.",
+      "repairPrompt": "Edit reference image1, an independently painted low-poly polar bear walking pose. Reference image2 is the original paw/anatomy/style reference.\nFix ONLY malformed paw anatomy and cutout seam remnants. The hind paws currently have long flat rectangular flipper-like extensions pointing RIGHT beyond their ankles: remove these accidental rectangular shapes. Repaint two proper thick round polar bear hind paws with three/four natural rounded toes and black claw tips, attached seamlessly to the hocks and standing on the same ground line. Keep the original black-claw toe region and paw contact center at its SAME location; shorten only the unnatural blocky right-facing extrusion. Far hind leg may be partially occluded, but must remain a connected real leg and rounded paw. Likewise remove any rectangular seam-like edges on forelegs but retain their exact pose.\nPreserve EVERYTHING else exactly: all four paw positions relative to shoulders and hips, torso center/size, face, low-poly ivory cream material, same camera/framing, registration, ear/nose/tail, pose 2, image dimensions and true transparency. Do not replace with original reference2 standing pose. No new scenery, cast shadow, ground, text, colors or backdrop. All four legs anatomically connected, thick natural bear legs with real rounded paws. This remains a single complete repainted animal image, not an atlas.",
+      "additionalRepairPrompt": null,
+      "selectedGeneratedFile": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-0493f21f-ec69-4e38-9ff9-c27df6ccc755.png",
+      "artQA": {
+        "style": "Same original ivory faceted low-poly character, no third art style.",
+        "anatomy": "Four limb attachments maintained; complete rounded front paws and connected hind legs. Far paw can be strongly occluded, particularly bear pose6; do not claim four completely visible paws in every drawing.",
+        "registration": "Full-canvas normalization only. Camera/head/body stability must be checked in actual playback; no per-frame bbox fitting.",
+        "repair": "Flat/rectangular paw remnants targeted where needed; rounded complete paws checked."
+      }
+    },
+    {
+      "phase": 4,
+      "file": "polarbear-pose-4.png",
+      "actualDimensions": [
+        1576,
+        998
+      ],
+      "reference": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/polarbear-pose-guide-4.png",
+      "identity": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/polarbear-poster.webp",
+      "prompt": "Create ONE SINGLE full-body animation drawing of the exact creamy low-poly POLAR BEAR from image2, matching the POSE of image1. Transparent RGBA, landscape same framing ratio as image1. This is not a sprite sheet.\nImage1 is only an animator's static walking pose sketch, with exact hoof/paw placements and current near/far limb identity. Preserve that spatial geometry: four paw tips, hip/shoulder locations, torso center, face direction LEFT, camera/perspective. Image2 gives original identity and low-poly faceted sculpted style, friendly face, ears, cream-colored body and black claw tips; do not copy image2's standing legs.\nRepaint the COMPLETE animal as one naturally connected body in pose 4. Remove sketch cutout seams and artificial segment cuts around elbows and hocks. Four thick natural bear legs stay attached at proper shoulders/hips. Keep NEAR foreleg connected to the visible outer shoulder, FAR foreleg behind it, preserving each paw's exact x location relative to that shoulder in image1. Both forepaws must remain staggered as in image1, not merged or synchronized. All FOUR complete paws must be drawn even when partially occluded.\nKeep same character proportions, silhouette, body size and grounded gentle weight. Quiet head, exact cream low-poly shading/material and consistent facial expression. Natural smooth outline and seamless joins, no rubber stretching. Exact sketch registration rather than auto-centering silhouette: whole head/body and all feet keep image1's normalized coordinates. Clean transparent margins, absolutely no floor, grass, cast shadows, noise, text, colors from guides, borders or scenery.",
+      "repairPrompt": null,
+      "additionalRepairPrompt": null,
+      "selectedGeneratedFile": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-14eb1391-97a2-4add-b7ef-6c924c6ba355.png",
+      "artQA": {
+        "style": "Same original ivory faceted low-poly character, no third art style.",
+        "anatomy": "Four limb attachments maintained; complete rounded front paws and connected hind legs. Far paw can be strongly occluded, particularly bear pose6; do not claim four completely visible paws in every drawing.",
+        "registration": "Full-canvas normalization only. Camera/head/body stability must be checked in actual playback; no per-frame bbox fitting.",
+        "repair": "Whole-pose painting checked against identity and pose sketch."
+      }
+    },
+    {
+      "phase": 6,
+      "file": "polarbear-pose-6.png",
+      "actualDimensions": [
+        1575,
+        998
+      ],
+      "reference": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/polarbear-pose-guide-6.png",
+      "identity": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/polarbear-poster.webp",
+      "prompt": "Create ONE SINGLE full-body animation drawing of the exact creamy low-poly POLAR BEAR from image2, matching the POSE of image1. Transparent RGBA, landscape same framing ratio as image1. This is not a sprite sheet.\nImage1 is only an animator's static walking pose sketch, with exact hoof/paw placements and current near/far limb identity. Preserve that spatial geometry: four paw tips, hip/shoulder locations, torso center, face direction LEFT, camera/perspective. Image2 gives original identity and low-poly faceted sculpted style, friendly face, ears, cream-colored body and black claw tips; do not copy image2's standing legs.\nRepaint the COMPLETE animal as one naturally connected body in pose 6. Remove sketch cutout seams and artificial segment cuts around elbows and hocks. Four thick natural bear legs stay attached at proper shoulders/hips. Keep NEAR foreleg connected to the visible outer shoulder, FAR foreleg behind it, preserving each paw's exact x location relative to that shoulder in image1. Both forepaws must remain staggered as in image1, not merged or synchronized. All FOUR complete paws must be drawn even when partially occluded.\nKeep same character proportions, silhouette, body size and grounded gentle weight. Quiet head, exact cream low-poly shading/material and consistent facial expression. Natural smooth outline and seamless joins, no rubber stretching. Exact sketch registration rather than auto-centering silhouette: whole head/body and all feet keep image1's normalized coordinates. Clean transparent margins, absolutely no floor, grass, cast shadows, noise, text, colors from guides, borders or scenery.",
+      "repairPrompt": "Edit reference image1, an independently painted low-poly polar bear walking pose. Reference image2 is the original paw/anatomy/style reference.\nFix ONLY malformed paw anatomy and cutout seam remnants. The hind paws currently have long flat rectangular flipper-like extensions pointing RIGHT beyond their ankles: remove these accidental rectangular shapes. Repaint two proper thick round polar bear hind paws with three/four natural rounded toes and black claw tips, attached seamlessly to the hocks and standing on the same ground line. Keep the original black-claw toe region and paw contact center at its SAME location; shorten only the unnatural blocky right-facing extrusion. Far hind leg may be partially occluded, but must remain a connected real leg and rounded paw. Likewise remove any rectangular seam-like edges on forelegs but retain their exact pose.\nPreserve EVERYTHING else exactly: all four paw positions relative to shoulders and hips, torso center/size, face, low-poly ivory cream material, same camera/framing, registration, ear/nose/tail, pose 6, image dimensions and true transparency. Do not replace with original reference2 standing pose. No new scenery, cast shadow, ground, text, colors or backdrop. All four legs anatomically connected, thick natural bear legs with real rounded paws. This remains a single complete repainted animal image, not an atlas.",
+      "additionalRepairPrompt": null,
+      "selectedGeneratedFile": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-9ec1ab53-0a70-4921-a854-eede0f9a369d.png",
+      "artQA": {
+        "style": "Same original ivory faceted low-poly character, no third art style.",
+        "anatomy": "Four limb attachments maintained; complete rounded front paws and connected hind legs. Far paw can be strongly occluded, particularly bear pose6; do not claim four completely visible paws in every drawing.",
+        "registration": "Full-canvas normalization only. Camera/head/body stability must be checked in actual playback; no per-frame bbox fitting.",
+        "repair": "Flat/rectangular paw remnants targeted where needed; rounded complete paws checked."
+      }
+    }
+  ],
+  "canvas": {
+    "width": 559,
+    "height": 354,
+    "source": "reference/polarbear-pose-guide.json"
+  },
+  "suggestedHoldsMs": [
+    155,
+    135,
+    155,
+    135
+  ],
+  "limitations": "Only four full independently drawn key poses. Add recovery poses if actual cadence or contact sequence feels abrupt. Art QA is not a full moving gait approval.",
+  "currentFinalMetadata": "polarbear-recovery-qa.json",
+  "originalContactApproved": false,
+  "finalAccepted": true,
+  "originalContactRejection": "Old quarter-contact keys lacked explicit airborne fore/hind recovery; current final art is four single-foot swing drawings."
+}

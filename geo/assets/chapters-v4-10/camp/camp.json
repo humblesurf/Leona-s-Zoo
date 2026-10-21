@@ -1,0 +1,237 @@
+{
+  "scene": {
+    "id": "camp",
+    "label": "山间露营",
+    "numScreens": 5,
+    "bgStrip": "assets/exploration-v4-8/camp/background.webp",
+    "bgAspect": 3,
+    "bgMirror": true,
+    "ambience": "assets/audio/v4-8/camp.mp3",
+    "streamBgAnchorX": 0.86,
+    "animals": [
+      {
+        "id": "camptent",
+        "u": 0.095,
+        "feetY": 0.87,
+        "h": 0.31,
+        "flip": false,
+        "idle": "none",
+        "special": null,
+        "rotate": 0,
+        "waterline": null,
+        "kind": "discovery",
+        "instance": "camp-v4-8-camptent-0",
+        "facing": 1
+      },
+      {
+        "id": "campbackpack",
+        "u": 0.25,
+        "feetY": 0.92,
+        "h": 0.18,
+        "flip": false,
+        "idle": "none",
+        "special": null,
+        "rotate": 0,
+        "waterline": null,
+        "kind": "discovery",
+        "instance": "camp-v4-8-campbackpack-1",
+        "facing": 1
+      },
+      {
+        "id": "camptree",
+        "u": 0.37,
+        "feetY": 0.85,
+        "h": 0.44,
+        "flip": false,
+        "idle": "none",
+        "special": null,
+        "rotate": 0,
+        "waterline": null,
+        "kind": "discovery",
+        "instance": "camp-v4-8-camptree-2",
+        "facing": 1
+      },
+      {
+        "id": "campfireflies",
+        "u": 0.49,
+        "feetY": 0.61,
+        "h": 0.043,
+        "flip": false,
+        "idle": "none",
+        "special": null,
+        "rotate": 0,
+        "waterline": null,
+        "kind": "discovery",
+        "instance": "camp-v4-8-campfireflies-3",
+        "group": "camp-lights",
+        "facing": 1
+      },
+      {
+        "id": "campfireflies",
+        "u": 0.515,
+        "feetY": 0.67,
+        "h": 0.033,
+        "flip": false,
+        "idle": "none",
+        "special": null,
+        "rotate": 0,
+        "waterline": null,
+        "kind": "discovery",
+        "instance": "camp-v4-8-campfireflies-4",
+        "group": "camp-lights",
+        "facing": 1
+      },
+      {
+        "id": "campfireflies",
+        "u": 0.536,
+        "feetY": 0.58,
+        "h": 0.034,
+        "flip": false,
+        "idle": "none",
+        "special": null,
+        "rotate": 0,
+        "waterline": null,
+        "kind": "discovery",
+        "instance": "camp-v4-8-campfireflies-5",
+        "group": "camp-lights",
+        "facing": 1
+      },
+      {
+        "id": "campstars",
+        "u": 0.66,
+        "feetY": 0.24,
+        "h": 0.12,
+        "flip": false,
+        "idle": "none",
+        "special": null,
+        "rotate": 0,
+        "waterline": null,
+        "kind": "discovery",
+        "instance": "camp-v4-8-campstars-6",
+        "facing": 1
+      },
+      {
+        "id": "campstream",
+        "u": 0.85,
+        "feetY": 0.9,
+        "h": 0.135,
+        "flip": false,
+        "idle": "none",
+        "special": null,
+        "rotate": 0,
+        "waterline": null,
+        "kind": "discovery",
+        "instance": "camp-v4-8-campstream-7",
+        "bgAnchorX": 0.86,
+        "bgAnchorY": 0.8,
+        "facing": 1
+      },
+      {
+        "id": "camplantern",
+        "u": 0.204,
+        "h": 0.19,
+        "feetY": 0.87,
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "camplantern-v4-10"
+      },
+      {
+        "id": "campmap",
+        "u": 0.288,
+        "h": 0.15,
+        "feetY": 0.8,
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "campmap-v4-10"
+      },
+      {
+        "id": "campbinoculars",
+        "u": 0.603,
+        "h": 0.135,
+        "feetY": 0.87,
+        "flip": false,
+        "idle": "none",
+        "kind": "discovery",
+        "instance": "campbinoculars-v4-10"
+      }
+    ],
+    "decor": [
+      {
+        "sprite": "assets/chapters-v4-10/camp/family.webp",
+        "u": 0.144,
+        "feetY": 0.75,
+        "h": 0.24,
+        "depth": 8
+      }
+    ]
+  },
+  "objects": {
+    "camplantern": {
+      "poster": "assets/chapters-v4-10/camp/lantern.webp",
+      "width": 729,
+      "height": 1367,
+      "motion": "camp-lantern",
+      "duration": 4400
+    },
+    "campmap": {
+      "poster": "assets/chapters-v4-10/camp/map.webp",
+      "width": 1440,
+      "height": 1041,
+      "motion": "camp-map",
+      "duration": 4400
+    },
+    "campbinoculars": {
+      "poster": "assets/chapters-v4-10/camp/binoculars.webp",
+      "width": 1488,
+      "height": 964,
+      "motion": "camp-binoculars",
+      "duration": 4400
+    }
+  },
+  "dialogue": {
+    "camplantern": {
+      "name": {
+        "en": "Camping lantern",
+        "yue": "露營燈",
+        "cmn": "露营灯"
+      },
+      "emoji": "🏮",
+      "intro": {
+        "en": "I'm a camping lantern. Tap me and watch my warm light glow.",
+        "yue": "我係露營燈。點一點，睇吓我暖暖嘅燈光。",
+        "cmn": "我是露营灯。点一点，看看我暖暖的灯光。"
+      },
+      "kind": "discovery"
+    },
+    "campmap": {
+      "name": {
+        "en": "Trail map",
+        "yue": "行山地圖",
+        "cmn": "徒步地图"
+      },
+      "emoji": "🗺️",
+      "intro": {
+        "en": "I'm a trail map. Follow my little path past the trees and the stream.",
+        "yue": "我係行山地圖。沿住小路行，經過樹木同小溪。",
+        "cmn": "我是徒步地图。沿着小路走，经过树木和小溪。"
+      },
+      "kind": "discovery"
+    },
+    "campbinoculars": {
+      "name": {
+        "en": "Binoculars",
+        "yue": "望遠鏡",
+        "cmn": "望远镜"
+      },
+      "emoji": "🔭",
+      "intro": {
+        "en": "I'm a pair of binoculars. Look through me to see the faraway mountains.",
+        "yue": "我係望遠鏡。望入嚟，遠處嘅山都睇得清。",
+        "cmn": "我是望远镜。看进来，远处的山也能看清。"
+      },
+      "kind": "discovery"
+    }
+  }
+}

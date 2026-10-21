@@ -1,0 +1,26 @@
+{
+  "poseFiles": [
+    "geo/assets/animation/v4-7/source/cow-pose-0.png",
+    "geo/assets/animation/v4-7/source/cow-pose-2.png",
+    "geo/assets/animation/v4-7/source/cow-pose-4.png",
+    "geo/assets/animation/v4-7/source/cow-pose-6.png"
+  ],
+  "cycle": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "holdsMs": [
+    155,
+    135,
+    155,
+    135
+  ],
+  "canvasWidth": 704,
+  "canvasHeight": 502,
+  "approved": true,
+  "approvalStage": "Final complete painted four-beat foot recovery/contact QA passed; package refresh and browser runtime QA required.",
+  "artRevision": "four-single-foot-recovery",
+  "updatedAt": "2026-10-08 02:47:05 UTC"
+}

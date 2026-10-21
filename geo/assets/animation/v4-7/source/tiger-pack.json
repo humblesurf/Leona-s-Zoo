@@ -1,0 +1,64 @@
+{
+  "id": "tiger",
+  "tool": "image_gen.imagegen",
+  "mode": "builtin",
+  "source": "geo/assets/animation/v4-7/source/tiger-source.png",
+  "originalSource": "C:/Users/XTIA/.codex/generated_images/01a11715-903e-7560-8842-393e78ee66d1/exec-530c276a-4e7c-4dde-a6fa-d56e94e1229e.png",
+  "gatherRepair": "Pose2 hindpaws raised by natural knee flexion; now no early low hindfoot ground penetration during pre-gather transition. Other seven character poses and registration preserved.",
+  "gatherRepairPrompt": "Targeted correction: edit ONLY pose2, SECOND ROW LEFT, of this eight-pose TIGER rotary-gallop atlas. Preserve all other SEVEN poses EXACT and same atlas2columns4rows, orange low-poly3D style, camera, markings, body sizes, source registration, head/torso position.\nPose2 is the transition from foreleg push to gathered flight. Its HIND paws currently hang too low and appear penetrating the fixed ground. Raise BOTH rear paws about35 source-image pixels, by naturally flexing the hind knees and ankles forward beneath belly. Do not move the entire body or head. Keep both hindleg roots at pelvis and keep separate near/far anatomical legs. Bring lowest hind toes up to approximately same level as the already folded front paws; all hind toes now clearly ABOVE the fixed source row ground line.\nKeep foreleg pose largely unchanged, already folded from push, forepaws attached at shoulders. Total FOUR legs, no detached paws, no extra toes. Modest back flexion and fixed torso size remain. This is a gathering transition BEFORE airborne pose3, not an early hind-foot landing. Poses4/5 are actual hind-landings later in sequence.\nOne pose correction only; other7cells preserve exact character and pixel registration, no rescaling/reframing. Complete animals inside outercanvas, true alpha transparency, no text, grid, borders, shadow or background.",
+  "reference": "geo/assets/animation/v4-2/tiger-poster.webp",
+  "actualSize": [
+    887,
+    1774
+  ],
+  "columns": 2,
+  "rows": 4,
+  "componentExtraction": true,
+  "cellHeight": 410,
+  "rowOrigins": [
+    59,
+    469,
+    879,
+    1289
+  ],
+  "cycle": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "holdsMs": [
+    100,
+    105,
+    80,
+    120,
+    100,
+    105,
+    80,
+    130
+  ],
+  "motion": "rotary gallop, staggered paws",
+  "usableFrames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "anatomyQA": "Eight complete connected four-leg animals. Alternate forecontacts in0/1; gatheredflight3;4/5hind contact with bothforefeet raised after targeted repair;6frontfeet airborne during hindpush;7extendedflight, staggered paws. Internal column crossovers in tails/noses are complete and separate in original, isolate components. Row registration from approximately410px true row pitch; check source2 low hindpaw against authored ground in actual preview.",
+  "majorConnectedComponents": 8,
+  "readyForPackaging": true,
+  "readyForRuntime": false,
+  "prompts": [
+    "Use case: illustration-story. Production character animation sprite atlas for a toddler wildlife game.\nReference1 is exact TIGER identity/style: warmly coloured sculpted LOW-POLY 3D orange tiger, black angular stripes, cream underside, small natural eyes, robust four paws, striped tail. Same individual throughout, no photographic realism or flat clipart.\nCreate one PORTRAIT1:2 PNG ideally1536x3072. EXACT TWO columns x FOUR rows, EIGHT equal square cells, row-major0–7. Fixed LEFT-facing side camera, same character scale/torso/head/markings/lighting. Pelvis at60%cellwidth, shoulder at40%; torso baseline constant except modest natural motion. Ground at88%cellheight. MAXIMUM COMPLETE SILHOUETTE width78%cell, counting tail/feet; at least10%empty margin on both sides of EVERY cell. No tails crossing central seam. Same cell pitch and no borders.\nDraw eight carefully consecutive key drawings of ONE POWERFUL MODERATE ROTARY GALLOP. Tiger heavier than cheetah: robust shoulders, modest back flexion, believable load.\n0: far forepaw lands first under front shoulder, near forepaw reaches ahead still raised; hindlegs trailing/recovering.\n1: near forepaw lands second ahead, far forepaw pushing behind then lifts; shoulders lower, hindlegs fold forward.\n2: forelegs finish push and tuck back; back rounds slightly, hindfeet swing forward beneath belly.\n3: gathered flight, all paws off ground, hindfeet tucked in front of folded forefeet; visibly four connected legs, near/far separated.\n4: near hindpaw lands first under pelvis, far hindpaw remains above ground; forelegs unfolding forward differently.\n5: far hindpaw lands second while near hindleg begins pushing backwards; body extends modestly.\n6: last hindpaw pushing at rear, near hindleg already airborne; one forepaw ahead and one behind, two distinct forelegs.\n7: extended flight, two forelegs reaching forward at DIFFERENT angles, one paw ahead by a paw length and lower, and two hindlegs trailing staggered; all four paws distinct, ready to repeat0.\nNo pair of synchronised/fused forelegs; maintain exact leg identity from shoulders/hips. Do not just draw eight variations of standing. Clean crisp paw anatomy, same bold faceted style. Transparent alpha, no ground, shadow, haze, particles, motion trails, letters, grid lines, borders, props or scenery.",
+    "Fix only the framing/registration and four-leg clarity of this TIGER 8-pose rotary-gallop atlas, preserve every pose, exact tiger low-poly style, stripe identity and colours.\nOne portrait1:2 PNG, EXACT TWO columns FOUR rows. EIGHT equal square cells, regular grid pitch. Uniformly reduce ALL eight full animals about20%so complete silhouette INCLUDING tails and paws fits within each cell with10%transparent padding left/right. No touching column seam/canvas edge; no clipped tails. Same size tiger in every cell, same horizontal pelvis anchor. Same ground baseline at88%of EACH cell; supporting paws land there, airborne poses naturally above it. Fixed torso scale, no independently shifting to silhouette bottom.\nPreserve chronological eight-pose rotary gallop: farforecontact0, nearforecontact1, forepush/gather2, gatheredflight3, nearhindcontact4, farhindcontact5, hindpush6, extendedflight7→0. Every tiger has four correctly connected legs. Make far foreleg and paw darker and distinctly visible behind near foreleg in all poses when physically visible. In extended flight7, show two front paws staggered by at least a paw length and DIFFERENT angles; don't merge them into a single front limb. Four limbs intact, shoulder/hind hip roots correct, no floaty detached paws.\nNo changes to character identity or choreography, only production framing, registration and leg separation. True transparent alpha, no text, border, gridline, background, shadow or ground artwork.",
+    "Targeted contact/anatomy correction of TIGER atlas. Keep same portrait TWO columns FOUR rows EIGHT poses, exact low-poly orange tiger, stripes, camera, body size and layout. KEEP poses0,1,2,3,7 as invariant. Correct ONLY leg articulation of poses4,5,6 (third row both, bottom-left).\nThis is a rotary-galloping tiger, so in hindlimb-support phases4–6 BOTH FRONT PAWS must be AIRBORNE. Existing atlas has front paws incorrectly standing on the ground while hindlegs support.\nFrame4 third-row LEFT: first near HIND paw contacts beneath pelvis, far hindpaw remains slightly ahead and raised. BOTH FORELEGS fold forward/up with bent wrists and front paws clearly lifted one paw-height ABOVE the ground. Four legs intact.\nFrame5 third-row RIGHT: far HIND paw contacts after first hindpaw, near hindpaw pushes behind. BOTH FOREPAWS reach forward at DIFFERENT angles but stay visibly off ground, at least one paw-height air gap under each. No forepaw supporting.\nFrame6 bottom-row LEFT: final hindpaw toes push off from behind pelvis while other hindleg already raised. BOTH forelegs stretch forward ready for flight but all front paws completely in air, one ahead of other and one slightly lower. Leg pairs stagger, never fused or perfectly parallel. \nKeep all four correctly rooted anatomical limbs/paws and full tail. Preserve head/torso size/stripes and exact other five poses. No creature clipped at OUTER canvas edge. Transparent alpha, no text, borders, visible grid, ground artwork, shadows, background or haze."
+  ]
+}

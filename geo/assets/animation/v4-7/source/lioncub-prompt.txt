@@ -1,0 +1,23 @@
+Use case: illustration-story. Production transparent animal animation sprite atlas.
+Reference image1 is the exact LION CUB style/identity. Keep its tawny gold LOW-POLY softly sculpted 3D volumes, cub proportions, cream muzzle/chest, small natural eyes, round ears, dark tail tuft; no mane. It must face LEFT in new atlas (reference faces right). No amber haze/background.
+Create one PORTRAIT1:2 PNG ideally1536x3072 with EXACT TWO columns FOUR rows, EIGHT square equal cells, row-major0–7. Same cub in each, same camera, head/body size and lighting. Complete silhouette including tail and paws max70%cellwidth with12%empty side padding; no tails crossing column seams/canvas edge. Same ground line88%cellheight; pelvis at60%cellwidth. 
+Action: playful short-step DIAGONAL TROT, not walking, not a rabbit hop. Front legs alternate every half cycle; diagonal pairs coordinate. Eight visibly distinct full-body key drawings:
+0: NEAR FRONT paw stretches forward to LEFT and FAR HIND paw stretches forward under pelvis, both touch ground together. FAR FRONT is behind shoulder and NEAR HIND behind pelvis.
+1: near FRONT and far HIND bear weight near vertical, other diagonal pair lift and fold underneath body.
+2: near FRONT/far HIND push backward relative torso, far FRONT/near HIND swing ahead above ground.
+3: short light diagonal-flight/passing, far FRONT/near HIND nearly landing forward, near FRONT/far HIND leave ground behind; all four paws distinct.
+4: FAR FRONT and NEAR HIND now extend forward to LEFT and contact together. NEAR FRONT and FAR HIND are behind. This is visually opposite foreground-leg pose to frame0.
+5: far FRONT/near HIND bear weight near vertical, near FRONT/far HIND lift and fold underneath.
+6: far FRONT/near HIND push behind, near FRONT/far HIND swing ahead above ground.
+7: short light diagonal-flight/passing before near FRONT/far HIND land frame0, all four attached limbs present.
+Keep NEAR legs brighter foreground and FAR legs darker behind, leg identity does not change. No two forelegs moving together, no paired hindleg rabbit leap. Actual alternating paw and knee articulation, small believable body bounce, tail balance. All feet stay fully inside cells and anatomically joined. Fixed torso size/scale.
+No extra poses, text, numbers, gridline, border, ground, shadow, haze or scenery. True transparent alpha. Only existing low-poly 3D style, not a photo or flat clipart.
+
+TARGETED REPAIR:
+Correct ONLY frames4,5,6,7 (BOTTOM TWO ROWS) of this exact LION CUB eight-pose atlas. Keep first four frames0,1,2,3 exactly, same low-poly golden cub, camera, body/head/tail sizes, LEFT-facing view, portrait2columns4rows, fixed cell registration and ground.
+The second half of a DIAGONAL TROT must have OPPOSITE front/back diagonal leading compared with first half. Currently it repeats the same front leg. Define NEAR FRONT=bright thick foreground leg, FAR FRONT=darker behind. Define NEAR HIND=bright visible foreground rear leg, FAR HIND=darker behind.
+4 third-row LEFT: FAR FRONT dark leg extends FORWARD toward LEFT, paw contacts ahead of shoulder. NEAR FRONT bright foreground leg reaches BACKWARD toward RIGHT behind shoulder, paw late-stance. At rear, NEAR HIND bright leg extends FORWARD beneath belly and contacts together with far-front; FAR HIND dark leg is behind pelvis. These are opposite front/rear leading legs from frame0.
+5 third-row RIGHT: FAR FRONT darker leg supports vertical directly under shoulder; NEAR FRONT bright leg LIFTS and bends under belly to RIGHT, paw visibly airborne. NEAR HIND bright leg supports vertical under pelvis; FAR HIND dark leg lifts and folds forward.
+6 bottom-row LEFT: FAR FRONT dark and NEAR HIND bright extend BACKWARD pushing on ground; NEAR FRONT bright and FAR HIND dark swing FORWARD together and are AIRBORNE. Near-front bright paw clearly to LEFT of shoulder, far-front dark paw to RIGHT. Do not leave near-front vertical planted again.
+7 bottom-row RIGHT: short passing/flight while NEAR FRONT bright and FAR HIND dark almost contact ahead preparing frame0; other diagonal pair lift behind. All four paws airborne for a moment, distinct connected limbs, small light torso lift. Not a rabbit hop with both forelegs moving together.
+Keep all first4cells fixed, no body scaling or leg colour identity swaps. Real four-legged cub anatomy, enough paw separation. All shapes inside outer canvas, true transparent alpha, no text/grid/border/shadow/haze/ground artwork.

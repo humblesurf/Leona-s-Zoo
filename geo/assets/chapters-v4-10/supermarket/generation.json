@@ -1,0 +1,57 @@
+{
+  "version": "V4.10",
+  "tool": "built-in image_gen.imagegen",
+  "original": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11ba2-de0b-7be3-b4b5-357b118b3ea5\\exec-b0172c87-b6de-4aff-8998-83478effe887.png",
+  "savedSource": "source/background-original.png",
+  "background": "background.webp",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "generatedAt": "2026-10-08T13:15:38.019Z",
+  "approach": "Target objects are part of the painted environment. Original independent sprites are used only for the shopping-flight image; no resting foreground sticker is displayed.",
+  "bounds": {
+    "shopmilk": [
+      0.12,
+      0.48,
+      0.116,
+      0.145
+    ],
+    "shopyogurt": [
+      0.137,
+      0.328,
+      0.104,
+      0.119
+    ],
+    "shopbread": [
+      0.362,
+      0.329,
+      0.141,
+      0.125
+    ],
+    "shopeggs": [
+      0.552,
+      0.505,
+      0.115,
+      0.089
+    ],
+    "shoptissue": [
+      0.722,
+      0.335,
+      0.126,
+      0.15
+    ],
+    "shopcart": [
+      0.8,
+      0.574,
+      0.129,
+      0.364
+    ],
+    "shopbasket": [
+      0.934,
+      0.668,
+      0.064,
+      0.231
+    ]
+  }
+}

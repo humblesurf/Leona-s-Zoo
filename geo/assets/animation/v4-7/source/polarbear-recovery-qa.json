@@ -1,0 +1,134 @@
+{
+  "id": "polarbear",
+  "approved": true,
+  "finalAccepted": true,
+  "artRevision": "four-single-foot-recovery",
+  "originalContactApproved": false,
+  "referencePolicy": "Private static sketches are reference-only; complete original drawings redrawn by builtin imagegen.",
+  "camera": {
+    "poseFiles": [
+      "geo/assets/animation/v4-7/source/polarbear-pose-0.png",
+      "geo/assets/animation/v4-7/source/polarbear-pose-2.png",
+      "geo/assets/animation/v4-7/source/polarbear-pose-4.png",
+      "geo/assets/animation/v4-7/source/polarbear-pose-6.png"
+    ],
+    "cycle": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "holdsMs": [
+      155,
+      135,
+      155,
+      135
+    ],
+    "canvasWidth": 559,
+    "canvasHeight": 354,
+    "approved": true,
+    "approvalStage": "Final painted four-foot single-swing cycle QA passed; root refreshing package and actual-clock runtime checks.",
+    "artRevision": "four-single-foot-recovery",
+    "updatedAt": "2026-10-08 03:25:16 UTC"
+  },
+  "frames": [
+    {
+      "phase": 0,
+      "width": 1575,
+      "height": 998,
+      "mode": "RGBA",
+      "file": "geo/assets/animation/v4-7/source/polarbear-pose-0.png",
+      "generatedPath": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-9835253a-211c-49b7-abb6-57bd22ade5be.png",
+      "fullPrompt": "EDIT ONE SINGLE COMPLETE existing low-poly sculpted polarbear walking cel on transparent RGBA, not a sprite atlas. Image 1 is the current finished animal painting. Preserve its full camera canvas, head/eyes/ears/body/torso markings, palette, lighting, silhouette and body position/scale exactly. Image 2 is only a PRIVATE limb pose sketch: use it only to understand which front leg is lifting; DO NOT copy its square cut seams, rectangular paws or its pixels. Fully PAINT continuous connected real anatomy in the finished original art. Lift ONLY the NEAR FORELEG: the large outer front leg coming from the broad visible shoulder, its larger front paw is currently the RIGHT of the two front paws. Flex wrist naturally and swing its rounded black-clawed paw forward, with CLEAR 6-8% full-canvas-height AIR GAP above the supporting ground. Keep the thinner shaded FAR FORELEG to its left planted. BOTH hind legs stay planted. This is ONE-FOOT-SWING of a FOUR-BEAT WALK, NOT trot: exactly one front foot airborne and the other THREE limbs bear weight on the same ground level. Preserve all three supporting limbs. Do not raise either hind leg or the other front leg. The hoof/paw must be conspicuously airborne, not merely shifted along the floor. Keep connected joints, compact natural hoof/black-clawed paw, no rectangular projections, detached limb, extra or missing foot. Friendly adult matching existing low-poly art, not photoreal or flat cartoon. No text, guides, floor, shadow, duplicate animal or background. Keep same full image 1 canvas ratio and fixed torso camera, do not center/reframe the animal.",
+      "references": [
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/source/polarbear-pose-0.png",
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/polarbear-swing-guide-0.png"
+      ],
+      "qa": {
+        "liftedLeg": "nearFore",
+        "threeOtherFeetSupport": true,
+        "connectedFullLimb": true,
+        "compactNaturalFoot": true,
+        "visibleAirGap": true,
+        "headBodyCameraStable": true
+      },
+      "reference1PriorGenerationTrace": "Original finished single pose before repair; its original generation details are retained in polarbear-single-qa.json",
+      "reference1Version": "Original completed contact pose at imagegen call time; final repaired drawing has since replaced that path."
+    },
+    {
+      "phase": 2,
+      "width": 1575,
+      "height": 999,
+      "mode": "RGBA",
+      "file": "geo/assets/animation/v4-7/source/polarbear-pose-2.png",
+      "generatedPath": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-24d6eac0-9568-4367-bcd2-07d19c66d2d1.png",
+      "fullPrompt": "EDIT ONE COMPLETE EXISTING ANIMATION CEL of this exact cream faceted low-poly polar bear on transparent RGBA. Image 1 is the exact painting to repair; image 2 original poster is identity only. Preserve image 1 full canvas ratio, head, face, body silhouette, fur/patch layout, palette, lighting, camera, torso coordinates and body size. Do not recenter by animal bounds or redraw a larger/smaller body. Correct ONLY the appropriate hind leg to make a real airborne walking recovery key. Lift the FAR HIND leg: this is the narrower hind leg BEHIND the broad outer thigh, currently sticking right/back at x about 90% canvas. Bend its ankle, swing its rounded black-clawed paw forward to x about 84%, sole at y about 84%. Keep the broad NEAR HIND outer leg, its paw at x about 77%, firmly planted, sole at y about 91%. Four connected bear legs, no flipper-like rectangular paw. Hoof/paw must be visibly lifted with about 6-8% full canvas height gap compared to planted hind paw line. Paint natural connected anatomy, compact rounded hoof or paw. Preserve every other limb and its attachment. All four legs must exist, shaded far leg may overlap but don't delete it. Keep the forelegs at image 1 positions. No square slice edges, horizontal cut seams, ghost limb, extra feet, missing feet, detached paw. No scene, text, floor, shadow. Full animal, transparent background. Gentle grounded walk, not jumping.",
+      "references": [
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/source/polarbear-pose-2.png",
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/polarbear-poster.webp"
+      ],
+      "qa": {
+        "liftedLeg": "farHind",
+        "threeOtherFeetSupport": true,
+        "connectedFullLimb": true,
+        "compactNaturalFoot": true,
+        "visibleAirGap": true,
+        "headBodyCameraStable": true
+      },
+      "reference1PriorGenerationTrace": "Original finished single pose before repair; its original generation details are retained in polarbear-single-qa.json",
+      "reference1Version": "Original completed contact pose at imagegen call time; final repaired drawing has since replaced that path."
+    },
+    {
+      "phase": 4,
+      "width": 1575,
+      "height": 998,
+      "mode": "RGBA",
+      "file": "geo/assets/animation/v4-7/source/polarbear-pose-4.png",
+      "generatedPath": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-2583d388-9d3a-42e3-a991-b5f2e0df577b.png",
+      "fullPrompt": "EDIT ONE SINGLE COMPLETE existing low-poly sculpted polarbear walking cel on transparent RGBA, not a sprite atlas. Image 1 is the current finished animal painting. Preserve its full camera canvas, head/eyes/ears/body/torso markings, palette, lighting, silhouette and body position/scale exactly. Image 2 is only a PRIVATE limb pose sketch: use it only to understand which front leg is lifting; DO NOT copy its square cut seams, rectangular paws or its pixels. Fully PAINT continuous connected real anatomy in the finished original art. Lift ONLY the FAR FORELEG: the thinner shaded front leg behind the broad visible shoulder, its paw is currently the LEFT of the two front paws. Flex its wrist, swing its rounded black-clawed paw forward and raise it with CLEAR 6-8% canvas-height AIR GAP. Keep the LARGE NEAR FORELEG to its right planted. BOTH hind legs remain planted. Do not lift the large near front paw again. Four complete bear legs. This is ONE-FOOT-SWING of a FOUR-BEAT WALK, NOT trot: exactly one front foot airborne and the other THREE limbs bear weight on the same ground level. Preserve all three supporting limbs. Do not raise either hind leg or the other front leg. The hoof/paw must be conspicuously airborne, not merely shifted along the floor. Keep connected joints, compact natural hoof/black-clawed paw, no rectangular projections, detached limb, extra or missing foot. Friendly adult matching existing low-poly art, not photoreal or flat cartoon. No text, guides, floor, shadow, duplicate animal or background. Keep same full image 1 canvas ratio and fixed torso camera, do not center/reframe the animal.",
+      "references": [
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/source/polarbear-pose-4.png",
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/reference/polarbear-swing-guide-4.png"
+      ],
+      "qa": {
+        "liftedLeg": "farFore",
+        "threeOtherFeetSupport": true,
+        "connectedFullLimb": true,
+        "compactNaturalFoot": true,
+        "visibleAirGap": true,
+        "headBodyCameraStable": true
+      },
+      "reference1PriorGenerationTrace": "Original finished single pose before repair; its original generation details are retained in polarbear-single-qa.json",
+      "reference1Version": "Original completed contact pose at imagegen call time; final repaired drawing has since replaced that path."
+    },
+    {
+      "phase": 6,
+      "width": 1575,
+      "height": 999,
+      "mode": "RGBA",
+      "file": "geo/assets/animation/v4-7/source/polarbear-pose-6.png",
+      "generatedPath": "C:\\Users\\XTIA\\.codex\\generated_images\\01a11715-4a12-77d2-91ed-b0419903747b\\exec-b55c9f51-c451-4f79-b8db-49d1a1cdcce7.png",
+      "fullPrompt": "EDIT ONE COMPLETE EXISTING ANIMATION CEL of this exact cream faceted low-poly polar bear on transparent RGBA. Image 1 is the exact painting to repair; image 2 original poster is identity only. Preserve image 1 full canvas ratio, head, face, body silhouette, fur/patch layout, palette, lighting, camera, torso coordinates and body size. Do not recenter by animal bounds or redraw a larger/smaller body. Correct ONLY the appropriate hind leg to make a real airborne walking recovery key. Lift the NEAR HIND leg: this is the large outer thigh with the clearly visible large black-clawed paw currently at x about 82% canvas. Move that leg's paw LEFT/FORWARD under belly to x about 75%, with sole raised to y about 84%. Redraw its entire continuous thigh and naturally bent ankle. Keep the separate FAR HIND leg BEHIND it planted, paw at x about 88%, sole y about 91%; its narrower leg must remain present. Do not lift the farther narrow leg instead. Hoof/paw must be visibly lifted with about 6-8% full canvas height gap compared to planted hind paw line. Paint natural connected anatomy, compact rounded hoof or paw. Preserve every other limb and its attachment. All four legs must exist, shaded far leg may overlap but don't delete it. Keep the forelegs at image 1 positions. No square slice edges, horizontal cut seams, ghost limb, extra feet, missing feet, detached paw. No scene, text, floor, shadow. Full animal, transparent background. Gentle grounded walk, not jumping.",
+      "references": [
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-7/source/polarbear-pose-6.png",
+        "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/polarbear-poster.webp"
+      ],
+      "qa": {
+        "liftedLeg": "nearHind",
+        "threeOtherFeetSupport": true,
+        "connectedFullLimb": true,
+        "compactNaturalFoot": true,
+        "visibleAirGap": true,
+        "headBodyCameraStable": true
+      },
+      "reference1PriorGenerationTrace": "Original finished single pose before repair; its original generation details are retained in polarbear-single-qa.json",
+      "reference1Version": "Original completed contact pose at imagegen call time; final repaired drawing has since replaced that path."
+    }
+  ],
+  "checks": {
+    "nearFarIdentity": "Inspected each drawing; near/far lifted limb rotates in four-beat order, not same leg repeatedly.",
+    "style": "Same original warm sculpted low-poly art.",
+    "dimensions": "Actual PNG dimensions reported per frame. Whole-camera normalization uses private reference common canvas; never normalize animal bboxes.",
+    "finalScope": "All four source feet have readable lift/forward/contact phase. Root owns final package and real-clock runtime QA."
+  }
+}

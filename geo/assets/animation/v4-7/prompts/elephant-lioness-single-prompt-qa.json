@@ -1,0 +1,80 @@
+{
+  "tool": "image_gen.imagegen",
+  "mode": "builtin",
+  "reviewer": "cel_hoof_art",
+  "phase": "static whole-painting QA; actual-runtime parent cross-review pending",
+  "elephant": {
+    "source": "geo/assets/animation/v4-7/source/elephant-farhind-recovery.png",
+    "actualDimensions": [
+      1588,
+      991
+    ],
+    "prompt": "Edit Image1 ONLY: this is a complete painted elephant animation cel, NOT a rough rig. Preserve its exact camera, full-canvas frame aspect377:235 (can render at higher resolution1536x960 with same framing), every body/head/trunk/tusk/ear/eye/tail and the TWO FRONT legs plus BRIGHT NEAR HIND leg exactly. Do NOT translate, independently rescale or recenter the animal.\nThe only change is the DARK FAR/BACKGROUND HIND leg under the belly, between the front legs and the big bright rearmost near hind leg. In Image1 this darker far hind hoof is grounded. Replace this ONE entire far hind leg with a coherent natural recovery pose: hip swings the leg forward toward LEFT, knee and hock bend, entire dark far hind hoof clearly lifts12–18 pixels in native377x235 coordinates above the common groundline, under/just LEFT of the far hip. Image2 shows a rough pose idea only; do not copy its sliced joints or its body framing. It is a complete new drawing of one connected dark far hind leg, not a loose detached hoof.\nKeep all THREE other feet grounded, intact and unchanged. Exactly FOUR legs total, exactly ONE raised far hind, no new fifth limb. Erase the previous planted far hind ankle/hoof where it vacates to transparent; no ghost foot. Far leg remains darker than bright near rear leg. True transparent RGBA background, no brown haze, grid, words, cast shadow, or other animals. Preserve the same full-image margins/subject coordinates as Image1, no crop or bbox alignment.",
+    "fourLegs": true,
+    "lifted": "far hind",
+    "otherThreeGrounded": true,
+    "edge96": 0
+  },
+  "lioness": {
+    "actualDimensions": [
+      [
+        1640,
+        959
+      ],
+      [
+        1641,
+        959
+      ],
+      [
+        1641,
+        959
+      ],
+      [
+        1642,
+        958
+      ]
+    ],
+    "phases": [
+      {
+        "source": "geo/assets/animation/v4-7/source/lioness-pose-0.png",
+        "prompt": "Use case: stylized-concept. One full-body authored animation drawing of a LIONESS, not a sprite sheet.\nImage1 is the primary whole-body pose/camera guide only; replace its rough sliced anatomy with a completely coherent painted animal. Image2 defines identity and STYLE only: same mane-free friendly female lion, warm tawny-golden faceted low-poly 3D body, cream muzzle/underside, alert eyes, rounded ears, dark little tail tuft. Preserve that exact design and palette, no realistic fur/photo style.\nOutput ONE single complete lioness facing LEFT on a truly transparent PNG at1536x896 landscape about1.714:1 ratio, with fixed torso/head/pelvis coordinates like Image1 and same proportions. Same full-canvas framing through variants: nose at8%canvaswidth, shoulder at40%, hip at72%, tail inside94%, back at28%height, groundline at88%height. Keep10% empty transparent margin around limbs and head, no clipping. Do not reposition body based on which paw lifts.\nAUTHORED POSE:BRIGHT NEAR FRONT is lifted: bend its real wrist/elbow, hoof passes forward towards LEFT under chest and is distinctly above ground. DARK FAR FRONT remains grounded ahead/LEFT of shoulder. Both hind paws support, near hind behind/right of hip and far hind ahead/left. Three planted paws and one raised near forepaw.\nThis is a gentle four-beat walking cycle. Accurate paws/wrist/elbow/hock anatomy, exactly FOUR attached legs, no floating whole body, no duplicated paws, no detached feet, no rubber deformation. Far limbs naturally darker and partly occluded but retain a complete anatomical silhouette. Head, torso and tail form same character in same camera across drawings; only leg articulation and restrained weight shift change.\nNo mane, no cub, no scenery/background/brown halo, no ground/cast shadow, no grid/colored skeleton/words/numbers.",
+        "sourcePhase": 0,
+        "lifted": "near fore",
+        "support": "far fore, near hind, far hind",
+        "result": "Bright near fore bends and paw clears ground; far fore planted left, both hind planted.",
+        "fourLegs": true,
+        "edge96": 0
+      },
+      {
+        "source": "geo/assets/animation/v4-7/source/lioness-pose-2.png",
+        "prompt": "Use case: stylized-concept. One full-body authored animation drawing of a LIONESS, not a sprite sheet.\nImage1 is the primary whole-body pose/camera guide only; replace its rough sliced anatomy with a completely coherent painted animal. Image2 defines identity and STYLE only: same mane-free friendly female lion, warm tawny-golden faceted low-poly 3D body, cream muzzle/underside, alert eyes, rounded ears, dark little tail tuft. Preserve that exact design and palette, no realistic fur/photo style.\nOutput ONE single complete lioness facing LEFT on a truly transparent PNG at1536x896 landscape about1.714:1 ratio, with fixed torso/head/pelvis coordinates like Image1 and same proportions. Same full-canvas framing through variants: nose at8%canvaswidth, shoulder at40%, hip at72%, tail inside94%, back at28%height, groundline at88%height. Keep10% empty transparent margin around limbs and head, no clipping. Do not reposition body based on which paw lifts.\nAUTHORED POSE:DARK FAR HIND is lifted: bend hock/knee and swing its complete paw forward towards LEFT under hip, clearly above ground. BRIGHT NEAR HIND remains planted behind/right of hip. Both forepaws support, bright near fore planted ahead/left of shoulder and dark far fore behind/right. Three planted paws and one raised far hind paw.\nThis is a gentle four-beat walking cycle. Accurate paws/wrist/elbow/hock anatomy, exactly FOUR attached legs, no floating whole body, no duplicated paws, no detached feet, no rubber deformation. Far limbs naturally darker and partly occluded but retain a complete anatomical silhouette. Head, torso and tail form same character in same camera across drawings; only leg articulation and restrained weight shift change.\nNo mane, no cub, no scenery/background/brown halo, no ground/cast shadow, no grid/colored skeleton/words/numbers.",
+        "sourcePhase": 2,
+        "lifted": "far hind",
+        "support": "near fore, far fore, near hind",
+        "result": "Dark far hind visibly bends under belly and clears ground; bright near hind supports behind.",
+        "fourLegs": true,
+        "edge96": 0
+      },
+      {
+        "source": "geo/assets/animation/v4-7/source/lioness-pose-4.png",
+        "prompt": "Use case: stylized-concept. One full-body authored animation drawing of a LIONESS, not a sprite sheet.\nImage1 is the primary whole-body pose/camera guide only; replace its rough sliced anatomy with a completely coherent painted animal. Image2 defines identity and STYLE only: same mane-free friendly female lion, warm tawny-golden faceted low-poly 3D body, cream muzzle/underside, alert eyes, rounded ears, dark little tail tuft. Preserve that exact design and palette, no realistic fur/photo style.\nOutput ONE single complete lioness facing LEFT on a truly transparent PNG at1536x896 landscape about1.714:1 ratio, with fixed torso/head/pelvis coordinates like Image1 and same proportions. Same full-canvas framing through variants: nose at8%canvaswidth, shoulder at40%, hip at72%, tail inside94%, back at28%height, groundline at88%height. Keep10% empty transparent margin around limbs and head, no clipping. Do not reposition body based on which paw lifts.\nAUTHORED POSE:DARK FAR FRONT is lifted: bend its wrist/elbow and swing complete paw forward towards LEFT under chest, distinctly above ground. BRIGHT NEAR FRONT remains planted ahead/left of shoulder. Both hind paws support, bright near hind ahead/left and dark far hind behind/right. Three planted paws and one raised far forepaw.\nThis is a gentle four-beat walking cycle. Accurate paws/wrist/elbow/hock anatomy, exactly FOUR attached legs, no floating whole body, no duplicated paws, no detached feet, no rubber deformation. Far limbs naturally darker and partly occluded but retain a complete anatomical silhouette. Head, torso and tail form same character in same camera across drawings; only leg articulation and restrained weight shift change.\nNo mane, no cub, no scenery/background/brown halo, no ground/cast shadow, no grid/colored skeleton/words/numbers.",
+        "sourcePhase": 4,
+        "lifted": "far fore",
+        "support": "near fore, near hind, far hind",
+        "result": "Dark far fore bends forward and paw clears ground, bright near fore vertical bearing weight.",
+        "fourLegs": true,
+        "edge96": 0
+      },
+      {
+        "source": "geo/assets/animation/v4-7/source/lioness-pose-6.png",
+        "prompt": "Use case: stylized-concept. One full-body authored animation drawing of a LIONESS, not a sprite sheet.\nImage1 is the primary whole-body pose/camera guide only; replace its rough sliced anatomy with a completely coherent painted animal. Image2 defines identity and STYLE only: same mane-free friendly female lion, warm tawny-golden faceted low-poly 3D body, cream muzzle/underside, alert eyes, rounded ears, dark little tail tuft. Preserve that exact design and palette, no realistic fur/photo style.\nOutput ONE single complete lioness facing LEFT on a truly transparent PNG at1536x896 landscape about1.714:1 ratio, with fixed torso/head/pelvis coordinates like Image1 and same proportions. Same full-canvas framing through variants: nose at8%canvaswidth, shoulder at40%, hip at72%, tail inside94%, back at28%height, groundline at88%height. Keep10% empty transparent margin around limbs and head, no clipping. Do not reposition body based on which paw lifts.\nAUTHORED POSE:BRIGHT NEAR HIND is lifted: knee/hock bend and complete paw swings forward towards LEFT under hip, clearly above ground. DARK FAR HIND remains planted behind/right of hip. Both front paws support, dark far fore ahead/left and bright near fore behind/right. Three planted paws and one raised near hind paw.\nThis is a gentle four-beat walking cycle. Accurate paws/wrist/elbow/hock anatomy, exactly FOUR attached legs, no floating whole body, no duplicated paws, no detached feet, no rubber deformation. Far limbs naturally darker and partly occluded but retain a complete anatomical silhouette. Head, torso and tail form same character in same camera across drawings; only leg articulation and restrained weight shift change.\nNo mane, no cub, no scenery/background/brown halo, no ground/cast shadow, no grid/colored skeleton/words/numbers.",
+        "sourcePhase": 6,
+        "lifted": "near hind",
+        "support": "near fore, far fore, far hind",
+        "result": "Bright near hind visibly bends forward and foot clears ground, dark far hind supports behind.",
+        "fourLegs": true,
+        "edge96": 0
+      }
+    ]
+  }
+}

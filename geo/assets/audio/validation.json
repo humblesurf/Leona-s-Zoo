@@ -1,0 +1,4162 @@
+[
+  {
+    "file": "geo/assets/voice/arcticfox-cmn-bright.mp3",
+    "duration": 7.992,
+    "peak": 0.6628,
+    "rms": 0.069,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/arcticfox-cmn-male.mp3",
+    "duration": 7.968,
+    "peak": 0.5511,
+    "rms": 0.0526,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/arcticfox-cmn.mp3",
+    "duration": 7.536,
+    "peak": 0.5665,
+    "rms": 0.1032,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/arcticfox-en-female.mp3",
+    "duration": 5.856,
+    "peak": 0.6854,
+    "rms": 0.117,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/arcticfox-en-male.mp3",
+    "duration": 5.28,
+    "peak": 0.602,
+    "rms": 0.0878,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/arcticfox-en.mp3",
+    "duration": 8.664,
+    "peak": 0.5387,
+    "rms": 0.0777,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/arcticfox-yue-bright.mp3",
+    "duration": 10.176,
+    "peak": 0.5387,
+    "rms": 0.0896,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/arcticfox-yue-male.mp3",
+    "duration": 8.712,
+    "peak": 0.5623,
+    "rms": 0.0683,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/arcticfox-yue.mp3",
+    "duration": 9.12,
+    "peak": 0.4476,
+    "rms": 0.061,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/boa-cmn-bright.mp3",
+    "duration": 6.552,
+    "peak": 0.5529,
+    "rms": 0.0568,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/boa-cmn-male.mp3",
+    "duration": 6.408,
+    "peak": 0.4375,
+    "rms": 0.0457,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/boa-cmn.mp3",
+    "duration": 6.12,
+    "peak": 0.6083,
+    "rms": 0.0886,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/boa-en-female.mp3",
+    "duration": 5.136,
+    "peak": 0.5387,
+    "rms": 0.128,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/boa-en-male.mp3",
+    "duration": 4.512,
+    "peak": 0.6166,
+    "rms": 0.0985,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/boa-en.mp3",
+    "duration": 7.992,
+    "peak": 0.5383,
+    "rms": 0.0813,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/boa-yue-bright.mp3",
+    "duration": 8.352,
+    "peak": 0.4936,
+    "rms": 0.0782,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/boa-yue-male.mp3",
+    "duration": 7.512,
+    "peak": 0.5219,
+    "rms": 0.0698,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/boa-yue.mp3",
+    "duration": 8.088,
+    "peak": 0.3793,
+    "rms": 0.0568,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/buffalo-cmn-bright.mp3",
+    "duration": 7.32,
+    "peak": 0.5529,
+    "rms": 0.0633,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/buffalo-cmn-male.mp3",
+    "duration": 7.248,
+    "peak": 0.4693,
+    "rms": 0.0486,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/buffalo-cmn.mp3",
+    "duration": 6.768,
+    "peak": 0.7226,
+    "rms": 0.0947,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/buffalo-en-female.mp3",
+    "duration": 5.304,
+    "peak": 0.6026,
+    "rms": 0.1243,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/buffalo-en-male.mp3",
+    "duration": 4.584,
+    "peak": 0.6482,
+    "rms": 0.092,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/buffalo-en.mp3",
+    "duration": 8.208,
+    "peak": 0.6039,
+    "rms": 0.0737,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/buffalo-yue-bright.mp3",
+    "duration": 8.856,
+    "peak": 0.5445,
+    "rms": 0.0904,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/buffalo-yue-male.mp3",
+    "duration": 7.848,
+    "peak": 0.5384,
+    "rms": 0.0702,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/buffalo-yue.mp3",
+    "duration": 8.448,
+    "peak": 0.476,
+    "rms": 0.0671,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/butterfly-cmn-bright.mp3",
+    "duration": 6.912,
+    "peak": 0.5529,
+    "rms": 0.0551,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/butterfly-cmn-male.mp3",
+    "duration": 6.768,
+    "peak": 0.5488,
+    "rms": 0.0498,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/butterfly-cmn.mp3",
+    "duration": 6.48,
+    "peak": 0.563,
+    "rms": 0.0885,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/butterfly-en-female.mp3",
+    "duration": 4.992,
+    "peak": 0.5356,
+    "rms": 0.1289,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/butterfly-en-male.mp3",
+    "duration": 4.344,
+    "peak": 0.6122,
+    "rms": 0.0972,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/butterfly-en.mp3",
+    "duration": 7.68,
+    "peak": 0.537,
+    "rms": 0.0764,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/butterfly-yue-bright.mp3",
+    "duration": 8.112,
+    "peak": 0.5655,
+    "rms": 0.0821,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/butterfly-yue-male.mp3",
+    "duration": 7.392,
+    "peak": 0.5437,
+    "rms": 0.0691,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/butterfly-yue.mp3",
+    "duration": 7.848,
+    "peak": 0.4111,
+    "rms": 0.0544,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/capybara-cmn-bright.mp3",
+    "duration": 6.768,
+    "peak": 0.5529,
+    "rms": 0.0577,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/capybara-cmn-male.mp3",
+    "duration": 6.648,
+    "peak": 0.4893,
+    "rms": 0.0455,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/capybara-cmn.mp3",
+    "duration": 6.48,
+    "peak": 0.6266,
+    "rms": 0.0895,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/capybara-en-female.mp3",
+    "duration": 5.232,
+    "peak": 0.576,
+    "rms": 0.1233,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/capybara-en-male.mp3",
+    "duration": 4.392,
+    "peak": 0.653,
+    "rms": 0.0861,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/capybara-en.mp3",
+    "duration": 7.776,
+    "peak": 0.5383,
+    "rms": 0.0761,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/capybara-yue-bright.mp3",
+    "duration": 8.448,
+    "peak": 0.5456,
+    "rms": 0.0829,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/capybara-yue-male.mp3",
+    "duration": 7.608,
+    "peak": 0.5641,
+    "rms": 0.068,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/capybara-yue.mp3",
+    "duration": 8.256,
+    "peak": 0.3807,
+    "rms": 0.0587,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/chameleon-cmn-bright.mp3",
+    "duration": 6.912,
+    "peak": 0.5529,
+    "rms": 0.0567,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/chameleon-cmn-male.mp3",
+    "duration": 6.72,
+    "peak": 0.5881,
+    "rms": 0.0515,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/chameleon-cmn.mp3",
+    "duration": 6.672,
+    "peak": 0.5755,
+    "rms": 0.0936,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/chameleon-en-female.mp3",
+    "duration": 4.968,
+    "peak": 0.5263,
+    "rms": 0.1282,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/chameleon-en-male.mp3",
+    "duration": 4.128,
+    "peak": 0.5985,
+    "rms": 0.0992,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/chameleon-en.mp3",
+    "duration": 7.56,
+    "peak": 0.5667,
+    "rms": 0.0764,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/chameleon-yue-bright.mp3",
+    "duration": 8.688,
+    "peak": 0.5656,
+    "rms": 0.0811,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/chameleon-yue-male.mp3",
+    "duration": 7.632,
+    "peak": 0.5585,
+    "rms": 0.0667,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/chameleon-yue.mp3",
+    "duration": 8.208,
+    "peak": 0.3865,
+    "rms": 0.0533,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/cheetah-cmn-bright.mp3",
+    "duration": 7.176,
+    "peak": 0.6556,
+    "rms": 0.0698,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/cheetah-cmn-male.mp3",
+    "duration": 7.224,
+    "peak": 0.4315,
+    "rms": 0.053,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/cheetah-cmn.mp3",
+    "duration": 6.888,
+    "peak": 0.5698,
+    "rms": 0.0908,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/cheetah-en-female.mp3",
+    "duration": 5.544,
+    "peak": 0.569,
+    "rms": 0.1288,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/cheetah-en-male.mp3",
+    "duration": 4.8,
+    "peak": 0.533,
+    "rms": 0.0891,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/cheetah-en.mp3",
+    "duration": 8.28,
+    "peak": 0.5363,
+    "rms": 0.0768,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/cheetah-yue-bright.mp3",
+    "duration": 9.528,
+    "peak": 0.5311,
+    "rms": 0.0852,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/cheetah-yue-male.mp3",
+    "duration": 8.376,
+    "peak": 0.5461,
+    "rms": 0.0701,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/cheetah-yue.mp3",
+    "duration": 8.856,
+    "peak": 0.3902,
+    "rms": 0.0607,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/clownfish-cmn-bright.mp3",
+    "duration": 7.032,
+    "peak": 0.5529,
+    "rms": 0.0593,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/clownfish-cmn-male.mp3",
+    "duration": 6.984,
+    "peak": 0.5765,
+    "rms": 0.052,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/clownfish-cmn.mp3",
+    "duration": 6.816,
+    "peak": 0.5578,
+    "rms": 0.0957,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/clownfish-en-female.mp3",
+    "duration": 5.52,
+    "peak": 0.6123,
+    "rms": 0.1357,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/clownfish-en-male.mp3",
+    "duration": 4.752,
+    "peak": 0.6086,
+    "rms": 0.0925,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/clownfish-en.mp3",
+    "duration": 8.232,
+    "peak": 0.538,
+    "rms": 0.0792,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/clownfish-yue-bright.mp3",
+    "duration": 9.264,
+    "peak": 0.5419,
+    "rms": 0.0782,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/clownfish-yue-male.mp3",
+    "duration": 8.184,
+    "peak": 0.575,
+    "rms": 0.0687,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/clownfish-yue.mp3",
+    "duration": 8.784,
+    "peak": 0.3912,
+    "rms": 0.0563,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crab-cmn-bright.mp3",
+    "duration": 6.768,
+    "peak": 0.5529,
+    "rms": 0.0559,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crab-cmn-male.mp3",
+    "duration": 6.624,
+    "peak": 0.4042,
+    "rms": 0.0453,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crab-cmn.mp3",
+    "duration": 6.408,
+    "peak": 0.5627,
+    "rms": 0.0863,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crab-en-female.mp3",
+    "duration": 5.136,
+    "peak": 0.5732,
+    "rms": 0.1209,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crab-en-male.mp3",
+    "duration": 4.512,
+    "peak": 0.7327,
+    "rms": 0.0935,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crab-en.mp3",
+    "duration": 7.848,
+    "peak": 0.5388,
+    "rms": 0.0805,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crab-yue-bright.mp3",
+    "duration": 8.592,
+    "peak": 0.5093,
+    "rms": 0.0777,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crab-yue-male.mp3",
+    "duration": 7.728,
+    "peak": 0.5446,
+    "rms": 0.0673,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crab-yue.mp3",
+    "duration": 8.376,
+    "peak": 0.433,
+    "rms": 0.0601,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crocodile-cmn-bright.mp3",
+    "duration": 7.488,
+    "peak": 0.5529,
+    "rms": 0.0625,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crocodile-cmn-male.mp3",
+    "duration": 7.464,
+    "peak": 0.5266,
+    "rms": 0.0611,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crocodile-cmn.mp3",
+    "duration": 7.152,
+    "peak": 0.5638,
+    "rms": 0.0928,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crocodile-en-female.mp3",
+    "duration": 5.808,
+    "peak": 0.5931,
+    "rms": 0.1199,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crocodile-en-male.mp3",
+    "duration": 5.112,
+    "peak": 0.7348,
+    "rms": 0.0907,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crocodile-en.mp3",
+    "duration": 8.616,
+    "peak": 0.5312,
+    "rms": 0.0743,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crocodile-yue-bright.mp3",
+    "duration": 9.408,
+    "peak": 0.5642,
+    "rms": 0.0876,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crocodile-yue-male.mp3",
+    "duration": 8.256,
+    "peak": 0.5491,
+    "rms": 0.07,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/crocodile-yue.mp3",
+    "duration": 8.76,
+    "peak": 0.4587,
+    "rms": 0.0605,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/dolphin-cmn-bright.mp3",
+    "duration": 6.696,
+    "peak": 0.5529,
+    "rms": 0.0534,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/dolphin-cmn-male.mp3",
+    "duration": 6.744,
+    "peak": 0.3973,
+    "rms": 0.0424,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/dolphin-cmn.mp3",
+    "duration": 6.312,
+    "peak": 0.5718,
+    "rms": 0.0875,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/dolphin-en-female.mp3",
+    "duration": 4.824,
+    "peak": 0.5806,
+    "rms": 0.1253,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/dolphin-en-male.mp3",
+    "duration": 4.008,
+    "peak": 0.607,
+    "rms": 0.0926,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/dolphin-en.mp3",
+    "duration": 7.632,
+    "peak": 0.5583,
+    "rms": 0.0773,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/dolphin-yue-bright.mp3",
+    "duration": 8.688,
+    "peak": 0.4864,
+    "rms": 0.0808,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/dolphin-yue-male.mp3",
+    "duration": 7.728,
+    "peak": 0.529,
+    "rms": 0.0677,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/dolphin-yue.mp3",
+    "duration": 8.448,
+    "peak": 0.3904,
+    "rms": 0.0566,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephant-cmn-bright.mp3",
+    "duration": 8.064,
+    "peak": 0.5529,
+    "rms": 0.065,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephant-cmn-male.mp3",
+    "duration": 8.64,
+    "peak": 0.5948,
+    "rms": 0.057,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephant-cmn.mp3",
+    "duration": 7.92,
+    "peak": 0.5634,
+    "rms": 0.0844,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephant-en-female.mp3",
+    "duration": 5.736,
+    "peak": 0.5555,
+    "rms": 0.1238,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephant-en-male.mp3",
+    "duration": 5.424,
+    "peak": 0.5925,
+    "rms": 0.093,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephant-en.mp3",
+    "duration": 8.592,
+    "peak": 0.54,
+    "rms": 0.0761,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephant-yue-bright.mp3",
+    "duration": 10.704,
+    "peak": 0.5666,
+    "rms": 0.0793,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephant-yue-male.mp3",
+    "duration": 9.408,
+    "peak": 0.5482,
+    "rms": 0.0705,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephant-yue.mp3",
+    "duration": 9.792,
+    "peak": 0.4185,
+    "rms": 0.0598,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephantcalf-cmn-bright.mp3",
+    "duration": 8.064,
+    "peak": 0.5529,
+    "rms": 0.0591,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephantcalf-cmn-male.mp3",
+    "duration": 7.92,
+    "peak": 0.5913,
+    "rms": 0.0524,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephantcalf-cmn.mp3",
+    "duration": 7.464,
+    "peak": 0.5672,
+    "rms": 0.0804,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephantcalf-en-female.mp3",
+    "duration": 7.896,
+    "peak": 0.6646,
+    "rms": 0.1185,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephantcalf-en-male.mp3",
+    "duration": 6.768,
+    "peak": 0.5928,
+    "rms": 0.0903,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephantcalf-en.mp3",
+    "duration": 11.304,
+    "peak": 0.5617,
+    "rms": 0.0788,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephantcalf-yue-bright.mp3",
+    "duration": 10.752,
+    "peak": 0.552,
+    "rms": 0.0895,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephantcalf-yue-male.mp3",
+    "duration": 9.336,
+    "peak": 0.518,
+    "rms": 0.073,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/elephantcalf-yue.mp3",
+    "duration": 9.624,
+    "peak": 0.4364,
+    "rms": 0.063,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/flamingo-cmn-bright.mp3",
+    "duration": 7.824,
+    "peak": 0.5529,
+    "rms": 0.0615,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/flamingo-cmn-male.mp3",
+    "duration": 7.44,
+    "peak": 0.4385,
+    "rms": 0.0502,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/flamingo-cmn.mp3",
+    "duration": 7.464,
+    "peak": 0.5572,
+    "rms": 0.0966,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/flamingo-en-female.mp3",
+    "duration": 5.424,
+    "peak": 0.5691,
+    "rms": 0.1433,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/flamingo-en-male.mp3",
+    "duration": 4.704,
+    "peak": 0.5968,
+    "rms": 0.1021,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/flamingo-en.mp3",
+    "duration": 8.448,
+    "peak": 0.5362,
+    "rms": 0.0748,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/flamingo-yue-bright.mp3",
+    "duration": 9.504,
+    "peak": 0.5559,
+    "rms": 0.0838,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/flamingo-yue-male.mp3",
+    "duration": 8.448,
+    "peak": 0.6002,
+    "rms": 0.0714,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/flamingo-yue.mp3",
+    "duration": 8.856,
+    "peak": 0.397,
+    "rms": 0.057,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/frog-cmn-bright.mp3",
+    "duration": 6.432,
+    "peak": 0.5529,
+    "rms": 0.0655,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/frog-cmn-male.mp3",
+    "duration": 6.456,
+    "peak": 0.5288,
+    "rms": 0.054,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/frog-cmn.mp3",
+    "duration": 6.12,
+    "peak": 0.5549,
+    "rms": 0.0935,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/frog-en-female.mp3",
+    "duration": 4.8,
+    "peak": 0.6224,
+    "rms": 0.1231,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/frog-en-male.mp3",
+    "duration": 4.344,
+    "peak": 0.5764,
+    "rms": 0.0912,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/frog-en.mp3",
+    "duration": 7.608,
+    "peak": 0.537,
+    "rms": 0.0769,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/frog-yue-bright.mp3",
+    "duration": 8.928,
+    "peak": 0.5499,
+    "rms": 0.0871,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/frog-yue-male.mp3",
+    "duration": 7.824,
+    "peak": 0.5386,
+    "rms": 0.0693,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/frog-yue.mp3",
+    "duration": 8.448,
+    "peak": 0.4801,
+    "rms": 0.0601,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gazelle-cmn-bright.mp3",
+    "duration": 6.864,
+    "peak": 0.5529,
+    "rms": 0.0604,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gazelle-cmn-male.mp3",
+    "duration": 6.888,
+    "peak": 0.5469,
+    "rms": 0.0498,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gazelle-cmn.mp3",
+    "duration": 6.6,
+    "peak": 0.5967,
+    "rms": 0.0886,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gazelle-en-female.mp3",
+    "duration": 5.424,
+    "peak": 0.6054,
+    "rms": 0.1207,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gazelle-en-male.mp3",
+    "duration": 4.656,
+    "peak": 0.6724,
+    "rms": 0.0888,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gazelle-en.mp3",
+    "duration": 8.064,
+    "peak": 0.5408,
+    "rms": 0.0741,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gazelle-yue-bright.mp3",
+    "duration": 8.832,
+    "peak": 0.4864,
+    "rms": 0.0795,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gazelle-yue-male.mp3",
+    "duration": 7.944,
+    "peak": 0.552,
+    "rms": 0.0698,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gazelle-yue.mp3",
+    "duration": 8.472,
+    "peak": 0.4255,
+    "rms": 0.0574,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/giraffe-cmn-bright.mp3",
+    "duration": 6.912,
+    "peak": 0.5529,
+    "rms": 0.0575,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/giraffe-cmn-male.mp3",
+    "duration": 7.032,
+    "peak": 0.5696,
+    "rms": 0.0538,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/giraffe-cmn.mp3",
+    "duration": 6.72,
+    "peak": 0.5648,
+    "rms": 0.0913,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/giraffe-en-female.mp3",
+    "duration": 5.256,
+    "peak": 0.5586,
+    "rms": 0.1268,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/giraffe-en-male.mp3",
+    "duration": 4.44,
+    "peak": 0.6459,
+    "rms": 0.0891,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/giraffe-en.mp3",
+    "duration": 7.944,
+    "peak": 0.561,
+    "rms": 0.0792,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/giraffe-yue-bright.mp3",
+    "duration": 8.448,
+    "peak": 0.4925,
+    "rms": 0.0752,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/giraffe-yue-male.mp3",
+    "duration": 7.608,
+    "peak": 0.5775,
+    "rms": 0.0653,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/giraffe-yue.mp3",
+    "duration": 8.232,
+    "peak": 0.4213,
+    "rms": 0.0556,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gorilla-cmn-bright.mp3",
+    "duration": 7.008,
+    "peak": 0.5529,
+    "rms": 0.0629,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gorilla-cmn-male.mp3",
+    "duration": 6.888,
+    "peak": 0.58,
+    "rms": 0.0495,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gorilla-cmn.mp3",
+    "duration": 6.648,
+    "peak": 0.5736,
+    "rms": 0.0874,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gorilla-en-female.mp3",
+    "duration": 4.608,
+    "peak": 0.6156,
+    "rms": 0.1354,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gorilla-en-male.mp3",
+    "duration": 4.08,
+    "peak": 0.5917,
+    "rms": 0.0942,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gorilla-en.mp3",
+    "duration": 7.464,
+    "peak": 0.5386,
+    "rms": 0.0751,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gorilla-yue-bright.mp3",
+    "duration": 8.472,
+    "peak": 0.5671,
+    "rms": 0.0852,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gorilla-yue-male.mp3",
+    "duration": 7.656,
+    "peak": 0.5225,
+    "rms": 0.067,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/gorilla-yue.mp3",
+    "duration": 8.208,
+    "peak": 0.4882,
+    "rms": 0.0614,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hippo-cmn-bright.mp3",
+    "duration": 6.504,
+    "peak": 0.5529,
+    "rms": 0.0552,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hippo-cmn-male.mp3",
+    "duration": 6.408,
+    "peak": 0.4741,
+    "rms": 0.0454,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hippo-cmn.mp3",
+    "duration": 6.24,
+    "peak": 0.5712,
+    "rms": 0.0904,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hippo-en-female.mp3",
+    "duration": 5.064,
+    "peak": 0.5604,
+    "rms": 0.1238,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hippo-en-male.mp3",
+    "duration": 4.368,
+    "peak": 0.5686,
+    "rms": 0.0883,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hippo-en.mp3",
+    "duration": 7.728,
+    "peak": 0.5475,
+    "rms": 0.08,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hippo-yue-bright.mp3",
+    "duration": 8.616,
+    "peak": 0.4969,
+    "rms": 0.0821,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hippo-yue-male.mp3",
+    "duration": 7.752,
+    "peak": 0.5422,
+    "rms": 0.0674,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hippo-yue.mp3",
+    "duration": 8.472,
+    "peak": 0.399,
+    "rms": 0.0593,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hummingbird-cmn-bright.mp3",
+    "duration": 6.672,
+    "peak": 0.5529,
+    "rms": 0.0617,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hummingbird-cmn-male.mp3",
+    "duration": 6.696,
+    "peak": 0.5729,
+    "rms": 0.0498,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hummingbird-cmn.mp3",
+    "duration": 6.408,
+    "peak": 0.5613,
+    "rms": 0.0867,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hummingbird-en-female.mp3",
+    "duration": 5.4,
+    "peak": 0.6195,
+    "rms": 0.1262,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hummingbird-en-male.mp3",
+    "duration": 4.752,
+    "peak": 0.6196,
+    "rms": 0.0916,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hummingbird-en.mp3",
+    "duration": 8.136,
+    "peak": 0.5482,
+    "rms": 0.0783,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hummingbird-yue-bright.mp3",
+    "duration": 8.496,
+    "peak": 0.5787,
+    "rms": 0.083,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hummingbird-yue-male.mp3",
+    "duration": 7.728,
+    "peak": 0.576,
+    "rms": 0.0679,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/hummingbird-yue.mp3",
+    "duration": 8.184,
+    "peak": 0.4384,
+    "rms": 0.0595,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/igloo-cmn-bright.mp3",
+    "duration": 6.552,
+    "peak": 0.6884,
+    "rms": 0.0677,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/igloo-cmn-male.mp3",
+    "duration": 6.216,
+    "peak": 0.5455,
+    "rms": 0.0486,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/igloo-cmn.mp3",
+    "duration": 6.048,
+    "peak": 0.5597,
+    "rms": 0.0886,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/igloo-en-female.mp3",
+    "duration": 4.944,
+    "peak": 0.5362,
+    "rms": 0.1246,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/igloo-en-male.mp3",
+    "duration": 4.56,
+    "peak": 0.6249,
+    "rms": 0.0953,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/igloo-en.mp3",
+    "duration": 7.248,
+    "peak": 0.5545,
+    "rms": 0.0763,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/igloo-yue-bright.mp3",
+    "duration": 8.52,
+    "peak": 0.6092,
+    "rms": 0.0898,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/igloo-yue-male.mp3",
+    "duration": 7.08,
+    "peak": 0.5027,
+    "rms": 0.07,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/igloo-yue.mp3",
+    "duration": 7.512,
+    "peak": 0.4359,
+    "rms": 0.0587,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/inuit-cmn-bright.mp3",
+    "duration": 7.32,
+    "peak": 0.5529,
+    "rms": 0.0583,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/inuit-cmn-male.mp3",
+    "duration": 7.392,
+    "peak": 0.4545,
+    "rms": 0.0466,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/inuit-cmn.mp3",
+    "duration": 7.056,
+    "peak": 0.5847,
+    "rms": 0.0895,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/inuit-en-female.mp3",
+    "duration": 6.168,
+    "peak": 0.5667,
+    "rms": 0.1349,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/inuit-en-male.mp3",
+    "duration": 5.496,
+    "peak": 0.6171,
+    "rms": 0.0966,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/inuit-en.mp3",
+    "duration": 9.12,
+    "peak": 0.5548,
+    "rms": 0.0793,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/inuit-yue-bright.mp3",
+    "duration": 9.528,
+    "peak": 0.5315,
+    "rms": 0.0816,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/inuit-yue-male.mp3",
+    "duration": 8.232,
+    "peak": 0.5572,
+    "rms": 0.0654,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/inuit-yue.mp3",
+    "duration": 8.88,
+    "peak": 0.4291,
+    "rms": 0.0574,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jaguar-cmn-bright.mp3",
+    "duration": 7.032,
+    "peak": 0.6476,
+    "rms": 0.0668,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jaguar-cmn-male.mp3",
+    "duration": 7.008,
+    "peak": 0.5854,
+    "rms": 0.0511,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jaguar-cmn.mp3",
+    "duration": 6.816,
+    "peak": 0.8109,
+    "rms": 0.0934,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jaguar-en-female.mp3",
+    "duration": 5.352,
+    "peak": 0.5387,
+    "rms": 0.1222,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jaguar-en-male.mp3",
+    "duration": 4.68,
+    "peak": 0.6447,
+    "rms": 0.0975,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jaguar-en.mp3",
+    "duration": 8.208,
+    "peak": 0.538,
+    "rms": 0.0765,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jaguar-yue-bright.mp3",
+    "duration": 9.744,
+    "peak": 0.5767,
+    "rms": 0.086,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jaguar-yue-male.mp3",
+    "duration": 8.424,
+    "peak": 0.5145,
+    "rms": 0.0677,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jaguar-yue.mp3",
+    "duration": 9.072,
+    "peak": 0.4948,
+    "rms": 0.0617,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jellyfish-cmn-bright.mp3",
+    "duration": 7.296,
+    "peak": 0.5529,
+    "rms": 0.0603,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jellyfish-cmn-male.mp3",
+    "duration": 7.296,
+    "peak": 0.6052,
+    "rms": 0.0571,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jellyfish-cmn.mp3",
+    "duration": 6.816,
+    "peak": 0.5808,
+    "rms": 0.0991,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jellyfish-en-female.mp3",
+    "duration": 5.4,
+    "peak": 0.6435,
+    "rms": 0.1295,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jellyfish-en-male.mp3",
+    "duration": 4.776,
+    "peak": 0.5566,
+    "rms": 0.0931,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jellyfish-en.mp3",
+    "duration": 8.28,
+    "peak": 0.5356,
+    "rms": 0.0781,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jellyfish-yue-bright.mp3",
+    "duration": 8.976,
+    "peak": 0.5411,
+    "rms": 0.0868,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jellyfish-yue-male.mp3",
+    "duration": 7.944,
+    "peak": 0.5776,
+    "rms": 0.0716,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/jellyfish-yue.mp3",
+    "duration": 8.328,
+    "peak": 0.4536,
+    "rms": 0.0597,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/leopard-cmn-bright.mp3",
+    "duration": 6.072,
+    "peak": 0.6951,
+    "rms": 0.0746,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/leopard-cmn-male.mp3",
+    "duration": 6.264,
+    "peak": 0.7072,
+    "rms": 0.0504,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/leopard-cmn.mp3",
+    "duration": 5.856,
+    "peak": 0.7845,
+    "rms": 0.0929,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/leopard-en-female.mp3",
+    "duration": 4.848,
+    "peak": 0.6328,
+    "rms": 0.1196,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/leopard-en-male.mp3",
+    "duration": 4.128,
+    "peak": 0.6426,
+    "rms": 0.0901,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/leopard-en.mp3",
+    "duration": 7.44,
+    "peak": 0.5396,
+    "rms": 0.0739,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/leopard-yue-bright.mp3",
+    "duration": 8.52,
+    "peak": 0.4864,
+    "rms": 0.0818,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/leopard-yue-male.mp3",
+    "duration": 7.68,
+    "peak": 0.5197,
+    "rms": 0.0654,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/leopard-yue.mp3",
+    "duration": 8.184,
+    "peak": 0.4336,
+    "rms": 0.061,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lion-cmn-bright.mp3",
+    "duration": 8.184,
+    "peak": 0.5529,
+    "rms": 0.0641,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lion-cmn-male.mp3",
+    "duration": 7.896,
+    "peak": 0.5321,
+    "rms": 0.0537,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lion-cmn.mp3",
+    "duration": 7.656,
+    "peak": 0.5554,
+    "rms": 0.095,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lion-en-female.mp3",
+    "duration": 5.64,
+    "peak": 0.5283,
+    "rms": 0.1254,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lion-en-male.mp3",
+    "duration": 5.232,
+    "peak": 0.584,
+    "rms": 0.093,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lion-en.mp3",
+    "duration": 8.64,
+    "peak": 0.5576,
+    "rms": 0.0759,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lion-yue-bright.mp3",
+    "duration": 10.536,
+    "peak": 0.5921,
+    "rms": 0.0872,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lion-yue-male.mp3",
+    "duration": 8.952,
+    "peak": 0.5278,
+    "rms": 0.0722,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lion-yue.mp3",
+    "duration": 9.456,
+    "peak": 0.4075,
+    "rms": 0.0598,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioncub-cmn-bright.mp3",
+    "duration": 8.376,
+    "peak": 0.5529,
+    "rms": 0.0525,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioncub-cmn-male.mp3",
+    "duration": 8.04,
+    "peak": 0.4931,
+    "rms": 0.0483,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioncub-cmn.mp3",
+    "duration": 7.968,
+    "peak": 0.5957,
+    "rms": 0.0886,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioncub-en-female.mp3",
+    "duration": 7.392,
+    "peak": 0.573,
+    "rms": 0.1327,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioncub-en-male.mp3",
+    "duration": 6.336,
+    "peak": 0.5917,
+    "rms": 0.0958,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioncub-en.mp3",
+    "duration": 10.92,
+    "peak": 0.5698,
+    "rms": 0.0791,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioncub-yue-bright.mp3",
+    "duration": 11.016,
+    "peak": 0.4864,
+    "rms": 0.0847,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioncub-yue-male.mp3",
+    "duration": 9.576,
+    "peak": 0.5631,
+    "rms": 0.0674,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioncub-yue.mp3",
+    "duration": 9.816,
+    "peak": 0.3668,
+    "rms": 0.0557,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioness-cmn-bright.mp3",
+    "duration": 8.664,
+    "peak": 0.5529,
+    "rms": 0.0569,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioness-cmn-male.mp3",
+    "duration": 8.016,
+    "peak": 0.4789,
+    "rms": 0.0515,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioness-cmn.mp3",
+    "duration": 8.016,
+    "peak": 0.5634,
+    "rms": 0.0869,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioness-en-female.mp3",
+    "duration": 7.344,
+    "peak": 0.5764,
+    "rms": 0.1304,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioness-en-male.mp3",
+    "duration": 6.408,
+    "peak": 0.6174,
+    "rms": 0.0924,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioness-en.mp3",
+    "duration": 10.8,
+    "peak": 0.5344,
+    "rms": 0.0806,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioness-yue-bright.mp3",
+    "duration": 11.184,
+    "peak": 0.522,
+    "rms": 0.0847,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioness-yue-male.mp3",
+    "duration": 9.672,
+    "peak": 0.5936,
+    "rms": 0.0699,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lioness-yue.mp3",
+    "duration": 9.912,
+    "peak": 0.4461,
+    "rms": 0.056,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lobster-cmn-bright.mp3",
+    "duration": 7.2,
+    "peak": 0.7543,
+    "rms": 0.067,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lobster-cmn-male.mp3",
+    "duration": 7.272,
+    "peak": 0.5302,
+    "rms": 0.0493,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lobster-cmn.mp3",
+    "duration": 6.816,
+    "peak": 0.5816,
+    "rms": 0.0936,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lobster-en-female.mp3",
+    "duration": 5.4,
+    "peak": 0.5907,
+    "rms": 0.12,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lobster-en-male.mp3",
+    "duration": 4.632,
+    "peak": 0.5981,
+    "rms": 0.0926,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lobster-en.mp3",
+    "duration": 8.112,
+    "peak": 0.5306,
+    "rms": 0.0764,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lobster-yue-bright.mp3",
+    "duration": 8.976,
+    "peak": 0.5854,
+    "rms": 0.0888,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lobster-yue-male.mp3",
+    "duration": 8.064,
+    "peak": 0.5054,
+    "rms": 0.067,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/lobster-yue.mp3",
+    "duration": 8.616,
+    "peak": 0.4549,
+    "rms": 0.0603,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/macaw-cmn-bright.mp3",
+    "duration": 6.936,
+    "peak": 0.5529,
+    "rms": 0.0652,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/macaw-cmn-male.mp3",
+    "duration": 6.912,
+    "peak": 0.6055,
+    "rms": 0.053,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/macaw-cmn.mp3",
+    "duration": 6.552,
+    "peak": 0.5584,
+    "rms": 0.0961,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/macaw-en-female.mp3",
+    "duration": 5.064,
+    "peak": 0.5458,
+    "rms": 0.1298,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/macaw-en-male.mp3",
+    "duration": 4.44,
+    "peak": 0.643,
+    "rms": 0.0923,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/macaw-en.mp3",
+    "duration": 7.728,
+    "peak": 0.5391,
+    "rms": 0.0772,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/macaw-yue-bright.mp3",
+    "duration": 8.832,
+    "peak": 0.5026,
+    "rms": 0.0807,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/macaw-yue-male.mp3",
+    "duration": 8.088,
+    "peak": 0.515,
+    "rms": 0.0676,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/macaw-yue.mp3",
+    "duration": 8.472,
+    "peak": 0.4362,
+    "rms": 0.059,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/meerkat-cmn-bright.mp3",
+    "duration": 7.104,
+    "peak": 0.5529,
+    "rms": 0.0664,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/meerkat-cmn-male.mp3",
+    "duration": 7.224,
+    "peak": 0.443,
+    "rms": 0.0495,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/meerkat-cmn.mp3",
+    "duration": 6.84,
+    "peak": 0.5615,
+    "rms": 0.0945,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/meerkat-en-female.mp3",
+    "duration": 5.136,
+    "peak": 0.586,
+    "rms": 0.1318,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/meerkat-en-male.mp3",
+    "duration": 4.704,
+    "peak": 0.6484,
+    "rms": 0.0976,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/meerkat-en.mp3",
+    "duration": 8.064,
+    "peak": 0.5343,
+    "rms": 0.0773,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/meerkat-yue-bright.mp3",
+    "duration": 8.352,
+    "peak": 0.5136,
+    "rms": 0.0817,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/meerkat-yue-male.mp3",
+    "duration": 7.608,
+    "peak": 0.548,
+    "rms": 0.0693,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/meerkat-yue.mp3",
+    "duration": 8.064,
+    "peak": 0.3951,
+    "rms": 0.0625,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/monkey-cmn-bright.mp3",
+    "duration": 6.48,
+    "peak": 0.5529,
+    "rms": 0.0547,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/monkey-cmn-male.mp3",
+    "duration": 6.528,
+    "peak": 0.4606,
+    "rms": 0.0494,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/monkey-cmn.mp3",
+    "duration": 6.192,
+    "peak": 0.5735,
+    "rms": 0.0882,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/monkey-en-female.mp3",
+    "duration": 5.352,
+    "peak": 0.5407,
+    "rms": 0.1322,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/monkey-en-male.mp3",
+    "duration": 4.656,
+    "peak": 0.5762,
+    "rms": 0.0971,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/monkey-en.mp3",
+    "duration": 8.28,
+    "peak": 0.5385,
+    "rms": 0.0743,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/monkey-yue-bright.mp3",
+    "duration": 8.664,
+    "peak": 0.5252,
+    "rms": 0.079,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/monkey-yue-male.mp3",
+    "duration": 7.872,
+    "peak": 0.5311,
+    "rms": 0.0697,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/monkey-yue.mp3",
+    "duration": 8.4,
+    "peak": 0.3943,
+    "rms": 0.0589,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/octopus-cmn-bright.mp3",
+    "duration": 6.72,
+    "peak": 0.5529,
+    "rms": 0.0644,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/octopus-cmn-male.mp3",
+    "duration": 6.84,
+    "peak": 0.5099,
+    "rms": 0.0534,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/octopus-cmn.mp3",
+    "duration": 6.456,
+    "peak": 0.5933,
+    "rms": 0.0902,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/octopus-en-female.mp3",
+    "duration": 4.968,
+    "peak": 0.6082,
+    "rms": 0.1224,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/octopus-en-male.mp3",
+    "duration": 4.416,
+    "peak": 0.5762,
+    "rms": 0.0919,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/octopus-en.mp3",
+    "duration": 7.824,
+    "peak": 0.5385,
+    "rms": 0.075,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/octopus-yue-bright.mp3",
+    "duration": 9.0,
+    "peak": 0.5448,
+    "rms": 0.0813,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/octopus-yue-male.mp3",
+    "duration": 7.92,
+    "peak": 0.5327,
+    "rms": 0.0682,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/octopus-yue.mp3",
+    "duration": 8.496,
+    "peak": 0.4224,
+    "rms": 0.0615,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/orangutan-cmn-bright.mp3",
+    "duration": 7.128,
+    "peak": 0.5529,
+    "rms": 0.0607,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/orangutan-cmn-male.mp3",
+    "duration": 6.984,
+    "peak": 0.4341,
+    "rms": 0.0507,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/orangutan-cmn.mp3",
+    "duration": 6.792,
+    "peak": 0.5585,
+    "rms": 0.0935,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/orangutan-en-female.mp3",
+    "duration": 5.808,
+    "peak": 0.5296,
+    "rms": 0.1297,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/orangutan-en-male.mp3",
+    "duration": 5.16,
+    "peak": 0.5694,
+    "rms": 0.0979,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/orangutan-en.mp3",
+    "duration": 8.76,
+    "peak": 0.5393,
+    "rms": 0.0755,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/orangutan-yue-bright.mp3",
+    "duration": 9.216,
+    "peak": 0.5618,
+    "rms": 0.0827,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/orangutan-yue-male.mp3",
+    "duration": 8.208,
+    "peak": 0.5762,
+    "rms": 0.0694,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/orangutan-yue.mp3",
+    "duration": 8.928,
+    "peak": 0.3717,
+    "rms": 0.0558,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/ostrich-cmn-bright.mp3",
+    "duration": 6.864,
+    "peak": 0.5529,
+    "rms": 0.0567,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/ostrich-cmn-male.mp3",
+    "duration": 6.768,
+    "peak": 0.4402,
+    "rms": 0.0463,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/ostrich-cmn.mp3",
+    "duration": 6.48,
+    "peak": 0.5619,
+    "rms": 0.0879,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/ostrich-en-female.mp3",
+    "duration": 5.856,
+    "peak": 0.5708,
+    "rms": 0.1282,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/ostrich-en-male.mp3",
+    "duration": 5.304,
+    "peak": 0.6385,
+    "rms": 0.0969,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/ostrich-en.mp3",
+    "duration": 8.784,
+    "peak": 0.5196,
+    "rms": 0.0745,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/ostrich-yue-bright.mp3",
+    "duration": 8.376,
+    "peak": 0.5815,
+    "rms": 0.0812,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/ostrich-yue-male.mp3",
+    "duration": 7.608,
+    "peak": 0.5733,
+    "rms": 0.0679,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/ostrich-yue.mp3",
+    "duration": 7.992,
+    "peak": 0.4217,
+    "rms": 0.0597,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/otter-cmn-bright.mp3",
+    "duration": 8.76,
+    "peak": 0.6533,
+    "rms": 0.0665,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/otter-cmn-male.mp3",
+    "duration": 9.336,
+    "peak": 0.4065,
+    "rms": 0.0491,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/otter-cmn.mp3",
+    "duration": 8.736,
+    "peak": 0.6837,
+    "rms": 0.0938,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/otter-en-female.mp3",
+    "duration": 7.488,
+    "peak": 0.5957,
+    "rms": 0.1206,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/otter-en-male.mp3",
+    "duration": 7.032,
+    "peak": 0.6029,
+    "rms": 0.0895,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/otter-en.mp3",
+    "duration": 11.616,
+    "peak": 0.5294,
+    "rms": 0.0761,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/otter-yue-bright.mp3",
+    "duration": 11.328,
+    "peak": 0.5393,
+    "rms": 0.0793,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/otter-yue-male.mp3",
+    "duration": 10.08,
+    "peak": 0.5634,
+    "rms": 0.0671,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/otter-yue.mp3",
+    "duration": 10.8,
+    "peak": 0.5072,
+    "rms": 0.0582,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/penguin-cmn-bright.mp3",
+    "duration": 8.856,
+    "peak": 0.5529,
+    "rms": 0.0574,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/penguin-cmn-male.mp3",
+    "duration": 8.616,
+    "peak": 0.4828,
+    "rms": 0.0513,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/penguin-cmn.mp3",
+    "duration": 8.4,
+    "peak": 0.5706,
+    "rms": 0.0942,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/penguin-en-female.mp3",
+    "duration": 6.624,
+    "peak": 0.6102,
+    "rms": 0.134,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/penguin-en-male.mp3",
+    "duration": 5.496,
+    "peak": 0.6044,
+    "rms": 0.0928,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/penguin-en.mp3",
+    "duration": 10.416,
+    "peak": 0.5331,
+    "rms": 0.0781,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/penguin-yue-bright.mp3",
+    "duration": 11.376,
+    "peak": 0.5829,
+    "rms": 0.0797,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/penguin-yue-male.mp3",
+    "duration": 10.464,
+    "peak": 0.6043,
+    "rms": 0.0669,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/penguin-yue.mp3",
+    "duration": 10.848,
+    "peak": 0.4315,
+    "rms": 0.0603,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/polarbear-cmn-bright.mp3",
+    "duration": 7.968,
+    "peak": 0.5529,
+    "rms": 0.0632,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/polarbear-cmn-male.mp3",
+    "duration": 7.944,
+    "peak": 0.5058,
+    "rms": 0.0556,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/polarbear-cmn.mp3",
+    "duration": 7.512,
+    "peak": 0.6622,
+    "rms": 0.1007,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/polarbear-en-female.mp3",
+    "duration": 6.12,
+    "peak": 0.5477,
+    "rms": 0.1255,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/polarbear-en-male.mp3",
+    "duration": 5.304,
+    "peak": 0.6541,
+    "rms": 0.0946,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/polarbear-en.mp3",
+    "duration": 8.976,
+    "peak": 0.5351,
+    "rms": 0.0764,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/polarbear-yue-bright.mp3",
+    "duration": 9.984,
+    "peak": 0.6057,
+    "rms": 0.0877,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/polarbear-yue-male.mp3",
+    "duration": 8.688,
+    "peak": 0.5229,
+    "rms": 0.0678,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/polarbear-yue.mp3",
+    "duration": 9.144,
+    "peak": 0.3821,
+    "rms": 0.0605,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/pufferfish-cmn-bright.mp3",
+    "duration": 6.912,
+    "peak": 0.5529,
+    "rms": 0.056,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/pufferfish-cmn-male.mp3",
+    "duration": 6.792,
+    "peak": 0.5531,
+    "rms": 0.0516,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/pufferfish-cmn.mp3",
+    "duration": 6.504,
+    "peak": 0.5669,
+    "rms": 0.0923,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/pufferfish-en-female.mp3",
+    "duration": 5.232,
+    "peak": 0.6023,
+    "rms": 0.1174,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/pufferfish-en-male.mp3",
+    "duration": 4.8,
+    "peak": 0.7204,
+    "rms": 0.0905,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/pufferfish-en.mp3",
+    "duration": 8.016,
+    "peak": 0.5905,
+    "rms": 0.0732,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/pufferfish-yue-bright.mp3",
+    "duration": 8.712,
+    "peak": 0.5192,
+    "rms": 0.0827,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/pufferfish-yue-male.mp3",
+    "duration": 7.776,
+    "peak": 0.5392,
+    "rms": 0.0684,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/pufferfish-yue.mp3",
+    "duration": 8.448,
+    "peak": 0.3977,
+    "rms": 0.0606,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/rhino-cmn-bright.mp3",
+    "duration": 7.344,
+    "peak": 0.5529,
+    "rms": 0.0614,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/rhino-cmn-male.mp3",
+    "duration": 7.176,
+    "peak": 0.5109,
+    "rms": 0.0501,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/rhino-cmn.mp3",
+    "duration": 6.84,
+    "peak": 0.5629,
+    "rms": 0.0874,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/rhino-en-female.mp3",
+    "duration": 5.256,
+    "peak": 0.6056,
+    "rms": 0.1339,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/rhino-en-male.mp3",
+    "duration": 4.656,
+    "peak": 0.553,
+    "rms": 0.1013,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/rhino-en.mp3",
+    "duration": 8.136,
+    "peak": 0.5298,
+    "rms": 0.0774,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/rhino-yue-bright.mp3",
+    "duration": 8.952,
+    "peak": 0.5313,
+    "rms": 0.0818,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/rhino-yue-male.mp3",
+    "duration": 8.064,
+    "peak": 0.5671,
+    "rms": 0.0706,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/rhino-yue.mp3",
+    "duration": 8.544,
+    "peak": 0.3948,
+    "rms": 0.0612,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seahorse-cmn-bright.mp3",
+    "duration": 8.28,
+    "peak": 0.5529,
+    "rms": 0.0644,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seahorse-cmn-male.mp3",
+    "duration": 8.472,
+    "peak": 0.5298,
+    "rms": 0.0535,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seahorse-cmn.mp3",
+    "duration": 7.872,
+    "peak": 0.5581,
+    "rms": 0.0878,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seahorse-en-female.mp3",
+    "duration": 6.84,
+    "peak": 0.6143,
+    "rms": 0.1184,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seahorse-en-male.mp3",
+    "duration": 6.072,
+    "peak": 0.6751,
+    "rms": 0.0907,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seahorse-en.mp3",
+    "duration": 10.464,
+    "peak": 0.5469,
+    "rms": 0.0748,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seahorse-yue-bright.mp3",
+    "duration": 10.56,
+    "peak": 0.5877,
+    "rms": 0.0883,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seahorse-yue-male.mp3",
+    "duration": 9.264,
+    "peak": 0.5228,
+    "rms": 0.0709,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seahorse-yue.mp3",
+    "duration": 9.672,
+    "peak": 0.4443,
+    "rms": 0.0589,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seal-cmn-bright.mp3",
+    "duration": 7.68,
+    "peak": 0.6715,
+    "rms": 0.0707,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seal-cmn-male.mp3",
+    "duration": 7.704,
+    "peak": 0.6213,
+    "rms": 0.0587,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seal-cmn.mp3",
+    "duration": 7.296,
+    "peak": 0.5704,
+    "rms": 0.091,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seal-en-female.mp3",
+    "duration": 5.832,
+    "peak": 0.5362,
+    "rms": 0.1234,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seal-en-male.mp3",
+    "duration": 5.112,
+    "peak": 0.5634,
+    "rms": 0.0902,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seal-en.mp3",
+    "duration": 8.76,
+    "peak": 0.5489,
+    "rms": 0.0744,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seal-yue-bright.mp3",
+    "duration": 10.512,
+    "peak": 0.5659,
+    "rms": 0.0826,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seal-yue-male.mp3",
+    "duration": 9.0,
+    "peak": 0.5422,
+    "rms": 0.0704,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/seal-yue.mp3",
+    "duration": 9.456,
+    "peak": 0.4367,
+    "rms": 0.0603,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/shark-cmn-bright.mp3",
+    "duration": 6.624,
+    "peak": 0.5529,
+    "rms": 0.0614,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/shark-cmn-male.mp3",
+    "duration": 6.48,
+    "peak": 0.5602,
+    "rms": 0.0514,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/shark-cmn.mp3",
+    "duration": 6.288,
+    "peak": 0.5718,
+    "rms": 0.0847,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/shark-en-female.mp3",
+    "duration": 5.304,
+    "peak": 0.5521,
+    "rms": 0.1235,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/shark-en-male.mp3",
+    "duration": 4.776,
+    "peak": 0.589,
+    "rms": 0.0952,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/shark-en.mp3",
+    "duration": 8.112,
+    "peak": 0.5381,
+    "rms": 0.0723,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/shark-yue-bright.mp3",
+    "duration": 8.856,
+    "peak": 0.5607,
+    "rms": 0.0842,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/shark-yue-male.mp3",
+    "duration": 7.896,
+    "peak": 0.5397,
+    "rms": 0.0677,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/shark-yue.mp3",
+    "duration": 8.376,
+    "peak": 0.4873,
+    "rms": 0.0632,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/sloth-cmn-bright.mp3",
+    "duration": 6.672,
+    "peak": 0.5529,
+    "rms": 0.0578,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/sloth-cmn-male.mp3",
+    "duration": 6.6,
+    "peak": 0.4448,
+    "rms": 0.0477,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/sloth-cmn.mp3",
+    "duration": 6.144,
+    "peak": 0.5595,
+    "rms": 0.0911,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/sloth-en-female.mp3",
+    "duration": 4.992,
+    "peak": 0.5942,
+    "rms": 0.1384,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/sloth-en-male.mp3",
+    "duration": 4.392,
+    "peak": 0.5588,
+    "rms": 0.1012,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/sloth-en.mp3",
+    "duration": 7.848,
+    "peak": 0.54,
+    "rms": 0.0769,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/sloth-yue-bright.mp3",
+    "duration": 8.016,
+    "peak": 0.5187,
+    "rms": 0.083,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/sloth-yue-male.mp3",
+    "duration": 7.344,
+    "peak": 0.5032,
+    "rms": 0.0654,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/sloth-yue.mp3",
+    "duration": 7.992,
+    "peak": 0.4005,
+    "rms": 0.0579,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/starfish-cmn-bright.mp3",
+    "duration": 6.672,
+    "peak": 0.5529,
+    "rms": 0.059,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/starfish-cmn-male.mp3",
+    "duration": 6.696,
+    "peak": 0.4962,
+    "rms": 0.0545,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/starfish-cmn.mp3",
+    "duration": 6.432,
+    "peak": 0.6917,
+    "rms": 0.092,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/starfish-en-female.mp3",
+    "duration": 5.4,
+    "peak": 0.6033,
+    "rms": 0.1174,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/starfish-en-male.mp3",
+    "duration": 4.704,
+    "peak": 0.5545,
+    "rms": 0.0891,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/starfish-en.mp3",
+    "duration": 8.352,
+    "peak": 0.5506,
+    "rms": 0.0764,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/starfish-yue-bright.mp3",
+    "duration": 8.832,
+    "peak": 0.5786,
+    "rms": 0.0819,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/starfish-yue-male.mp3",
+    "duration": 7.968,
+    "peak": 0.5049,
+    "rms": 0.0683,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/starfish-yue.mp3",
+    "duration": 8.568,
+    "peak": 0.4143,
+    "rms": 0.0571,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/stingray-cmn-bright.mp3",
+    "duration": 6.936,
+    "peak": 0.5529,
+    "rms": 0.061,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/stingray-cmn-male.mp3",
+    "duration": 7.104,
+    "peak": 0.4346,
+    "rms": 0.0526,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/stingray-cmn.mp3",
+    "duration": 6.648,
+    "peak": 0.5592,
+    "rms": 0.0955,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/stingray-en-female.mp3",
+    "duration": 5.28,
+    "peak": 0.5834,
+    "rms": 0.1292,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/stingray-en-male.mp3",
+    "duration": 4.488,
+    "peak": 0.5385,
+    "rms": 0.0919,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/stingray-en.mp3",
+    "duration": 7.944,
+    "peak": 0.5477,
+    "rms": 0.0765,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/stingray-yue-bright.mp3",
+    "duration": 8.496,
+    "peak": 0.5303,
+    "rms": 0.0806,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/stingray-yue-male.mp3",
+    "duration": 7.608,
+    "peak": 0.5395,
+    "rms": 0.0682,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/stingray-yue.mp3",
+    "duration": 8.256,
+    "peak": 0.3871,
+    "rms": 0.0577,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tapir-cmn-bright.mp3",
+    "duration": 6.984,
+    "peak": 0.5529,
+    "rms": 0.0555,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tapir-cmn-male.mp3",
+    "duration": 7.128,
+    "peak": 0.4114,
+    "rms": 0.0479,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tapir-cmn.mp3",
+    "duration": 6.696,
+    "peak": 0.5667,
+    "rms": 0.0859,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tapir-en-female.mp3",
+    "duration": 5.448,
+    "peak": 0.534,
+    "rms": 0.1216,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tapir-en-male.mp3",
+    "duration": 4.8,
+    "peak": 0.5335,
+    "rms": 0.0927,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tapir-en.mp3",
+    "duration": 8.208,
+    "peak": 0.5166,
+    "rms": 0.0785,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tapir-yue-bright.mp3",
+    "duration": 8.448,
+    "peak": 0.4864,
+    "rms": 0.0798,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tapir-yue-male.mp3",
+    "duration": 7.68,
+    "peak": 0.5383,
+    "rms": 0.0698,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tapir-yue.mp3",
+    "duration": 8.112,
+    "peak": 0.4164,
+    "rms": 0.0581,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tiger-cmn-bright.mp3",
+    "duration": 8.856,
+    "peak": 0.5529,
+    "rms": 0.0594,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tiger-cmn-male.mp3",
+    "duration": 8.688,
+    "peak": 0.521,
+    "rms": 0.0537,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tiger-cmn.mp3",
+    "duration": 8.712,
+    "peak": 0.5843,
+    "rms": 0.0931,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tiger-en-female.mp3",
+    "duration": 7.176,
+    "peak": 0.5738,
+    "rms": 0.1243,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tiger-en-male.mp3",
+    "duration": 6.744,
+    "peak": 0.5683,
+    "rms": 0.0935,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tiger-en.mp3",
+    "duration": 10.872,
+    "peak": 0.5341,
+    "rms": 0.0758,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tiger-yue-bright.mp3",
+    "duration": 11.832,
+    "peak": 0.5725,
+    "rms": 0.0823,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tiger-yue-male.mp3",
+    "duration": 10.416,
+    "peak": 0.5108,
+    "rms": 0.0671,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/tiger-yue.mp3",
+    "duration": 10.992,
+    "peak": 0.487,
+    "rms": 0.0605,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/toucan-cmn-bright.mp3",
+    "duration": 7.224,
+    "peak": 0.5529,
+    "rms": 0.0613,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/toucan-cmn-male.mp3",
+    "duration": 7.272,
+    "peak": 0.3973,
+    "rms": 0.0483,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/toucan-cmn.mp3",
+    "duration": 6.72,
+    "peak": 0.61,
+    "rms": 0.0948,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/toucan-en-female.mp3",
+    "duration": 5.16,
+    "peak": 0.5365,
+    "rms": 0.119,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/toucan-en-male.mp3",
+    "duration": 4.824,
+    "peak": 0.5952,
+    "rms": 0.0885,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/toucan-en.mp3",
+    "duration": 7.944,
+    "peak": 0.5361,
+    "rms": 0.0715,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/toucan-yue-bright.mp3",
+    "duration": 8.688,
+    "peak": 0.5257,
+    "rms": 0.0837,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/toucan-yue-male.mp3",
+    "duration": 7.728,
+    "peak": 0.5267,
+    "rms": 0.0699,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/toucan-yue.mp3",
+    "duration": 8.304,
+    "peak": 0.4977,
+    "rms": 0.0619,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/turtle-cmn-bright.mp3",
+    "duration": 6.864,
+    "peak": 0.5529,
+    "rms": 0.0616,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/turtle-cmn-male.mp3",
+    "duration": 6.6,
+    "peak": 0.5863,
+    "rms": 0.0486,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/turtle-cmn.mp3",
+    "duration": 6.576,
+    "peak": 0.5613,
+    "rms": 0.0889,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/turtle-en-female.mp3",
+    "duration": 5.424,
+    "peak": 0.5493,
+    "rms": 0.1224,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/turtle-en-male.mp3",
+    "duration": 4.968,
+    "peak": 0.5419,
+    "rms": 0.0911,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/turtle-en.mp3",
+    "duration": 8.16,
+    "peak": 0.5367,
+    "rms": 0.0742,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/turtle-yue-bright.mp3",
+    "duration": 9.168,
+    "peak": 0.5187,
+    "rms": 0.0828,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/turtle-yue-male.mp3",
+    "duration": 8.184,
+    "peak": 0.5209,
+    "rms": 0.0702,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/turtle-yue.mp3",
+    "duration": 8.808,
+    "peak": 0.4668,
+    "rms": 0.0659,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/walrus-cmn-bright.mp3",
+    "duration": 8.424,
+    "peak": 0.5529,
+    "rms": 0.0606,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/walrus-cmn-male.mp3",
+    "duration": 8.952,
+    "peak": 0.4381,
+    "rms": 0.047,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/walrus-cmn.mp3",
+    "duration": 7.824,
+    "peak": 0.5796,
+    "rms": 0.0838,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/walrus-en-female.mp3",
+    "duration": 5.904,
+    "peak": 0.5471,
+    "rms": 0.1199,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/walrus-en-male.mp3",
+    "duration": 5.664,
+    "peak": 0.6119,
+    "rms": 0.0974,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/walrus-en.mp3",
+    "duration": 8.832,
+    "peak": 0.5805,
+    "rms": 0.0804,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/walrus-yue-bright.mp3",
+    "duration": 10.944,
+    "peak": 0.5857,
+    "rms": 0.0802,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/walrus-yue-male.mp3",
+    "duration": 9.672,
+    "peak": 0.5237,
+    "rms": 0.0708,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/walrus-yue.mp3",
+    "duration": 10.152,
+    "peak": 0.4197,
+    "rms": 0.0623,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/warthog-cmn-bright.mp3",
+    "duration": 6.816,
+    "peak": 0.5529,
+    "rms": 0.0593,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/warthog-cmn-male.mp3",
+    "duration": 6.816,
+    "peak": 0.4876,
+    "rms": 0.0574,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/warthog-cmn.mp3",
+    "duration": 6.432,
+    "peak": 0.5696,
+    "rms": 0.0943,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/warthog-en-female.mp3",
+    "duration": 4.968,
+    "peak": 0.6068,
+    "rms": 0.1254,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/warthog-en-male.mp3",
+    "duration": 4.512,
+    "peak": 0.5829,
+    "rms": 0.0954,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/warthog-en.mp3",
+    "duration": 7.848,
+    "peak": 0.551,
+    "rms": 0.0743,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/warthog-yue-bright.mp3",
+    "duration": 8.832,
+    "peak": 0.5876,
+    "rms": 0.0849,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/warthog-yue-male.mp3",
+    "duration": 7.752,
+    "peak": 0.5275,
+    "rms": 0.0723,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/warthog-yue.mp3",
+    "duration": 8.328,
+    "peak": 0.3779,
+    "rms": 0.0584,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/whale-cmn-bright.mp3",
+    "duration": 9.552,
+    "peak": 0.5637,
+    "rms": 0.0608,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/whale-cmn-male.mp3",
+    "duration": 9.192,
+    "peak": 0.5803,
+    "rms": 0.0497,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/whale-cmn.mp3",
+    "duration": 8.976,
+    "peak": 0.587,
+    "rms": 0.09,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/whale-en-female.mp3",
+    "duration": 6.408,
+    "peak": 0.5937,
+    "rms": 0.1314,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/whale-en-male.mp3",
+    "duration": 5.736,
+    "peak": 0.6103,
+    "rms": 0.0939,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/whale-en.mp3",
+    "duration": 10.08,
+    "peak": 0.538,
+    "rms": 0.0774,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/whale-yue-bright.mp3",
+    "duration": 12.672,
+    "peak": 0.5477,
+    "rms": 0.0812,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/whale-yue-male.mp3",
+    "duration": 11.04,
+    "peak": 0.562,
+    "rms": 0.0699,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/whale-yue.mp3",
+    "duration": 11.736,
+    "peak": 0.4509,
+    "rms": 0.0606,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/zebra-cmn-bright.mp3",
+    "duration": 6.768,
+    "peak": 0.6129,
+    "rms": 0.0621,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/zebra-cmn-male.mp3",
+    "duration": 6.744,
+    "peak": 0.5746,
+    "rms": 0.0493,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/zebra-cmn.mp3",
+    "duration": 6.432,
+    "peak": 0.6117,
+    "rms": 0.0902,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/zebra-en-female.mp3",
+    "duration": 5.136,
+    "peak": 0.5567,
+    "rms": 0.1242,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/zebra-en-male.mp3",
+    "duration": 4.536,
+    "peak": 0.5412,
+    "rms": 0.0934,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/zebra-en.mp3",
+    "duration": 7.92,
+    "peak": 0.5661,
+    "rms": 0.0763,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/zebra-yue-bright.mp3",
+    "duration": 8.448,
+    "peak": 0.5654,
+    "rms": 0.0868,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/zebra-yue-male.mp3",
+    "duration": 7.632,
+    "peak": 0.5292,
+    "rms": 0.065,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/voice/zebra-yue.mp3",
+    "duration": 8.28,
+    "peak": 0.4645,
+    "rms": 0.0632,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/arcticfox.mp3",
+    "duration": 2.6,
+    "peak": 0.5752,
+    "rms": 0.0682,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/boa.mp3",
+    "duration": 2.6,
+    "peak": 0.2533,
+    "rms": 0.0407,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/buffalo.mp3",
+    "duration": 2.6,
+    "peak": 0.7359,
+    "rms": 0.054,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/capybara.mp3",
+    "duration": 2.6,
+    "peak": 0.7366,
+    "rms": 0.0771,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/cheetah.mp3",
+    "duration": 2.002,
+    "peak": 0.2776,
+    "rms": 0.0957,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/crocodile.mp3",
+    "duration": 2.6,
+    "peak": 0.4907,
+    "rms": 0.0702,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/dolphin.mp3",
+    "duration": 2.1,
+    "peak": 0.5373,
+    "rms": 0.0589,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/elephant.mp3",
+    "duration": 1.437,
+    "peak": 0.3291,
+    "rms": 0.057,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/flamingo.mp3",
+    "duration": 2.1,
+    "peak": 0.3124,
+    "rms": 0.0513,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/frog.mp3",
+    "duration": 2.1,
+    "peak": 0.5245,
+    "rms": 0.0642,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/gazelle.mp3",
+    "duration": 2.6,
+    "peak": 0.4586,
+    "rms": 0.0347,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/giraffe.mp3",
+    "duration": 2.1,
+    "peak": 0.4387,
+    "rms": 0.1018,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/gorilla.mp3",
+    "duration": 2.6,
+    "peak": 0.3328,
+    "rms": 0.0714,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/hippo.mp3",
+    "duration": 2.6,
+    "peak": 0.4794,
+    "rms": 0.0752,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/hummingbird.mp3",
+    "duration": 2.6,
+    "peak": 0.4538,
+    "rms": 0.0784,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/jaguar.mp3",
+    "duration": 1.39,
+    "peak": 0.5219,
+    "rms": 0.0276,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/leopard.mp3",
+    "duration": 0.448,
+    "peak": 0.3656,
+    "rms": 0.0616,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/lion.mp3",
+    "duration": 2.543,
+    "peak": 0.1963,
+    "rms": 0.0855,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/macaw.mp3",
+    "duration": 2.6,
+    "peak": 0.3603,
+    "rms": 0.0356,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/meerkat.mp3",
+    "duration": 2.1,
+    "peak": 0.6948,
+    "rms": 0.067,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/monkey.mp3",
+    "duration": 2.6,
+    "peak": 0.399,
+    "rms": 0.0532,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/orangutan.mp3",
+    "duration": 2.511,
+    "peak": 0.5233,
+    "rms": 0.0695,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/otter.mp3",
+    "duration": 2.6,
+    "peak": 0.3192,
+    "rms": 0.0457,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/penguin.mp3",
+    "duration": 2.1,
+    "peak": 0.3308,
+    "rms": 0.0538,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/polarbear.mp3",
+    "duration": 2.6,
+    "peak": 0.2468,
+    "rms": 0.0781,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/rhino.mp3",
+    "duration": 2.6,
+    "peak": 0.3883,
+    "rms": 0.0786,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/seal.mp3",
+    "duration": 2.6,
+    "peak": 0.3436,
+    "rms": 0.0714,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/tapir.mp3",
+    "duration": 2.553,
+    "peak": 0.4687,
+    "rms": 0.048,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/tiger.mp3",
+    "duration": 2.6,
+    "peak": 0.3675,
+    "rms": 0.0794,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/toucan.mp3",
+    "duration": 2.037,
+    "peak": 0.5392,
+    "rms": 0.0599,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/walrus.mp3",
+    "duration": 2.6,
+    "peak": 0.4554,
+    "rms": 0.109,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/warthog.mp3",
+    "duration": 2.1,
+    "peak": 0.1022,
+    "rms": 0.0554,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/whale.mp3",
+    "duration": 2.6,
+    "peak": 0.2926,
+    "rms": 0.0807,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "file": "geo/assets/calls/zebra.mp3",
+    "duration": 2.1,
+    "peak": 0.3205,
+    "rms": 0.0753,
+    "ok": true,
+    "error": ""
+  }
+]

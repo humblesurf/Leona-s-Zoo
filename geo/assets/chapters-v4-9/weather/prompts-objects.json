@@ -1,0 +1,20 @@
+[
+  {
+    "chapter": "weather",
+    "id": "wxcloud",
+    "prompt": "Use case: stylized-concept. Asset type: single isolated weather cloud transparent cutout for a toddler weather exploration game. One large beautiful fluffy cumulus cloud, believable cloud volumes with several rounded lobes fused together, painterly richly rendered 3D volume, luminous ivory top and very soft cool pale blue lower shade, natural irregular silhouette. Warm friendly look without a face; no cartoon outlines, no eyes, no mouth, no plastic object, no text. Entire cloud centered and complete, wide rectangular 1536x1024 composition with 10% genuine transparent alpha margin. Only the cloud: no Sun, no rainbow, no rain drops, no sky, no ground, no shadow painted outside the object, no white rectangular backdrop. Style coherent with detailed natural painted grassland/rainforest panoramas and low-poly material, crisp soft volume, not a flat vector sticker.",
+    "mode": "builtinimagegen"
+  },
+  {
+    "chapter": "weather",
+    "id": "wxumbrella",
+    "prompt": "Use case: stylized-concept. Asset type: complete single open umbrella cutout for a toddler interactive weather park. A beautiful practical open rain umbrella standing handle downward, no human holding it. Rounded fabric canopy with large alternating soft coral-red and sunny yellow panels, clearly connected to one metal central shaft and smooth curved dark teal handle. Seen front/three-quarter at ordinary ground-level eye height, entire canopy, shaft and curled handle complete in frame. Natural stretched fabric panel seams and gentle volumetric lighting, richly painted 3D / softly low-poly textured illustration matching the game grassland objects; not flat clipart, not photoreal product photo, no face. Centered tall cutout with 10% true transparent margin, no cast shadow, no rain, no cloud, no text, no ground or backdrop, no border. 1254x1254 or higher.",
+    "mode": "builtinimagegen"
+  },
+  {
+    "chapter": "weather",
+    "id": "wxleaves",
+    "prompt": "Use case: illustration-story. Asset type: one transparent cutout small natural cluster of autumn leaves for a toddler seasons exploration game. A single slim natural brown twig carrying three different sized warm autumn leaves: one red-orange maple leaf, two golden yellow and amber leaves. Correct leaf veins and thin petioles joined to the small twig; leaves have gently curved thickness and dimensional texture. Keep the cluster light and airy, diagonal from lower-left to upper-right, separated leaf silhouettes recognizable. Richly painted 3D, softly faceted natural material matching finely illustrated meadow game background, no flat vector outline. Whole twig and every leaf fully in frame, 12% truly transparent alpha margin, no ground, no tree trunk, no other objects, no face, no text, no picture frame, no cast shadow outside cluster. 1254x1254 or greater.",
+    "mode": "builtinimagegen"
+  }
+]

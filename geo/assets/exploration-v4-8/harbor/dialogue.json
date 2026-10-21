@@ -1,0 +1,86 @@
+{
+  "harborferry": {
+    "name": {
+      "en": "Ferry",
+      "cmn": "渡轮",
+      "yue": "渡輪"
+    },
+    "emoji": "⛴️",
+    "intro": {
+      "en": "I'm a ferry. I carry people across the water. Off we go!",
+      "cmn": "我是渡轮，载着大家过海。出发啦！",
+      "yue": "我係渡輪，載住大家過海。出發喇！"
+    },
+    "kind": "discovery"
+  },
+  "harborsailboat": {
+    "name": {
+      "en": "Sailboat",
+      "cmn": "帆船",
+      "yue": "帆船"
+    },
+    "emoji": "⛵",
+    "intro": {
+      "en": "I'm a sailboat. The wind fills my sail and moves me along.",
+      "cmn": "我是帆船，风吹起船帆，带着我向前走。",
+      "yue": "我係帆船，風吹起船帆，帶住我向前行。"
+    },
+    "kind": "discovery"
+  },
+  "harborfishingboat": {
+    "name": {
+      "en": "Fishing boat",
+      "cmn": "渔船",
+      "yue": "漁船"
+    },
+    "emoji": "🚤",
+    "intro": {
+      "en": "I'm a fishing boat. My net helps fishers catch fish.",
+      "cmn": "我是渔船，船上的渔网帮渔民捕鱼。",
+      "yue": "我係漁船，船上嘅漁網幫漁民捉魚。"
+    },
+    "kind": "discovery"
+  },
+  "harborlighthouse": {
+    "name": {
+      "en": "Lighthouse",
+      "cmn": "灯塔",
+      "yue": "燈塔"
+    },
+    "emoji": "💡",
+    "intro": {
+      "en": "I'm a lighthouse. My light helps boats find their way.",
+      "cmn": "我是灯塔，我的灯光给船指路。",
+      "yue": "我係燈塔，我嘅燈光幫船搵路。"
+    },
+    "kind": "discovery"
+  },
+  "harborbuoy": {
+    "name": {
+      "en": "Buoy",
+      "cmn": "浮标",
+      "yue": "浮標"
+    },
+    "emoji": "🔴",
+    "intro": {
+      "en": "I'm a buoy. I float on the water and mark the way for boats.",
+      "cmn": "我是浮标，浮在水上，为船标记路线。",
+      "yue": "我係浮標，浮喺水面，幫船標記路線。"
+    },
+    "kind": "discovery"
+  },
+  "harborpier": {
+    "name": {
+      "en": "Pier",
+      "cmn": "码头",
+      "yue": "碼頭"
+    },
+    "emoji": "⚓",
+    "intro": {
+      "en": "I'm a pier. Boats stop beside me so people can get on and off.",
+      "cmn": "我是码头，船靠在我旁边，大家就能上船下船。",
+      "yue": "我係碼頭，船泊喺我旁邊，大家就可以上船落船。"
+    },
+    "kind": "discovery"
+  }
+}

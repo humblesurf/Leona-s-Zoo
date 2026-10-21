@@ -1,0 +1,120 @@
+{
+  "tool": "built-in image_gen",
+  "poses": 4,
+  "crop": {
+    "left": 87,
+    "top": 71,
+    "width": 755,
+    "height": 495
+  },
+  "viewport": {
+    "w": 755,
+    "h": 495
+  },
+  "waterlineRegistration": "common transparent canvas, no visible legs below water",
+  "wholePoseBounds": [
+    [
+      74,
+      25,
+      734,
+      471
+    ],
+    [
+      790,
+      77,
+      1516,
+      471
+    ],
+    [
+      72,
+      514,
+      733,
+      979
+    ],
+    [
+      818,
+      517,
+      1495,
+      978
+    ]
+  ],
+  "animation": {
+    "poster": "assets/animation/v4-11-motion/goose/poster.webp",
+    "sheet": "assets/animation/v4-11-motion/goose/frames.webp",
+    "viewport": {
+      "w": 755,
+      "h": 495
+    },
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 755,
+        "h": 495,
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "x": 755,
+        "y": 0,
+        "w": 755,
+        "h": 495,
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "x": 0,
+        "y": 495,
+        "w": 755,
+        "h": 495,
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "x": 755,
+        "y": 495,
+        "w": 755,
+        "h": 495,
+        "dx": 0,
+        "dy": 0
+      }
+    ],
+    "face": -1,
+    "travel": 0.2,
+    "loop": false,
+    "rig": false,
+    "walk": false,
+    "hop": 0,
+    "fps": 18,
+    "duration": 3400,
+    "label": "水里轻轻游、抬头鸣叫",
+    "cel": {
+      "sequence": [
+        0,
+        1,
+        0,
+        2,
+        3,
+        0
+      ],
+      "holdsMs": [
+        460,
+        500,
+        400,
+        700,
+        600,
+        740
+      ],
+      "advance": [
+        0,
+        0.17,
+        0.34,
+        0.51,
+        0.73,
+        1
+      ],
+      "restFrame": 0,
+      "motion": "swim"
+    }
+  }
+}

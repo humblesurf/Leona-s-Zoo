@@ -1,0 +1,151 @@
+{
+  "errors": [],
+  "cases": 20,
+  "mute": true,
+  "cancel": true,
+  "oldAnimalDelegate": true,
+  "offlineAssetResolution": true,
+  "metadataVM": true,
+  "checks": [
+    {
+      "id": "musicpiano",
+      "tempo": "slow",
+      "weight": "soft",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicpiano",
+      "tempo": "slow",
+      "weight": "strong",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicpiano",
+      "tempo": "fast",
+      "weight": "soft",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicpiano",
+      "tempo": "fast",
+      "weight": "strong",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicdrum",
+      "tempo": "slow",
+      "weight": "soft",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicdrum",
+      "tempo": "slow",
+      "weight": "strong",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicdrum",
+      "tempo": "fast",
+      "weight": "soft",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicdrum",
+      "tempo": "fast",
+      "weight": "strong",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicxylophone",
+      "tempo": "slow",
+      "weight": "soft",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicxylophone",
+      "tempo": "slow",
+      "weight": "strong",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicxylophone",
+      "tempo": "fast",
+      "weight": "soft",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicxylophone",
+      "tempo": "fast",
+      "weight": "strong",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musictambourine",
+      "tempo": "slow",
+      "weight": "soft",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musictambourine",
+      "tempo": "slow",
+      "weight": "strong",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musictambourine",
+      "tempo": "fast",
+      "weight": "soft",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musictambourine",
+      "tempo": "fast",
+      "weight": "strong",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicmaracas",
+      "tempo": "slow",
+      "weight": "soft",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicmaracas",
+      "tempo": "slow",
+      "weight": "strong",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicmaracas",
+      "tempo": "fast",
+      "weight": "soft",
+      "beats": 4,
+      "done": 1
+    },
+    {
+      "id": "musicmaracas",
+      "tempo": "fast",
+      "weight": "strong",
+      "beats": 4,
+      "done": 1
+    }
+  ]
+}

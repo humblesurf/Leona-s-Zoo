@@ -1,0 +1,751 @@
+{
+  "version": "v4.12",
+  "animal": "rhino",
+  "referenceSource": "rhino-pose-7.png",
+  "referenceCanvasSize": [
+    1625,
+    968
+  ],
+  "selectedFrames": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9
+  ],
+  "coordinateSpace": "Actual original source pixels. Pair panels start at x0,y0, so their landmark coordinates also address the original pair PNG.",
+  "readyForPacking": true,
+  "method": "Four stable anatomical body landmarks, NCC local correspondence. All unchanged single originals lock scale1; pair panels and explicitly authorized replacement zebra9 fit one uniform scale from body landmarks. Body-landmark translation. No foot, ground or outer-bounds fitting, no rotation, per-axis scale or nonlinear deformation.",
+  "transformFormula": "masterX = sourceX * uniformScaleToMaster + translationToMaster[0]; masterY = sourceY * uniformScaleToMaster + translationToMaster[1]. Then use one common output scale/offset for every complete body.",
+  "referenceLandmarks": {
+    "nearEyeCenter": [
+      349,
+      394
+    ],
+    "nearEarTip": [
+      531,
+      36
+    ],
+    "shoulderBackCrest": [
+      735,
+      103
+    ],
+    "tailRootDorsalAttachment": [
+      1342,
+      327
+    ]
+  },
+  "landmarkDefinitions": {
+    "nearEyeCenter": "Center of nearest visible eye/pupil.",
+    "nearEarTip": "Tip of nearest foreground ear.",
+    "shoulderBackCrest": "Dorsal shoulder/back crest directly behind the foreground ear.",
+    "tailRootDorsalAttachment": "Dorsal tail-shaft attachment at the posterior rump outline."
+  },
+  "landmarkWeights": {
+    "nearEyeCenter": 4.0,
+    "nearEarTip": 2.0,
+    "shoulderBackCrest": 2.0,
+    "tailRootDorsalAttachment": 3.0
+  },
+  "frames": [
+    {
+      "frame": 0,
+      "phase": 0,
+      "source": "rhino-pair-01.png",
+      "originalSourceSize": [
+        2086,
+        754
+      ],
+      "panel": [
+        0,
+        0,
+        1043,
+        754
+      ],
+      "alphaEmptySplitGap": [
+        1012,
+        1074
+      ],
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          222.384,
+          331.384
+        ],
+        "nearEarTip": [
+          331.157,
+          104.094
+        ],
+        "shoulderBackCrest": [
+          458.931,
+          142.384
+        ],
+        "tailRootDorsalAttachment": [
+          847.673,
+          285.157
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.91439,
+        "nearEarTip": 0.96723,
+        "shoulderBackCrest": 0.97638,
+        "tailRootDorsalAttachment": 0.98709
+      },
+      "uniformScaleToMaster": 1.58298187,
+      "translationToMaster": [
+        1.72161,
+        -127.0759
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.58298187,
+      "diagnosticUniformBodyLandmarkFit": {
+        "uniformScaleToMaster": 1.58298187,
+        "translationToMaster": [
+          1.72161,
+          -127.0759
+        ],
+        "weightedRmsMasterPixels": 5.7336,
+        "maximumLandmarkResidualMasterPixels": 8.2566,
+        "applied": true
+      },
+      "scalePolicy": "Uniform fit from body landmarks for pair panel",
+      "templateCameraRatioSeed": 1.0,
+      "sourceReviewStatus": "Selected source",
+      "rawAlphaVisibleBounds": [
+        33,
+        103,
+        1012,
+        662
+      ],
+      "sourceEdgeContentCounts": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          4.7515,
+          3.499
+        ],
+        "nearEarTip": [
+          -5.0629,
+          1.703
+        ],
+        "shoulderBackCrest": [
+          -6.7989,
+          -4.6846
+        ],
+        "tailRootDorsalAttachment": [
+          1.5726,
+          -2.6775
+        ]
+      },
+      "weightedRmsMasterPixels": 5.7336,
+      "maximumLandmarkResidualMasterPixels": 8.2566
+    },
+    {
+      "frame": 2,
+      "phase": 0.17,
+      "source": "rhino-pose-2.png",
+      "originalSourceSize": [
+        1625,
+        968
+      ],
+      "panel": null,
+      "alphaEmptySplitGap": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          349.0,
+          394.0
+        ],
+        "nearEarTip": [
+          531.0,
+          36.0
+        ],
+        "shoulderBackCrest": [
+          736.0,
+          103.0
+        ],
+        "tailRootDorsalAttachment": [
+          1338.0,
+          324.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.97577,
+        "nearEarTip": 0.98805,
+        "shoulderBackCrest": 0.98489,
+        "tailRootDorsalAttachment": 0.99096
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        0.90909,
+        0.81818
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.00397923,
+      "diagnosticUniformBodyLandmarkFit": {
+        "uniformScaleToMaster": 1.00397923,
+        "translationToMaster": [
+          -1.96464,
+          -0.20412
+        ],
+        "weightedRmsMasterPixels": 1.6194,
+        "maximumLandmarkResidualMasterPixels": 2.0191,
+        "applied": false
+      },
+      "scalePolicy": "Locked at 1: same master camera and size",
+      "templateCameraRatioSeed": 1.0,
+      "sourceReviewStatus": "Selected source",
+      "rawAlphaVisibleBounds": [
+        35,
+        34,
+        1593,
+        912
+      ],
+      "sourceEdgeContentCounts": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          0.9091,
+          0.8182
+        ],
+        "nearEarTip": [
+          0.9091,
+          0.8182
+        ],
+        "shoulderBackCrest": [
+          1.9091,
+          0.8182
+        ],
+        "tailRootDorsalAttachment": [
+          -3.0909,
+          -2.1818
+        ]
+      },
+      "weightedRmsMasterPixels": 2.3461,
+      "maximumLandmarkResidualMasterPixels": 3.7834
+    },
+    {
+      "frame": 3,
+      "phase": 0.25,
+      "source": "rhino-pose-3.png",
+      "originalSourceSize": [
+        1624,
+        969
+      ],
+      "panel": null,
+      "alphaEmptySplitGap": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          349.0,
+          394.0
+        ],
+        "nearEarTip": [
+          531.0,
+          34.0
+        ],
+        "shoulderBackCrest": [
+          737.0,
+          102.0
+        ],
+        "tailRootDorsalAttachment": [
+          1338.0,
+          323.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.9725,
+        "nearEarTip": 0.96802,
+        "shoulderBackCrest": 0.97079,
+        "tailRootDorsalAttachment": 0.98134
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        0.72727,
+        1.63636
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.00346091,
+      "diagnosticUniformBodyLandmarkFit": {
+        "uniformScaleToMaster": 1.00346091,
+        "translationToMaster": [
+          -1.77277,
+          0.75006
+        ],
+        "weightedRmsMasterPixels": 2.2305,
+        "maximumLandmarkResidualMasterPixels": 2.7798,
+        "applied": false
+      },
+      "scalePolicy": "Locked at 1: same master camera and size",
+      "templateCameraRatioSeed": 1.0,
+      "sourceReviewStatus": "Selected source",
+      "rawAlphaVisibleBounds": [
+        34,
+        33,
+        1593,
+        916
+      ],
+      "sourceEdgeContentCounts": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          0.7273,
+          1.6364
+        ],
+        "nearEarTip": [
+          0.7273,
+          -0.3636
+        ],
+        "shoulderBackCrest": [
+          2.7273,
+          0.6364
+        ],
+        "tailRootDorsalAttachment": [
+          -3.2727,
+          -2.3636
+        ]
+      },
+      "weightedRmsMasterPixels": 2.6753,
+      "maximumLandmarkResidualMasterPixels": 4.037
+    },
+    {
+      "frame": 4,
+      "phase": 0.375,
+      "source": "rhino-pose-4.png",
+      "originalSourceSize": [
+        1624,
+        969
+      ],
+      "panel": null,
+      "alphaEmptySplitGap": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          349.0,
+          395.0
+        ],
+        "nearEarTip": [
+          531.0,
+          32.0
+        ],
+        "shoulderBackCrest": [
+          736.0,
+          101.0
+        ],
+        "tailRootDorsalAttachment": [
+          1338.0,
+          322.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.95857,
+        "nearEarTip": 0.93087,
+        "shoulderBackCrest": 0.95498,
+        "tailRootDorsalAttachment": 0.97048
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        0.90909,
+        2.09091
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.00268688,
+      "diagnosticUniformBodyLandmarkFit": {
+        "uniformScaleToMaster": 1.00268688,
+        "translationToMaster": [
+          -1.03133,
+          1.40404
+        ],
+        "weightedRmsMasterPixels": 2.9746,
+        "maximumLandmarkResidualMasterPixels": 3.4666,
+        "applied": false
+      },
+      "scalePolicy": "Locked at 1: same master camera and size",
+      "templateCameraRatioSeed": 1.0,
+      "sourceReviewStatus": "Selected source",
+      "rawAlphaVisibleBounds": [
+        32,
+        31,
+        1594,
+        915
+      ],
+      "sourceEdgeContentCounts": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          0.9091,
+          3.0909
+        ],
+        "nearEarTip": [
+          0.9091,
+          -1.9091
+        ],
+        "shoulderBackCrest": [
+          1.9091,
+          0.0909
+        ],
+        "tailRootDorsalAttachment": [
+          -3.0909,
+          -2.9091
+        ]
+      },
+      "weightedRmsMasterPixels": 3.1883,
+      "maximumLandmarkResidualMasterPixels": 4.2446
+    },
+    {
+      "frame": 5,
+      "phase": 0.5,
+      "source": "rhino-pose-5.png",
+      "originalSourceSize": [
+        1624,
+        969
+      ],
+      "panel": null,
+      "alphaEmptySplitGap": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          349.0,
+          394.0
+        ],
+        "nearEarTip": [
+          531.0,
+          31.0
+        ],
+        "shoulderBackCrest": [
+          737.0,
+          101.0
+        ],
+        "tailRootDorsalAttachment": [
+          1339.0,
+          325.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.94808,
+        "nearEarTip": 0.89977,
+        "shoulderBackCrest": 0.9197,
+        "tailRootDorsalAttachment": 0.95645
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        0.45455,
+        1.81818
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.00150895,
+      "diagnosticUniformBodyLandmarkFit": {
+        "uniformScaleToMaster": 1.00150895,
+        "translationToMaster": [
+          -0.63588,
+          1.43203
+        ],
+        "weightedRmsMasterPixels": 2.3699,
+        "maximumLandmarkResidualMasterPixels": 3.5251,
+        "applied": false
+      },
+      "scalePolicy": "Locked at 1: same master camera and size",
+      "templateCameraRatioSeed": 1.0,
+      "sourceReviewStatus": "Selected source",
+      "rawAlphaVisibleBounds": [
+        30,
+        31,
+        1597,
+        916
+      ],
+      "sourceEdgeContentCounts": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          0.4545,
+          1.8182
+        ],
+        "nearEarTip": [
+          0.4545,
+          -3.1818
+        ],
+        "shoulderBackCrest": [
+          2.4545,
+          -0.1818
+        ],
+        "tailRootDorsalAttachment": [
+          -2.5455,
+          -0.1818
+        ]
+      },
+      "weightedRmsMasterPixels": 2.4562,
+      "maximumLandmarkResidualMasterPixels": 3.2141
+    },
+    {
+      "frame": 7,
+      "phase": 0.67,
+      "source": "rhino-pose-7.png",
+      "originalSourceSize": [
+        1625,
+        968
+      ],
+      "panel": null,
+      "alphaEmptySplitGap": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          349,
+          394
+        ],
+        "nearEarTip": [
+          531,
+          36
+        ],
+        "shoulderBackCrest": [
+          735,
+          103
+        ],
+        "tailRootDorsalAttachment": [
+          1342,
+          327
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 1.0,
+        "nearEarTip": 1.0,
+        "shoulderBackCrest": 1.0,
+        "tailRootDorsalAttachment": 1.0
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        0.0,
+        0.0
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.0,
+      "diagnosticUniformBodyLandmarkFit": {
+        "uniformScaleToMaster": 1.0,
+        "translationToMaster": [
+          0.0,
+          0.0
+        ],
+        "weightedRmsMasterPixels": 0.0,
+        "maximumLandmarkResidualMasterPixels": 0.0,
+        "applied": false
+      },
+      "scalePolicy": "Locked at 1: same master camera and size",
+      "templateCameraRatioSeed": 1.0,
+      "sourceReviewStatus": "Selected source",
+      "rawAlphaVisibleBounds": [
+        36,
+        34,
+        1585,
+        911
+      ],
+      "sourceEdgeContentCounts": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          0.0,
+          0.0
+        ],
+        "nearEarTip": [
+          0.0,
+          0.0
+        ],
+        "shoulderBackCrest": [
+          0.0,
+          0.0
+        ],
+        "tailRootDorsalAttachment": [
+          0.0,
+          0.0
+        ]
+      },
+      "weightedRmsMasterPixels": 0.0,
+      "maximumLandmarkResidualMasterPixels": 0.0
+    },
+    {
+      "frame": 8,
+      "phase": 0.75,
+      "source": "rhino-pose-8-repair-a.png",
+      "originalSourceSize": [
+        1624,
+        969
+      ],
+      "panel": null,
+      "alphaEmptySplitGap": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          349.0,
+          394.0
+        ],
+        "nearEarTip": [
+          531.0,
+          30.0
+        ],
+        "shoulderBackCrest": [
+          736.0,
+          101.0
+        ],
+        "tailRootDorsalAttachment": [
+          1339.0,
+          321.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.97399,
+        "nearEarTip": 0.89871,
+        "shoulderBackCrest": 0.94096,
+        "tailRootDorsalAttachment": 0.97909
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        0.63636,
+        3.09091
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.0016938,
+      "diagnosticUniformBodyLandmarkFit": {
+        "uniformScaleToMaster": 1.0016938,
+        "translationToMaster": [
+          -0.58733,
+          2.65961
+        ],
+        "weightedRmsMasterPixels": 3.0404,
+        "maximumLandmarkResidualMasterPixels": 3.327,
+        "applied": false
+      },
+      "scalePolicy": "Locked at 1: same master camera and size",
+      "templateCameraRatioSeed": 1.0,
+      "sourceReviewStatus": "Selected source",
+      "rawAlphaVisibleBounds": [
+        34,
+        29,
+        1586,
+        916
+      ],
+      "sourceEdgeContentCounts": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          0.6364,
+          3.0909
+        ],
+        "nearEarTip": [
+          0.6364,
+          -2.9091
+        ],
+        "shoulderBackCrest": [
+          1.6364,
+          1.0909
+        ],
+        "tailRootDorsalAttachment": [
+          -2.3636,
+          -2.9091
+        ]
+      },
+      "weightedRmsMasterPixels": 3.1255,
+      "maximumLandmarkResidualMasterPixels": 3.7483
+    },
+    {
+      "frame": 9,
+      "phase": 0.875,
+      "source": "rhino-pose-9.png",
+      "originalSourceSize": [
+        1624,
+        969
+      ],
+      "panel": null,
+      "alphaEmptySplitGap": null,
+      "sourcePixelLandmarks": {
+        "nearEyeCenter": [
+          349.0,
+          394.0
+        ],
+        "nearEarTip": [
+          529.0,
+          27.0
+        ],
+        "shoulderBackCrest": [
+          734.0,
+          100.0
+        ],
+        "tailRootDorsalAttachment": [
+          1339.0,
+          322.0
+        ]
+      },
+      "nccScores": {
+        "nearEyeCenter": 0.95833,
+        "nearEarTip": 0.86253,
+        "shoulderBackCrest": 0.92542,
+        "tailRootDorsalAttachment": 0.96812
+      },
+      "uniformScaleToMaster": 1.0,
+      "translationToMaster": [
+        1.36364,
+        3.54545
+      ],
+      "diagnosticUnconstrainedLandmarkScale": 1.00040275,
+      "diagnosticUniformBodyLandmarkFit": {
+        "uniformScaleToMaster": 1.00040275,
+        "translationToMaster": [
+          1.07296,
+          3.44308
+        ],
+        "weightedRmsMasterPixels": 3.4765,
+        "maximumLandmarkResidualMasterPixels": 5.5918,
+        "applied": false
+      },
+      "scalePolicy": "Locked at 1: same master camera and size",
+      "templateCameraRatioSeed": 1.0,
+      "sourceReviewStatus": "Selected source",
+      "rawAlphaVisibleBounds": [
+        33,
+        28,
+        1587,
+        918
+      ],
+      "sourceEdgeContentCounts": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "landmarkResidualsMasterPixels": {
+        "nearEyeCenter": [
+          1.3636,
+          3.5455
+        ],
+        "nearEarTip": [
+          -0.6364,
+          -5.4545
+        ],
+        "shoulderBackCrest": [
+          0.3636,
+          0.5455
+        ],
+        "tailRootDorsalAttachment": [
+          -1.6364,
+          -1.4545
+        ]
+      },
+      "weightedRmsMasterPixels": 3.4808,
+      "maximumLandmarkResidualMasterPixels": 5.4915
+    }
+  ]
+}

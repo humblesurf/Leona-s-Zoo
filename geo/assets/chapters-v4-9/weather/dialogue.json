@@ -1,0 +1,114 @@
+{
+  "wxsun": {
+    "name": {
+      "en": "Sunshine",
+      "cmn": "阳光",
+      "yue": "陽光"
+    },
+    "intro": {
+      "en": "I'm sunshine. Let's enjoy a bright, sunny day.",
+      "cmn": "我是阳光。今天晴朗又明亮，一起感受暖暖的太阳吧。",
+      "yue": "我係陽光。今日晴朗又光猛，一齊感受暖笠笠嘅太陽啦。"
+    },
+    "emoji": "☀️",
+    "kind": "discovery"
+  },
+  "wxcloud": {
+    "name": {
+      "en": "Cloud",
+      "cmn": "云朵",
+      "yue": "雲朵"
+    },
+    "intro": {
+      "en": "I'm a cloud. Lots of tiny water drops or ice crystals make me look fluffy.",
+      "cmn": "我是云朵。好多小小的水滴或冰晶，让我看起来软绵绵的。",
+      "yue": "我係雲朵。好多細細嘅水滴或者冰晶，令我睇落軟綿綿。"
+    },
+    "emoji": "☁️",
+    "kind": "discovery"
+  },
+  "wxrain": {
+    "name": {
+      "en": "Rain",
+      "cmn": "雨滴",
+      "yue": "雨滴"
+    },
+    "intro": {
+      "en": "We're raindrops, falling from a cloud. Pitter-patter on the ground!",
+      "cmn": "我们是雨滴，从云里落下来。滴答滴答，落到地上啦！",
+      "yue": "我哋係雨滴，喺雲入面跌落嚟。滴答滴答，落到地下啦！"
+    },
+    "emoji": "🌧️",
+    "kind": "discovery"
+  },
+  "wxwind": {
+    "name": {
+      "en": "Wind",
+      "cmn": "风",
+      "yue": "風"
+    },
+    "intro": {
+      "en": "I'm wind, moving air. See the leaves drifting along with me!",
+      "cmn": "我是风，是流动的空气。看，树叶跟着我飘起来啦！",
+      "yue": "我係風，係流動嘅空氣。睇，樹葉跟住我飄起嚟啦！"
+    },
+    "emoji": "🍃",
+    "kind": "discovery"
+  },
+  "wxrainbow": {
+    "name": {
+      "en": "Rainbow",
+      "cmn": "彩虹",
+      "yue": "彩虹"
+    },
+    "intro": {
+      "en": "I'm a rainbow. Sunlight and raindrops make my beautiful colors.",
+      "cmn": "我是彩虹。阳光遇到雨滴，就能出现我漂亮的颜色。",
+      "yue": "我係彩虹。陽光遇到雨滴，就可以出現我靚靚嘅顏色。"
+    },
+    "emoji": "🌈",
+    "kind": "discovery"
+  },
+  "wxumbrella": {
+    "name": {
+      "en": "Umbrella",
+      "cmn": "雨伞",
+      "yue": "雨傘"
+    },
+    "intro": {
+      "en": "I'm an umbrella. Open me up to help keep the rain off you.",
+      "cmn": "我是雨伞。把我打开，就能帮你挡住雨滴啦。",
+      "yue": "我係雨傘。打開我，就可以幫你擋住雨滴啦。"
+    },
+    "emoji": "☂️",
+    "kind": "discovery"
+  },
+  "wxleaves": {
+    "name": {
+      "en": "Autumn leaves",
+      "cmn": "秋天的树叶",
+      "yue": "秋天嘅樹葉"
+    },
+    "intro": {
+      "en": "We're autumn leaves. Some trees turn red or golden before their leaves fall.",
+      "cmn": "我们是秋天的树叶。有些树叶会变红、变黄，再轻轻飘落下来。",
+      "yue": "我哋係秋天嘅樹葉。有啲樹葉會變紅、變黃，再輕輕飄落嚟。"
+    },
+    "emoji": "🍂",
+    "kind": "discovery"
+  },
+  "wxsnow": {
+    "name": {
+      "en": "Snow",
+      "cmn": "雪花",
+      "yue": "雪花"
+    },
+    "intro": {
+      "en": "We're snowflakes, made of tiny ice crystals. We fall gently when it's cold enough.",
+      "cmn": "我们是雪花，是小小的冰晶。天气足够冷时，我们会轻轻飘下来。",
+      "yue": "我哋係雪花，係細細嘅冰晶。天氣夠凍嗰陣，我哋會輕輕飄落嚟。"
+    },
+    "emoji": "❄️",
+    "kind": "discovery"
+  }
+}

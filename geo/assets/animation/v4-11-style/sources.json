@@ -1,0 +1,21 @@
+{
+  "lemur": {
+    "name": "Black-and-white ruffed lemur",
+    "source": "https://nationalzoo.si.edu/animals/black-and-white-ruffed-lemur",
+    "verified": [
+      "Madagascar forest habitat",
+      "fruit diet",
+      "long tail",
+      "black-and-white ruff with black tail, no ringed tail"
+    ]
+  },
+  "peacock": {
+    "name": "Male Indian peafowl",
+    "source": "https://nationalzoo.si.edu/animals/common-peafowl",
+    "verified": [
+      "blue head and neck",
+      "green eye-spotted train",
+      "male display fan"
+    ]
+  }
+}

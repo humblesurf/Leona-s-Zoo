@@ -1,0 +1,79 @@
+{
+  "scene": {
+    "id": "beach",
+    "label": "海边度假",
+    "numScreens": 5,
+    "bgAspect": 3,
+    "bgMirror": true,
+    "bgStrip": "assets/chapters-v4-10/beach/background.webp",
+    "ambience": "assets/audio/v4-9/beach.mp3",
+    "animals": [
+      {
+        "id": "beachumbrella",
+        "u": 0.055,
+        "feetY": 0.87,
+        "h": 0.42,
+        "flip": false,
+        "idle": "none",
+        "instance": "beachumbrella-main",
+        "kind": "discovery",
+        "facing": 1
+      },
+      {
+        "id": "beachbucket",
+        "u": 0.29,
+        "feetY": 0.85,
+        "h": 0.1848,
+        "flip": false,
+        "idle": "none",
+        "instance": "beachbucket-main",
+        "kind": "discovery",
+        "facing": 1
+      },
+      {
+        "id": "beachshovel",
+        "u": 0.41,
+        "feetY": 0.87,
+        "h": 0.168,
+        "flip": false,
+        "idle": "none",
+        "instance": "beachshovel-main",
+        "kind": "discovery",
+        "facing": 1
+      },
+      {
+        "id": "beachshell",
+        "u": 0.53,
+        "feetY": 0.88,
+        "h": 0.11760000000000001,
+        "flip": false,
+        "idle": "none",
+        "instance": "beachshell-main",
+        "kind": "discovery",
+        "facing": 1
+      },
+      {
+        "id": "beachcastle",
+        "u": 0.67,
+        "feetY": 0.88,
+        "h": 0.26039999999999996,
+        "flip": false,
+        "idle": "none",
+        "instance": "beachcastle-main",
+        "kind": "discovery",
+        "facing": 1
+      },
+      {
+        "id": "beachcrab",
+        "u": 0.82,
+        "feetY": 0.8300000000000001,
+        "h": 0.10079999999999999,
+        "flip": false,
+        "idle": "none",
+        "instance": "beachcrab-main",
+        "kind": "discovery",
+        "facing": 1
+      }
+    ]
+  }
+}

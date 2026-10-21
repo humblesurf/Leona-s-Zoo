@@ -1,0 +1,41 @@
+{
+  "columns": 2,
+  "rows": 4,
+  "cellSize": {
+    "w": 512,
+    "h": 260
+  },
+  "columnOrigins": [
+    0,
+    488
+  ],
+  "rowOrigins": [
+    104,
+    450,
+    817,
+    1162
+  ],
+  "cycle": [
+    0,
+    1,
+    3,
+    6,
+    5,
+    2,
+    4,
+    7
+  ],
+  "holdsMs": [
+    160,
+    120,
+    170,
+    125,
+    120,
+    120,
+    170,
+    125
+  ],
+  "componentExtraction": true,
+  "registrationQA": "Whole-row and whole-column atlas calibration from common character origins. Same crop/scale for every pose; no per-pose bbox centering, resizing or foot alignment.",
+  "temporalQA": "Painted four-limb silhouettes visually reviewed. Near/far foreleg leading role changes between key contact drawings. Runtime sequence still requires full-speed browser review before approval."
+}

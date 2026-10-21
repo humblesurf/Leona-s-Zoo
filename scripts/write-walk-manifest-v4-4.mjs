@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+import crypto from 'node:crypto';
+const state={window:{}};
+vm.runInNewContext(fs.readFileSync('geo/assets/quadruped-walk.js','utf8'),state);
+const checks=JSON.parse(fs.readFileSync('screenshots/v4-4/kinematic-review.json','utf8'));
+const manifest={version:'4.4',base:'4.3',scope:'Standing quadruped walking only',renderer:'2D rigid articulated cutout with continuous two-bone IK and planted stance feet',profiles:state.window.QuadrupedWalk.profiles,checks:checks.results.map(({frames,...r})=>r),sourceSha256:Object.fromEntries(['quadruped-walk.js','anims.js'].map(f=>[f,crypto.createHash('sha256').update(fs.readFileSync('geo/assets/'+f)).digest('hex')]))};
+fs.mkdirSync('geo/assets/animation/v4-4',{recursive:true});fs.writeFileSync('geo/assets/animation/v4-4/walking.json',JSON.stringify(manifest,null,2));
+const file='share/build-share-v4-4.mjs';let source=fs.readFileSync(file,'utf8');
+const start=source.indexOf('const readme='),end=source.indexOf("fs.writeFileSync(path.join(runtime,'README.txt')",start);
+const readme="Leona's ZOO · V4.4\n\n本轮仅修改 19 种站立四足角色的行走，在 V4.3 基础上继续修正，未采用 V5。\n直接打开 Leonas-Zoo-v4-4.html 可离线使用；ZIP 解压后打开 index.html。\n点击后保留放大效果，随后以连续关节姿态向前行走。步态围绕肩部/髋部展开；脚落地承重时固定在地面，抬脚后再向前摆动。身体速度在起步、停步时平滑变化；重复点击同一只动物不重置脚步。较大的动物使用较慢步频。\n美术仍是原有图片的二维分层关节动画，尚非完整三维模型。修正部分腿部定位、脚掌裁切和图层过渡。\n本轮未调整背景、菜市场、配音、音乐、动物数量或布局。\n网页开发版另有 geo/walk-review.html，可逐只选择角色，以正常速度或半速检查实际场景中的动作。\n素材来源与授权见 CREDITS.md。\n";
+source=source.slice(0,start)+'const readme='+JSON.stringify(readme)+';\n'+source.slice(end);fs.writeFileSync(file,source);

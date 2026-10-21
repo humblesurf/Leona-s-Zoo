@@ -1,0 +1,97 @@
+{
+  "id": "elephantcalf",
+  "dimensions": [
+    1114,
+    1411
+  ],
+  "components": [
+    {
+      "count": 88582,
+      "left": 61,
+      "right": 489,
+      "top": 26,
+      "bottom": 331,
+      "center": [
+        268.82,
+        179.61
+      ]
+    },
+    {
+      "count": 86163,
+      "left": 599,
+      "right": 1023,
+      "top": 26,
+      "bottom": 326,
+      "center": [
+        804.06,
+        177.79
+      ]
+    },
+    {
+      "count": 88976,
+      "left": 57,
+      "right": 494,
+      "top": 362,
+      "bottom": 670,
+      "center": [
+        266.18,
+        515.57
+      ]
+    },
+    {
+      "count": 88480,
+      "left": 598,
+      "right": 1036,
+      "top": 364,
+      "bottom": 672,
+      "center": [
+        804.55,
+        517.1
+      ]
+    },
+    {
+      "count": 87868,
+      "left": 62,
+      "right": 498,
+      "top": 713,
+      "bottom": 1019,
+      "center": [
+        269.99,
+        864.33
+      ]
+    },
+    {
+      "count": 86806,
+      "left": 600,
+      "right": 1035,
+      "top": 713,
+      "bottom": 1019,
+      "center": [
+        809.67,
+        864.32
+      ]
+    },
+    {
+      "count": 89752,
+      "left": 63,
+      "right": 504,
+      "top": 1058,
+      "bottom": 1368,
+      "center": [
+        272.44,
+        1211.46
+      ]
+    },
+    {
+      "count": 89134,
+      "left": 596,
+      "right": 1036,
+      "top": 1058,
+      "bottom": 1362,
+      "center": [
+        803.65,
+        1210.06
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "zebra",
+  "tool": "built-in image_gen",
+  "reference": "geo/assets/animation/v4-1/zebra-poster.webp",
+  "poseGuide": "geo/assets/animation/v4-7/reference/trot-pose-guide.png",
+  "generationPrompt": "Use case: stylized-concept, authored full-body game animation cels.\nInput image 1 is the CHARACTER reference: preserve exactly this zebra's cute softly shaded faceted 3D low-poly style, palette, face, proportions and body design.\nInput image 2 is an EIGHT-POSE LEG PLANNING GUIDE only. Follow its chronological leg phases and FOUR separate leg identities, but remove all guide colors, text, skeleton lines and white background. The ORANGE line is the BRIGHT near/foreground front leg; BLUE line is the darker far/background front leg; PURPLE line is bright near hind; GREEN is darker far hind. Read row-major. The guide is a timing plan, not the animal's anatomy: keep proper zebra shoulder/hip/knee/ankle anatomy and proportions.\nOutput a true transparent PNG sprite sheet with TWO equal columns, FOUR equal rows, eight square cells, portrait aspect 1:2. EXACTLY one full zebra per cell, always faces LEFT. Same torso center at x52% of cell and hoof baseline y88%, 8% invisible margin on all sides. Everything, including tail/snout, must fit without cropping. No scenery, no cast shadow, no text, no lines or labels.\nDraw all eight poses as the corresponding diagonal trot phases in image 2. Crucially at cell0 the DARK FAR FRONT hoof leads to the LEFT of the shoulder and the BRIGHT NEAR FRONT hoof trails to RIGHT. At cell4 the opposite BRIGHT NEAR FRONT hoof leads LEFT and DARK FAR FRONT trails RIGHT. These must be different leg identities, not duplicate poses. Intermediate cells show coherent foot passing through a bent knee and proper contact. All FOUR legs anatomically attached in every cel, darker far-side legs must still be visible. Proper restrained rhythmic weight shift, not a distorted torso. Consistent ears/eyes/coat marks, same lighting. Lively light alternating diagonal trot with small mane/tail follow-through, no front-feet-together hop.",
+  "framingRepairPrompt": null,
+  "transparencyRepairPrompt": null,
+  "actualSourceDimensions": [
+    1114,
+    1411
+  ],
+  "grid": [
+    2,
+    4
+  ],
+  "alpha": "RGBA, actual alpha 0 background; hidden RGB brown in elephant/buffalo should not be rendered opaque",
+  "QA": {
+    "completeCharacter": true,
+    "fourAttachedLimbs": true,
+    "sourceSidesUnclipped": true,
+    "styleMatchesReference": true,
+    "forelegIdentities": "Opposite contact roles are visible; verify intermediate timing in browser before calling full-cycle gait anatomically approved.",
+    "framing": "All eight component silhouettes measured in geometry-qa JSON, row/column registration calibrated once per row/column.",
+    "cycle": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "holdsMs": [
+      110,
+      75,
+      90,
+      75,
+      110,
+      75,
+      90,
+      75
+    ]
+  }
+}

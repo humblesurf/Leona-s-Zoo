@@ -1,0 +1,8 @@
+{
+  "id": "jellyfish",
+  "part": 0,
+  "source": "geo/assets/animation/v4-1/source/jellyfish-a.png",
+  "prompt": "Edit the referenced low-poly purple jellyfish animation atlas. Preserve precisely the jellyfish design, faceted shaded translucent material and colours. Correct its layout from SIX poses to EXACTLY EIGHT complete connected jellyfish poses: TWO columns, FOUR rows on a 1024 x 1536 portrait canvas. Every cell is 512 x 384. Make each entire jellyfish INCLUDING all tentacles at most 290 pixels high so FOUR rows fit comfortably. Centres at x=256 and 768, y=192,576,960,1344. These are animation frames 0 through 7 of a 16-frame gradual bell contraction cycle. Small consecutive changes in the bell width and tentacle curls; fixed bell centre in every cell, constant scale, consistent lighting. All limbs/tentacles complete in every cell. Only jellyfish, transparent alpha around all eight creatures, no haze, no shadow, no scenery, no text or grid lines. Do not add a third art style. Output eight poses, not six.",
+  "originalSource": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-95bd8f1e-33d6-4570-b6a3-02bad9acad72.png",
+  "repair": "Original atlas contained six instead of eight poses; all V4 base files preserved."
+}

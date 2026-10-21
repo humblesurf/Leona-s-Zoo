@@ -1,0 +1,46 @@
+{
+  "id": "elephant",
+  "tool": "built-in image_gen",
+  "reference": "geo/assets/animation/v4-1/elephant-poster.webp",
+  "poseGuide": "geo/assets/animation/v4-7/reference/walk-pose-guide.png",
+  "generationPrompt": "Use case: stylized-concept. Eight authored animation drawings in a sprite sheet.\nImage 1 specifies ONLY the adult elephant character design: exact same warm faceted low-poly 3D shading, face, eye, texture and proportions. Image 2 specifies leg POSES and chronological order for an 8-frame four-beat walk; do not copy its generic animal anatomy or any line colors/text.\nDraw exactly 8 complete adult elephant animals in 2 equal columns x 4 equal rows of square cells, chronological row-major. A true transparent RGBA PNG, portrait 1:2 layout, no scenery/shadow/solid white/brown background, no numbers, grid, labels or colored marks. Entire character always faces LEFT and fits safely within each equal cell with 8% transparent margin, no clipped snout/tail/feet. Every torso centered identically x52%, ground line y88%; maintain character size and lighting across frames.\nMatch the guide's orange=foreground front, blue=background front, purple=foreground hind, green=background hind identities, but use natural character-colored legs; far legs slightly darker than near ones. The NEAR and FAR front legs must swap their leading role halfway through the cycle, all four limbs attached and recognizable at all times.\nCells0,1,2,3 follow the FIRST four guide sketches precisely; cells4,5,6,7 follow the LAST four guide sketches precisely. Cell0 the background far front extends diagonally LEFT while foreground front extends to RIGHT. Cell4 foreground front extends diagonally LEFT while background front extends to RIGHT. Do not copy the same front-leg shape into both contact poses. In passing cells the correct swinging knee folds, the hoof clears ground, and the supporting opposite front hoof stays planted. Use real joint flexion and sequential leg phases, no body distortion. Heavy calm grounded four-beat walk, NEVER aerial. Keep gray-brown elephant with two ivory tusks and gentle trunk sway/ear follow-through; no big trunk curls during a step.",
+  "framingRepairPrompt": "Framing correction for Image 1, the eight-pose animation sheet. Preserve the eight leg poses and all character designs. CHANGE THE SIZE AND SPACING, deliberately make every whole animal 25% SMALLER than currently drawn. This reduction is required: do not keep the current animal size.\nProduce a portrait transparent PNG with two equal columns and four equal rows. Eight identical square cells, row-major. Draw each original whole animal reduced uniformly to 70% of its cell width and maximum 65% of cell height, centered inside its own cell. All heads, ears, feet, tail, tusks must have large empty transparent space between themselves and any cell boundary. Provide at least 15% cell-width clear space left and right in every cell, INCLUDING all extended tails and snouts.\nDo not let the animals touch each other or overlap the column seam. Do not clip anything at the edges. Every animal's torso fixed at 51% of its cell width, contact ground at 85% cell height, same size through eight poses. Do not crop and independently recenter by bounding box; redraw the sheet layout with the same shared torso anchor.\nThis is ONLY a framing repair: maintain the eight existing complete poses, face direction LEFT, limbs, color, texture, eyes, horns/tusks and body proportions unchanged. True alpha=0 background and clean invisible margins, no backdrop, no shadow, no text or guides.",
+  "transparencyRepairPrompt": null,
+  "actualSourceDimensions": [
+    1024,
+    1536
+  ],
+  "grid": [
+    2,
+    4
+  ],
+  "alpha": "RGBA, actual alpha 0 background; hidden RGB brown in elephant/buffalo should not be rendered opaque",
+  "QA": {
+    "completeCharacter": true,
+    "fourAttachedLimbs": true,
+    "sourceSidesUnclipped": true,
+    "styleMatchesReference": true,
+    "forelegIdentities": "Opposite contact roles are visible; verify intermediate timing in browser before calling full-cycle gait anatomically approved.",
+    "framing": "All eight component silhouettes measured in geometry-qa JSON, row/column registration calibrated once per row/column.",
+    "cycle": [
+      0,
+      7,
+      3,
+      4,
+      5,
+      1,
+      2,
+      6
+    ],
+    "holdsMs": [
+      175,
+      125,
+      175,
+      155,
+      120,
+      120,
+      175,
+      145
+    ]
+  }
+}

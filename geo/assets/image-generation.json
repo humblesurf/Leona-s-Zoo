@@ -1,0 +1,116 @@
+{
+  "mode": "built-in image_gen",
+  "prompts": [
+    {
+      "id": "savanna",
+      "prompt": "Use case: illustration-story. Asset type: continuous horizontal scrolling background for a toddler animal game. Create ONE coherent very wide landscape panorama, ideally 4096 x 1024, aspect 4:1 or wider. African savanna, golden honey grasses, muted ochre soil, flat-topped acacia trees and faraway rolling hills, one small shallow freshwater pool near horizontal 65-75% with muddy edge. Art direction: richly crafted children's picture book with simple low-poly geometric planes, paper grain, warm gold and sage palette, soft friendly light. Composition: horizon at 44% height, spacious uninterrupted ground across the lower 55%, distant trees in the upper middle and a few trees at edges. Animals will be layered by code so leave generous empty ground, keep right and left margins unobstructed. ONE continuous camera viewpoint, same ground level and lighting everywhere; no panels, no repetitions, no collage, no stitched strips. Absolutely no animals, people, words, labels or watermark."
+    },
+    {
+      "id": "rainforest",
+      "prompt": "Use case: illustration-story. Asset type: one continuous panorama background for a toddler animal game. Very wide horizontal image ideally 4096x1024 (4:1 or wider). Rich children's picture book, low-poly faceted geometric planes, gentle paper texture, clear friendly silhouettes and soft natural light. One continuous camera viewpoint and seamless scene throughout, no panels, no strips, no collage, no repeating tiles. No animals, people, lettering, labels or watermark. Open room for separately layered interactive characters. Lush tropical rainforest in sage, emerald and warm moss green; tall trees toward the edges, long connected horizontal branches in upper 25-40%, vines, oversized tropical foliage kept around the edges. Spacious level forest floor lower 45%. A calm freshwater river bends through the middle third of panorama (horizontal 40%-65%), occupying y 62%-85%, with clear dry banks. Warm rays of sunlight through canopy. Leave large open areas for ground animals and birds; avoid dense foreground obscuring the ground."
+    },
+    {
+      "id": "ocean",
+      "prompt": "Use case: illustration-story. Asset type: one continuous panorama background for a toddler animal game. Very wide horizontal image ideally 4096x1024 (4:1 or wider). Rich children's picture book, low-poly faceted geometric planes, gentle paper texture, clear friendly silhouettes and soft natural light. One continuous camera viewpoint and seamless scene throughout, no panels, no strips, no collage, no repeating tiles. No animals, people, lettering, labels or watermark. Open room for separately layered interactive characters. Underwater tropical ocean; softly lit turquoise water turning deep teal blue to the right, sunbeams from the top, a few delicate corals and seaweed only along the lower edges, continuous sandy seabed at y 83%-97%, clear spacious water in upper 75%, gentle distant rock forms. Entire scene underwater, no land or air surface; open swimming space. Muted peach coral, sea-glass teal and cream sand. No fish or sea creatures."
+    },
+    {
+      "id": "arctic",
+      "prompt": "Use case: illustration-story. Asset type: one continuous panorama background for a toddler animal game. Very wide horizontal image ideally 4096x1024 (4:1 or wider). Rich children's picture book, low-poly faceted geometric planes, gentle paper texture, clear friendly silhouettes and soft natural light. One continuous camera viewpoint and seamless scene throughout, no panels, no strips, no collage, no repeating tiles. No animals, people, lettering, labels or watermark. Open room for separately layered interactive characters. Arctic coast in gentle morning light, pale mint sky, snowy distant mountains, faceted white sea ice and snow, blue open-water channel at horizontal 60%-80% and y 66%-90%, spacious level snow-covered ground across the lower half, small distant icebergs. Soft blue shadows and warm peach sunlight. No buildings or animals; leave a clear space in the left third for an igloo and child."
+    },
+    {
+      "id": "antarctic",
+      "prompt": "Use case: illustration-story. Asset type: one continuous panorama background for a toddler animal game. Very wide horizontal image ideally 4096x1024 (4:1 or wider). Rich children's picture book, low-poly faceted geometric planes, gentle paper texture, clear friendly silhouettes and soft natural light. One continuous camera viewpoint and seamless scene throughout, no panels, no strips, no collage, no repeating tiles. No animals, people, lettering, labels or watermark. Open room for separately layered interactive characters. Antarctic coast, immense soft-blue glaciers on the horizon at y 42%, clear pale lavender sky, continuous gently sloping snowy ice shelf across the lower half, dark turquoise sea at horizontal 55%-90% and y 65%-92%, distant icebergs and ice crystals. Soft daylight, spacious flat foreground for penguins and seals, no buildings or trees, no animals or people."
+    },
+    {
+      "id": "otter",
+      "prompt": "Use case: illustration-story. Asset type: transparent cutout animal sprite for a toddler animal game. One friendly freshwater river otter, full body swimming smoothly on its belly (not floating on its back), brown fur, long slender body, rounded whiskered head looking right, small webbed paws connected to the body and long tapering tail. No shell, no toy, no rock. Match a faceted low-poly geometric children's picture-book illustration, warm brown paper-like planes, soft gentle contours, no outlines, clear natural anatomy. One complete subject centered and fully visible with transparent margins. Transparent background, no ground, no water, no shadow, no labels, no text or watermark."
+    },
+    {
+      "id": "polarbear",
+      "prompt": "Use case: illustration-story. Asset type: transparent cutout sprite for a toddler animal game. Handcrafted low-poly geometric children's picture-book illustration, flat faceted color planes, subtle paper texture, softly defined contours, no outlines, friendly anatomically clear silhouette, very light shading. ONE complete subject centered, fully visible, ample transparent margin, no ground, no background, no shadow, no text or watermark. A friendly white polar bear, full body in a side three-quarter view, standing on four paws, broad large bear body with little round ears and warm dark eyes, looking to the right."
+    },
+    {
+      "id": "penguin",
+      "prompt": "Use case: illustration-story. Asset type: transparent cutout sprite for a toddler animal game. Handcrafted low-poly geometric children's picture-book illustration, flat faceted color planes, subtle paper texture, softly defined contours, no outlines, friendly anatomically clear silhouette, very light shading. ONE complete subject centered, fully visible, ample transparent margin, no ground, no background, no shadow, no text or watermark. One friendly emperor penguin, full body upright, black back and head, white belly, soft golden-yellow neck patches, two flippers attached naturally, little orange-black feet, three-quarter view looking slightly to the left."
+    },
+    {
+      "id": "arcticfox",
+      "prompt": "Use case: illustration-story. Asset type: transparent cutout sprite for a toddler animal game. Handcrafted low-poly geometric children's picture-book illustration, flat faceted color planes, subtle paper texture, softly defined contours, no outlines, friendly anatomically clear silhouette, very light shading. ONE complete subject centered, fully visible, ample transparent margin, no ground, no background, no shadow, no text or watermark. One cute white Arctic fox, full body standing on four legs in side three-quarter view, short ears and thick fluffy curled tail, small dark eyes, looking left."
+    },
+    {
+      "id": "walrus",
+      "prompt": "Use case: illustration-story. Asset type: transparent cutout sprite for a toddler animal game. Handcrafted low-poly geometric children's picture-book illustration, flat faceted color planes, subtle paper texture, softly defined contours, no outlines, friendly anatomically clear silhouette, very light shading. ONE complete subject centered, fully visible, ample transparent margin, no ground, no background, no shadow, no text or watermark. One friendly brown walrus, full body resting on its belly, two modest long ivory tusks, whiskered rounded muzzle, all flippers attached naturally, three-quarter view looking right."
+    },
+    {
+      "id": "inuit",
+      "prompt": "Use case: illustration-story. Asset type: transparent cutout sprite for a toddler animal game. Handcrafted low-poly geometric children's picture-book illustration, flat faceted color planes, subtle paper texture, softly defined contours, no outlines, friendly anatomically clear silhouette, very light shading. ONE complete subject centered, fully visible, ample transparent margin, no ground, no background, no shadow, no text or watermark. One friendly Inuit child in a contemporary bright teal and mustard winter parka with fur-trimmed hood, warm boots and mittens, full body, relaxed upright welcoming pose. Respectful children's book illustration, natural face and cheerful smile, no caricature."
+    },
+    {
+      "id": "igloo",
+      "prompt": "Use case: illustration-story. Asset type: transparent cutout sprite for a toddler animal game. Handcrafted low-poly geometric children's picture-book illustration, flat faceted color planes, subtle paper texture, softly defined contours, no outlines, friendly anatomically clear silhouette, very light shading. ONE complete subject centered, fully visible, ample transparent margin, no ground, no background, no shadow, no text or watermark. One traditional Inuit dome-shaped shelter made from clearly visible blocks of compacted snow (white ice-like snow blocks), rounded dome, small arched entrance tunnel, full building in three-quarter view, no person or animal. Friendly educational picture-book look."
+    }
+  ],
+  "outputs": [
+    {
+      "id": "savanna",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-2cf3dc32-c59b-4b9a-899d-f469a0446cfc.png",
+      "projectPath": "assets/bg/savanna-panorama-v2.webp"
+    },
+    {
+      "id": "rainforest",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-2c39c2b3-3759-4dbc-abe0-f0e668788de1.png",
+      "projectPath": "assets/bg/rainforest-panorama-v2.webp"
+    },
+    {
+      "id": "ocean",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-7adbafc6-fe7b-4517-a392-8ac06fa62cfd.png",
+      "projectPath": "assets/bg/ocean-panorama-v2.webp"
+    },
+    {
+      "id": "arctic",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-d6b0a7d2-506d-4c52-bbbb-af20dc65a876.png",
+      "projectPath": "assets/bg/arctic-panorama-v2.webp"
+    },
+    {
+      "id": "antarctic",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-20de375c-337a-416a-8089-25c69504035a.png",
+      "projectPath": "assets/bg/antarctic-panorama-v2.webp"
+    },
+    {
+      "id": "polarbear",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-c8e9c269-862f-4397-b0e2-4e5b03d27794.png",
+      "projectPath": "assets/animals/polarbear.webp"
+    },
+    {
+      "id": "penguin",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-ef81cde0-000b-4c19-90f3-0f386e294761.png",
+      "projectPath": "assets/animals/penguin.webp"
+    },
+    {
+      "id": "arcticfox",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-2a796c9d-c202-4dad-a1fd-8d4e9940e935.png",
+      "projectPath": "assets/animals/arcticfox.webp"
+    },
+    {
+      "id": "walrus",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-206baf29-2455-42e3-a04d-3b5761caad9c.png",
+      "projectPath": "assets/animals/walrus.webp"
+    },
+    {
+      "id": "inuit",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-731aacc0-1f84-4f82-b624-cc47be044dcc.png",
+      "projectPath": "assets/animals/inuit.webp"
+    },
+    {
+      "id": "igloo",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-b8b31845-91a1-41f4-834d-56c100e62213.png",
+      "projectPath": "assets/animals/igloo.webp"
+    },
+    {
+      "id": "otter",
+      "path": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-a4788cf8-9048-4230-94e8-ea0972444a16.png",
+      "projectPath": "assets/animals/otter-v2.webp"
+    }
+  ],
+  "processing": "Panorama converted to WebP; character alpha bounding box cropped and resized. No creative raster post-processing."
+}

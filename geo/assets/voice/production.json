@@ -1,0 +1,61 @@
+{
+  "engine": "Microsoft Edge neural TTS via edge-tts",
+  "cast": {
+    "en": [
+      [
+        "child",
+        "en-US-AnaNeural",
+        ""
+      ],
+      [
+        "male",
+        "en-US-AndrewNeural",
+        "-male"
+      ],
+      [
+        "female",
+        "en-US-EmmaNeural",
+        "-female"
+      ]
+    ],
+    "yue": [
+      [
+        "female",
+        "zh-HK-HiuMaanNeural",
+        ""
+      ],
+      [
+        "male",
+        "zh-HK-WanLungNeural",
+        "-male"
+      ],
+      [
+        "bright",
+        "zh-HK-HiuGaaiNeural",
+        "-bright"
+      ]
+    ],
+    "cmn": [
+      [
+        "female",
+        "zh-CN-XiaoxiaoNeural",
+        ""
+      ],
+      [
+        "male",
+        "zh-CN-YunxiNeural",
+        "-male"
+      ],
+      [
+        "bright",
+        "zh-CN-YunxiaNeural",
+        "-bright"
+      ]
+    ]
+  },
+  "rate": "-6% (original recordings -8%)",
+  "pitch": "unchanged",
+  "selection": "shuffle bag per language; no consecutive identical performer",
+  "note": "English Ana is a child voice; Mandarin Yunxia is a youthful cartoon male voice; Cantonese uses adult male and female voices.",
+  "failures": []
+}

@@ -1,0 +1,6 @@
+import fs from 'node:fs';import vm from 'node:vm';const w={};for(const f of ['animation-data','quadruped-walk'])vm.runInNewContext(fs.readFileSync(`geo/assets/${f}.js`,'utf8'),{window:w});
+for(const [id,p]of Object.entries(w.QuadrupedWalk.profiles)){const d=w.ANIMAL_ANIMATIONS[id];d.walk=true;d.travel=p.travel;d.duration=p.duration;d.face=p.face;d.label='四足交替抬起、落地，向前行走';}
+const gazelle=w.ANIMAL_ANIMATIONS.gazelle;gazelle.travel=.5;gazelle.face=-1;gazelle.hop=.16;gazelle.duration=3200;gazelle.label='轻轻向前跃';
+fs.writeFileSync('geo/assets/animation-data.js','/* V4.3: planted-foot continuous quadruped locomotion. */\nwindow.ANIMAL_ANIMATIONS = '+JSON.stringify(w.ANIMAL_ANIMATIONS)+';\n');console.log('Restored',Object.keys(w.QuadrupedWalk.profiles).length,'walkers and gazelle hop.');
+fs.mkdirSync('geo/assets/animation/v4-3',{recursive:true});
+fs.writeFileSync('geo/assets/animation/v4-3/walking.json',JSON.stringify({version:'V4.3',base:'V4.2 (Version 4 branch)',method:'Fixed painted cutout bones; continuous two-bone inverse kinematics; four-beat gait with planted stance feet; no mesh deformation',profiles:w.QuadrupedWalk.profiles,sourcePosters:Object.fromEntries(Object.keys(w.QuadrupedWalk.profiles).map(id=>[id,w.ANIMAL_ANIMATIONS[id].poster])),marketCandidates:'Preview only, not integrated; concepts/market-review-v4-3/index.html'},null,2));

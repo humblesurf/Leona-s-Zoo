@@ -1,0 +1,12 @@
+[
+  {
+    "id": "shopbread",
+    "hint": "Generated images are saved to C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046 as C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046\\exec-347bc1e7-bfa6-45e8-8b02-f9eb2e668291.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "prompt": "Use case: background-extraction. Edit target: the supplied bread loaf and slice sprite. Preserve the entire subject's exact shape, materials, composition, size, colors and all object edges. Remove ONLY the dark colored gradient backdrop and all glow/shadow outside the subject. Output a genuinely transparent alpha background, not black, white, gray, gradient, or a checkerboard painted into the image. Keep full loaf/slice OR full box/tissue intact. No extra objects, no text, no recropping, no outline."
+  },
+  {
+    "id": "shoptissue",
+    "hint": "Generated images are saved to C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046 as C:\\Users\\XTIA\\.codex\\generated_images\\01a11a65-4561-7ac3-a069-a83c41a29046\\exec-d2f5c570-c0c2-440e-bd61-0c9f409e7b81.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "prompt": "Use case: background-extraction. Edit target: the supplied tissue box and emerging tissue sprite. Preserve the entire subject's exact shape, materials, composition, size, colors and all object edges. Remove ONLY the dark colored gradient backdrop and all glow/shadow outside the subject. Output a genuinely transparent alpha background, not black, white, gray, gradient, or a checkerboard painted into the image. Keep full loaf/slice OR full box/tissue intact. No extra objects, no text, no recropping, no outline."
+  }
+]

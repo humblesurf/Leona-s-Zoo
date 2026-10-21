@@ -1,0 +1,327 @@
+{
+  "lion": {
+    "en": "Lion",
+    "yue": "獅子",
+    "cmn": "狮子"
+  },
+  "lioness": {
+    "en": "Lioness",
+    "yue": "母獅",
+    "cmn": "母狮"
+  },
+  "lioncub": {
+    "en": "Lion cub",
+    "yue": "小獅子",
+    "cmn": "小狮子"
+  },
+  "zebra": {
+    "en": "Zebra",
+    "yue": "斑馬",
+    "cmn": "斑马"
+  },
+  "giraffe": {
+    "en": "Giraffe",
+    "yue": "長頸鹿",
+    "cmn": "长颈鹿"
+  },
+  "warthog": {
+    "en": "Warthog",
+    "yue": "疣豬",
+    "cmn": "疣猪"
+  },
+  "meerkat": {
+    "en": "Meerkat",
+    "yue": "狐獴",
+    "cmn": "狐獴"
+  },
+  "elephant": {
+    "en": "Elephant",
+    "yue": "大象",
+    "cmn": "大象"
+  },
+  "elephantcalf": {
+    "en": "Elephant calf",
+    "yue": "小象",
+    "cmn": "小象"
+  },
+  "cheetah": {
+    "en": "Cheetah",
+    "yue": "獵豹",
+    "cmn": "猎豹"
+  },
+  "hippo": {
+    "en": "Hippo",
+    "yue": "河馬",
+    "cmn": "河马"
+  },
+  "flamingo": {
+    "en": "Flamingo",
+    "yue": "紅鶴",
+    "cmn": "火烈鸟"
+  },
+  "crocodile": {
+    "en": "Crocodile",
+    "yue": "鱷魚",
+    "cmn": "鳄鱼"
+  },
+  "rhino": {
+    "en": "Rhino",
+    "yue": "犀牛",
+    "cmn": "犀牛"
+  },
+  "buffalo": {
+    "en": "Buffalo",
+    "yue": "水牛",
+    "cmn": "水牛"
+  },
+  "gazelle": {
+    "en": "Deer",
+    "cmn": "小鹿",
+    "yue": "鹿仔"
+  },
+  "toucan": {
+    "en": "Toucan",
+    "yue": "巨嘴鳥",
+    "cmn": "巨嘴鸟"
+  },
+  "sloth": {
+    "en": "Sloth",
+    "yue": "樹懶",
+    "cmn": "树懒"
+  },
+  "monkey": {
+    "en": "Monkey",
+    "yue": "猴子",
+    "cmn": "猴子"
+  },
+  "frog": {
+    "en": "Tree frog",
+    "yue": "樹蛙",
+    "cmn": "树蛙"
+  },
+  "butterfly": {
+    "en": "Butterfly",
+    "yue": "蝴蝶",
+    "cmn": "蝴蝶"
+  },
+  "hummingbird": {
+    "en": "Hummingbird",
+    "yue": "蜂鳥",
+    "cmn": "蜂鸟"
+  },
+  "otter": {
+    "en": "River otter",
+    "yue": "水獺",
+    "cmn": "水獭"
+  },
+  "macaw": {
+    "en": "Macaw",
+    "yue": "金剛鸚鵡",
+    "cmn": "金刚鹦鹉"
+  },
+  "jaguar": {
+    "en": "Jaguar",
+    "yue": "美洲豹",
+    "cmn": "美洲豹"
+  },
+  "leopard": {
+    "en": "Leopard",
+    "yue": "豹",
+    "cmn": "豹"
+  },
+  "boa": {
+    "en": "Boa",
+    "yue": "蟒蛇",
+    "cmn": "蟒蛇"
+  },
+  "chameleon": {
+    "en": "Chameleon",
+    "yue": "變色龍",
+    "cmn": "变色龙"
+  },
+  "gorilla": {
+    "en": "Gorilla",
+    "yue": "大猩猩",
+    "cmn": "大猩猩"
+  },
+  "tiger": {
+    "en": "Tiger",
+    "yue": "老虎",
+    "cmn": "老虎"
+  },
+  "orangutan": {
+    "en": "Orangutan",
+    "yue": "紅毛猩猩",
+    "cmn": "红毛猩猩"
+  },
+  "lemur": {
+    "en": "Lemur",
+    "yue": "狐猴",
+    "cmn": "狐猴"
+  },
+  "peacock": {
+    "en": "Peacock",
+    "yue": "孔雀",
+    "cmn": "孔雀"
+  },
+  "clownfish": {
+    "en": "Clownfish",
+    "yue": "小丑魚",
+    "cmn": "小丑鱼"
+  },
+  "coral": {
+    "en": "Coral",
+    "yue": "珊瑚",
+    "cmn": "珊瑚"
+  },
+  "shell": {
+    "en": "Clam",
+    "yue": "蛤蜊",
+    "cmn": "蛤蜊"
+  },
+  "seahorse": {
+    "en": "Seahorse",
+    "yue": "海馬",
+    "cmn": "海马"
+  },
+  "starfish": {
+    "en": "Starfish",
+    "yue": "海星",
+    "cmn": "海星"
+  },
+  "turtle": {
+    "en": "Sea turtle",
+    "yue": "海龜",
+    "cmn": "海龟"
+  },
+  "pufferfish": {
+    "en": "Pufferfish",
+    "yue": "河豚",
+    "cmn": "河豚"
+  },
+  "crab": {
+    "en": "Crab",
+    "yue": "螃蟹",
+    "cmn": "螃蟹"
+  },
+  "jellyfish": {
+    "en": "Jellyfish",
+    "yue": "水母",
+    "cmn": "水母"
+  },
+  "whale": {
+    "en": "Whale",
+    "yue": "鯨魚",
+    "cmn": "鲸鱼"
+  },
+  "octopus": {
+    "en": "Octopus",
+    "yue": "八爪魚",
+    "cmn": "章鱼"
+  },
+  "dolphin": {
+    "en": "Dolphin",
+    "yue": "海豚",
+    "cmn": "海豚"
+  },
+  "stingray": {
+    "en": "Stingray",
+    "yue": "鰩魚",
+    "cmn": "鳐鱼"
+  },
+  "shark": {
+    "en": "Shark",
+    "yue": "鯊魚",
+    "cmn": "鲨鱼"
+  },
+  "lobster": {
+    "en": "Lobster",
+    "yue": "龍蝦",
+    "cmn": "龙虾"
+  },
+  "reeffish": {
+    "en": "Reef fish",
+    "yue": "小魚",
+    "cmn": "小鱼"
+  },
+  "polarbear": {
+    "en": "Polar bear",
+    "yue": "北極熊",
+    "cmn": "北极熊"
+  },
+  "arcticfox": {
+    "en": "Arctic fox",
+    "yue": "北極狐",
+    "cmn": "北极狐"
+  },
+  "walrus": {
+    "en": "Walrus",
+    "yue": "海象",
+    "cmn": "海象"
+  },
+  "penguin": {
+    "en": "Emperor penguin",
+    "yue": "皇帝企鵝",
+    "cmn": "帝企鹅"
+  },
+  "seal": {
+    "en": "Seal",
+    "yue": "海豹",
+    "cmn": "海豹"
+  },
+  "cow": {
+    "en": "Cow",
+    "cmn": "奶牛",
+    "yue": "乳牛"
+  },
+  "calf": {
+    "en": "Calf",
+    "cmn": "小牛",
+    "yue": "牛仔"
+  },
+  "sheep": {
+    "en": "Sheep",
+    "cmn": "绵羊",
+    "yue": "綿羊"
+  },
+  "lamb": {
+    "en": "Lamb",
+    "cmn": "小羊",
+    "yue": "羊仔"
+  },
+  "pig": {
+    "en": "Pig",
+    "cmn": "小猪",
+    "yue": "豬仔"
+  },
+  "piglet": {
+    "en": "Piglet",
+    "cmn": "小猪宝宝",
+    "yue": "豬仔寶寶"
+  },
+  "hen": {
+    "en": "Hen",
+    "cmn": "母鸡",
+    "yue": "母雞"
+  },
+  "chick": {
+    "en": "Chick",
+    "cmn": "小鸡",
+    "yue": "雞仔"
+  },
+  "duck": {
+    "en": "Duck",
+    "cmn": "鸭子",
+    "yue": "鴨仔"
+  },
+  "duckling": {
+    "en": "Duckling",
+    "cmn": "小鸭",
+    "yue": "鴨仔寶寶"
+  },
+  "farmgoose": {
+    "en": "Goose",
+    "cmn": "鹅",
+    "yue": "鵝"
+  }
+}

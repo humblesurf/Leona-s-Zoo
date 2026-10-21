@@ -1,0 +1,948 @@
+{
+  "voices": 153,
+  "files": [
+    {
+      "path": "assets/voice/v4-8/campbackpack-cmn-bright.mp3",
+      "duration": 5.928,
+      "rms": 0.0749,
+      "peak": 0.6621
+    },
+    {
+      "path": "assets/voice/v4-8/campbackpack-cmn-male.mp3",
+      "duration": 5.544,
+      "rms": 0.0562,
+      "peak": 0.4892
+    },
+    {
+      "path": "assets/voice/v4-8/campbackpack-cmn.mp3",
+      "duration": 5.544,
+      "rms": 0.0913,
+      "peak": 0.5938
+    },
+    {
+      "path": "assets/voice/v4-8/campbackpack-en-female.mp3",
+      "duration": 4.776,
+      "rms": 0.123,
+      "peak": 0.5509
+    },
+    {
+      "path": "assets/voice/v4-8/campbackpack-en-male.mp3",
+      "duration": 4.296,
+      "rms": 0.0943,
+      "peak": 0.5847
+    },
+    {
+      "path": "assets/voice/v4-8/campbackpack-en.mp3",
+      "duration": 6.432,
+      "rms": 0.0658,
+      "peak": 0.4987
+    },
+    {
+      "path": "assets/voice/v4-8/campbackpack-yue-bright.mp3",
+      "duration": 7.2,
+      "rms": 0.0911,
+      "peak": 0.5947
+    },
+    {
+      "path": "assets/voice/v4-8/campbackpack-yue-male.mp3",
+      "duration": 6.336,
+      "rms": 0.0718,
+      "peak": 0.5351
+    },
+    {
+      "path": "assets/voice/v4-8/campbackpack-yue.mp3",
+      "duration": 6.408,
+      "rms": 0.0674,
+      "peak": 0.4766
+    },
+    {
+      "path": "assets/voice/v4-8/campfireflies-cmn-bright.mp3",
+      "duration": 6.336,
+      "rms": 0.0666,
+      "peak": 0.4366
+    },
+    {
+      "path": "assets/voice/v4-8/campfireflies-cmn-male.mp3",
+      "duration": 5.856,
+      "rms": 0.0488,
+      "peak": 0.3626
+    },
+    {
+      "path": "assets/voice/v4-8/campfireflies-cmn.mp3",
+      "duration": 5.904,
+      "rms": 0.1008,
+      "peak": 0.5658
+    },
+    {
+      "path": "assets/voice/v4-8/campfireflies-en-female.mp3",
+      "duration": 4.776,
+      "rms": 0.1263,
+      "peak": 0.5797
+    },
+    {
+      "path": "assets/voice/v4-8/campfireflies-en-male.mp3",
+      "duration": 4.68,
+      "rms": 0.0979,
+      "peak": 0.7044
+    },
+    {
+      "path": "assets/voice/v4-8/campfireflies-en.mp3",
+      "duration": 6.648,
+      "rms": 0.075,
+      "peak": 0.5595
+    },
+    {
+      "path": "assets/voice/v4-8/campfireflies-yue-bright.mp3",
+      "duration": 8.016,
+      "rms": 0.0901,
+      "peak": 0.5349
+    },
+    {
+      "path": "assets/voice/v4-8/campfireflies-yue-male.mp3",
+      "duration": 6.768,
+      "rms": 0.0725,
+      "peak": 0.5333
+    },
+    {
+      "path": "assets/voice/v4-8/campfireflies-yue.mp3",
+      "duration": 6.792,
+      "rms": 0.0654,
+      "peak": 0.4213
+    },
+    {
+      "path": "assets/voice/v4-8/campstars-cmn-bright.mp3",
+      "duration": 6.216,
+      "rms": 0.0556,
+      "peak": 0.3779
+    },
+    {
+      "path": "assets/voice/v4-8/campstars-cmn-male.mp3",
+      "duration": 5.952,
+      "rms": 0.0509,
+      "peak": 0.4981
+    },
+    {
+      "path": "assets/voice/v4-8/campstars-cmn.mp3",
+      "duration": 5.928,
+      "rms": 0.0937,
+      "peak": 0.586
+    },
+    {
+      "path": "assets/voice/v4-8/campstars-en-female.mp3",
+      "duration": 4.32,
+      "rms": 0.1208,
+      "peak": 0.5619
+    },
+    {
+      "path": "assets/voice/v4-8/campstars-en-male.mp3",
+      "duration": 4.416,
+      "rms": 0.0988,
+      "peak": 0.6352
+    },
+    {
+      "path": "assets/voice/v4-8/campstars-en.mp3",
+      "duration": 6.312,
+      "rms": 0.0794,
+      "peak": 0.54
+    },
+    {
+      "path": "assets/voice/v4-8/campstars-yue-bright.mp3",
+      "duration": 7.776,
+      "rms": 0.0893,
+      "peak": 0.5643
+    },
+    {
+      "path": "assets/voice/v4-8/campstars-yue-male.mp3",
+      "duration": 6.48,
+      "rms": 0.0713,
+      "peak": 0.6228
+    },
+    {
+      "path": "assets/voice/v4-8/campstars-yue.mp3",
+      "duration": 6.648,
+      "rms": 0.0598,
+      "peak": 0.4144
+    },
+    {
+      "path": "assets/voice/v4-8/campstream-cmn-bright.mp3",
+      "duration": 6.672,
+      "rms": 0.0548,
+      "peak": 0.5497
+    },
+    {
+      "path": "assets/voice/v4-8/campstream-cmn-male.mp3",
+      "duration": 6.72,
+      "rms": 0.0429,
+      "peak": 0.4342
+    },
+    {
+      "path": "assets/voice/v4-8/campstream-cmn.mp3",
+      "duration": 6.528,
+      "rms": 0.0784,
+      "peak": 0.4797
+    },
+    {
+      "path": "assets/voice/v4-8/campstream-en-female.mp3",
+      "duration": 6.432,
+      "rms": 0.1233,
+      "peak": 0.5839
+    },
+    {
+      "path": "assets/voice/v4-8/campstream-en-male.mp3",
+      "duration": 5.736,
+      "rms": 0.088,
+      "peak": 0.6051
+    },
+    {
+      "path": "assets/voice/v4-8/campstream-en.mp3",
+      "duration": 8.76,
+      "rms": 0.075,
+      "peak": 0.5267
+    },
+    {
+      "path": "assets/voice/v4-8/campstream-yue-bright.mp3",
+      "duration": 9.72,
+      "rms": 0.0878,
+      "peak": 0.5797
+    },
+    {
+      "path": "assets/voice/v4-8/campstream-yue-male.mp3",
+      "duration": 8.496,
+      "rms": 0.0718,
+      "peak": 0.5064
+    },
+    {
+      "path": "assets/voice/v4-8/campstream-yue.mp3",
+      "duration": 8.664,
+      "rms": 0.0668,
+      "peak": 0.3969
+    },
+    {
+      "path": "assets/voice/v4-8/camptent-cmn-bright.mp3",
+      "duration": 5.856,
+      "rms": 0.0621,
+      "peak": 0.6395
+    },
+    {
+      "path": "assets/voice/v4-8/camptent-cmn-male.mp3",
+      "duration": 5.496,
+      "rms": 0.0556,
+      "peak": 0.6637
+    },
+    {
+      "path": "assets/voice/v4-8/camptent-cmn.mp3",
+      "duration": 5.76,
+      "rms": 0.0966,
+      "peak": 0.6299
+    },
+    {
+      "path": "assets/voice/v4-8/camptent-en-female.mp3",
+      "duration": 5.592,
+      "rms": 0.1255,
+      "peak": 0.6307
+    },
+    {
+      "path": "assets/voice/v4-8/camptent-en-male.mp3",
+      "duration": 4.92,
+      "rms": 0.0912,
+      "peak": 0.6687
+    },
+    {
+      "path": "assets/voice/v4-8/camptent-en.mp3",
+      "duration": 7.824,
+      "rms": 0.0747,
+      "peak": 0.5065
+    },
+    {
+      "path": "assets/voice/v4-8/camptent-yue-bright.mp3",
+      "duration": 8.424,
+      "rms": 0.0962,
+      "peak": 0.6344
+    },
+    {
+      "path": "assets/voice/v4-8/camptent-yue-male.mp3",
+      "duration": 7.008,
+      "rms": 0.0715,
+      "peak": 0.5784
+    },
+    {
+      "path": "assets/voice/v4-8/camptent-yue.mp3",
+      "duration": 7.248,
+      "rms": 0.0684,
+      "peak": 0.4443
+    },
+    {
+      "path": "assets/voice/v4-8/camptree-cmn-bright.mp3",
+      "duration": 5.592,
+      "rms": 0.0594,
+      "peak": 0.3347
+    },
+    {
+      "path": "assets/voice/v4-8/camptree-cmn-male.mp3",
+      "duration": 5.376,
+      "rms": 0.0535,
+      "peak": 0.4197
+    },
+    {
+      "path": "assets/voice/v4-8/camptree-cmn.mp3",
+      "duration": 5.328,
+      "rms": 0.0912,
+      "peak": 0.5861
+    },
+    {
+      "path": "assets/voice/v4-8/camptree-en-female.mp3",
+      "duration": 4.416,
+      "rms": 0.1354,
+      "peak": 0.5487
+    },
+    {
+      "path": "assets/voice/v4-8/camptree-en-male.mp3",
+      "duration": 4.44,
+      "rms": 0.1024,
+      "peak": 0.6544
+    },
+    {
+      "path": "assets/voice/v4-8/camptree-en.mp3",
+      "duration": 6.216,
+      "rms": 0.0768,
+      "peak": 0.4562
+    },
+    {
+      "path": "assets/voice/v4-8/camptree-yue-bright.mp3",
+      "duration": 7.344,
+      "rms": 0.0921,
+      "peak": 0.56
+    },
+    {
+      "path": "assets/voice/v4-8/camptree-yue-male.mp3",
+      "duration": 6.144,
+      "rms": 0.0712,
+      "peak": 0.5656
+    },
+    {
+      "path": "assets/voice/v4-8/camptree-yue.mp3",
+      "duration": 6.192,
+      "rms": 0.0591,
+      "peak": 0.406
+    },
+    {
+      "path": "assets/voice/v4-8/harborbuoy-cmn-bright.mp3",
+      "duration": 4.68,
+      "rms": 0.0707,
+      "peak": 0.6799
+    },
+    {
+      "path": "assets/voice/v4-8/harborbuoy-cmn-male.mp3",
+      "duration": 4.56,
+      "rms": 0.0632,
+      "peak": 0.5462
+    },
+    {
+      "path": "assets/voice/v4-8/harborbuoy-cmn.mp3",
+      "duration": 4.32,
+      "rms": 0.0927,
+      "peak": 0.5193
+    },
+    {
+      "path": "assets/voice/v4-8/harborbuoy-en-female.mp3",
+      "duration": 4.416,
+      "rms": 0.135,
+      "peak": 0.576
+    },
+    {
+      "path": "assets/voice/v4-8/harborbuoy-en-male.mp3",
+      "duration": 4.152,
+      "rms": 0.1009,
+      "peak": 0.5718
+    },
+    {
+      "path": "assets/voice/v4-8/harborbuoy-en.mp3",
+      "duration": 6.0,
+      "rms": 0.0763,
+      "peak": 0.5188
+    },
+    {
+      "path": "assets/voice/v4-8/harborbuoy-yue-bright.mp3",
+      "duration": 5.448,
+      "rms": 0.0862,
+      "peak": 0.5169
+    },
+    {
+      "path": "assets/voice/v4-8/harborbuoy-yue-male.mp3",
+      "duration": 4.8,
+      "rms": 0.0715,
+      "peak": 0.5448
+    },
+    {
+      "path": "assets/voice/v4-8/harborbuoy-yue.mp3",
+      "duration": 5.064,
+      "rms": 0.0626,
+      "peak": 0.4506
+    },
+    {
+      "path": "assets/voice/v4-8/harborferry-cmn-bright.mp3",
+      "duration": 4.656,
+      "rms": 0.0806,
+      "peak": 0.6525
+    },
+    {
+      "path": "assets/voice/v4-8/harborferry-cmn-male.mp3",
+      "duration": 4.752,
+      "rms": 0.0586,
+      "peak": 0.5954
+    },
+    {
+      "path": "assets/voice/v4-8/harborferry-cmn.mp3",
+      "duration": 4.536,
+      "rms": 0.0886,
+      "peak": 0.5944
+    },
+    {
+      "path": "assets/voice/v4-8/harborferry-en-female.mp3",
+      "duration": 4.944,
+      "rms": 0.1207,
+      "peak": 0.634
+    },
+    {
+      "path": "assets/voice/v4-8/harborferry-en-male.mp3",
+      "duration": 4.272,
+      "rms": 0.09,
+      "peak": 0.6314
+    },
+    {
+      "path": "assets/voice/v4-8/harborferry-en.mp3",
+      "duration": 6.912,
+      "rms": 0.0721,
+      "peak": 0.5002
+    },
+    {
+      "path": "assets/voice/v4-8/harborferry-yue-bright.mp3",
+      "duration": 6.0,
+      "rms": 0.0886,
+      "peak": 0.6181
+    },
+    {
+      "path": "assets/voice/v4-8/harborferry-yue-male.mp3",
+      "duration": 5.424,
+      "rms": 0.072,
+      "peak": 0.5843
+    },
+    {
+      "path": "assets/voice/v4-8/harborferry-yue.mp3",
+      "duration": 5.544,
+      "rms": 0.0737,
+      "peak": 0.4945
+    },
+    {
+      "path": "assets/voice/v4-8/harborfishingboat-cmn-bright.mp3",
+      "duration": 4.32,
+      "rms": 0.0553,
+      "peak": 0.3587
+    },
+    {
+      "path": "assets/voice/v4-8/harborfishingboat-cmn-male.mp3",
+      "duration": 4.32,
+      "rms": 0.048,
+      "peak": 0.4278
+    },
+    {
+      "path": "assets/voice/v4-8/harborfishingboat-cmn.mp3",
+      "duration": 4.032,
+      "rms": 0.1017,
+      "peak": 0.5215
+    },
+    {
+      "path": "assets/voice/v4-8/harborfishingboat-en-female.mp3",
+      "duration": 4.152,
+      "rms": 0.1143,
+      "peak": 0.5773
+    },
+    {
+      "path": "assets/voice/v4-8/harborfishingboat-en-male.mp3",
+      "duration": 3.552,
+      "rms": 0.0849,
+      "peak": 0.5967
+    },
+    {
+      "path": "assets/voice/v4-8/harborfishingboat-en.mp3",
+      "duration": 5.616,
+      "rms": 0.0746,
+      "peak": 0.53
+    },
+    {
+      "path": "assets/voice/v4-8/harborfishingboat-yue-bright.mp3",
+      "duration": 5.568,
+      "rms": 0.0852,
+      "peak": 0.5546
+    },
+    {
+      "path": "assets/voice/v4-8/harborfishingboat-yue-male.mp3",
+      "duration": 4.416,
+      "rms": 0.0757,
+      "peak": 0.5578
+    },
+    {
+      "path": "assets/voice/v4-8/harborfishingboat-yue.mp3",
+      "duration": 4.512,
+      "rms": 0.066,
+      "peak": 0.4573
+    },
+    {
+      "path": "assets/voice/v4-8/harborlighthouse-cmn-bright.mp3",
+      "duration": 3.792,
+      "rms": 0.0573,
+      "peak": 0.5619
+    },
+    {
+      "path": "assets/voice/v4-8/harborlighthouse-cmn-male.mp3",
+      "duration": 3.672,
+      "rms": 0.0486,
+      "peak": 0.4884
+    },
+    {
+      "path": "assets/voice/v4-8/harborlighthouse-cmn.mp3",
+      "duration": 3.36,
+      "rms": 0.0928,
+      "peak": 0.6154
+    },
+    {
+      "path": "assets/voice/v4-8/harborlighthouse-en-female.mp3",
+      "duration": 3.912,
+      "rms": 0.1275,
+      "peak": 0.6915
+    },
+    {
+      "path": "assets/voice/v4-8/harborlighthouse-en-male.mp3",
+      "duration": 3.456,
+      "rms": 0.0961,
+      "peak": 0.6313
+    },
+    {
+      "path": "assets/voice/v4-8/harborlighthouse-en.mp3",
+      "duration": 5.568,
+      "rms": 0.0807,
+      "peak": 0.5601
+    },
+    {
+      "path": "assets/voice/v4-8/harborlighthouse-yue-bright.mp3",
+      "duration": 4.8,
+      "rms": 0.0966,
+      "peak": 0.5277
+    },
+    {
+      "path": "assets/voice/v4-8/harborlighthouse-yue-male.mp3",
+      "duration": 4.176,
+      "rms": 0.0737,
+      "peak": 0.5094
+    },
+    {
+      "path": "assets/voice/v4-8/harborlighthouse-yue.mp3",
+      "duration": 4.032,
+      "rms": 0.0735,
+      "peak": 0.4334
+    },
+    {
+      "path": "assets/voice/v4-8/harborpier-cmn-bright.mp3",
+      "duration": 5.448,
+      "rms": 0.066,
+      "peak": 0.4967
+    },
+    {
+      "path": "assets/voice/v4-8/harborpier-cmn-male.mp3",
+      "duration": 4.92,
+      "rms": 0.0477,
+      "peak": 0.513
+    },
+    {
+      "path": "assets/voice/v4-8/harborpier-cmn.mp3",
+      "duration": 5.016,
+      "rms": 0.0881,
+      "peak": 0.4629
+    },
+    {
+      "path": "assets/voice/v4-8/harborpier-en-female.mp3",
+      "duration": 4.56,
+      "rms": 0.1196,
+      "peak": 0.5432
+    },
+    {
+      "path": "assets/voice/v4-8/harborpier-en-male.mp3",
+      "duration": 4.44,
+      "rms": 0.091,
+      "peak": 0.6304
+    },
+    {
+      "path": "assets/voice/v4-8/harborpier-en.mp3",
+      "duration": 6.528,
+      "rms": 0.0787,
+      "peak": 0.6123
+    },
+    {
+      "path": "assets/voice/v4-8/harborpier-yue-bright.mp3",
+      "duration": 7.296,
+      "rms": 0.0877,
+      "peak": 0.6234
+    },
+    {
+      "path": "assets/voice/v4-8/harborpier-yue-male.mp3",
+      "duration": 5.784,
+      "rms": 0.0687,
+      "peak": 0.5033
+    },
+    {
+      "path": "assets/voice/v4-8/harborpier-yue.mp3",
+      "duration": 5.88,
+      "rms": 0.069,
+      "peak": 0.4786
+    },
+    {
+      "path": "assets/voice/v4-8/harborsailboat-cmn-bright.mp3",
+      "duration": 4.776,
+      "rms": 0.0626,
+      "peak": 0.4386
+    },
+    {
+      "path": "assets/voice/v4-8/harborsailboat-cmn-male.mp3",
+      "duration": 4.608,
+      "rms": 0.0499,
+      "peak": 0.579
+    },
+    {
+      "path": "assets/voice/v4-8/harborsailboat-cmn.mp3",
+      "duration": 4.56,
+      "rms": 0.0891,
+      "peak": 0.4888
+    },
+    {
+      "path": "assets/voice/v4-8/harborsailboat-en-female.mp3",
+      "duration": 4.296,
+      "rms": 0.136,
+      "peak": 0.6003
+    },
+    {
+      "path": "assets/voice/v4-8/harborsailboat-en-male.mp3",
+      "duration": 4.392,
+      "rms": 0.098,
+      "peak": 0.617
+    },
+    {
+      "path": "assets/voice/v4-8/harborsailboat-en.mp3",
+      "duration": 6.144,
+      "rms": 0.0766,
+      "peak": 0.4954
+    },
+    {
+      "path": "assets/voice/v4-8/harborsailboat-yue-bright.mp3",
+      "duration": 6.216,
+      "rms": 0.0795,
+      "peak": 0.6074
+    },
+    {
+      "path": "assets/voice/v4-8/harborsailboat-yue-male.mp3",
+      "duration": 4.92,
+      "rms": 0.0688,
+      "peak": 0.5059
+    },
+    {
+      "path": "assets/voice/v4-8/harborsailboat-yue.mp3",
+      "duration": 5.376,
+      "rms": 0.065,
+      "peak": 0.4402
+    },
+    {
+      "path": "assets/voice/v4-8/spacecrater-cmn-bright.mp3",
+      "duration": 6.984,
+      "rms": 0.0597,
+      "peak": 0.3919
+    },
+    {
+      "path": "assets/voice/v4-8/spacecrater-cmn-male.mp3",
+      "duration": 6.792,
+      "rms": 0.0471,
+      "peak": 0.7059
+    },
+    {
+      "path": "assets/voice/v4-8/spacecrater-cmn.mp3",
+      "duration": 6.744,
+      "rms": 0.0922,
+      "peak": 0.4825
+    },
+    {
+      "path": "assets/voice/v4-8/spacecrater-en-female.mp3",
+      "duration": 4.44,
+      "rms": 0.1364,
+      "peak": 0.7167
+    },
+    {
+      "path": "assets/voice/v4-8/spacecrater-en-male.mp3",
+      "duration": 4.512,
+      "rms": 0.0989,
+      "peak": 0.6676
+    },
+    {
+      "path": "assets/voice/v4-8/spacecrater-en.mp3",
+      "duration": 6.432,
+      "rms": 0.0783,
+      "peak": 0.5388
+    },
+    {
+      "path": "assets/voice/v4-8/spacecrater-yue-bright.mp3",
+      "duration": 9.12,
+      "rms": 0.0866,
+      "peak": 0.5739
+    },
+    {
+      "path": "assets/voice/v4-8/spacecrater-yue-male.mp3",
+      "duration": 7.344,
+      "rms": 0.0695,
+      "peak": 0.5976
+    },
+    {
+      "path": "assets/voice/v4-8/spacecrater-yue.mp3",
+      "duration": 7.44,
+      "rms": 0.0681,
+      "peak": 0.4132
+    },
+    {
+      "path": "assets/voice/v4-8/spacelunarrover-cmn-bright.mp3",
+      "duration": 5.976,
+      "rms": 0.0604,
+      "peak": 0.5389
+    },
+    {
+      "path": "assets/voice/v4-8/spacelunarrover-cmn-male.mp3",
+      "duration": 5.952,
+      "rms": 0.0481,
+      "peak": 0.4411
+    },
+    {
+      "path": "assets/voice/v4-8/spacelunarrover-cmn.mp3",
+      "duration": 5.664,
+      "rms": 0.0924,
+      "peak": 0.5484
+    },
+    {
+      "path": "assets/voice/v4-8/spacelunarrover-en-female.mp3",
+      "duration": 4.224,
+      "rms": 0.1429,
+      "peak": 0.5706
+    },
+    {
+      "path": "assets/voice/v4-8/spacelunarrover-en-male.mp3",
+      "duration": 3.864,
+      "rms": 0.1045,
+      "peak": 0.5661
+    },
+    {
+      "path": "assets/voice/v4-8/spacelunarrover-en.mp3",
+      "duration": 6.0,
+      "rms": 0.0779,
+      "peak": 0.5422
+    },
+    {
+      "path": "assets/voice/v4-8/spacelunarrover-yue-bright.mp3",
+      "duration": 7.344,
+      "rms": 0.093,
+      "peak": 0.5933
+    },
+    {
+      "path": "assets/voice/v4-8/spacelunarrover-yue-male.mp3",
+      "duration": 6.456,
+      "rms": 0.0705,
+      "peak": 0.5431
+    },
+    {
+      "path": "assets/voice/v4-8/spacelunarrover-yue.mp3",
+      "duration": 6.36,
+      "rms": 0.066,
+      "peak": 0.4274
+    },
+    {
+      "path": "assets/voice/v4-8/spacemars-cmn-bright.mp3",
+      "duration": 7.008,
+      "rms": 0.0575,
+      "peak": 0.5437
+    },
+    {
+      "path": "assets/voice/v4-8/spacemars-cmn-male.mp3",
+      "duration": 6.6,
+      "rms": 0.0467,
+      "peak": 0.4723
+    },
+    {
+      "path": "assets/voice/v4-8/spacemars-cmn.mp3",
+      "duration": 6.504,
+      "rms": 0.0913,
+      "peak": 0.5243
+    },
+    {
+      "path": "assets/voice/v4-8/spacemars-en-female.mp3",
+      "duration": 4.704,
+      "rms": 0.1355,
+      "peak": 0.6023
+    },
+    {
+      "path": "assets/voice/v4-8/spacemars-en-male.mp3",
+      "duration": 4.56,
+      "rms": 0.0993,
+      "peak": 0.6586
+    },
+    {
+      "path": "assets/voice/v4-8/spacemars-en.mp3",
+      "duration": 6.816,
+      "rms": 0.0763,
+      "peak": 0.5283
+    },
+    {
+      "path": "assets/voice/v4-8/spacemars-yue-bright.mp3",
+      "duration": 8.76,
+      "rms": 0.0902,
+      "peak": 0.532
+    },
+    {
+      "path": "assets/voice/v4-8/spacemars-yue-male.mp3",
+      "duration": 7.44,
+      "rms": 0.0721,
+      "peak": 0.5373
+    },
+    {
+      "path": "assets/voice/v4-8/spacemars-yue.mp3",
+      "duration": 7.536,
+      "rms": 0.0686,
+      "peak": 0.4396
+    },
+    {
+      "path": "assets/voice/v4-8/spacemarsrover-cmn-bright.mp3",
+      "duration": 6.576,
+      "rms": 0.0556,
+      "peak": 0.4241
+    },
+    {
+      "path": "assets/voice/v4-8/spacemarsrover-cmn-male.mp3",
+      "duration": 6.672,
+      "rms": 0.0546,
+      "peak": 0.6096
+    },
+    {
+      "path": "assets/voice/v4-8/spacemarsrover-cmn.mp3",
+      "duration": 6.048,
+      "rms": 0.0937,
+      "peak": 0.6119
+    },
+    {
+      "path": "assets/voice/v4-8/spacemarsrover-en-female.mp3",
+      "duration": 5.232,
+      "rms": 0.1293,
+      "peak": 0.5692
+    },
+    {
+      "path": "assets/voice/v4-8/spacemarsrover-en-male.mp3",
+      "duration": 4.848,
+      "rms": 0.0985,
+      "peak": 0.5763
+    },
+    {
+      "path": "assets/voice/v4-8/spacemarsrover-en.mp3",
+      "duration": 7.344,
+      "rms": 0.0836,
+      "peak": 0.4967
+    },
+    {
+      "path": "assets/voice/v4-8/spacemarsrover-yue-bright.mp3",
+      "duration": 8.016,
+      "rms": 0.0933,
+      "peak": 0.605
+    },
+    {
+      "path": "assets/voice/v4-8/spacemarsrover-yue-male.mp3",
+      "duration": 6.864,
+      "rms": 0.0702,
+      "peak": 0.5424
+    },
+    {
+      "path": "assets/voice/v4-8/spacemarsrover-yue.mp3",
+      "duration": 7.008,
+      "rms": 0.0711,
+      "peak": 0.4397
+    },
+    {
+      "path": "assets/voice/v4-8/spacemoon-cmn-bright.mp3",
+      "duration": 6.336,
+      "rms": 0.0603,
+      "peak": 0.3556
+    },
+    {
+      "path": "assets/voice/v4-8/spacemoon-cmn-male.mp3",
+      "duration": 6.168,
+      "rms": 0.0557,
+      "peak": 0.5038
+    },
+    {
+      "path": "assets/voice/v4-8/spacemoon-cmn.mp3",
+      "duration": 5.784,
+      "rms": 0.1048,
+      "peak": 0.4984
+    },
+    {
+      "path": "assets/voice/v4-8/spacemoon-en-female.mp3",
+      "duration": 4.632,
+      "rms": 0.1304,
+      "peak": 0.5164
+    },
+    {
+      "path": "assets/voice/v4-8/spacemoon-en-male.mp3",
+      "duration": 4.488,
+      "rms": 0.0957,
+      "peak": 0.6574
+    },
+    {
+      "path": "assets/voice/v4-8/spacemoon-en.mp3",
+      "duration": 6.264,
+      "rms": 0.0748,
+      "peak": 0.5326
+    },
+    {
+      "path": "assets/voice/v4-8/spacemoon-yue-bright.mp3",
+      "duration": 7.152,
+      "rms": 0.0929,
+      "peak": 0.6005
+    },
+    {
+      "path": "assets/voice/v4-8/spacemoon-yue-male.mp3",
+      "duration": 6.408,
+      "rms": 0.0692,
+      "peak": 0.561
+    },
+    {
+      "path": "assets/voice/v4-8/spacemoon-yue.mp3",
+      "duration": 6.624,
+      "rms": 0.0639,
+      "peak": 0.3873
+    },
+    {
+      "path": "assets/audio/v4-8/camp.mp3",
+      "duration": 36.0,
+      "rms": 0.0398,
+      "peak": 0.5355
+    },
+    {
+      "path": "assets/audio/v4-8/harbor.mp3",
+      "duration": 36.0,
+      "rms": 0.0421,
+      "peak": 0.5498
+    },
+    {
+      "path": "assets/audio/v4-8/space.mp3",
+      "duration": 40.0,
+      "rms": 0.0177,
+      "peak": 0.0641
+    },
+    {
+      "path": "assets/calls/v4-8/campstream.mp3",
+      "duration": 2.5,
+      "rms": 0.0389,
+      "peak": 0.4223
+    }
+  ],
+  "errors": []
+}

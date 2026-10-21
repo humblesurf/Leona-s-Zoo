@@ -1,0 +1,86 @@
+{
+  "moon-landscape": {
+    "width": 2172,
+    "height": 724,
+    "poster": "assets/exploration-v4-8/space/moon-landscape.webp",
+    "source": "source/moon-landscape.png",
+    "alpha": false
+  },
+  "mars-landscape": {
+    "width": 2172,
+    "height": 724,
+    "poster": "assets/exploration-v4-8/space/mars-landscape.webp",
+    "source": "source/mars-landscape.png",
+    "alpha": false
+  },
+  "spacemoon": {
+    "poster": "assets/exploration-v4-8/space/spacemoon.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "source/spacemoon.png",
+    "transparentFraction": 0.3402979683513554,
+    "alphaBounds": {
+      "x": 50,
+      "y": 60,
+      "width": 1154,
+      "height": 1143
+    },
+    "edgeAlpha": 0
+  },
+  "spacecrater": {
+    "poster": "assets/exploration-v4-8/space/spacecrater.webp",
+    "width": 2172,
+    "height": 724,
+    "source": "source/spacecrater.png",
+    "transparentFraction": 0.47190765442650306,
+    "alphaBounds": {
+      "x": 22,
+      "y": 122,
+      "width": 2121,
+      "height": 507
+    },
+    "edgeAlpha": 0
+  },
+  "spacelunarrover": {
+    "poster": "assets/exploration-v4-8/space/spacelunarrover.webp",
+    "width": 1536,
+    "height": 1024,
+    "source": "source/spacelunarrover.png",
+    "transparentFraction": 0.608544667561849,
+    "alphaBounds": {
+      "x": 51,
+      "y": 68,
+      "width": 1440,
+      "height": 892
+    },
+    "edgeAlpha": 0
+  },
+  "spacemars": {
+    "poster": "assets/exploration-v4-8/space/spacemars.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "source/spacemars.png",
+    "transparentFraction": 0.379587870648057,
+    "alphaBounds": {
+      "x": 68,
+      "y": 82,
+      "width": 1116,
+      "height": 1110
+    },
+    "edgeAlpha": 0
+  },
+  "spacemarsrover": {
+    "poster": "assets/exploration-v4-8/space/spacemarsrover.webp",
+    "width": 1536,
+    "height": 1024,
+    "source": "source/spacemarsrover.png",
+    "transparentFraction": 0.6431229909261068,
+    "alphaBounds": {
+      "x": 44,
+      "y": 102,
+      "width": 1474,
+      "height": 815
+    },
+    "edgeAlpha": 0
+  }
+}
