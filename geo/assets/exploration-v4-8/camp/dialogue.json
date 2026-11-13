@@ -1,8 +1,0 @@
-{
-  "camptent": {"name":{"en":"Tent","cmn":"帐篷","yue":"帳篷"},"emoji":"⛺","intro":{"en":"I'm a tent. Open my little door. There's a cozy place to rest inside!","cmn":"我是帐篷。打开我的小门，里面有一个舒服的休息地方！","yue":"我係帳篷。打開我嘅小門，入面有個舒服嘅地方休息呀！"},"kind":"discovery"},
-  "campbackpack": {"name":{"en":"Backpack","cmn":"背包","yue":"背囊"},"emoji":"🎒","intro":{"en":"I'm a backpack. I carry the things we need for our camping adventure.","cmn":"我是背包。我装着露营时要用的东西，一起出发吧！","yue":"我係背囊。我裝住露營要用嘅嘢，一齊出發啦！"},"kind":"discovery"},
-  "campstream": {"name":{"en":"Stream","cmn":"小溪","yue":"小溪"},"emoji":"💧","intro":{"en":"I'm a stream. My clear water flows over the stones. Listen to my gentle splash.","cmn":"我是小溪。清清的水流过石头。听，我在轻轻唱歌。","yue":"我係小溪。清清嘅水流過石頭。聽吓，我喺度輕輕唱歌呀。"},"kind":"discovery"},
-  "camptree": {"name":{"en":"Pine tree","cmn":"松树","yue":"松樹"},"emoji":"🌲","intro":{"en":"I'm a pine tree. My green needles sway gently in the breeze.","cmn":"我是松树。我的绿色针叶，在微风里轻轻摇。","yue":"我係松樹。我嘅綠色針葉，喺微風入面輕輕搖。"},"kind":"discovery"},
-  "campfireflies": {"name":{"en":"Fireflies","cmn":"萤火虫","yue":"螢火蟲"},"emoji":"✨","intro":{"en":"We're fireflies. Our little lights glow when the evening grows dark.","cmn":"我们是萤火虫。天慢慢暗下来，我们的小灯就亮起来了。","yue":"我哋係螢火蟲。天慢慢黑，我哋嘅小燈就亮起嚟啦。"},"kind":"discovery"},
-  "campstars": {"name":{"en":"Stars","cmn":"星星","yue":"星星"},"emoji":"🌟","intro":{"en":"Look up! We're stars, shining far away in the night sky.","cmn":"抬头看！我们是星星，在远远的夜空里闪闪发亮。","yue":"抬頭睇！我哋係星星，喺遠遠嘅夜空閃閃發光。"},"kind":"discovery"}
-}

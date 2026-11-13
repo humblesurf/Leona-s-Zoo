@@ -5,8 +5,8 @@ __pycache__/
 .upgrade-backup/
 .upgrade-work/
 
-# Older packages, review captures, and distribution archives.
-# The shared working copy is the current site: geo/ and share/runtime-v7-1/.
+# Kept on this computer only. GitHub tracks the current V8.3 site.
+Archive/
 screenshots/
 reviews/
 v4-13/
@@ -33,3 +33,27 @@ share/build-v3.json
 share/build-v4-12.json
 share/test-*.json
 share/zip-files-v4-12.json
+
+# Older local editions and bulky source dumps not used by the V8.3 site.
+work/v8/
+work/Leonas-Zoo-v8.html
+work/Leonas-Zoo-v8.2.html
+work/Leonas-Zoo-v8.2-editor.html
+work/v83/checkpoints/
+work/v83/qa/
+work/v83/*.png
+work/assets/animation/
+work/assets/chapters-v4-9/
+work/assets/chapters-v4-10/
+work/assets/chapters-v4-11/
+work/assets/exploration-v4-8/
+work/assets/market-v4-7-1/
+work/assets/animals/fullbody-v7-4/
+work/assets/animals/zebra-fullbody/
+work/assets/bg/reference/
+work/assets/v8.css
+work/assets/v8-editor.css
+work/assets/v8-*.js
+work/assets/game-v8-2.js
+work/assets/chapter-sounds-v8-2.js
+work/assets/animal-motion-v8-2.js

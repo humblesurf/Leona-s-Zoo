@@ -1,9 +1,0 @@
-{
-  "id": "lioncub",
-  "part": 0,
-  "source": "geo/assets/animation/v4-1/source/lioncub-a.png",
-  "prompt": "Children's wildlife game animation atlas. The reference is a style example of an adult male lion. Use the same softly shaded golden low-poly sculpture style, natural small eyes and three-dimensional faceted volumes.\nSubject: a small young tawny LION ANIMAL, full furry body on four paws, facing RIGHT. This is a four-legged wild animal, with its entire body covered by tawny fur and a long tufted tail.\nAction: a playful front-paw lift and gentle paw pat while the other three paws remain planted. First eight chronological phases, 0–7 of a sixteen-pose sequence.\nEXACTLY EIGHT complete animal poses, TWO columns and FOUR rows, portrait 1024x1536. All four paws, head and tail inside each 512x384 cell. Equal character scale, fixed torso centre and ground line; only small consecutive changes in the actual paws/body gesture. Keep all limbs naturally joined. No whole-character wiggling or scaling. Crisp clean silhouettes, consistent camera side view and lighting.\nFully transparent alpha around each complete animal. No ground, shadows, haze, scenery, text, grid lines or extra characters.",
-  "originalSource": "C:\\Users\\XTIA\\.codex\\generated_images\\01a10f9e-2f4a-7871-99ad-7fc17088e9c3\\exec-b922e11a-65be-4882-bb8e-1db65f8f996f.png",
-  "styleReference": "C:/Users/XTIA/OneDrive - AEDAS LTD/AI Project_Aedas/toddler-animals/geo/assets/animation/v4-1/lion-poster.webp",
-  "repair": "Regenerated ordinary lion animal after a tool output rejection."
-}

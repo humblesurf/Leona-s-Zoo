@@ -1,19 +1,11 @@
-Leona's ZOO v4.2 · 家庭使用说明
+Leona's Zoo V8.3
 
-最新文件：
-- Leonas-Zoo-v4-2.html（约 83.5 MB）：单个网页，包含图片、动作、648 段三语介绍及叫声。电脑用 Edge / Chrome 打开，可离线使用。
-- Leonas-Zoo-v4-2.zip（约 58.2 MB）：解压后打开 index.html；手机和平板建议通过网页服务器访问。
+English
+- iPad / offline single file: open Leonas-Zoo-v8.3.html in Safari (AirDrop it into the Files app first).
+- Website upload: unzip Leonas-Zoo-v8.3-web.zip and upload the folder (index.html + assets/). Then open it like a normal webpage.
+- If the single file is too large for iPad Safari, use the web folder instead.
 
-直接进入草原。左右滑动探索，点击动物听故事。标题和横屏提示滑动后自动消失。
-底部“场景”按钮，或鼠标移到底部、触屏点击底部，可展开导航；操作后自动收起。
-英语默认；右上角可切换粤语、普通话、双语或三语轮播。扬声器控制角色声音，音符单独开关场景环境声。每种语言有三种预录音色随机轮换。
-草原、雨林、海洋采用确认的原始长画幅；北极、南极采用确认的新背景。
-新增可爱菜市场、快乐农场：点击果蔬看内部，探索五组动物家庭、鸡蛋和拖拉机。
-四足动物改用连续的局部关节动作，身体与脚底保持稳定；长颈鹿够树叶，老虎采用立体低多边形造型，鸵鸟移除。
-
-媒体已打包，播放时不调用配音或生图服务。浏览器首次点击后才允许声音播放。
-素材说明在游戏语言菜单的“素材来源”，以及 ZIP 内 CREDITS.md。
-部分叫声采用 CC BY-NC 和 BBC RemArc 授权，供家庭个人非商业使用。完整 BBC 条款随 ZIP 保存，不能作为可自由再分发的音效素材库。
-
-旧版本文件保留；本轮从 V4 / V4.1 继续，没有采用 V5。请以带 v4-2 的文件名识别最新版本。
-
+中文
+- iPad / 离线单文件：把 Leonas-Zoo-v8.3.html 隔空投送到 iPad，在“文件”里用 Safari 打开。
+- 网站上传：解压 Leonas-Zoo-v8.3-web.zip，把整个文件夹（index.html 和 assets/）拖到静态托管即可。
+- 若单文件太大、Safari 打不开，请改用网页文件夹版。

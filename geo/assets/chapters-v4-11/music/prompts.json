@@ -1,5 +1,0 @@
-{
-  "mode": "built-in imagegen",
-  "prompt": "Use case: precise-object-edit. Asset type: 3:1 panoramic background of the same toddler music classroom game. Image 1 is the edit target. Keep the warm illustrated semi-3D music studio, windows, wall music staff, wood floor, stage perspective, piano on the left, red drum and the wall tambourine and pair of maracas, style and illumination. The centre wooden xylophone is oversized: reduce its width and height about 25%, keep it planted on the same stage, move it slightly left to free space. Add a graceful medium-size golden wooden harp standing on the stage between the xylophone and the right window. Add a small six-string acoustic guitar leaning securely in a real wooden guitar stand on the stage at the far right underneath the maracas shelf. All seven instrument types remain clearly separated and unobstructed, believable gravity and contact shadows. No people. Same eye-level panorama, one continuous space. No extra instruments, no text, no logos, no watermarks.",
-  "reference": "assets/chapters-v4-10/music/background.webp"
-}

@@ -1,0 +1,13 @@
+.zoo-v8 .bg{mask-image:none!important;-webkit-mask-image:none!important}
+.zoo-v8 .waterline-animal::after{content:'';position:absolute;left:7%;right:7%;bottom:calc(var(--water-cut) - 2px);height:4px;border-bottom:1.5px solid #e1f3e6b0;border-radius:50%;pointer-events:none}
+.zoo-v8 .animal[data-id^=decor-] .shadow{display:none}
+.version-links{position:fixed;bottom:8px;left:10px;z-index:80;background:#fff9e9ed;color:#71511f;padding:6px 11px;border-radius:13px;font:11px system-ui}.version-links a{color:#365a39}
+
+/* Keep touch controls reachable without taking over the illustration. */
+.topbar{top:max(10px,env(safe-area-inset-top));right:max(12px,env(safe-area-inset-right))}
+#navToggle{min-height:44px;bottom:max(5px,env(safe-area-inset-bottom))}
+.version-links{bottom:max(8px,env(safe-area-inset-bottom))}
+#habitats{padding-bottom:max(8px,env(safe-area-inset-bottom))}
+#habitats button{min-height:44px}
+@media(max-width:600px){.topbar{top:max(8px,env(safe-area-inset-top));right:8px}.controls{gap:5px}.controls button{min-width:44px;min-height:44px}#languageButton{font-size:12px;padding:8px 10px}.version-links{font-size:10px;padding:6px 8px}#habitats{max-width:calc(100vw - 16px);gap:3px}#habitats button{font-size:11px;padding:7px 9px}.scene-arrow{min-width:44px}.sub-text{font-size:16px}}
+@media(max-height:500px){.topbar{top:max(7px,env(safe-area-inset-top))}.version-links{font-size:10px}.intro-inner{transform:scale(.82);transform-origin:center}}

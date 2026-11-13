@@ -1,0 +1,79 @@
+USED FILES 1423  73.89 MB  (base64 ~ 98.53 MB)
+     14.00 MB    414  assets/voice/v4-1
+     12.71 MB    186  assets/animals/v7-1
+     12.49 MB      4  assets/bg/v83
+      5.92 MB    531  assets/voice/v4-12-names
+      5.54 MB      5  assets/chapters-v4-9/music
+      4.51 MB     99  assets/voice/v4-2
+      3.44 MB     11  assets/animals/v83
+      3.38 MB     21  assets/audio/v83
+      1.98 MB     45  assets/voice/v4-11
+      1.83 MB      5  assets/animation/v4-1
+      1.67 MB     45  assets/voice/v4-9
+      1.35 MB      4  assets/audio/v4-2
+      0.98 MB      1  assets/animation/support-tree-v4.webp
+      0.87 MB      2  assets/animals/v8
+      0.58 MB      1  assets/audio/v4-9
+      0.53 MB      5  assets/chapters-v4-11/music
+      0.51 MB      2  assets/calls/v4-11
+      0.41 MB      2  assets/animation/v4-2
+      0.22 MB      6  assets/calls/v4-2
+      0.16 MB      1  assets/fonts/fredoka.ttf
+      0.05 MB      5  assets/calls/v4-9
+      0.03 MB      1  assets/calls/rhino.mp3
+      0.03 MB      1  assets/calls/buffalo.mp3
+      0.03 MB      1  assets/calls/crocodile.mp3
+      0.03 MB      1  assets/calls/boa.mp3
+      0.03 MB      1  assets/calls/gorilla.mp3
+      0.03 MB      1  assets/calls/hippo.mp3
+      0.03 MB      1  assets/calls/hummingbird.mp3
+      0.03 MB      1  assets/calls/macaw.mp3
+      0.03 MB      1  assets/calls/monkey.mp3
+      0.03 MB      1  assets/calls/otter.mp3
+      0.03 MB      1  assets/calls/tiger.mp3
+      0.03 MB      1  assets/calls/whale.mp3
+      0.03 MB      1  assets/calls/lion.mp3
+      0.03 MB      1  assets/calls/orangutan.mp3
+      0.03 MB      1  assets/calls/dolphin.mp3
+      0.03 MB      1  assets/calls/flamingo.mp3
+      0.03 MB      1  assets/calls/frog.mp3
+      0.03 MB      1  assets/calls/giraffe.mp3
+      0.03 MB      1  assets/calls/meerkat.mp3
+      0.03 MB      1  assets/calls/warthog.mp3
+      0.03 MB      1  assets/calls/zebra.mp3
+      0.03 MB      1  assets/calls/toucan.mp3
+      0.03 MB      1  assets/animals/gazelle.webp
+      0.02 MB      1  assets/calls/cheetah.mp3
+      0.02 MB      1  assets/animals/whale.webp
+      0.02 MB      1  assets/calls/elephant.mp3
+      0.02 MB      1  assets/calls/jaguar.mp3
+      0.01 MB      1  assets/calls/leopard.mp3
+
+official HTML has assets/v83-official-layout.js: YES
+official HTML has assets/v83-layout-store.js: YES
+official HTML has assets/game-v8-3.js: YES
+official HTML has assets/v83-art.js: YES
+official HTML has assets/v83-backgrounds.js: YES
+official HTML has assets/v83-songs.js: YES
+official HTML has assets/chapter-sounds-v8-3.js: YES
+official HTML does not default-load editor CSS/JS: YES
+layout-store play vs editor branch: YES
+baked savanna: 89  json: 89  OK
+baked rainforest: 43  json: 43  OK
+baked ocean: 82  json: 82  OK
+baked farm: 32  json: 32  OK
+baked music: 7  json: 7  OK
+baked total 253  json total 253
+slim folder missing used files: 0
+collect missing on disk: 0
+standalone leftover src/href assets/ tags: 0
+standalone leftover css url relative assets: 0
+WARNING standalone is 99.63 MB, iPad Safari may choke (>80-100 MB). Prefer the slim web folder.
+no walk 'lighter' composite: YES
+
+official play: C:\Users\XTIA\OneDrive - AEDAS LTD\AI Project_Aedas\toddler-animals\work\Leonas-Zoo-v8.3.html  9516 bytes (0.01 MiB, 0.01 MB)
+official layout js: C:\Users\XTIA\OneDrive - AEDAS LTD\AI Project_Aedas\toddler-animals\work\assets\v83-official-layout.js  43412 bytes (0.04 MiB, 0.04 MB)
+standalone: C:\Users\XTIA\OneDrive - AEDAS LTD\AI Project_Aedas\toddler-animals\share\Leonas-Zoo-v8.3.html  99629823 bytes (95.01 MiB, 99.63 MB)
+standalone zip: C:\Users\XTIA\OneDrive - AEDAS LTD\AI Project_Aedas\toddler-animals\share\Leonas-Zoo-v8.3.zip  69242498 bytes (66.03 MiB, 69.24 MB)
+web folder zip: C:\Users\XTIA\OneDrive - AEDAS LTD\AI Project_Aedas\toddler-animals\share\Leonas-Zoo-v8.3-web.zip  69015225 bytes (65.82 MiB, 69.02 MB)
+web index: C:\Users\XTIA\OneDrive - AEDAS LTD\AI Project_Aedas\toddler-animals\share\v8.3-web\index.html  9017 bytes (0.01 MiB, 0.01 MB)

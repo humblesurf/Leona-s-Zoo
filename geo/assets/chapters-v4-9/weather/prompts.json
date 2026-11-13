@@ -1,9 +1,0 @@
-[
-  {
-    "chapter": "weather",
-    "id": "weather-background",
-    "file": "exec-ba47b4c9-e58c-4a80-90dd-9d6e8a53ef31.png",
-    "prompt": "Use case: illustration-story. Asset type: exact 3:1 wide panorama landscape background for a toddler exploration game. A charming richly painted, three-dimensional and subtly low-poly natural meadow park on a very clear, bright spring day, ground-level eye-height perspective. Gentle rounded green hills, a low winding footpath across the far middle ground, different broadleaf trees at left/right edges, small clumps of spring flowers and lush short grass, a wide open middle foreground to place interactive weather teaching objects. Sky is a clean pale blue occupying upper 40 percent, softly graded rather than white; no visible Sun disk and no baked-in large clouds, no rain or rainbow or snow. Tree trunks rooted naturally in the grassy earth. Similar art direction to finely painted game savanna/rainforest panoramas: crisp leaf detail, warm soft natural light, rich textures and depth, mildly faceted low-poly forms, no flat sticker art, no plastic infant faces. No people, animals, tent, benches, buildings, umbrellas, weather icons, labels, letters, watermark, or strong blur. Wide restful continuous landscape, all edges filled, not an overhead view. 2172 x 724 or larger.",
-    "mode": "builtinimagegen"
-  }
-]
