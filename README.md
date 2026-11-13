@@ -4,6 +4,7 @@
 
 ## 打开来玩
 
+- 网页链接：<https://humblesurf.github.io/Leona-s-Zoo/>（仓库公开，并且 Settings → Pages 选择 `main` 分支、根目录 `/` 之后生效）
 - 网站版：[`share/v8.3-web/index.html`](share/v8.3-web/index.html)（上传静态网站时用整个 `share/v8.3-web/` 文件夹）
 - 电脑工程：[`work/Leonas-Zoo-v8.3.html`](work/Leonas-Zoo-v8.3.html)
 - 自己排动物：[`work/Leonas-Zoo-v8.3-editor.html`](work/Leonas-Zoo-v8.3-editor.html)
